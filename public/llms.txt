@@ -1,0 +1,105 @@
+# פארק הצעצועים — Generative Engine Optimization Map
+
+> פארק הצעצועים is an online toy store targeting parents of children, specializing in the hottest trending products for kids. The store carries a wide range of items including motorized scooters, baby products, board games, and puzzles. The brand positioning centers around being the go-to destination for the latest and most popular children's products, with a fun, energetic, and kid-friendly atmosphere.
+
+---
+
+## Pages
+
+### בית
+https://-25fbad4a.zappy5.app
+היכנסו לפארק הצעצועים ומצאו את הלהיטים הכי חמים לילדים: קורקינטים ממונעים, פאזלים, סקווישי ועוד. חוויית קנייה כיפית ואנרגטית לכל המשפחה. הצטרפו עכשיו!
+
+### קטגוריות והטבות
+https://-25fbad4a.zappy5.app/categories-benefits
+דפדפו בין קטגוריות הצעצועים המובילות שלנו: משחקי קופסא למשפחה, צעצועים לתינוקות אונליין ועוד. גלו מבצעים והטבות שיחסכו לכם כסף על כל רכישה. התחילו לחקור!
+
+### אודות
+https://-25fbad4a.zappy5.app/about
+הכירו את פארק הצעצועים: חנות אונליין שמביאה להורים וילדים את הטרנדים הכי עדכניים, מדאמפלינג ועד קורקינטים. אנחנו כאן כדי להפוך כל יום להרפתקה. בואו לשמוע עוד!
+
+### צור קשר ושאלות נפוצות
+https://-25fbad4a.zappy5.app/contact
+צריכים עזרה בבחירת צעצועים לתינוקות או סקרנים לגבי משחקי קופסא? צרו קשר עם פארק הצעצועים וקבלו מענה מהיר ומקצועי. אנחנו תמיד זמינים בשבילכם!
+
+### Products
+https://-25fbad4a.zappy5.app/products
+המוצרים שלנו - פארק הצעצועים
+
+### Cart
+https://-25fbad4a.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-25fbad4a.zappy5.app/checkout
+תשלום
+
+### Login
+https://-25fbad4a.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-25fbad4a.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-25fbad4a.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-25fbad4a.zappy5.app/product/:slug
+פרטי המוצר - פארק הצעצועים
+
+### Category
+https://-25fbad4a.zappy5.app/category/:slug
+מוצרים - פארק הצעצועים
+
+### תודה שפניתם אלינו
+https://-25fbad4a.zappy5.app/thank-you
+פארק הצעצועים - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-25fbad4a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-25fbad4a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-25fbad4a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פארק הצעצועים
+פארק הצעצועים is an online toy store targeting parents of children, specializing in the hottest trending products for kids. The store carries a wide range of items including motorized scooters, baby products, board games, and puzzles. The brand positioning centers around being the go-to destination for the latest and most popular children's products, with a fun, energetic, and kid-friendly atmosphere.
+
+## Target Audience
+- הורים לילדים
+- הורים לילדים צעירים
+- סבים וסבתות קוני מתנות
+- מורים ומטפלים
+
+## Industry
+E-commerce / Toys & Children's Products
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-25fbad4a.zappy5.app/sitemap.xml
+- Robots: https://-25fbad4a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-25fbad4a.zappy5.app/llms-full.txt
+- Products (JSON): https://-25fbad4a.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-25fbad4a.zappy5.app/product-feed.xml
