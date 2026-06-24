@@ -12561,6 +12561,67 @@ window.onload = function() {
 /* END ZAPPY_PUBLISHED_ZOOM_WRAPPER_RUNTIME */
 
 
+/* ZAPPY_PUBLISHED_MOBILE_IMAGE_SWAP_V2 */
+(function(){
+  try {
+    if (window.__zappyMobileImageSwapInitV2) return;
+    window.__zappyMobileImageSwapInitV2 = true;
+    var SEL = 'img[data-zappy-mobile-src],img[data-zappy-mobile-object-position],img[data-zappy-mobile-zoom]';
+    var applied = false;
+    function standalone(img){ return img && !img.closest('[data-zappy-zoom-wrapper="true"]'); }
+    function applyMobile(){
+      if (applied) return; applied = true;
+      document.querySelectorAll(SEL).forEach(function(img){
+        if (!standalone(img)) return;
+        if (!img._zappyDesktop) img._zappyDesktop = { src: img.getAttribute('src'), style: img.getAttribute('style') };
+        var mSrc = img.getAttribute('data-zappy-mobile-src');
+        var mPos = img.getAttribute('data-zappy-mobile-object-position');
+        var mZoom = parseFloat(img.getAttribute('data-zappy-mobile-zoom'));
+        if (mSrc) img.src = mSrc;
+        if (mPos) img.style.setProperty('object-position', mPos, 'important');
+        if (isFinite(mZoom) && mZoom > 1) {
+          img.style.setProperty('transform', 'scale(' + mZoom + ')', 'important');
+          img.style.setProperty('transform-origin', mPos || '50% 50%', 'important');
+          var p = img.parentElement;
+          if (p) {
+            if (!p._zappyDesktop) p._zappyDesktop = { style: p.getAttribute('style') };
+            p.style.setProperty('overflow', 'hidden', 'important');
+          }
+        }
+      });
+    }
+    function revertDesktop(){
+      if (!applied) return; applied = false;
+      document.querySelectorAll(SEL).forEach(function(img){
+        if (!standalone(img)) return;
+        if (img._zappyDesktop) {
+          if (img._zappyDesktop.src != null) img.setAttribute('src', img._zappyDesktop.src);
+          if (img._zappyDesktop.style != null) img.setAttribute('style', img._zappyDesktop.style);
+          else img.removeAttribute('style');
+        }
+        var p = img.parentElement;
+        if (p && p._zappyDesktop) {
+          if (p._zappyDesktop.style != null) p.setAttribute('style', p._zappyDesktop.style);
+          else p.removeAttribute('style');
+        }
+      });
+    }
+    function init(){
+      var mq = window.matchMedia('(max-width:768px)');
+      function onChange(e){ if (e.matches) applyMobile(); else revertDesktop(); }
+      if (mq.matches) applyMobile();
+      try { mq.addEventListener('change', onChange); } catch (e) { mq.addListener(onChange); }
+    }
+    // script.js loads at end of <body>, so the <img> elements already exist —
+    // run immediately to minimise the desktop-image flash, with a
+    // DOMContentLoaded fallback for the head-loaded edge case.
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init, { once: true });
+    else init();
+  } catch (eOuter) {}
+})();
+/* END ZAPPY_PUBLISHED_MOBILE_IMAGE_SWAP_V2 */
+
+
 /* ZAPPY_MOBILE_MENU_TOGGLE */
 (function(){
   try {
@@ -13022,6 +13083,25 @@ function resolveVar(val){
   return getComputedStyle(document.documentElement).getPropertyValue('--'+m[1]).trim()||val;
 }
 
+// An explicit inline `color:` on the element itself means the colour is
+// intentional and must not be auto-"fixed" (handled in the loop). The SAME
+// intent applies when an ANCESTOR set an explicit inline colour and this element
+// merely inherits it (e.g. a panel whose <h3 style="color:#fff"> wraps a <span>
+// that inherits white). Without this, removing a child's own colour to let it
+// inherit would make the child eligible for the fixer, which on a mid-tone
+// background can compute black > white contrast and flip intentional white text
+// to black with !important (the "white flash then black" bug). Respecting the
+// ancestor's explicit colour keeps the fixer for genuinely un-styled text only.
+function ancestorHasExplicitColor(el){
+  var n=el&&el.parentElement;
+  while(n&&n!==document.body){
+    var st=n.getAttribute&&n.getAttribute('style');
+    if(st&&/(?:^|;)\s*color\s*:/i.test(st))return true;
+    n=n.parentElement;
+  }
+  return false;
+}
+
 function isDecorativeAccentText(el){
   if(!el||!el.matches)return false;
   if(el.matches('.font-accent,.hero-logotype,.hero-logotype-line,[class*="script"],[class*="accent-line"],[class*="subheadline"]'))return true;
@@ -13092,6 +13172,7 @@ function fixContrast(){
     if(hasImageOrVideoBackground(el))continue;
     var inlineStyle=el.getAttribute('style')||'';
     if(/(?:^|;\s*)color\s*:/i.test(inlineStyle))continue;
+    if(ancestorHasExplicitColor(el))continue;
     if(el.tagName==='FONT'&&el.hasAttribute('color'))continue;
     var txt=el.textContent?el.textContent.trim():'';
     if(!txt)continue;
@@ -13385,6 +13466,14 @@ function fixContrast(){
             }
             container.removeAttribute('data-zappy-grid-centered');
           }
+
+          // List grids (<ul>/<ol>) read in document order and align to the start
+          // (first column); centering a checklist's lonely last item breaks its
+          // column alignment with the rows above. Cards (div grids) still center.
+          // The cleanup above already reverted any prior centering, so a list
+          // centered before this runtime shipped snaps back to its natural spot.
+          var containerTag = (container.tagName || '').toLowerCase();
+          if (containerTag === 'ul' || containerTag === 'ol') continue;
 
           var items = [];
           for (var c = 0; c < container.children.length; c++) {
@@ -15446,6 +15535,67 @@ function fixContrast(){
       window.zappyI18n.onLanguageChange(function() { setTimeout(patchCheckoutI18n, 300); });
     }
   })();
+
+  function reviveCanonicalHeroBackgroundWrappers() {
+    try {
+      var imgs = document.querySelectorAll('img[data-hero-bg], img[data-hero-background="true"]');
+      for (var i = 0; i < imgs.length; i++) {
+        var img = imgs[i];
+        var parent = img.parentElement;
+        while (parent && parent !== document.body && parent.tagName !== 'SECTION') {
+          parent.style.display = '';
+          parent.removeAttribute('data-zappy-original-bg');
+          parent.removeAttribute('data-zappy-preview-hidden');
+          parent = parent.parentElement;
+        }
+        img.removeAttribute('data-zappy-original-bg');
+      }
+    } catch (e) {}
+  }
+
+  function scheduleCanonicalHeroWrapperRevival() {
+    reviveCanonicalHeroBackgroundWrappers();
+    [100, 500, 1500, 3000, 6000, 10000].forEach(function(delay) {
+      setTimeout(reviveCanonicalHeroBackgroundWrappers, delay);
+    });
+    try {
+      if (window.__zappyHeroWrapperRevivalObserver) return;
+      var observer = new MutationObserver(function(mutations) {
+        for (var i = 0; i < mutations.length; i++) {
+          var target = mutations[i].target;
+          if (!target || !target.querySelector) continue;
+          if (
+            (target.matches && target.matches('img[data-hero-bg], img[data-hero-background="true"]')) ||
+            target.querySelector('img[data-hero-bg], img[data-hero-background="true"]')
+          ) {
+            reviveCanonicalHeroBackgroundWrappers();
+            break;
+          }
+        }
+      });
+      observer.observe(document.documentElement, {
+        childList: true,
+        subtree: true,
+        attributes: true,
+        attributeFilter: ['style', 'data-zappy-original-bg', 'data-zappy-preview-hidden']
+      });
+      window.__zappyHeroWrapperRevivalObserver = observer;
+      setTimeout(function() {
+        try {
+          observer.disconnect();
+          if (window.__zappyHeroWrapperRevivalObserver === observer) {
+            window.__zappyHeroWrapperRevivalObserver = null;
+          }
+        } catch (e) {}
+      }, 15000);
+    } catch (e) {}
+  }
+
+  scheduleCanonicalHeroWrapperRevival();
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', scheduleCanonicalHeroWrapperRevival, { once: true });
+  }
+  window.addEventListener('load', scheduleCanonicalHeroWrapperRevival, { once: true });
 
 })();
 
