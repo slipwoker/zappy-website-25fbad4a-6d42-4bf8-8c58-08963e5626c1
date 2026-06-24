@@ -11782,6 +11782,12 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+/* Font pairing applied */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&family=Nunito:wght@400&display=swap');
+:root { --font-heading: 'Quicksand', sans-serif; --font-body: 'Nunito', sans-serif; }
+body { font-family: 'Nunito', sans-serif; font-weight: 400; }
+h1, h2, h3, h4, h5, h6 { font-family: 'Quicksand', sans-serif; font-weight: 700; }
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
