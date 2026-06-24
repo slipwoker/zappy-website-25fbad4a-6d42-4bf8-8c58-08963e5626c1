@@ -76,7 +76,23 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 2**
+
+### מארז הטרנדים של פארק הצעצועים 
+https://example.com/product/marz-htrndym-shl-park-htsatsvaym-72vv1c
+- Price: 100.00 ILS (sale, was 150.00 ILS)
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: מארז הטרנדים הכי מטורף שיש 8 פריטים הכי ויראלים שיש בטיקטוק
+- Image: https://example.com/assets/product-1782310644717-ztdwa.webp
+
+### דאמפלינג דים סאם 
+https://example.com/product/damplyng-dym-sam-cr3b40
+- Price: 25.00 ILS (sale, was 30.00 ILS)
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: דאמפלינג דים סאן מגיע 4 יחידות דים סאן גלי
+- Image: https://example.com/assets/product-enhanced-1782308451847-owh2v4.webp
 
 ---
 

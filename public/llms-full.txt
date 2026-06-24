@@ -5773,3 +5773,19 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ---
 
+## Product Catalog
+
+### מארז הטרנדים של פארק הצעצועים 
+URL: https://example.com/product/marz-htrndym-shl-park-htsatsvaym-72vv1c
+Price: 100.00 ILS (sale, was 150.00 ILS)
+Availability: In stock
+
+---
+
+### דאמפלינג דים סאם 
+URL: https://example.com/product/damplyng-dym-sam-cr3b40
+Price: 25.00 ILS (sale, was 30.00 ILS)
+Availability: In stock
+
+---
+

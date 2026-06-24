@@ -4,6 +4,35 @@
     <title>פארק הצעצועים</title>
     <link>https://example.com</link>
     <description>Product feed for פארק הצעצועים</description>
-    <lastBuildDate>Wed, 24 Jun 2026 13:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 14:27:05 GMT</lastBuildDate>
+    <item>
+      <g:id>29004518-d3fc-454b-aca6-ab6dfc811d96</g:id>
+      <g:title>מארז הטרנדים של פארק הצעצועים </g:title>
+      <g:description>מארז הטרנדים הכי מטורף שיש 8 פריטים הכי ויראלים שיש בטיקטוק</g:description>
+      <g:link>https://example.com/product/marz-htrndym-shl-park-htsatsvaym-72vv1c</g:link>
+      <g:image_link>https://example.com/assets/product-1782310644717-ztdwa.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>150.00 ILS</g:price>
+      <g:sale_price>100.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>הטרנדים הכי חזקים בישראל </g:product_type>
+    </item>
+    <item>
+      <g:id>19f2b91d-3bc0-4af2-a7b2-1780d1d521f8</g:id>
+      <g:title>דאמפלינג דים סאם </g:title>
+      <g:description>דאמפלינג דים סאן מגיע 4 יחידות דים סאן גלי</g:description>
+      <g:link>https://example.com/product/damplyng-dym-sam-cr3b40</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782308451847-owh2v4.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782308485608-7h18ec.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>30.00 ILS</g:price>
+      <g:sale_price>25.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>הטרנדים הכי חזקים בישראל </g:product_type>
+    </item>
   </channel>
 </rss>
