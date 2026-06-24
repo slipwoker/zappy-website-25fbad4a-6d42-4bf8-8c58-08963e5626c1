@@ -5741,6 +5741,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### ביטסי חיות הקסם 
+URL: https://example.com/product/bytsy-chyvt-hksm-nnqpsn
+Price: 199.00 ILS
+Availability: In stock
+
+---
+
 ### מארז הטרנדים של פארק הצעצועים 
 URL: https://example.com/product/marz-htrndym-shl-park-htsatsvaym-72vv1c
 Price: 100.00 ILS (sale, was 150.00 ILS)

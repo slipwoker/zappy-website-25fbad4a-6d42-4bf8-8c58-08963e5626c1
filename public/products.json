@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-24T14:51:49.665Z",
+  "generated_at": "2026-06-24T19:42:06.948Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 2,
+  "count": 3,
   "products": [
+    {
+      "id": "789c9acf-f345-4d78-9670-56de8706ab4d",
+      "slug": "bytsy-chyvt-hksm-nnqpsn",
+      "name": "ביטסי חיות הקסם ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "טרנד השנה לגדל חייה דיגטלית בתלת מימד משחק מדהים ",
+      "sku": null,
+      "brand": null,
+      "price": 199,
+      "base_price": 199,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782318259316-dm1byf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/bytsy-chyvt-hksm-nnqpsn",
+      "categories": [],
+      "updated_at": "2026-06-24T16:25:22.567Z"
+    },
     {
       "id": "29004518-d3fc-454b-aca6-ab6dfc811d96",
       "slug": "marz-htrndym-shl-park-htsatsvaym-72vv1c",

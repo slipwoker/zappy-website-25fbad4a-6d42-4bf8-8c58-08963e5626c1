@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 2**
+**Total active products: 3**
+
+### ביטסי חיות הקסם 
+https://example.com/product/bytsy-chyvt-hksm-nnqpsn
+- Price: 199.00 ILS
+- Availability: In stock
+- Description: טרנד השנה לגדל חייה דיגטלית בתלת מימד משחק מדהים
+- Image: https://example.com/assets/product-1782318259316-dm1byf.webp
 
 ### מארז הטרנדים של פארק הצעצועים 
 https://example.com/product/marz-htrndym-shl-park-htsatsvaym-72vv1c

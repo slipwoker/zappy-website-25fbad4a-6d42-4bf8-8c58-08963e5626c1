@@ -4,7 +4,19 @@
     <title>פארק הצעצועים</title>
     <link>https://example.com</link>
     <description>Product feed for פארק הצעצועים</description>
-    <lastBuildDate>Wed, 24 Jun 2026 14:51:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 19:42:06 GMT</lastBuildDate>
+    <item>
+      <g:id>789c9acf-f345-4d78-9670-56de8706ab4d</g:id>
+      <g:title>ביטסי חיות הקסם </g:title>
+      <g:description>טרנד השנה לגדל חייה דיגטלית בתלת מימד משחק מדהים</g:description>
+      <g:link>https://example.com/product/bytsy-chyvt-hksm-nnqpsn</g:link>
+      <g:image_link>https://example.com/assets/product-1782318259316-dm1byf.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>199.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
     <item>
       <g:id>29004518-d3fc-454b-aca6-ab6dfc811d96</g:id>
       <g:title>מארז הטרנדים של פארק הצעצועים </g:title>
