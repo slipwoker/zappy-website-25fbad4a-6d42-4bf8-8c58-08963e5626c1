@@ -5900,6 +5900,20 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### נידו הלו קיטי 
+URL: https://example.com/product/nydv-hlv-kyty-3e8okk
+Price: 15.00 ILS
+Availability: In stock
+
+---
+
+### סטיץ נידו 
+URL: https://example.com/product/styts-nydv-7h9mhs
+Price: 15.00 ILS
+Availability: In stock
+
+---
+
 ### דיסני – סטיץ' בובת פרווה אינטראקטיבית 35 ס"מ
 URL: https://example.com/product/dysny-styts-bvbt-prvvh-ayntraktybyt-35-sm-2ypatg
 Price: 399.00 ILS

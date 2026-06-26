@@ -4,7 +4,33 @@
     <title>פארק הצעצועים</title>
     <link>https://example.com</link>
     <description>Product feed for פארק הצעצועים</description>
-    <lastBuildDate>Thu, 25 Jun 2026 21:59:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 14:47:05 GMT</lastBuildDate>
+    <item>
+      <g:id>8dd5c4b5-9a92-4c2b-a289-abbcecd1574a</g:id>
+      <g:title>נידו הלו קיטי </g:title>
+      <g:description>נידו הלו קיטי נעים בטירוף</g:description>
+      <g:link>https://example.com/product/nydv-hlv-kyty-3e8okk</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782474593755-8zk70o.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>הטרנדים הכי חזקים בישראל </g:product_type>
+    </item>
+    <item>
+      <g:id>184b3a80-27ec-4d4b-af8d-0d3ad075b0f6</g:id>
+      <g:title>סטיץ נידו </g:title>
+      <g:description>סטיץ נידו מגע נעים וכיפי</g:description>
+      <g:link>https://example.com/product/styts-nydv-7h9mhs</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782473155809-oq1fb.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>הטרנדים הכי חזקים בישראל </g:product_type>
+    </item>
     <item>
       <g:id>3a05f3e2-8c5a-4d24-a992-e09b65953654</g:id>
       <g:title>דיסני – סטיץ&apos; בובת פרווה אינטראקטיבית 35 ס&quot;מ</g:title>

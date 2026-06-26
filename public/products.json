@@ -1,10 +1,58 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-25T21:59:15.317Z",
+  "generated_at": "2026-06-26T14:47:05.884Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 12,
+  "count": 14,
   "products": [
+    {
+      "id": "8dd5c4b5-9a92-4c2b-a289-abbcecd1574a",
+      "slug": "nydv-hlv-kyty-3e8okk",
+      "name": "נידו הלו קיטי ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "נידו הלו קיטי נעים בטירוף ",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782474593755-8zk70o.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/nydv-hlv-kyty-3e8okk",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-06-26T11:51:42.623Z"
+    },
+    {
+      "id": "184b3a80-27ec-4d4b-af8d-0d3ad075b0f6",
+      "slug": "styts-nydv-7h9mhs",
+      "name": "סטיץ נידו ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סטיץ נידו מגע נעים וכיפי",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782473155809-oq1fb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/styts-nydv-7h9mhs",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-06-26T11:27:23.171Z"
+    },
     {
       "id": "3a05f3e2-8c5a-4d24-a992-e09b65953654",
       "slug": "dysny-styts-bvbt-prvvh-ayntraktybyt-35-sm-2ypatg",
