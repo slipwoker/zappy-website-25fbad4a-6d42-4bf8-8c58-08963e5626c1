@@ -4,7 +4,547 @@
     <title>פארק הצעצועים</title>
     <link>https://example.com</link>
     <description>Product feed for פארק הצעצועים</description>
-    <lastBuildDate>Fri, 26 Jun 2026 14:47:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 19:24:07 GMT</lastBuildDate>
+    <item>
+      <g:id>8739a86b-cced-45ac-a92e-24f458aa5e7e</g:id>
+      <g:title>רחפן מתקפל עם מצלמה ו – WIFI לצילום חוויתי – IPOP</g:title>
+      <g:description>🚁📸 רחפן WIFI מתקפל – מצלמים מהשמיים בקלות! ✨ חוויית טיסה וצילום מתקדמת הכירו את הרחפן המתקפל עם חיבור WIFI – פתרון מושלם לצילום מהאוויר ושליטה נוחה דרך השלט. הרחפן מאפשר להקליט רגעים מיוחדים וליהנות</g:description>
+      <g:link>https://example.com/product/rchpn-mtkpl-am-mtslmh-v-wifi-ltsylvm-chvvyty-ipop-ftgc3l</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782760470670-09oqiw.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>249.00 ILS</g:price>
+      <g:sale_price>119.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>ecafec59-ef9c-4613-815c-ca25818c2e0b</g:id>
+      <g:title>ריינבוקורן ענק לבן - חד קרן</g:title>
+      <g:description>הצל את החד קרן שלך! כולל 1 בובת חד קרן 1ביצת חד קרן 1 Reveal &apos;n&apos; Heal Heart 3 ביצי Boo-Boocorns 3 קאקי 1 סרט לראש 1 שרביט ריפוי קסם 1 סליים קסום Rainbocorns כרטיס להבריא 1 דוח בדיקת גוף ו-2x מדבקת רנטגן השתמש בדוח הבריאות, במדבקות רנטגן, במטה הקסמים ובמזרקי ריפוי כדי להציל את ה-Rainbocorn שלך יש שלושה ד&quot;ר בו-בוקורן לאסוף ולעזור לך להציל את ריינבווויל השתמש במדריך האספנים כדי למצוא את כל החברים בעלי הקטיפה הגרועה שזקוקים לחיסכון מידות: 29.2L x 26W x 35H ס&quot;מ</g:description>
+      <g:link>https://example.com/product/ryynbvkvrn-ank-lbn-chd-krn-brcas7</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782760228682-i7z7n9.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782760182369-h86rq8.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>199.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>09e7d9d9-5182-43f7-90e1-d68dd824b0e9</g:id>
+      <g:title>קורקינט מיקי מאוס 3 גלגלים עם בלם רגל - Disney</g:title>
+      <g:description>קורקינט יציב ובטיחותי עם עיצוב שובב של מיקי מאוס – מתאים במיוחד לילדים צעירים, עם שלל תכונות המשלבות הנאה, נוחות ובטיחות מלאה. יתרונות המוצר: • עיצוב צבעוני ואהוב של מיקי מאוס • ידית מתכווננת לגובה 62–76.5 ס&quot;מ • מערכת היגוי קלה ונוחה לתפעול • גלגלי PU איכותיים לנסיעה חלקה ושקטה • בלם רגל אחורי לבלימה בטוחה • משטח רכיבה רחב עם ציפוי נגד החלקה תיאור טכני: • מתאים לגילאי 3+ • משקל נשיאה מקסימלי: 30 ק&quot;ג</g:description>
+      <g:link>https://example.com/product/kvrkynt-myky-mavs-3-glglym-am-blm-rgl-disney-fo9les</g:link>
+      <g:image_link>https://example.com/assets/product-1782750062456-apt07.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782750116096-3wdkbn.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>200.00 ILS</g:price>
+      <g:sale_price>150.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>גלגלים</g:product_type>
+    </item>
+    <item>
+      <g:id>0947a13e-a6ea-4706-b2f8-7420cc1907c1</g:id>
+      <g:title>Cookeez Makery Pancake Treatz – מחבת קסומה... Cookeez Makery Pancake Treatz – מחבת קסומה להכנת בובת הפתעה ריחנית</g:title>
+      <g:description>ערכת Cookeez Makery Pancake Treatz מביאה לילדים חוויית משחק קסומה ומפתיעה במיוחד: מכינים “פנקייק” במחבת, הופכים — ומגלים בובת פרווה ריחנית ואינטראקטיבית! הערכה משלבת משחק דמיון, הפתעה, בובה רכה ואביזרי מטבח קטנים, כך שכל ילד יכול להרגיש כאילו הוא מכין קינוח מתוק שמסתיים בחבר פרוותי חדש. הילדים פותחים את ה”מצרכים”, מוסיפים את הבלילה למחבת, משתמשים במרית והופכים את הפנקייק כדי לחשוף את בובת ההפתעה. הבובה מגיעה עם ריח מתוק בסגנון פנקייק, וגם כוללת צלילים ותגובות אינטראקטיביות שמוסיפות עוד קסם למשח</g:description>
+      <g:link>https://example.com/product/cookeez-makery-pancake-treatz-mchbt-ksvmh-cookeez-makery-pancake-treatz-mchbt-ksvmh-lhknt-bvbt-hptah-rychnyt-sy95aa</g:link>
+      <g:image_link>https://example.com/assets/product-1782748597670-6tnecp.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782748611628-zzrqlw.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782748624810-73f5ur.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782748636548-myd0q8.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>de1863bf-a426-4b00-8311-e73e6646f77f</g:id>
+      <g:title>קורקינט פרוזן 3 גלגלים עם בלם רגל</g:title>
+      <g:description>קורקינט איכותי ומעוצב בהשראת הדמויות האהובות מפרוזן – עם ידית מתכווננת, גלגלים עמידים ובלם אחורי לנסיעה בטוחה ומהנה במיוחד. יתרונות המוצר: • עיצוב קסום של פרוזן עם הדפסים צבעוניים • ידית מתכווננת לגובה 62–76.5 ס&quot;מ להתאמה אישית • מערכת היגוי מתקדמת ונוחה לשימוש • גלגלי PU איכותיים לנסיעה חלקה ושקטה • כולל בלם רגל אחורי לבטיחות מרבית • משטח עמיד עם ציפוי נגד החלקה</g:description>
+      <g:link>https://example.com/product/kvrkynt-prvzn-3-glglym-am-blm-rgl-ilfzty</g:link>
+      <g:image_link>https://example.com/assets/product-1782748381178-vgir5g.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782748404189-x2z4ov.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>200.00 ILS</g:price>
+      <g:sale_price>150.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>גלגלים</g:product_type>
+    </item>
+    <item>
+      <g:id>d9f7edcf-2af4-48d8-b639-dacca9c9fb79</g:id>
+      <g:title>תנור אפייה של קוקיז Cookeez Makery</g:title>
+      <g:description>בתנור תנור אפייה של קוקיז Cookeez Makery. תנור אפייה עם בובה בהפתעה! ערבבו את החומרים שמגיעים בערכה ליצירת בצק והכניסו לתבנית המצורפת ליצירת דמות בצק קטנטנה הכניסו את הבצק שלכם לתנור, סובבו את הטיימר ותהיו מופתעים כשתצא במקום הבצק בובה גדולה בהפתעה עם ריח נהדר! בכל תנור תצא בובה אחת בלבד בלי שנדע איזו בובה תצא מגיל 3 ומעלה</g:description>
+      <g:link>https://example.com/product/tnvr-apyyh-shl-kvkyz-cookeez-makery-kfx8e2</g:link>
+      <g:image_link>https://example.com/assets/product-1782748175184-yh9hp.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782748187736-2xs46h.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782748198528-yah0zn.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>299.00 ILS</g:price>
+      <g:sale_price>229.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>27967f19-ef8d-41ef-82dd-e81ce12c225b</g:id>
+      <g:title>קוף אינטראקטיבי עם 50 קולות ותגובות - Little Live Pets Mango</g:title>
+      <g:description>הכירו את החבר הכי חמוד וכיפי שאפשר לבקש – Little Live Pets My Baby Monkey, מנגו! הקוף הקטן והמתוק הזה מחכה לכם, שתטפלו בו ותשחקו איתו. עם אוזני קוף מקסימות ופרווה רכה, מנגו נראה בדיוק כמו קוף אמיתי, וכיף גדול לחבק וללטף אותו! אבל מנגו הוא לא סתם בובת פרווה – הוא מגיב כמו קוף אמיתי! למעלה מ-50 צלילים ותגובות שונות יגרמו לילדים שלכם להרגיש שהם מטפלים בקוף קטן ואמיתי. הפה של מנגו זז בצורה מציאותית כשהוא מוצץ את האגודל או שותה מהבקבוק שלו. הוא אוהב שמטפלים בו ומלטפים אותו, ואפילו יצחק כשמדגדגים אותו</g:description>
+      <g:link>https://example.com/product/kvp-ayntraktyby-am-50-kvlvt-vtgvbvt-little-live-pets-mango-tdy9rj</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782746982872-a3zjk7.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782746932810-hrphkh.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782746950499-agndqs.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>300.00 ILS</g:price>
+      <g:sale_price>230.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>927f67b6-53dc-4566-8922-c4f89a16a94f__dfae4aca-d090-41aa-bf6b-500b8645104c</g:id>
+      <g:title>קורקינט 3 גלגלים לילדים Viper Super Ride  - Black</g:title>
+      <g:description>הכירו את הקורקינט התלת-גלגלי והצבעוני הזה, המגיע אליכם בצבעים מדליקים ונועד להעניק לילדים ולילדות שלכם שעות של הנאה בתנועה. הקורקינט מצויד במוט מתכוונן וחכם, המאפשר לכם להתאים את הגובה בדיוק למידותיהם הצומחות של הקטנטנים, וכדי להבטיח רכיבה חלקה ובטוחה.</g:description>
+      <g:link>https://example.com/product/kvrkynt-3-glglym-lyldym-viper-super-ride-i3mlgt</g:link>
+      <g:item_group_id>927f67b6-53dc-4566-8922-c4f89a16a94f</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1782738351036-0wcvv.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782738390307-fl0uvp.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>250.00 ILS</g:price>
+      <g:sale_price>200.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>גלגלים</g:product_type>
+    </item>
+    <item>
+      <g:id>927f67b6-53dc-4566-8922-c4f89a16a94f__ac7f7fbb-4351-4ee6-ba49-d9204249e866</g:id>
+      <g:title>קורקינט 3 גלגלים לילדים Viper Super Ride  - Pink</g:title>
+      <g:description>הכירו את הקורקינט התלת-גלגלי והצבעוני הזה, המגיע אליכם בצבעים מדליקים ונועד להעניק לילדים ולילדות שלכם שעות של הנאה בתנועה. הקורקינט מצויד במוט מתכוונן וחכם, המאפשר לכם להתאים את הגובה בדיוק למידותיהם הצומחות של הקטנטנים, וכדי להבטיח רכיבה חלקה ובטוחה.</g:description>
+      <g:link>https://example.com/product/kvrkynt-3-glglym-lyldym-viper-super-ride-i3mlgt</g:link>
+      <g:item_group_id>927f67b6-53dc-4566-8922-c4f89a16a94f</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1782738351036-0wcvv.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782738390307-fl0uvp.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>250.00 ILS</g:price>
+      <g:sale_price>200.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>גלגלים</g:product_type>
+    </item>
+    <item>
+      <g:id>927f67b6-53dc-4566-8922-c4f89a16a94f__7b3854b9-d3a1-4e5d-9a36-e0201a6d7598</g:id>
+      <g:title>קורקינט 3 גלגלים לילדים Viper Super Ride  - Blue</g:title>
+      <g:description>הכירו את הקורקינט התלת-גלגלי והצבעוני הזה, המגיע אליכם בצבעים מדליקים ונועד להעניק לילדים ולילדות שלכם שעות של הנאה בתנועה. הקורקינט מצויד במוט מתכוונן וחכם, המאפשר לכם להתאים את הגובה בדיוק למידותיהם הצומחות של הקטנטנים, וכדי להבטיח רכיבה חלקה ובטוחה.</g:description>
+      <g:link>https://example.com/product/kvrkynt-3-glglym-lyldym-viper-super-ride-i3mlgt</g:link>
+      <g:item_group_id>927f67b6-53dc-4566-8922-c4f89a16a94f</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1782738351036-0wcvv.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782738390307-fl0uvp.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>250.00 ILS</g:price>
+      <g:sale_price>200.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>גלגלים</g:product_type>
+    </item>
+    <item>
+      <g:id>ea7b973e-cb10-41ec-8f26-3eb993a99adb__28b6b72d-7a47-4570-8818-b6d8ad93ba33</g:id>
+      <g:title>קורקינט לילדים 3 גלגלים עם אורות מבית Viper - Black</g:title>
+      <g:description>הכירו את הקורקינט המושלם לקטנטנים - שילוב של כיף, בטיחות וסטייל! הקורקינט מגיע עם 3 גלגלים ליציבות מירבית, כאשר הגלגלים וצדי הקורקינט מוארים באורות לד צבעוניים ומרהיבים, שמוסיפים חוויית רכיבה זוהרת במיוחד.</g:description>
+      <g:link>https://example.com/product/kvrkynt-lyldym-3-glglym-am-avrvt-mbyt-viper-b9k1vk</g:link>
+      <g:item_group_id>ea7b973e-cb10-41ec-8f26-3eb993a99adb</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1782734300034-896qr.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782734258568-qh6l7r.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782734275369-0w0ico.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>300.00 ILS</g:price>
+      <g:sale_price>250.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>גלגלים</g:product_type>
+    </item>
+    <item>
+      <g:id>ea7b973e-cb10-41ec-8f26-3eb993a99adb__4ffc792c-95ec-4615-a5ae-20ed9a19dce9</g:id>
+      <g:title>קורקינט לילדים 3 גלגלים עם אורות מבית Viper - Pink</g:title>
+      <g:description>הכירו את הקורקינט המושלם לקטנטנים - שילוב של כיף, בטיחות וסטייל! הקורקינט מגיע עם 3 גלגלים ליציבות מירבית, כאשר הגלגלים וצדי הקורקינט מוארים באורות לד צבעוניים ומרהיבים, שמוסיפים חוויית רכיבה זוהרת במיוחד.</g:description>
+      <g:link>https://example.com/product/kvrkynt-lyldym-3-glglym-am-avrvt-mbyt-viper-b9k1vk</g:link>
+      <g:item_group_id>ea7b973e-cb10-41ec-8f26-3eb993a99adb</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1782734300034-896qr.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782734258568-qh6l7r.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782734275369-0w0ico.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>300.00 ILS</g:price>
+      <g:sale_price>250.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>גלגלים</g:product_type>
+    </item>
+    <item>
+      <g:id>ea7b973e-cb10-41ec-8f26-3eb993a99adb__950e7303-2014-4e45-a179-d3a02ab31236</g:id>
+      <g:title>קורקינט לילדים 3 גלגלים עם אורות מבית Viper - Blue</g:title>
+      <g:description>הכירו את הקורקינט המושלם לקטנטנים - שילוב של כיף, בטיחות וסטייל! הקורקינט מגיע עם 3 גלגלים ליציבות מירבית, כאשר הגלגלים וצדי הקורקינט מוארים באורות לד צבעוניים ומרהיבים, שמוסיפים חוויית רכיבה זוהרת במיוחד.</g:description>
+      <g:link>https://example.com/product/kvrkynt-lyldym-3-glglym-am-avrvt-mbyt-viper-b9k1vk</g:link>
+      <g:item_group_id>ea7b973e-cb10-41ec-8f26-3eb993a99adb</g:item_group_id>
+      <g:image_link>https://example.com/assets/product-1782734300034-896qr.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782734258568-qh6l7r.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782734275369-0w0ico.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>300.00 ILS</g:price>
+      <g:sale_price>250.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>גלגלים</g:product_type>
+    </item>
+    <item>
+      <g:id>e7223330-8769-4f22-88c0-e9a71878cd1f</g:id>
+      <g:title>קורקינט פרימיום מתקפל עם גלגלים גדולים, בולמי זעזועים ומעצור יד – קורקינט איכותי לילדים, נוער</g:title>
+      <g:description>מחפשים קורקינט איכותי, יציב ונוח לרכיבה? הקורקינט הפרימיום עם גלגלים גדולים ובולמי זעזועים מעניק חוויית רכיבה חלקה, בטוחה ומהנה לילדים, בני נוער ומבוגרים. בזכות מערכת הקיפול המהירה, המבנה החזק והעיצוב המודרני, זהו פתרון מושלם לנסיעות יומיומיות, טיולים בפארק ופעילות ספורטיבית מהנה.</g:description>
+      <g:link>https://example.com/product/kvrkynt-prymyvm-mtkpl-am-glglym-gdvlym-bvlmy-zazvaym-vmatsvr-yd-kvrkynt-aykvty-lyldym-nvar-ssuk0u</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782733553785-gcywcn.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>498.98 ILS</g:price>
+      <g:sale_price>300.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>גלגלים</g:product_type>
+    </item>
+    <item>
+      <g:id>febe3da7-ad27-4ed5-94b8-9b01dbaa1218</g:id>
+      <g:title>קורקינט 3 גלגלים סוניק פריים</g:title>
+      <g:description>קורקינט סוניק לילדים הקורקינט הראשון שלי בעיצוב סוניק. קורקינט איכותי מאוד ונוח לרכיבה בטוחה כיפית בשכונה, בגינה ובפארקים. הצעד הראשון של ילדכם ללמוד תנועה, איזון ושיווי משקל קורקינט בטיחותי המגיע עם משטח מונע החלקה גדול ורחב,</g:description>
+      <g:link>https://example.com/product/kvrkynt-3-glglym-svnyk-pryym-b84qes</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782731974533-cne9pd.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>150.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>גלגלים</g:product_type>
+    </item>
+    <item>
+      <g:id>baae0fa2-5cfc-4ffd-9e99-61f59c75887e</g:id>
+      <g:title>קורקינט 3 גלגלים הלו קיטי</g:title>
+      <g:description>קורקינט בעיצוב הלו קיטי האהובה, עם שילוב צבעים ורודים וטורקיזיים שמושכים את העין. מבנה של 3 גלגלים מספק יציבות גבוהה ותומך בלמידת רכיבה, פיתוח שיווי משקל וקואורדינציה – אידאלי לילדים בתחילת הדרך.</g:description>
+      <g:link>https://example.com/product/kvrkynt-3-glglym-hlv-kyty-3sis1z</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782729467676-rgtr92.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>150.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>גלגלים</g:product_type>
+    </item>
+    <item>
+      <g:id>92ee4ca1-d8a0-45bf-9b9b-3971e311221b</g:id>
+      <g:title>בננה נידו</g:title>
+      <g:description>בננה נידו כיפית ונעימה</g:description>
+      <g:link>https://example.com/product/bnnh-nydv-7109qj</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782727192098-6lq4te.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>הטרנדים הכי חזקים בישראל </g:product_type>
+    </item>
+    <item>
+      <g:id>c682fe15-45c6-48af-9a7d-b27552b04fbe</g:id>
+      <g:title>סקווישי חתול מתנפח בראש</g:title>
+      <g:description>סקווישי חתול מתנפח בראש בלחיצות לא ניתן לבחור צבע נבחר אקראי</g:description>
+      <g:link>https://example.com/product/skvvyshy-chtvl-mtnpch-brash-jwsoz8</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782725585774-p1k1r7.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>20.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>bbef4527-382e-4363-8797-967f65cdf117</g:id>
+      <g:title>נידו לאבובו מטורף </g:title>
+      <g:description>נידו לאבובו מטורף כיפי ונעים למגע</g:description>
+      <g:link>https://example.com/product/nydv-labvbv-mtvrp-0h90qq</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782724574505-p9sh6g.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782724682955-l7izug.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>20.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>cfa983de-ced7-4f79-90b7-ce4e7236efc3</g:id>
+      <g:title>תות נידו</g:title>
+      <g:description>תות נידו נעים וכיפי למגע</g:description>
+      <g:link>https://example.com/product/tvt-nydv-ms5taq</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782721908140-5tifk.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>e7d00a1e-a08c-4262-bd74-118a68bc0c25</g:id>
+      <g:title>דאמפלינג סקוושי </g:title>
+      <g:description>נעים וכיפי למגע</g:description>
+      <g:link>https://example.com/product/damplyng-skvvshy-wk7xnv</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782721637451-hzvd14.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>4fb6a01f-515d-4457-818c-6ddb800a2581</g:id>
+      <g:title>קאפיברה נידו </g:title>
+      <g:description>נעים וכיפי למגע</g:description>
+      <g:link>https://example.com/product/kapybrh-nydv-khz07z</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782721008475-dut2u.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>32262cb2-8cbf-4ffc-86de-25fc564992f8</g:id>
+      <g:title>נידו גלידה</g:title>
+      <g:description>נידו גלידה נעים וכיפי למגע</g:description>
+      <g:link>https://example.com/product/nydv-glydh-svb7uh</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782720285981-3c0c07.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>95537fbe-f2ff-4661-95ec-c63627b587b4</g:id>
+      <g:title>נידו גבינה </g:title>
+      <g:description>נידו גבינה נעים וכיפי למגע</g:description>
+      <g:link>https://example.com/product/nydv-gbynh-fx76qz</g:link>
+      <g:image_link>https://example.com/assets/product-1782720026606-xdu8na.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>894ce3f7-5e7d-441f-8d07-ecb5611e39e4</g:id>
+      <g:title>נידו התינוק של במבה</g:title>
+      <g:description>נידו נעים וכיפי למגע</g:description>
+      <g:link>https://example.com/product/nydv-htynvk-shl-bmbh-ztv9qv</g:link>
+      <g:image_link>https://example.com/assets/product-1782720473052-steldk.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>09955f04-dd39-472c-9795-eb7d263cbb1a</g:id>
+      <g:title>ברווז צבעוני נידו גדול</g:title>
+      <g:description>ברווז צבעוני נידו נעים וכיפי למגע</g:description>
+      <g:link>https://example.com/product/brvvz-tsbavny-nydv-gdvl-b0kjli</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782718976920-2cyr4.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>50.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>538b5131-8121-41cc-8f0b-582349c6fe42</g:id>
+      <g:title>ברווז נידו ענק</g:title>
+      <g:description>ברווז מידו ענק נעים וכיפי למגע</g:description>
+      <g:link>https://example.com/product/brvvz-nydv-ank-1bslk4</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782718611065-609bxk.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>60.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>2c356a83-1fad-4ed0-90d7-7292d40696f2</g:id>
+      <g:title>נידו בננה ענקי </g:title>
+      <g:description>נידו בננה ענקי נעים וכיפי למגע</g:description>
+      <g:link>https://example.com/product/nydv-bnnh-anky-znpfcv</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782718372579-uwdopb.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>60.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>40778ac0-423e-4e02-a26f-18ae47b08820</g:id>
+      <g:title>נידו עוף גדול </g:title>
+      <g:description>סקוושי נידו עוף גדול נעים וכיפי למגע</g:description>
+      <g:link>https://example.com/product/nydv-avp-gdvl-uyslbu</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782718236077-ja4jlna.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>50.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>e5951dcb-fff2-4aa9-8bc6-68b5c9624925</g:id>
+      <g:title>מצלמה דיגיטלית לילדים עם אביזרים</g:title>
+      <g:description>&quot;העניקו לילדיכם את ההזדמנות לגלות את העולם מנקודת מבטם הייחודית ולתעד כל רגע קסום דרך העדשה! המצלמה הדיגיטלית שלנו היא לא רק צעצוע, אלא כלי ליצירה עצמאית; היא ידידותית למשתמש, עמידה במיוחד בפני נפילות וזעזועים, ומעוצבת במבנה ארגונומי המותאם בדיוק לאחיזה של ידיים קטנות וסקרניות. המצלמה מאפשרת צילום תמונות חדות יחד עם ערכת האביזרים המשלימים המצורפת – הכוללת רצועת נשיאה בטיחותית ופתרונות טעינה נוחים – מובטחת לילדיכם חוויית צילום מקצועית, מעצימה ומהנה כבר מהרגע הראשון שבו יוצאים להרפתקה.&quot;</g:description>
+      <g:link>https://example.com/product/mtslmh-dygytlyt-lyldym-am-abyzrym-13z4u6</g:link>
+      <g:image_link>https://example.com/assets/product-1782664406387-q4vs4.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>99.00 ILS</g:price>
+      <g:sale_price>49.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>67bf770e-036d-431a-a5c3-e627860e4135</g:id>
+      <g:title>קורקינט 3 גלגלים סטיץ</g:title>
+      <g:description>קורקינט בעיצוב דמויות שילדים אוהבים קורקינט ילדים עם שני גלגלי סיליקון קדמיים והיגוי באמצעות הכידון (הטיה ימינה / שמאלה) לקורקינט ידיות גומי לאחיזה נוחה משטח דריכה עם ציפוי מונע החלקה ובלם גלגל אחורי. קורקינט 3 גלגלים לילדים עם כידון מתכוונן גובה 62 ועד 75 ס&quot;מ מומלץ לחבוש קסדה (נמכרת בנפרד) מידות כלליות: אורך כ-50 ס&quot;מ, רוחב כ-23 ס&quot;מ, גובה כ-79 ס&quot;מ. מידות משטח דריכה: אורך כ-30 ס&quot;מ, רוחב כ-13 ס&quot;מ. מתאים מגילאי 3 ומעלה ועד משקל 30 ק&quot;ג. משטח מונע החלקה גדול ורחב מעצור רגל קל לשימוש לעצירה מוחלטת של</g:description>
+      <g:link>https://example.com/product/kvrkynt-3-glglym-styts-dzfzio</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782654847431-bnocl.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782655141560-mdumla.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>199.00 ILS</g:price>
+      <g:sale_price>149.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>גלגלים</g:product_type>
+    </item>
+    <item>
+      <g:id>30a6c562-3d24-43d8-9fdf-16e1b33c88eb</g:id>
+      <g:title>בימבה גוק חד קרן </g:title>
+      <g:description>בימבה ג&apos;וק מבית Viper בימבה קלה במיוחד בעיצוב חד קרן, מתקפלת בקלות ונוחה לשימוש יומיומי. מעודדת את פיתוח שרירי הרגליים, שיווי משקל וביטחון עצמי בקרב פעוטות. נוחה לנשיאה ולאחסון, ומתאימה למשחק גם בבית וגם בחוץ. כוללת מנגנון קיפול מכני חכם להפעלה פשוטה ונוחה. מצוידת ב-3 גלגלים ליציבות מקסימלית ובטיחות מרבית ברכיבה.</g:description>
+      <g:link>https://example.com/product/bymbh-gvk-chd-krn-4ugrwe</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782642053459-6mumh.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782642151528-xo4xtx.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>130.00 ILS</g:price>
+      <g:sale_price>99.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>גלגלים</g:product_type>
+    </item>
+    <item>
+      <g:id>7d8d289e-ec15-44d0-a2a7-701ce0753143</g:id>
+      <g:title>בימבה ג&apos;וק סמי הכבאי מבית Viper</g:title>
+      <g:description>בימבה ג&apos;וק מבית Viper בימבה קלה במיוחד בעיצוב סמי הכבאי, מתקפלת בקלות ונוחה לשימוש יומיומי. פיתוח מיומנויות מעודדת את פיתוח שרירי הרגליים, שיווי משקל וביטחון עצמי בקרב פעוטות. ניידות ושימוש נוחה לנשיאה ולאחסון, ומתאימה למשחק גם בבית וגם בחוץ. מנגנון קיפול כוללת מנגנון קיפול מכני חכם להפעלה פשוטה ונוחה. יציבות ובטיחות מצוידת ב-3 גלגלים ליציבות מקסימלית ובטיחות מרבית ברכיבה.</g:description>
+      <g:link>https://example.com/product/bymbh-gvk-smy-hkbay-mbyt-viper-w5pujo</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782641765990-ba1ee.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782641792291-e4znn1.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>130.00 ILS</g:price>
+      <g:sale_price>99.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>גלגלים</g:product_type>
+    </item>
+    <item>
+      <g:id>5dc0da2f-7cd8-4a57-acf7-602952452675</g:id>
+      <g:title>בית הבובות של גבי בית בובות ענק צבעוני - Gabby&apos;s Dollhouse</g:title>
+      <g:description>בית הבובות של גבי - בית בובות ענק צבעוני מבית ספין מאסטר Spin Master - Gabby&apos;s Dollhouse Colourful כיף ודמיון עם בית הבובות של גבי. בית בובות ענק צבעוני. הבית מתהדר בעיצוב צבעוני ומרהיב, המאפשר לילדים לצלול לעולם של הרפתקאות ודמיון. בבית 3 קומות תמצאו חדרים מעוצבים באהבה ובפרטים קטנים המעשירים את המשחק. כל חדר צבעוני ומזמין, מאובזר בחלונות שקופים שדרכם ניתן לראות את הפעילות התוססת בפנים. הבית כולל מגלשה צידית ליציאות החיצוניות שמוסיפה תחושת הרפתקנות וכיף למשחק. גג הבית מעוטר בכיפה צהובה וורודה,</g:description>
+      <g:link>https://example.com/product/byt-hbvbvt-shl-gby-byt-bvbvt-ank-tsbavny-gabbys-dollhouse-nf7jqy</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782635766788-mbk8qf.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782635788377-xkhzhb.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782635861212-etewhs5.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>500.00 ILS</g:price>
+      <g:sale_price>369.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>99f3489b-b912-4fe3-b923-1fdf86d85bdd</g:id>
+      <g:title>סקוטר לקטנטנים-little tikes</g:title>
+      <g:description>המתנה המושלמת לפעוטות, בנים ובנות בגילאי שנה וחצי עד 5 שנים. סקוטר לקטנטנים לרכיבה פנימית/חיצונית עם ידית היגוי נוחה לאחיזה. הדגם מעודד פיתוח מיומנויות מוטוריות עדינות של ילדיכם. גילאי: שנה וחצי+ / מידות: 46.36X20.32X37.85 ס&quot;מ / ארץ ייצור: סין</g:description>
+      <g:link>https://example.com/product/skvtr-lktntnym-little-tikes-033sjw</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782634601351-xvrfai.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782634617689-rcfus1.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>100.00 ILS</g:price>
+      <g:sale_price>59.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>גלגלים</g:product_type>
+    </item>
+    <item>
+      <g:id>8ef49deb-0d5d-4cb7-995f-e9c029ce7e91</g:id>
+      <g:title>קורקינט פעלולים מקצועי גלגלי סיליקון 110 מ&apos;&apos;מ VIPER </g:title>
+      <g:description>קורקינט פעלולים איכותי ומרשים בעיצוב Art Chrome ייחודי, המשלב מראה צבעוני ודינמי עם מבנה חזק ועמיד במיוחד לרכיבה אגרסיבית ותרגילים. השלדה הקשיחה והכידון הרחב מעניקים יציבות גבוהה ושליטה מלאה, כך שתוכלו לבצע קפיצות, סיבובים וטריקים בביטחון מרבי.קורקינט פעלולים איכותי ומרשים בעיצוב Art Chrome ייחודי, המשלב מראה צבעוני ודינמי עם מבנה חזק ועמיד במיוחד לרכיבה אגרסיבית ותרגילים. השלדה הקשיחה והכידון הרחב מעניקים יציבות גבוהה ושליטה מלאה, כך שתוכלו לבצע קפיצות, סיבובים וטריקים בביטחון מרבי.</g:description>
+      <g:link>https://example.com/product/kvrkynt-palvlym-mktsvay-glgly-sylykvn-110-mm-viper-gojx72</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782488310022-a9cgti.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782488553243-3kmcj.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>550.00 ILS</g:price>
+      <g:sale_price>399.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>ipop</g:brand>
+      <g:product_type>גלגלים</g:product_type>
+    </item>
+    <item>
+      <g:id>101a92c7-c309-4782-9aed-c5f96b93ba2a</g:id>
+      <g:title>מצלמת ילדים דיגיטלית עם הדפסה מיידית</g:title>
+      <g:description>המתנה המושלמת לילדים – מצלמה דיגיטלית צבעונית עם הדפסה מיידית של תמונות, ממש כמו בקסם! המצלמה מגיעה עם מסך 2 אינץ&apos;, מאפשרת צילום תמונות, צילום וידאו, הוספת מסגרות גרפיות, איכות צילום HD – והכי חשוב: מדפיסה את התמונות בלחיצת כפתור וללא צורך בדיו! כוללת 3 סלילים להדפסה (כל אחד בצבע אחר), כך שהילדים יכולים להתחיל לצלם ולהדפיס מיד! מתאימה כמתנה ליום הולדת, פעילות יצירה, גן, בית ספר או מתנה מהממת לחופש הגדול.</g:description>
+      <g:link>https://example.com/product/mtslmt-yldym-dygytlyt-am-hdpsh-myydyt-v8c9sd</g:link>
+      <g:image_link>https://example.com/assets/product-1782485941783-8gpre.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782486337332-qtvggb.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>199.00 ILS</g:price>
+      <g:sale_price>129.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>ed625449-5ca5-4e2b-a7ef-bf168e2e8fc3</g:id>
+      <g:title>כלב נידו צבעוני </g:title>
+      <g:description>כלב נידו צבעוני רך ונעים</g:description>
+      <g:link>https://example.com/product/klb-nydv-tsbavny-qvrdy4</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782488781167-fe04m.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>הטרנדים הכי חזקים בישראל </g:product_type>
+    </item>
+    <item>
+      <g:id>8c8939ef-d6de-41f9-9e16-71e0b1f0740b</g:id>
+      <g:title>לב נידו צבעוני</g:title>
+      <g:description>לב נידו צבעוני נעיף ורך בטירוף</g:description>
+      <g:link>https://example.com/product/lb-nydv-tsbavny-48mea4</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782485306751-3huh1s.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>הטרנדים הכי חזקים בישראל </g:product_type>
+    </item>
     <item>
       <g:id>8dd5c4b5-9a92-4c2b-a289-abbcecd1574a</g:id>
       <g:title>נידו הלו קיטי </g:title>

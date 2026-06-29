@@ -1,10 +1,832 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-26T14:47:05.884Z",
+  "generated_at": "2026-06-29T19:24:07.144Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 14,
+  "count": 49,
   "products": [
+    {
+      "id": "8739a86b-cced-45ac-a92e-24f458aa5e7e",
+      "slug": "rchpn-mtkpl-am-mtslmh-v-wifi-ltsylvm-chvvyty-ipop-ftgc3l",
+      "name": "רחפן מתקפל עם מצלמה ו – WIFI לצילום חוויתי – IPOP",
+      "name_translations": {},
+      "description": "",
+      "short_description": "\n🚁📸 רחפן WIFI מתקפל – מצלמים מהשמיים בקלות!\n\n✨ חוויית טיסה וצילום מתקדמת\nהכירו את הרחפן המתקפל עם חיבור WIFI – פתרון מושלם לצילום מהאוויר ושליטה נוחה דרך השלט. הרחפן מאפשר להקליט רגעים מיוחדים וליהנות ",
+      "sku": null,
+      "brand": null,
+      "price": 119,
+      "base_price": 249,
+      "sale_price": 119,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782760470670-09oqiw.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/rchpn-mtkpl-am-mtslmh-v-wifi-ltsylvm-chvvyty-ipop-ftgc3l",
+      "categories": [],
+      "updated_at": "2026-06-29T19:18:45.525Z"
+    },
+    {
+      "id": "ecafec59-ef9c-4613-815c-ca25818c2e0b",
+      "slug": "ryynbvkvrn-ank-lbn-chd-krn-brcas7",
+      "name": "ריינבוקורן ענק לבן - חד קרן",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הצל את החד קרן שלך!\nכולל\n1 בובת חד קרן\n1ביצת חד קרן\n1 Reveal 'n' Heal Heart\n3 ביצי Boo-Boocorns\n3 קאקי\n1 סרט לראש\n1 שרביט ריפוי קסם\n1 סליים קסום\nRainbocorns כרטיס להבריא\n1 דוח בדיקת גוף ו-2x מדבקת רנטגן\nהשתמש בדוח הבריאות, במדבקות רנטגן, במטה הקסמים ובמזרקי ריפוי כדי להציל את ה-Rainbocorn שלך\nיש שלושה ד\"ר בו-בוקורן לאסוף ולעזור לך להציל את ריינבווויל\nהשתמש במדריך האספנים כדי למצוא את כל החברים בעלי הקטיפה הגרועה שזקוקים לחיסכון\nמידות: 29.2L x 26W x 35H ס\"מ",
+      "sku": null,
+      "brand": null,
+      "price": 199,
+      "base_price": 199,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782760228682-i7z7n9.webp",
+        "https://example.com/assets/product-1782760182369-h86rq8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/ryynbvkvrn-ank-lbn-chd-krn-brcas7",
+      "categories": [],
+      "updated_at": "2026-06-29T19:12:06.146Z"
+    },
+    {
+      "id": "09e7d9d9-5182-43f7-90e1-d68dd824b0e9",
+      "slug": "kvrkynt-myky-mavs-3-glglym-am-blm-rgl-disney-fo9les",
+      "name": "קורקינט מיקי מאוס 3 גלגלים עם בלם רגל - Disney",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קורקינט יציב ובטיחותי עם עיצוב שובב של מיקי מאוס – מתאים במיוחד לילדים צעירים, עם שלל תכונות המשלבות הנאה, נוחות ובטיחות מלאה.\n\nיתרונות המוצר:\n• עיצוב צבעוני ואהוב של מיקי מאוס\n• ידית מתכווננת לגובה 62–76.5 ס\"מ\n• מערכת היגוי קלה ונוחה לתפעול\n• גלגלי PU איכותיים לנסיעה חלקה ושקטה\n• בלם רגל אחורי לבלימה בטוחה\n• משטח רכיבה רחב עם ציפוי נגד החלקה\n\nתיאור טכני:\n• מתאים לגילאי 3+\n• משקל נשיאה מקסימלי: 30 ק\"ג",
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 200,
+      "sale_price": 150,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782750062456-apt07.webp",
+        "https://example.com/assets/product-1782750116096-3wdkbn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/kvrkynt-myky-mavs-3-glglym-am-blm-rgl-disney-fo9les",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-06-29T16:22:25.453Z"
+    },
+    {
+      "id": "0947a13e-a6ea-4706-b2f8-7420cc1907c1",
+      "slug": "cookeez-makery-pancake-treatz-mchbt-ksvmh-cookeez-makery-pancake-treatz-mchbt-ksvmh-lhknt-bvbt-hptah-rychnyt-sy95aa",
+      "name": "Cookeez Makery Pancake Treatz – מחבת קסומה... Cookeez Makery Pancake Treatz – מחבת קסומה להכנת בובת הפתעה ריחנית",
+      "name_translations": {},
+      "description": "<p>מותג/סדרה: Cookeez Makery</p><p>דגם: Pancake Treatz</p><p>סוג מוצר: ערכת משחק אינטראקטיבית עם בובת הפתעה</p><p>נושא: פנקייק, בישול דמיוני, בובת פרווה והפתעה</p><p>כולל: מחבת משחק, מרית, אריזת “מצרכים” ובובת הפתעה ריחנית</p><p>מאפיינים: בובה ריחנית, אינטראקטיבית, עם צלילים ותגובות</p><p>דמויות אפשריות: Blue Beary, Strawberry Pankitty או Choc Flip Pup</p><p>שימוש מומלץ: משחקי דמיון, משחקי מטבח, הפתעות, איסוף בובות ומתנה לילדים</p><p><br></p><p>מתאים לגילאי 5 ומעלה.</p>",
+      "short_description": "ערכת Cookeez Makery Pancake Treatz מביאה לילדים חוויית משחק קסומה ומפתיעה במיוחד: מכינים “פנקייק” במחבת, הופכים — ומגלים בובת פרווה ריחנית ואינטראקטיבית! הערכה משלבת משחק דמיון, הפתעה, בובה רכה ואביזרי מטבח קטנים, כך שכל ילד יכול להרגיש כאילו הוא מכין קינוח מתוק שמסתיים בחבר פרוותי חדש.\n\nהילדים פותחים את ה”מצרכים”, מוסיפים את הבלילה למחבת, משתמשים במרית והופכים את הפנקייק כדי לחשוף את בובת ההפתעה. הבובה מגיעה עם ריח מתוק בסגנון פנקייק, וגם כוללת צלילים ותגובות אינטראקטיביות שמוסיפות עוד קסם למשח",
+      "sku": null,
+      "brand": null,
+      "price": 149,
+      "base_price": 149,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782748597670-6tnecp.webp",
+        "https://example.com/assets/product-1782748611628-zzrqlw.webp",
+        "https://example.com/assets/product-1782748624810-73f5ur.webp",
+        "https://example.com/assets/product-1782748636548-myd0q8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/cookeez-makery-pancake-treatz-mchbt-ksvmh-cookeez-makery-pancake-treatz-mchbt-ksvmh-lhknt-bvbt-hptah-rychnyt-sy95aa",
+      "categories": [],
+      "updated_at": "2026-06-29T16:00:07.543Z"
+    },
+    {
+      "id": "de1863bf-a426-4b00-8311-e73e6646f77f",
+      "slug": "kvrkynt-prvzn-3-glglym-am-blm-rgl-ilfzty",
+      "name": "קורקינט פרוזן 3 גלגלים עם בלם רגל",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קורקינט איכותי ומעוצב בהשראת הדמויות האהובות מפרוזן – עם ידית מתכווננת, גלגלים עמידים ובלם אחורי לנסיעה בטוחה ומהנה במיוחד.\n\nיתרונות המוצר:\n• עיצוב קסום של פרוזן עם הדפסים צבעוניים\n• ידית מתכווננת לגובה 62–76.5 ס\"מ להתאמה אישית\n• מערכת היגוי מתקדמת ונוחה לשימוש\n• גלגלי PU איכותיים לנסיעה חלקה ושקטה\n• כולל בלם רגל אחורי לבטיחות מרבית\n• משטח עמיד עם ציפוי נגד החלקה",
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 200,
+      "sale_price": 150,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782748381178-vgir5g.webp",
+        "https://example.com/assets/product-1782748404189-x2z4ov.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/kvrkynt-prvzn-3-glglym-am-blm-rgl-ilfzty",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-06-29T15:53:53.238Z"
+    },
+    {
+      "id": "d9f7edcf-2af4-48d8-b639-dacca9c9fb79",
+      "slug": "tnvr-apyyh-shl-kvkyz-cookeez-makery-kfx8e2",
+      "name": "תנור אפייה של קוקיז Cookeez Makery",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בתנור\nתנור אפייה של קוקיז Cookeez Makery.\nתנור אפייה עם בובה בהפתעה!\nערבבו את החומרים שמגיעים בערכה ליצירת בצק והכניסו לתבנית המצורפת ליצירת דמות בצק קטנטנה\nהכניסו את הבצק שלכם לתנור, סובבו את הטיימר ותהיו מופתעים כשתצא במקום הבצק בובה גדולה בהפתעה עם ריח נהדר!\nבכל תנור תצא בובה אחת בלבד בלי שנדע איזו בובה תצא\nמגיל 3 ומעלה",
+      "sku": null,
+      "brand": null,
+      "price": 229,
+      "base_price": 299,
+      "sale_price": 229,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782748175184-yh9hp.webp",
+        "https://example.com/assets/product-1782748187736-2xs46h.webp",
+        "https://example.com/assets/product-1782748198528-yah0zn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/tnvr-apyyh-shl-kvkyz-cookeez-makery-kfx8e2",
+      "categories": [],
+      "updated_at": "2026-06-29T15:53:28.408Z"
+    },
+    {
+      "id": "27967f19-ef8d-41ef-82dd-e81ce12c225b",
+      "slug": "kvp-ayntraktyby-am-50-kvlvt-vtgvbvt-little-live-pets-mango-tdy9rj",
+      "name": "קוף אינטראקטיבי עם 50 קולות ותגובות - Little Live Pets Mango",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הכירו את החבר הכי חמוד וכיפי שאפשר לבקש – Little Live Pets My Baby Monkey, מנגו!\nהקוף הקטן והמתוק הזה מחכה לכם, שתטפלו בו ותשחקו איתו.\nעם אוזני קוף מקסימות ופרווה רכה, מנגו נראה בדיוק כמו קוף אמיתי, וכיף גדול לחבק וללטף אותו!\nאבל מנגו הוא לא סתם בובת פרווה – הוא מגיב כמו קוף אמיתי! למעלה מ-50 צלילים ותגובות שונות יגרמו לילדים שלכם להרגיש שהם מטפלים בקוף קטן ואמיתי.\nהפה של מנגו זז בצורה מציאותית כשהוא מוצץ את האגודל או שותה מהבקבוק שלו.\nהוא אוהב שמטפלים בו ומלטפים אותו, ואפילו יצחק כשמדגדגים אותו",
+      "sku": null,
+      "brand": null,
+      "price": 230,
+      "base_price": 300,
+      "sale_price": 230,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782746982872-a3zjk7.webp",
+        "https://example.com/assets/product-1782746932810-hrphkh.webp",
+        "https://example.com/assets/product-1782746950499-agndqs.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/kvp-ayntraktyby-am-50-kvlvt-vtgvbvt-little-live-pets-mango-tdy9rj",
+      "categories": [],
+      "updated_at": "2026-06-29T15:34:02.598Z"
+    },
+    {
+      "id": "927f67b6-53dc-4566-8922-c4f89a16a94f",
+      "slug": "kvrkynt-3-glglym-lyldym-viper-super-ride-i3mlgt",
+      "name": "קורקינט 3 גלגלים לילדים Viper Super Ride ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הכירו את הקורקינט התלת-גלגלי והצבעוני הזה, המגיע אליכם בצבעים מדליקים ונועד להעניק לילדים ולילדות שלכם שעות של הנאה בתנועה. הקורקינט מצויד במוט מתכוונן וחכם, המאפשר לכם להתאים את הגובה בדיוק למידותיהם הצומחות של הקטנטנים, וכדי להבטיח רכיבה חלקה ובטוחה.\n\n",
+      "sku": null,
+      "brand": null,
+      "price": 200,
+      "base_price": 250,
+      "sale_price": 200,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782738351036-0wcvv.webp",
+        "https://example.com/assets/product-1782738390307-fl0uvp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/kvrkynt-3-glglym-lyldym-viper-super-ride-i3mlgt",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-06-29T13:13:22.908Z"
+    },
+    {
+      "id": "ea7b973e-cb10-41ec-8f26-3eb993a99adb",
+      "slug": "kvrkynt-lyldym-3-glglym-am-avrvt-mbyt-viper-b9k1vk",
+      "name": "קורקינט לילדים 3 גלגלים עם אורות מבית Viper",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הכירו את הקורקינט המושלם לקטנטנים - שילוב של כיף, בטיחות וסטייל! הקורקינט מגיע עם 3 גלגלים ליציבות מירבית, כאשר הגלגלים וצדי הקורקינט מוארים באורות לד צבעוניים ומרהיבים, שמוסיפים חוויית רכיבה זוהרת במיוחד.\n\n",
+      "sku": null,
+      "brand": null,
+      "price": 250,
+      "base_price": 300,
+      "sale_price": 250,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782734300034-896qr.webp",
+        "https://example.com/assets/product-1782734258568-qh6l7r.webp",
+        "https://example.com/assets/product-1782734275369-0w0ico.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/kvrkynt-lyldym-3-glglym-am-avrvt-mbyt-viper-b9k1vk",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-06-29T13:13:52.842Z"
+    },
+    {
+      "id": "e7223330-8769-4f22-88c0-e9a71878cd1f",
+      "slug": "kvrkynt-prymyvm-mtkpl-am-glglym-gdvlym-bvlmy-zazvaym-vmatsvr-yd-kvrkynt-aykvty-lyldym-nvar-ssuk0u",
+      "name": "קורקינט פרימיום מתקפל עם גלגלים גדולים, בולמי זעזועים ומעצור יד – קורקינט איכותי לילדים, נוער",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מחפשים קורקינט איכותי, יציב ונוח לרכיבה? הקורקינט הפרימיום עם גלגלים גדולים ובולמי זעזועים מעניק חוויית רכיבה חלקה, בטוחה ומהנה לילדים, בני נוער ומבוגרים. בזכות מערכת הקיפול המהירה, המבנה החזק והעיצוב המודרני, זהו פתרון מושלם לנסיעות יומיומיות, טיולים בפארק ופעילות ספורטיבית מהנה.",
+      "sku": null,
+      "brand": null,
+      "price": 300,
+      "base_price": 498.98,
+      "sale_price": 300,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782733553785-gcywcn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/kvrkynt-prymyvm-mtkpl-am-glglym-gdvlym-bvlmy-zazvaym-vmatsvr-yd-kvrkynt-aykvty-lyldym-nvar-ssuk0u",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-06-29T13:14:09.517Z"
+    },
+    {
+      "id": "febe3da7-ad27-4ed5-94b8-9b01dbaa1218",
+      "slug": "kvrkynt-3-glglym-svnyk-pryym-b84qes",
+      "name": "קורקינט 3 גלגלים סוניק פריים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קורקינט סוניק לילדים הקורקינט הראשון שלי בעיצוב סוניק.\nקורקינט איכותי מאוד ונוח לרכיבה בטוחה כיפית בשכונה, בגינה ובפארקים.\nהצעד הראשון של ילדכם ללמוד תנועה, איזון ושיווי משקל\nקורקינט בטיחותי המגיע עם משטח מונע החלקה גדול ורחב,",
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 150,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782731974533-cne9pd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/kvrkynt-3-glglym-svnyk-pryym-b84qes",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-06-29T11:21:01.082Z"
+    },
+    {
+      "id": "baae0fa2-5cfc-4ffd-9e99-61f59c75887e",
+      "slug": "kvrkynt-3-glglym-hlv-kyty-3sis1z",
+      "name": "קורקינט 3 גלגלים הלו קיטי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קורקינט בעיצוב הלו קיטי האהובה, עם שילוב צבעים ורודים וטורקיזיים שמושכים את העין. מבנה של 3 גלגלים מספק יציבות גבוהה ותומך בלמידת רכיבה, פיתוח שיווי משקל וקואורדינציה – אידאלי לילדים בתחילת הדרך.",
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 150,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782729467676-rgtr92.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/kvrkynt-3-glglym-hlv-kyty-3sis1z",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-06-29T10:38:27.450Z"
+    },
+    {
+      "id": "92ee4ca1-d8a0-45bf-9b9b-3971e311221b",
+      "slug": "bnnh-nydv-7109qj",
+      "name": "בננה נידו",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בננה נידו כיפית ונעימה",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782727192098-6lq4te.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/bnnh-nydv-7109qj",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-06-29T13:14:28.397Z"
+    },
+    {
+      "id": "c682fe15-45c6-48af-9a7d-b27552b04fbe",
+      "slug": "skvvyshy-chtvl-mtnpch-brash-jwsoz8",
+      "name": "סקווישי חתול מתנפח בראש",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סקווישי חתול מתנפח בראש בלחיצות \nלא ניתן לבחור צבע נבחר אקראי",
+      "sku": null,
+      "brand": null,
+      "price": 20,
+      "base_price": 20,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782725585774-p1k1r7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/skvvyshy-chtvl-mtnpch-brash-jwsoz8",
+      "categories": [],
+      "updated_at": "2026-06-29T09:57:25.605Z"
+    },
+    {
+      "id": "bbef4527-382e-4363-8797-967f65cdf117",
+      "slug": "nydv-labvbv-mtvrp-0h90qq",
+      "name": "נידו לאבובו מטורף ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "נידו לאבובו מטורף כיפי ונעים למגע",
+      "sku": null,
+      "brand": null,
+      "price": 20,
+      "base_price": 20,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782724574505-p9sh6g.webp",
+        "https://example.com/assets/product-enhanced-1782724682955-l7izug.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/nydv-labvbv-mtvrp-0h90qq",
+      "categories": [],
+      "updated_at": "2026-06-29T09:18:44.729Z"
+    },
+    {
+      "id": "cfa983de-ced7-4f79-90b7-ce4e7236efc3",
+      "slug": "tvt-nydv-ms5taq",
+      "name": "תות נידו",
+      "name_translations": {},
+      "description": "",
+      "short_description": "תות נידו נעים וכיפי למגע ",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782721908140-5tifk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/tvt-nydv-ms5taq",
+      "categories": [],
+      "updated_at": "2026-06-29T08:32:40.320Z"
+    },
+    {
+      "id": "e7d00a1e-a08c-4262-bd74-118a68bc0c25",
+      "slug": "damplyng-skvvshy-wk7xnv",
+      "name": "דאמפלינג סקוושי ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "נעים וכיפי למגע",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782721637451-hzvd14.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/damplyng-skvvshy-wk7xnv",
+      "categories": [],
+      "updated_at": "2026-06-29T08:28:51.445Z"
+    },
+    {
+      "id": "4fb6a01f-515d-4457-818c-6ddb800a2581",
+      "slug": "kapybrh-nydv-khz07z",
+      "name": "קאפיברה נידו ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "נעים וכיפי למגע ",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782721008475-dut2u.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/kapybrh-nydv-khz07z",
+      "categories": [],
+      "updated_at": "2026-06-29T08:25:23.296Z"
+    },
+    {
+      "id": "32262cb2-8cbf-4ffc-86de-25fc564992f8",
+      "slug": "nydv-glydh-svb7uh",
+      "name": "נידו גלידה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "נידו גלידה נעים וכיפי למגע ",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782720285981-3c0c07.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/nydv-glydh-svb7uh",
+      "categories": [],
+      "updated_at": "2026-06-29T08:05:58.360Z"
+    },
+    {
+      "id": "95537fbe-f2ff-4661-95ec-c63627b587b4",
+      "slug": "nydv-gbynh-fx76qz",
+      "name": "נידו גבינה ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "נידו גבינה נעים וכיפי למגע",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782720026606-xdu8na.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/nydv-gbynh-fx76qz",
+      "categories": [],
+      "updated_at": "2026-06-29T08:01:11.852Z"
+    },
+    {
+      "id": "894ce3f7-5e7d-441f-8d07-ecb5611e39e4",
+      "slug": "nydv-htynvk-shl-bmbh-ztv9qv",
+      "name": "נידו התינוק של במבה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "נידו נעים וכיפי למגע",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782720473052-steldk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/nydv-htynvk-shl-bmbh-ztv9qv",
+      "categories": [],
+      "updated_at": "2026-06-29T08:08:56.862Z"
+    },
+    {
+      "id": "09955f04-dd39-472c-9795-eb7d263cbb1a",
+      "slug": "brvvz-tsbavny-nydv-gdvl-b0kjli",
+      "name": "ברווז צבעוני נידו גדול",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ברווז צבעוני נידו נעים וכיפי למגע",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782718976920-2cyr4.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/brvvz-tsbavny-nydv-gdvl-b0kjli",
+      "categories": [],
+      "updated_at": "2026-06-29T07:53:00.199Z"
+    },
+    {
+      "id": "538b5131-8121-41cc-8f0b-582349c6fe42",
+      "slug": "brvvz-nydv-ank-1bslk4",
+      "name": "ברווז נידו ענק",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ברווז מידו ענק נעים וכיפי למגע",
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782718611065-609bxk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/brvvz-nydv-ank-1bslk4",
+      "categories": [],
+      "updated_at": "2026-06-29T07:37:44.924Z"
+    },
+    {
+      "id": "2c356a83-1fad-4ed0-90d7-7292d40696f2",
+      "slug": "nydv-bnnh-anky-znpfcv",
+      "name": "נידו בננה ענקי ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "נידו בננה ענקי נעים וכיפי למגע",
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782718372579-uwdopb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/nydv-bnnh-anky-znpfcv",
+      "categories": [],
+      "updated_at": "2026-06-29T07:34:34.830Z"
+    },
+    {
+      "id": "40778ac0-423e-4e02-a26f-18ae47b08820",
+      "slug": "nydv-avp-gdvl-uyslbu",
+      "name": "נידו עוף גדול ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סקוושי נידו עוף גדול נעים וכיפי למגע ",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782718236077-ja4jlna.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/nydv-avp-gdvl-uyslbu",
+      "categories": [],
+      "updated_at": "2026-06-29T07:30:46.892Z"
+    },
+    {
+      "id": "e5951dcb-fff2-4aa9-8bc6-68b5c9624925",
+      "slug": "mtslmh-dygytlyt-lyldym-am-abyzrym-13z4u6",
+      "name": "מצלמה דיגיטלית לילדים עם אביזרים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "\"העניקו לילדיכם את ההזדמנות לגלות את העולם מנקודת מבטם הייחודית ולתעד כל רגע קסום דרך העדשה! המצלמה הדיגיטלית שלנו היא לא רק צעצוע, אלא כלי ליצירה עצמאית; היא ידידותית למשתמש, עמידה במיוחד בפני נפילות וזעזועים, ומעוצבת במבנה ארגונומי המותאם בדיוק לאחיזה של ידיים קטנות וסקרניות.\n\nהמצלמה מאפשרת צילום תמונות חדות יחד עם ערכת האביזרים המשלימים המצורפת – הכוללת רצועת נשיאה בטיחותית ופתרונות טעינה נוחים – מובטחת לילדיכם חוויית צילום מקצועית, מעצימה ומהנה כבר מהרגע הראשון שבו יוצאים להרפתקה.\"",
+      "sku": null,
+      "brand": null,
+      "price": 49,
+      "base_price": 99,
+      "sale_price": 49,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782664406387-q4vs4.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mtslmh-dygytlyt-lyldym-am-abyzrym-13z4u6",
+      "categories": [],
+      "updated_at": "2026-06-28T16:35:17.351Z"
+    },
+    {
+      "id": "67bf770e-036d-431a-a5c3-e627860e4135",
+      "slug": "kvrkynt-3-glglym-styts-dzfzio",
+      "name": "קורקינט 3 גלגלים סטיץ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קורקינט בעיצוב דמויות שילדים אוהבים\nקורקינט ילדים עם שני גלגלי סיליקון קדמיים והיגוי באמצעות הכידון (הטיה ימינה / שמאלה)\nלקורקינט ידיות גומי לאחיזה נוחה\nמשטח דריכה עם ציפוי מונע החלקה ובלם גלגל אחורי.\nקורקינט 3 גלגלים לילדים עם כידון מתכוונן גובה 62 ועד 75 ס\"מ\nמומלץ לחבוש קסדה (נמכרת בנפרד)\n\nמידות כלליות: אורך כ-50 ס\"מ, רוחב כ-23 ס\"מ, גובה כ-79 ס\"מ.\nמידות משטח דריכה: אורך כ-30 ס\"מ, רוחב כ-13 ס\"מ.\nמתאים מגילאי 3 ומעלה ועד משקל 30 ק\"ג.\nמשטח מונע החלקה גדול ורחב\nמעצור רגל קל לשימוש לעצירה מוחלטת של",
+      "sku": null,
+      "brand": null,
+      "price": 149,
+      "base_price": 199,
+      "sale_price": 149,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782654847431-bnocl.webp",
+        "https://example.com/assets/product-enhanced-1782655141560-mdumla.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/kvrkynt-3-glglym-styts-dzfzio",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-06-29T11:23:22.063Z"
+    },
+    {
+      "id": "30a6c562-3d24-43d8-9fdf-16e1b33c88eb",
+      "slug": "bymbh-gvk-chd-krn-4ugrwe",
+      "name": "בימבה גוק חד קרן ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בימבה ג'וק מבית Viper\nבימבה קלה במיוחד בעיצוב חד קרן, מתקפלת בקלות ונוחה לשימוש יומיומי.\nמעודדת את פיתוח שרירי הרגליים, שיווי משקל וביטחון עצמי בקרב פעוטות.\nנוחה לנשיאה ולאחסון, ומתאימה למשחק גם בבית וגם בחוץ.\nכוללת מנגנון קיפול מכני חכם להפעלה פשוטה ונוחה.\nמצוידת ב-3 גלגלים ליציבות מקסימלית ובטיחות מרבית ברכיבה.",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 130,
+      "sale_price": 99,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782642053459-6mumh.webp",
+        "https://example.com/assets/product-enhanced-1782642151528-xo4xtx.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/bymbh-gvk-chd-krn-4ugrwe",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-06-29T11:30:44.159Z"
+    },
+    {
+      "id": "7d8d289e-ec15-44d0-a2a7-701ce0753143",
+      "slug": "bymbh-gvk-smy-hkbay-mbyt-viper-w5pujo",
+      "name": "בימבה ג'וק סמי הכבאי מבית Viper",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בימבה ג'וק מבית Viper\nבימבה קלה במיוחד בעיצוב סמי הכבאי, מתקפלת בקלות ונוחה לשימוש יומיומי.\n\nפיתוח מיומנויות\nמעודדת את פיתוח שרירי הרגליים, שיווי משקל וביטחון עצמי בקרב פעוטות.\n\nניידות ושימוש\nנוחה לנשיאה ולאחסון, ומתאימה למשחק גם בבית וגם בחוץ.\n\nמנגנון קיפול\nכוללת מנגנון קיפול מכני חכם להפעלה פשוטה ונוחה.\n\nיציבות ובטיחות\nמצוידת ב-3 גלגלים ליציבות מקסימלית ובטיחות מרבית ברכיבה.",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 130,
+      "sale_price": 99,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782641765990-ba1ee.webp",
+        "https://example.com/assets/product-enhanced-1782641792291-e4znn1.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/bymbh-gvk-smy-hkbay-mbyt-viper-w5pujo",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-06-29T11:34:03.125Z"
+    },
+    {
+      "id": "5dc0da2f-7cd8-4a57-acf7-602952452675",
+      "slug": "byt-hbvbvt-shl-gby-byt-bvbvt-ank-tsbavny-gabbys-dollhouse-nf7jqy",
+      "name": "בית הבובות של גבי בית בובות ענק צבעוני - Gabby's Dollhouse",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בית הבובות של גבי - בית בובות ענק צבעוני מבית ספין מאסטר Spin Master - Gabby's Dollhouse Colourful\nכיף ודמיון עם בית הבובות של גבי. בית בובות ענק צבעוני. הבית מתהדר בעיצוב צבעוני ומרהיב, המאפשר לילדים לצלול לעולם של הרפתקאות ודמיון. בבית 3 קומות תמצאו חדרים מעוצבים באהבה ובפרטים קטנים המעשירים את המשחק. כל חדר צבעוני ומזמין, מאובזר בחלונות שקופים שדרכם ניתן לראות את הפעילות התוססת בפנים.\n\nהבית כולל מגלשה צידית ליציאות החיצוניות שמוסיפה תחושת הרפתקנות וכיף למשחק. גג הבית מעוטר בכיפה צהובה וורודה,",
+      "sku": null,
+      "brand": null,
+      "price": 369,
+      "base_price": 500,
+      "sale_price": 369,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782635766788-mbk8qf.webp",
+        "https://example.com/assets/product-1782635788377-xkhzhb.webp",
+        "https://example.com/assets/product-enhanced-1782635861212-etewhs5.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/byt-hbvbvt-shl-gby-byt-bvbvt-ank-tsbavny-gabbys-dollhouse-nf7jqy",
+      "categories": [],
+      "updated_at": "2026-06-28T08:37:53.597Z"
+    },
+    {
+      "id": "99f3489b-b912-4fe3-b923-1fdf86d85bdd",
+      "slug": "skvtr-lktntnym-little-tikes-033sjw",
+      "name": "סקוטר לקטנטנים-little tikes",
+      "name_translations": {},
+      "description": "",
+      "short_description": "המתנה המושלמת לפעוטות, בנים ובנות בגילאי שנה וחצי עד 5 שנים. סקוטר לקטנטנים לרכיבה פנימית/חיצונית עם ידית היגוי נוחה לאחיזה. הדגם מעודד פיתוח מיומנויות מוטוריות עדינות של ילדיכם. גילאי: שנה וחצי+ / מידות: 46.36X20.32X37.85 ס\"מ / ארץ ייצור: סין",
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 100,
+      "sale_price": 59,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782634601351-xvrfai.webp",
+        "https://example.com/assets/product-1782634617689-rcfus1.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/skvtr-lktntnym-little-tikes-033sjw",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-06-29T11:34:52.217Z"
+    },
+    {
+      "id": "8ef49deb-0d5d-4cb7-995f-e9c029ce7e91",
+      "slug": "kvrkynt-palvlym-mktsvay-glgly-sylykvn-110-mm-viper-gojx72",
+      "name": "קורקינט פעלולים מקצועי גלגלי סיליקון 110 מ''מ VIPER ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קורקינט פעלולים איכותי ומרשים בעיצוב Art Chrome ייחודי, המשלב מראה צבעוני ודינמי עם מבנה חזק ועמיד במיוחד לרכיבה אגרסיבית ותרגילים. השלדה הקשיחה והכידון הרחב מעניקים יציבות גבוהה ושליטה מלאה, כך שתוכלו לבצע קפיצות, סיבובים וטריקים בביטחון מרבי.קורקינט פעלולים איכותי ומרשים בעיצוב Art Chrome ייחודי, המשלב מראה צבעוני ודינמי עם מבנה חזק ועמיד במיוחד לרכיבה אגרסיבית ותרגילים. השלדה הקשיחה והכידון הרחב מעניקים יציבות גבוהה ושליטה מלאה, כך שתוכלו לבצע קפיצות, סיבובים וטריקים בביטחון מרבי. ",
+      "sku": null,
+      "brand": "ipop",
+      "price": 399,
+      "base_price": 550,
+      "sale_price": 399,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782488310022-a9cgti.webp",
+        "https://example.com/assets/product-enhanced-1782488553243-3kmcj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/kvrkynt-palvlym-mktsvay-glgly-sylykvn-110-mm-viper-gojx72",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-06-29T11:35:46.516Z"
+    },
+    {
+      "id": "101a92c7-c309-4782-9aed-c5f96b93ba2a",
+      "slug": "mtslmt-yldym-dygytlyt-am-hdpsh-myydyt-v8c9sd",
+      "name": "מצלמת ילדים דיגיטלית עם הדפסה מיידית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "המתנה המושלמת לילדים – מצלמה דיגיטלית צבעונית עם הדפסה מיידית של תמונות, ממש כמו בקסם!\nהמצלמה מגיעה עם מסך 2 אינץ', מאפשרת צילום תמונות, צילום וידאו, הוספת מסגרות גרפיות, איכות צילום HD – והכי חשוב: מדפיסה את התמונות בלחיצת כפתור וללא צורך בדיו!\n\nכוללת 3 סלילים להדפסה (כל אחד בצבע אחר), כך שהילדים יכולים להתחיל לצלם ולהדפיס מיד!\n\nמתאימה כמתנה ליום הולדת, פעילות יצירה, גן, בית ספר או מתנה מהממת לחופש הגדול.\n",
+      "sku": null,
+      "brand": null,
+      "price": 129,
+      "base_price": 199,
+      "sale_price": 129,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782485941783-8gpre.webp",
+        "https://example.com/assets/product-enhanced-1782486337332-qtvggb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mtslmt-yldym-dygytlyt-am-hdpsh-myydyt-v8c9sd",
+      "categories": [],
+      "updated_at": "2026-06-26T15:07:16.597Z"
+    },
+    {
+      "id": "ed625449-5ca5-4e2b-a7ef-bf168e2e8fc3",
+      "slug": "klb-nydv-tsbavny-qvrdy4",
+      "name": "כלב נידו צבעוני ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כלב נידו צבעוני רך ונעים ",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782488781167-fe04m.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/klb-nydv-tsbavny-qvrdy4",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-06-26T15:46:33.456Z"
+    },
+    {
+      "id": "8c8939ef-d6de-41f9-9e16-71e0b1f0740b",
+      "slug": "lb-nydv-tsbavny-48mea4",
+      "name": "לב נידו צבעוני",
+      "name_translations": {},
+      "description": "",
+      "short_description": "לב נידו צבעוני נעיף ורך בטירוף",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782485306751-3huh1s.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/lb-nydv-tsbavny-48mea4",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-06-26T14:49:49.631Z"
+    },
     {
       "id": "8dd5c4b5-9a92-4c2b-a289-abbcecd1574a",
       "slug": "nydv-hlv-kyty-3e8okk",
