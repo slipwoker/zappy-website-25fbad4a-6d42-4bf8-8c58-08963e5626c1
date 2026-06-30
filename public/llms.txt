@@ -76,7 +76,105 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 49**
+**Total active products: 62**
+
+### ברווז נידו ענק
+https://example.com/product/brvvz-nydv-ank-i1gdk5
+- Price: 39.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: ברווז נידו ענק נעים כיפי ומרגיע
+- Image: https://example.com/assets/product-enhanced-1782832884506-y2ivoe.webp
+
+### סקווישי נידו ברווז צבעוני ענק
+https://example.com/product/skvvyshy-nydv-brvvz-tsbavny-ank-f52lmv
+- Price: 39.00 ILS
+- Availability: In stock
+- Description: ברווז נידו צבעוני ענק כיפי נעים ומרגיע
+- Image: https://example.com/assets/product-1782832694649-98zsil.webp
+
+### סקווישי נידו תירס 
+https://example.com/product/skvvyshy-nydv-tyrs-mtdkij
+- Price: 25.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: סקווישי נידו תירס נעים כיפי ומרגיע
+- Image: https://example.com/assets/product-enhanced-1782832564335-0hlag.webp
+
+### סקווישי נידו לימון ענק
+https://example.com/product/skvvyshy-nydv-lymvn-ank-cwxf4w
+- Price: 30.00 ILS
+- Availability: In stock
+- Description: נידו לימון ענק נעים וכיפי למגע
+- Image: https://example.com/assets/product-enhanced-1782832414256-n84hka.webp
+
+### שלט גיימינג נידו גדול 
+https://example.com/product/shlt-gyymyng-nydv-gdvl-84qau9
+- Price: 39.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: שלט גיימינג נידו גדול נעים וכיפי למגע
+- Image: https://example.com/assets/product-1782832198066-slr4tm.webp
+
+### נידו אבטיח ענק
+https://example.com/product/nydv-abtych-ank-238tt7
+- Price: 30.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: נידו אבטיח ענק וכיפי למגע
+- Image: https://example.com/assets/product-enhanced-1782832104672-p4kvx.webp
+
+### תות נידו ענק 
+https://example.com/product/tvt-nydv-ank-l7c9zx
+- Price: 30.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: תות נידו ענק ונעים בטירוף
+- Image: https://example.com/assets/product-enhanced-1782831655019-0y81e.webp
+
+### פנדה נידו  ענק
+https://example.com/product/pndh-nydv-ank-m9c6tf
+- Price: 39.00 ILS
+- Availability: In stock
+- Description: פנדה נידו נדיר במיוחד בלעדי רק אצלנו
+- Image: https://example.com/assets/product-enhanced-1782831305765-ajau2w.webp
+
+### סקוושי נידו שתיה עם פרצוף גדול 
+https://example.com/product/skvvshy-nydv-shtyh-am-prtsvp-gdvl-qldfu3
+- Price: 30.00 ILS
+- Availability: In stock
+- Description: גדול נעים וכיפי למגע
+- Image: https://example.com/assets/product-enhanced-1782831114199-opcf46i.webp
+
+### דונאטס נידו גדול
+https://example.com/product/dvnats-nydv-gdvl-siu9b3
+- Price: 39.00 ILS
+- Availability: In stock
+- Description: דונאטס נידו גדול ונעים למגע
+- Image: https://example.com/assets/product-enhanced-1782830847747-sxw5io.webp
+
+### דאמפלינג באן
+https://example.com/product/damplyng-ban-nqqr7r
+- Price: 30.00 ILS
+- Availability: In stock
+- Description: דאמפלינג עם 2 באנים נידו
+- Image: https://example.com/assets/product-enhanced-1782830715172-9ql1i7.webp
+
+### פלפל נידו 
+https://example.com/product/plpl-nydv-rakcaq
+- Price: 15.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: פלפל נידו נעים וכיפי
+- Image: https://example.com/assets/product-enhanced-1782830594143-i2jty.webp
+
+### חמאה נידו הגדולה
+https://example.com/product/chmah-nydv-hgdvlh-55ouep
+- Price: 39.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: חמאה נידו מטורפת נעימה בטירוף
+- Image: https://example.com/assets/product-1782830359778-qq6x2.webp
 
 ### רחפן מתקפל עם מצלמה ו – WIFI לצילום חוויתי – IPOP
 https://example.com/product/rchpn-mtkpl-am-mtslmh-v-wifi-ltsylvm-chvvyty-ipop-ftgc3l

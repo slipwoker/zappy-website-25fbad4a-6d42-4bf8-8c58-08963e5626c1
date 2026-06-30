@@ -1,10 +1,311 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-29T19:24:07.144Z",
+  "generated_at": "2026-06-30T15:25:37.054Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 49,
+  "count": 62,
   "products": [
+    {
+      "id": "bdfc106f-9daa-400b-8929-adfd7c5e5c96",
+      "slug": "brvvz-nydv-ank-i1gdk5",
+      "name": "ברווז נידו ענק",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ברווז נידו ענק נעים כיפי ומרגיע",
+      "sku": null,
+      "brand": null,
+      "price": 39,
+      "base_price": 39,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782832884506-y2ivoe.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/brvvz-nydv-ank-i1gdk5",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-06-30T15:22:16.373Z"
+    },
+    {
+      "id": "beeff0f0-2817-4011-974e-1cc699764b16",
+      "slug": "skvvyshy-nydv-brvvz-tsbavny-ank-f52lmv",
+      "name": "סקווישי נידו ברווז צבעוני ענק",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ברווז נידו צבעוני ענק כיפי נעים ומרגיע",
+      "sku": null,
+      "brand": null,
+      "price": 39,
+      "base_price": 39,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782832694649-98zsil.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/skvvyshy-nydv-brvvz-tsbavny-ank-f52lmv",
+      "categories": [],
+      "updated_at": "2026-06-30T15:20:03.663Z"
+    },
+    {
+      "id": "53ac5679-3238-4b5b-a272-72cada93faf1",
+      "slug": "skvvyshy-nydv-tyrs-mtdkij",
+      "name": "סקווישי נידו תירס ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סקווישי נידו תירס נעים כיפי ומרגיע",
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782832564335-0hlag.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/skvvyshy-nydv-tyrs-mtdkij",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-06-30T15:17:44.737Z"
+    },
+    {
+      "id": "a6a85ade-053c-48f2-92f8-1d647e511c41",
+      "slug": "skvvyshy-nydv-lymvn-ank-cwxf4w",
+      "name": "סקווישי נידו לימון ענק",
+      "name_translations": {},
+      "description": "",
+      "short_description": "נידו לימון ענק נעים וכיפי למגע",
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782832414256-n84hka.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/skvvyshy-nydv-lymvn-ank-cwxf4w",
+      "categories": [],
+      "updated_at": "2026-06-30T15:14:51.160Z"
+    },
+    {
+      "id": "180dfc66-92dc-4d59-99f4-bc1372ff77e3",
+      "slug": "shlt-gyymyng-nydv-gdvl-84qau9",
+      "name": "שלט גיימינג נידו גדול ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "שלט גיימינג נידו גדול נעים וכיפי למגע",
+      "sku": null,
+      "brand": null,
+      "price": 39,
+      "base_price": 39,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782832198066-slr4tm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shlt-gyymyng-nydv-gdvl-84qau9",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-06-30T15:11:24.738Z"
+    },
+    {
+      "id": "3a36b9a0-047b-422f-989a-947875c37686",
+      "slug": "nydv-abtych-ank-238tt7",
+      "name": "נידו אבטיח ענק",
+      "name_translations": {},
+      "description": "",
+      "short_description": "נידו אבטיח ענק וכיפי למגע",
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782832104672-p4kvx.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/nydv-abtych-ank-238tt7",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-06-30T15:09:30.076Z"
+    },
+    {
+      "id": "05878b74-81c0-49c4-8e55-f1d5f4e2f0b8",
+      "slug": "tvt-nydv-ank-l7c9zx",
+      "name": "תות נידו ענק ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "תות נידו ענק ונעים בטירוף ",
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782831655019-0y81e.webp",
+        "https://example.com/assets/product-1782831702779-m4ygvr.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/tvt-nydv-ank-l7c9zx",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-06-30T15:05:44.211Z"
+    },
+    {
+      "id": "273eda63-5ab8-4542-ac9a-409984f64df7",
+      "slug": "pndh-nydv-ank-m9c6tf",
+      "name": "פנדה נידו  ענק",
+      "name_translations": {},
+      "description": "",
+      "short_description": "פנדה נידו נדיר במיוחד בלעדי רק אצלנו",
+      "sku": null,
+      "brand": null,
+      "price": 39,
+      "base_price": 39,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782831305765-ajau2w.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/pndh-nydv-ank-m9c6tf",
+      "categories": [],
+      "updated_at": "2026-06-30T14:58:06.607Z"
+    },
+    {
+      "id": "a90a62e4-add6-4421-929e-631ce0172e2f",
+      "slug": "skvvshy-nydv-shtyh-am-prtsvp-gdvl-qldfu3",
+      "name": "סקוושי נידו שתיה עם פרצוף גדול ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "גדול נעים וכיפי למגע",
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782831114199-opcf46i.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/skvvshy-nydv-shtyh-am-prtsvp-gdvl-qldfu3",
+      "categories": [],
+      "updated_at": "2026-06-30T14:52:19.389Z"
+    },
+    {
+      "id": "fda29abf-e3b9-4242-9efd-c0c3da04670b",
+      "slug": "dvnats-nydv-gdvl-siu9b3",
+      "name": "דונאטס נידו גדול",
+      "name_translations": {},
+      "description": "",
+      "short_description": "דונאטס נידו גדול ונעים למגע",
+      "sku": null,
+      "brand": null,
+      "price": 39,
+      "base_price": 39,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782830847747-sxw5io.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/dvnats-nydv-gdvl-siu9b3",
+      "categories": [],
+      "updated_at": "2026-06-30T14:48:23.842Z"
+    },
+    {
+      "id": "6652fcf7-89f7-4c71-814a-f515522f9623",
+      "slug": "damplyng-ban-nqqr7r",
+      "name": "דאמפלינג באן",
+      "name_translations": {},
+      "description": "",
+      "short_description": "דאמפלינג עם 2 באנים נידו ",
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782830715172-9ql1i7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/damplyng-ban-nqqr7r",
+      "categories": [],
+      "updated_at": "2026-06-30T14:45:48.245Z"
+    },
+    {
+      "id": "24505e8e-0b5e-4bd4-9a9f-15dbf910345d",
+      "slug": "plpl-nydv-rakcaq",
+      "name": "פלפל נידו ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "פלפל נידו נעים וכיפי",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782830594143-i2jty.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/plpl-nydv-rakcaq",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-06-30T14:44:04.851Z"
+    },
+    {
+      "id": "3e281f2e-a2ac-4af8-ae05-7d9d42f7b51f",
+      "slug": "chmah-nydv-hgdvlh-55ouep",
+      "name": "חמאה נידו הגדולה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חמאה נידו מטורפת נעימה בטירוף",
+      "sku": null,
+      "brand": null,
+      "price": 39,
+      "base_price": 39,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782830359778-qq6x2.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chmah-nydv-hgdvlh-55ouep",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-06-30T14:41:37.042Z"
+    },
     {
       "id": "8739a86b-cced-45ac-a92e-24f458aa5e7e",
       "slug": "rchpn-mtkpl-am-mtslmh-v-wifi-ltsylvm-chvvyty-ipop-ftgc3l",
