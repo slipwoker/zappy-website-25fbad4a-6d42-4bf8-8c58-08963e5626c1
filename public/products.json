@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T15:51:19.228Z",
-  "base_url": "https://example.com",
+  "generated_at": "2026-06-30T15:51:41.141Z",
+  "base_url": "https://park-hatzaatzuim.zappy5.app",
   "currency": "ILS",
   "count": 62,
   "products": [
@@ -19,11 +19,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782832884506-y2ivoe.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782832884506-y2ivoe.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/brvvz-nydv-ank-i1gdk5",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/brvvz-nydv-ank-i1gdk5",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
@@ -43,11 +43,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782832694649-98zsil.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782832694649-98zsil.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/skvvyshy-nydv-brvvz-tsbavny-ank-f52lmv",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/skvvyshy-nydv-brvvz-tsbavny-ank-f52lmv",
       "categories": [],
       "updated_at": "2026-06-30T15:20:03.663Z"
     },
@@ -65,11 +65,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782832564335-0hlag.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782832564335-0hlag.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/skvvyshy-nydv-tyrs-mtdkij",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/skvvyshy-nydv-tyrs-mtdkij",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
@@ -89,11 +89,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782832414256-n84hka.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782832414256-n84hka.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/skvvyshy-nydv-lymvn-ank-cwxf4w",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/skvvyshy-nydv-lymvn-ank-cwxf4w",
       "categories": [],
       "updated_at": "2026-06-30T15:14:51.160Z"
     },
@@ -111,11 +111,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782832198066-slr4tm.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782832198066-slr4tm.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/shlt-gyymyng-nydv-gdvl-84qau9",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/shlt-gyymyng-nydv-gdvl-84qau9",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
@@ -135,11 +135,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782832104672-p4kvx.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782832104672-p4kvx.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/nydv-abtych-ank-238tt7",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/nydv-abtych-ank-238tt7",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
@@ -159,12 +159,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782831655019-0y81e.webp",
-        "https://example.com/assets/product-1782831702779-m4ygvr.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782831655019-0y81e.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782831702779-m4ygvr.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/tvt-nydv-ank-l7c9zx",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/tvt-nydv-ank-l7c9zx",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
@@ -184,11 +184,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782831305765-ajau2w.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782831305765-ajau2w.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pndh-nydv-ank-m9c6tf",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/pndh-nydv-ank-m9c6tf",
       "categories": [],
       "updated_at": "2026-06-30T14:58:06.607Z"
     },
@@ -206,11 +206,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782831114199-opcf46i.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782831114199-opcf46i.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/skvvshy-nydv-shtyh-am-prtsvp-gdvl-qldfu3",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/skvvshy-nydv-shtyh-am-prtsvp-gdvl-qldfu3",
       "categories": [],
       "updated_at": "2026-06-30T14:52:19.389Z"
     },
@@ -228,11 +228,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782830847747-sxw5io.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782830847747-sxw5io.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/dvnats-nydv-gdvl-siu9b3",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/dvnats-nydv-gdvl-siu9b3",
       "categories": [],
       "updated_at": "2026-06-30T14:48:23.842Z"
     },
@@ -250,11 +250,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782830715172-9ql1i7.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782830715172-9ql1i7.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/damplyng-ban-nqqr7r",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/damplyng-ban-nqqr7r",
       "categories": [],
       "updated_at": "2026-06-30T14:45:48.245Z"
     },
@@ -272,11 +272,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782830594143-i2jty.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782830594143-i2jty.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/plpl-nydv-rakcaq",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/plpl-nydv-rakcaq",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
@@ -296,11 +296,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782830359778-qq6x2.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782830359778-qq6x2.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chmah-nydv-hgdvlh-55ouep",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/chmah-nydv-hgdvlh-55ouep",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
@@ -320,11 +320,11 @@
       "sale_price": 119,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782760470670-09oqiw.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782760470670-09oqiw.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/rchpn-mtkpl-am-mtslmh-v-wifi-ltsylvm-chvvyty-ipop-ftgc3l",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/rchpn-mtkpl-am-mtslmh-v-wifi-ltsylvm-chvvyty-ipop-ftgc3l",
       "categories": [],
       "updated_at": "2026-06-29T19:18:45.525Z"
     },
@@ -342,12 +342,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782760228682-i7z7n9.webp",
-        "https://example.com/assets/product-1782760182369-h86rq8.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782760228682-i7z7n9.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782760182369-h86rq8.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/ryynbvkvrn-ank-lbn-chd-krn-brcas7",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/ryynbvkvrn-ank-lbn-chd-krn-brcas7",
       "categories": [],
       "updated_at": "2026-06-29T19:12:06.146Z"
     },
@@ -365,12 +365,12 @@
       "sale_price": 150,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782750062456-apt07.webp",
-        "https://example.com/assets/product-1782750116096-3wdkbn.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782750062456-apt07.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782750116096-3wdkbn.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/kvrkynt-myky-mavs-3-glglym-am-blm-rgl-disney-fo9les",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/kvrkynt-myky-mavs-3-glglym-am-blm-rgl-disney-fo9les",
       "categories": [
         "גלגלים"
       ],
@@ -390,14 +390,14 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782748597670-6tnecp.webp",
-        "https://example.com/assets/product-1782748611628-zzrqlw.webp",
-        "https://example.com/assets/product-1782748624810-73f5ur.webp",
-        "https://example.com/assets/product-1782748636548-myd0q8.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782748597670-6tnecp.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782748611628-zzrqlw.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782748624810-73f5ur.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782748636548-myd0q8.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/cookeez-makery-pancake-treatz-mchbt-ksvmh-cookeez-makery-pancake-treatz-mchbt-ksvmh-lhknt-bvbt-hptah-rychnyt-sy95aa",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/cookeez-makery-pancake-treatz-mchbt-ksvmh-cookeez-makery-pancake-treatz-mchbt-ksvmh-lhknt-bvbt-hptah-rychnyt-sy95aa",
       "categories": [],
       "updated_at": "2026-06-29T16:00:07.543Z"
     },
@@ -415,12 +415,12 @@
       "sale_price": 150,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782748381178-vgir5g.webp",
-        "https://example.com/assets/product-1782748404189-x2z4ov.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782748381178-vgir5g.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782748404189-x2z4ov.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/kvrkynt-prvzn-3-glglym-am-blm-rgl-ilfzty",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/kvrkynt-prvzn-3-glglym-am-blm-rgl-ilfzty",
       "categories": [
         "גלגלים"
       ],
@@ -440,13 +440,13 @@
       "sale_price": 229,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782748175184-yh9hp.webp",
-        "https://example.com/assets/product-1782748187736-2xs46h.webp",
-        "https://example.com/assets/product-1782748198528-yah0zn.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782748175184-yh9hp.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782748187736-2xs46h.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782748198528-yah0zn.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/tnvr-apyyh-shl-kvkyz-cookeez-makery-kfx8e2",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/tnvr-apyyh-shl-kvkyz-cookeez-makery-kfx8e2",
       "categories": [],
       "updated_at": "2026-06-29T15:53:28.408Z"
     },
@@ -464,13 +464,13 @@
       "sale_price": 230,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782746982872-a3zjk7.webp",
-        "https://example.com/assets/product-1782746932810-hrphkh.webp",
-        "https://example.com/assets/product-1782746950499-agndqs.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782746982872-a3zjk7.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782746932810-hrphkh.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782746950499-agndqs.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/kvp-ayntraktyby-am-50-kvlvt-vtgvbvt-little-live-pets-mango-tdy9rj",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/kvp-ayntraktyby-am-50-kvlvt-vtgvbvt-little-live-pets-mango-tdy9rj",
       "categories": [],
       "updated_at": "2026-06-29T15:34:02.598Z"
     },
@@ -488,12 +488,12 @@
       "sale_price": 200,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782738351036-0wcvv.webp",
-        "https://example.com/assets/product-1782738390307-fl0uvp.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782738351036-0wcvv.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782738390307-fl0uvp.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/kvrkynt-3-glglym-lyldym-viper-super-ride-i3mlgt",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/kvrkynt-3-glglym-lyldym-viper-super-ride-i3mlgt",
       "categories": [
         "גלגלים"
       ],
@@ -513,13 +513,13 @@
       "sale_price": 250,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782734300034-896qr.webp",
-        "https://example.com/assets/product-1782734258568-qh6l7r.webp",
-        "https://example.com/assets/product-1782734275369-0w0ico.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782734300034-896qr.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782734258568-qh6l7r.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782734275369-0w0ico.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/kvrkynt-lyldym-3-glglym-am-avrvt-mbyt-viper-b9k1vk",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/kvrkynt-lyldym-3-glglym-am-avrvt-mbyt-viper-b9k1vk",
       "categories": [
         "גלגלים"
       ],
@@ -539,11 +539,11 @@
       "sale_price": 300,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782733553785-gcywcn.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782733553785-gcywcn.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/kvrkynt-prymyvm-mtkpl-am-glglym-gdvlym-bvlmy-zazvaym-vmatsvr-yd-kvrkynt-aykvty-lyldym-nvar-ssuk0u",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/kvrkynt-prymyvm-mtkpl-am-glglym-gdvlym-bvlmy-zazvaym-vmatsvr-yd-kvrkynt-aykvty-lyldym-nvar-ssuk0u",
       "categories": [
         "גלגלים"
       ],
@@ -563,11 +563,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782731974533-cne9pd.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782731974533-cne9pd.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/kvrkynt-3-glglym-svnyk-pryym-b84qes",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/kvrkynt-3-glglym-svnyk-pryym-b84qes",
       "categories": [
         "גלגלים"
       ],
@@ -587,11 +587,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782729467676-rgtr92.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782729467676-rgtr92.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/kvrkynt-3-glglym-hlv-kyty-3sis1z",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/kvrkynt-3-glglym-hlv-kyty-3sis1z",
       "categories": [
         "גלגלים"
       ],
@@ -611,11 +611,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782727192098-6lq4te.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782727192098-6lq4te.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/bnnh-nydv-7109qj",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/bnnh-nydv-7109qj",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
@@ -635,11 +635,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782725585774-p1k1r7.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782725585774-p1k1r7.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/skvvyshy-chtvl-mtnpch-brash-jwsoz8",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/skvvyshy-chtvl-mtnpch-brash-jwsoz8",
       "categories": [],
       "updated_at": "2026-06-29T09:57:25.605Z"
     },
@@ -657,12 +657,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782724574505-p9sh6g.webp",
-        "https://example.com/assets/product-enhanced-1782724682955-l7izug.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782724574505-p9sh6g.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782724682955-l7izug.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/nydv-labvbv-mtvrp-0h90qq",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/nydv-labvbv-mtvrp-0h90qq",
       "categories": [],
       "updated_at": "2026-06-29T09:18:44.729Z"
     },
@@ -680,11 +680,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782721908140-5tifk.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782721908140-5tifk.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/tvt-nydv-ms5taq",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/tvt-nydv-ms5taq",
       "categories": [],
       "updated_at": "2026-06-29T08:32:40.320Z"
     },
@@ -702,11 +702,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782721637451-hzvd14.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782721637451-hzvd14.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/damplyng-skvvshy-wk7xnv",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/damplyng-skvvshy-wk7xnv",
       "categories": [],
       "updated_at": "2026-06-29T08:28:51.445Z"
     },
@@ -724,11 +724,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782721008475-dut2u.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782721008475-dut2u.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/kapybrh-nydv-khz07z",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/kapybrh-nydv-khz07z",
       "categories": [],
       "updated_at": "2026-06-29T08:25:23.296Z"
     },
@@ -746,11 +746,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782720285981-3c0c07.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782720285981-3c0c07.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/nydv-glydh-svb7uh",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/nydv-glydh-svb7uh",
       "categories": [],
       "updated_at": "2026-06-29T08:05:58.360Z"
     },
@@ -768,11 +768,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782720026606-xdu8na.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782720026606-xdu8na.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/nydv-gbynh-fx76qz",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/nydv-gbynh-fx76qz",
       "categories": [],
       "updated_at": "2026-06-29T08:01:11.852Z"
     },
@@ -790,11 +790,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782720473052-steldk.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782720473052-steldk.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/nydv-htynvk-shl-bmbh-ztv9qv",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/nydv-htynvk-shl-bmbh-ztv9qv",
       "categories": [],
       "updated_at": "2026-06-29T08:08:56.862Z"
     },
@@ -812,11 +812,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782718976920-2cyr4.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782718976920-2cyr4.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/brvvz-tsbavny-nydv-gdvl-b0kjli",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/brvvz-tsbavny-nydv-gdvl-b0kjli",
       "categories": [],
       "updated_at": "2026-06-29T07:53:00.199Z"
     },
@@ -834,11 +834,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782718611065-609bxk.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782718611065-609bxk.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/brvvz-nydv-ank-1bslk4",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/brvvz-nydv-ank-1bslk4",
       "categories": [],
       "updated_at": "2026-06-29T07:37:44.924Z"
     },
@@ -856,11 +856,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782718372579-uwdopb.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782718372579-uwdopb.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/nydv-bnnh-anky-znpfcv",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/nydv-bnnh-anky-znpfcv",
       "categories": [],
       "updated_at": "2026-06-29T07:34:34.830Z"
     },
@@ -878,11 +878,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782718236077-ja4jlna.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782718236077-ja4jlna.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/nydv-avp-gdvl-uyslbu",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/nydv-avp-gdvl-uyslbu",
       "categories": [],
       "updated_at": "2026-06-29T07:30:46.892Z"
     },
@@ -900,11 +900,11 @@
       "sale_price": 49,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782664406387-q4vs4.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782664406387-q4vs4.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/mtslmh-dygytlyt-lyldym-am-abyzrym-13z4u6",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/mtslmh-dygytlyt-lyldym-am-abyzrym-13z4u6",
       "categories": [],
       "updated_at": "2026-06-28T16:35:17.351Z"
     },
@@ -922,12 +922,12 @@
       "sale_price": 149,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782654847431-bnocl.webp",
-        "https://example.com/assets/product-enhanced-1782655141560-mdumla.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782654847431-bnocl.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782655141560-mdumla.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/kvrkynt-3-glglym-styts-dzfzio",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/kvrkynt-3-glglym-styts-dzfzio",
       "categories": [
         "גלגלים"
       ],
@@ -947,12 +947,12 @@
       "sale_price": 99,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782642053459-6mumh.webp",
-        "https://example.com/assets/product-enhanced-1782642151528-xo4xtx.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782642053459-6mumh.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782642151528-xo4xtx.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/bymbh-gvk-chd-krn-4ugrwe",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/bymbh-gvk-chd-krn-4ugrwe",
       "categories": [
         "גלגלים"
       ],
@@ -972,12 +972,12 @@
       "sale_price": 99,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782641765990-ba1ee.webp",
-        "https://example.com/assets/product-enhanced-1782641792291-e4znn1.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782641765990-ba1ee.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782641792291-e4znn1.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/bymbh-gvk-smy-hkbay-mbyt-viper-w5pujo",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/bymbh-gvk-smy-hkbay-mbyt-viper-w5pujo",
       "categories": [
         "גלגלים"
       ],
@@ -997,13 +997,13 @@
       "sale_price": 369,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782635766788-mbk8qf.webp",
-        "https://example.com/assets/product-1782635788377-xkhzhb.webp",
-        "https://example.com/assets/product-enhanced-1782635861212-etewhs5.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782635766788-mbk8qf.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782635788377-xkhzhb.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782635861212-etewhs5.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/byt-hbvbvt-shl-gby-byt-bvbvt-ank-tsbavny-gabbys-dollhouse-nf7jqy",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/byt-hbvbvt-shl-gby-byt-bvbvt-ank-tsbavny-gabbys-dollhouse-nf7jqy",
       "categories": [],
       "updated_at": "2026-06-28T08:37:53.597Z"
     },
@@ -1021,12 +1021,12 @@
       "sale_price": 59,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782634601351-xvrfai.webp",
-        "https://example.com/assets/product-1782634617689-rcfus1.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782634601351-xvrfai.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782634617689-rcfus1.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/skvtr-lktntnym-little-tikes-033sjw",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/skvtr-lktntnym-little-tikes-033sjw",
       "categories": [
         "גלגלים"
       ],
@@ -1046,12 +1046,12 @@
       "sale_price": 399,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782488310022-a9cgti.webp",
-        "https://example.com/assets/product-enhanced-1782488553243-3kmcj.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782488310022-a9cgti.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782488553243-3kmcj.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/kvrkynt-palvlym-mktsvay-glgly-sylykvn-110-mm-viper-gojx72",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/kvrkynt-palvlym-mktsvay-glgly-sylykvn-110-mm-viper-gojx72",
       "categories": [
         "גלגלים"
       ],
@@ -1071,12 +1071,12 @@
       "sale_price": 129,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782485941783-8gpre.webp",
-        "https://example.com/assets/product-enhanced-1782486337332-qtvggb.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782485941783-8gpre.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782486337332-qtvggb.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/mtslmt-yldym-dygytlyt-am-hdpsh-myydyt-v8c9sd",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/mtslmt-yldym-dygytlyt-am-hdpsh-myydyt-v8c9sd",
       "categories": [],
       "updated_at": "2026-06-26T15:07:16.597Z"
     },
@@ -1094,11 +1094,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782488781167-fe04m.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782488781167-fe04m.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/klb-nydv-tsbavny-qvrdy4",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/klb-nydv-tsbavny-qvrdy4",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
@@ -1118,11 +1118,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782485306751-3huh1s.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782485306751-3huh1s.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/lb-nydv-tsbavny-48mea4",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/lb-nydv-tsbavny-48mea4",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
@@ -1142,11 +1142,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782474593755-8zk70o.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782474593755-8zk70o.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/nydv-hlv-kyty-3e8okk",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/nydv-hlv-kyty-3e8okk",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
@@ -1166,11 +1166,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782473155809-oq1fb.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782473155809-oq1fb.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/styts-nydv-7h9mhs",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/styts-nydv-7h9mhs",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
@@ -1190,12 +1190,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782424208499-12jmz.webp",
-        "https://example.com/assets/product-1782424281689-v3gul.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782424208499-12jmz.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782424281689-v3gul.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/dysny-styts-bvbt-prvvh-ayntraktybyt-35-sm-2ypatg",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/dysny-styts-bvbt-prvvh-ayntraktybyt-35-sm-2ypatg",
       "categories": [],
       "updated_at": "2026-06-25T21:53:31.592Z"
     },
@@ -1213,11 +1213,11 @@
       "sale_price": 79,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782378872858-4yklg5.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782378872858-4yklg5.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/myny-bydvryt-nyydt-zvg-mykrvpvnym-alchvtyym-917a26",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/myny-bydvryt-nyydt-zvg-mykrvpvnym-alchvtyym-917a26",
       "categories": [],
       "updated_at": "2026-06-25T09:16:52.160Z"
     },
@@ -1235,11 +1235,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782378241524-3rg68f.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782378241524-3rg68f.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/hkdvr-hchkm-kdvrgl-shkt-lmshchk-bbyt-vbchvts-kickerball-lm3cy0",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/hkdvr-hchkm-kdvrgl-shkt-lmshchk-bbyt-vbchvts-kickerball-lm3cy0",
       "categories": [],
       "updated_at": "2026-06-25T09:05:49.401Z"
     },
@@ -1257,11 +1257,11 @@
       "sale_price": 89,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782376918226-0od2iq.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782376918226-0od2iq.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/byt-hbvbvt-shl-gby-mkvnt-glydh-gabbys-dollhouse-uscay7",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/byt-hbvbvt-shl-gby-mkvnt-glydh-gabbys-dollhouse-uscay7",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
@@ -1281,11 +1281,11 @@
       "sale_price": 100,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782376599210-li7vjo.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782376599210-li7vjo.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/bytsy-hptah-mbyt-dyamnt-dynvzavrym-e12bhs",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/bytsy-hptah-mbyt-dyamnt-dynvzavrym-e12bhs",
       "categories": [],
       "updated_at": "2026-06-25T08:40:14.394Z"
     },
@@ -1303,11 +1303,11 @@
       "sale_price": 15,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782375539383-qlujoe.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782375539383-qlujoe.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/myny-damplyng-nydv-ycaq60",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/myny-damplyng-nydv-ycaq60",
       "categories": [],
       "updated_at": "2026-06-25T08:21:08.109Z"
     },
@@ -1325,11 +1325,11 @@
       "sale_price": 15,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782375300844-v7y15y.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782375300844-v7y15y.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/skvvyshy-4-myny-dvnats-damplyng-dumpling-squishy-fndnuc",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/skvvyshy-4-myny-dvnats-damplyng-dumpling-squishy-fndnuc",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
@@ -1349,12 +1349,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782374384993-20am9o.webp",
-        "https://example.com/assets/product-1782374456697-tx0jgd.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782374384993-20am9o.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782374456697-tx0jgd.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/skvvshy-ban-damplyng-larvcht-dym-sam-btsknyt-bshll-tsbaym-tsba-bhptah-q4ljd0",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/skvvshy-ban-damplyng-larvcht-dym-sam-btsknyt-bshll-tsbaym-tsba-bhptah-q4ljd0",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
@@ -1374,11 +1374,11 @@
       "sale_price": 79,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782373312771-bwsra2.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782373312771-bwsra2.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/kvpst-hhptavt-bnym-diamant-surprise-box-girls-pigvii",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/kvpst-hhptavt-bnym-diamant-surprise-box-girls-pigvii",
       "categories": [],
       "updated_at": "2026-06-25T07:48:35.726Z"
     },
@@ -1396,11 +1396,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1782318259316-dm1byf.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-1782318259316-dm1byf.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/bytsy-chyvt-hksm-nnqpsn",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/bytsy-chyvt-hksm-nnqpsn",
       "categories": [],
       "updated_at": "2026-06-24T16:25:22.567Z"
     },
@@ -1418,11 +1418,11 @@
       "sale_price": 100,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1782833451793-1p50dc.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-ai-fit-1782833451793-1p50dc.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/marz-htrndym-shl-park-htsatsvaym-u3yid7",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/marz-htrndym-shl-park-htsatsvaym-u3yid7",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
@@ -1442,12 +1442,12 @@
       "sale_price": 25,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1782308451847-owh2v4.webp",
-        "https://example.com/assets/product-enhanced-1782308485608-7h18ec.webp"
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782308451847-owh2v4.webp",
+        "https://park-hatzaatzuim.zappy5.app/assets/product-enhanced-1782308485608-7h18ec.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/damplyng-dym-sam-cr3b40",
+      "url": "https://park-hatzaatzuim.zappy5.app/product/damplyng-dym-sam-cr3b40",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
