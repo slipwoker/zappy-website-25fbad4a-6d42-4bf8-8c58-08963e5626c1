@@ -527,12 +527,12 @@ https://example.com/product/bytsy-chyvt-hksm-nnqpsn
 - Image: https://example.com/assets/product-1782318259316-dm1byf.webp
 
 ### מארז הטרנדים של פארק הצעצועים 
-https://example.com/product/marz-htrndym-shl-park-htsatsvaym-72vv1c
+https://example.com/product/marz-htrndym-shl-park-htsatsvaym-u3yid7
 - Price: 100.00 ILS (sale, was 150.00 ILS)
 - Availability: In stock
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: מארז הטרנדים הכי מטורף שיש 8 פריטים הכי ויראלים שיש בטיקטוק
-- Image: https://example.com/assets/product-1782310644717-ztdwa.webp
+- Image: https://example.com/assets/product-ai-fit-1782833451793-1p50dc.webp
 
 ### דאמפלינג דים סאם 
 https://example.com/product/damplyng-dym-sam-cr3b40
