@@ -2334,6 +2334,7 @@ main { flex: 1 0 auto; }
   object-fit: cover;
   object-position: left center;
   z-index: 1;
+  opacity: 0.85;
 }
 
 .index-hero-section .hero-fade-content {
