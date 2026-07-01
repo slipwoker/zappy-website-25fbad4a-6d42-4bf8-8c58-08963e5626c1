@@ -12949,6 +12949,10 @@ html body .index-hero-section .hero-fade-img { object-fit: contain !important; }
 html body .index-hero-section .hero-fade-img {
   object-position: 50% 50% !important;
 }
+
+html[dir="rtl"] section[data-hero-treatment="fade-bleed"] > img:first-child {
+  object-position: center center !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
