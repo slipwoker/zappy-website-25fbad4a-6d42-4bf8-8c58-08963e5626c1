@@ -2503,8 +2503,8 @@ main { flex: 1 0 auto; }
 
 @media (min-width: 769px) {
   .index-hero-section .hero-fade-content {
-    background: linear-gradient(to left, rgba(255,255,255,0) 0%, rgba(255,255,255,0.96) 25%, rgba(255,255,255,1) 50%);
-  }
+  background: linear-gradient(to left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.65) 40%, rgb(255, 255, 255) 70%);
+}
 }
 /* ZAPPY_POSTGEN_GUARD_HERO_FONT_CAP:index-hero */
 .hero h1, .hero-section h1, [class*="hero-"] h1, [class~="hero"] h1, .hero .hero-title, .hero-title { font-size: 48px !important; line-height: 1.2 !important; }
