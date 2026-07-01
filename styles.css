@@ -2550,7 +2550,7 @@ main { flex: 1 0 auto; }
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
-  object-position: 50% 50% !important;
+  object-position: center center !important;
   margin: 0 !important;
   z-index: 0 !important;
   -webkit-mask-image: none !important;
@@ -12951,6 +12951,10 @@ html body .index-hero-section .hero-fade-img {
 }
 
 html[dir="rtl"] section[data-hero-treatment="fade-bleed"] > img:first-child {
+  object-position: center center !important;
+}
+
+html[dir="rtl"] [data-layout-spec="בית-hero"] > img.hero-fade-img:first-child {
   object-position: center center !important;
 }
 /* mobile-submenu-overflow-fix */
