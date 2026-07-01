@@ -12957,6 +12957,86 @@ html[dir="rtl"] section[data-hero-treatment="fade-bleed"] > img:first-child {
 html[dir="rtl"] [data-layout-spec="בית-hero"] > img.hero-fade-img:first-child {
   object-position: center center !important;
 }
+
+@media (max-width: 768px) {
+.deals-section {
+  padding: 40px 16px 50px !important;
+}
+}
+
+@media (max-width: 768px) {
+.deals-section {
+  padding: 40px 16px 50px !important;
+}
+
+.deals-section .deals-grid {
+  grid-template-columns: 1fr !important;
+  gap: 16px !important;
+}
+
+.deals-section .deal-card {
+  width: 100% !important;
+  border-radius: 14px !important;
+  overflow: hidden !important;
+}
+
+.deals-section .deal-card-inner {
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.deals-section .deal-image-wrapper {
+  width: 100% !important;
+  height: auto !important;
+  max-height: 220px !important;
+  overflow: hidden !important;
+}
+
+.deals-section .deal-image {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+}
+
+.deals-section .deal-content {
+  padding: 16px !important;
+}
+
+.deals-section .deal-name {
+  font-size: 1.2rem !important;
+  margin: 8px 0 !important;
+}
+
+.deals-section .deal-content p {
+  font-size: 0.9rem !important;
+  line-height: 1.5 !important;
+}
+
+.deals-section .deal-pricing {
+  margin: 10px 0 !important;
+}
+
+.deals-section .deal-cta {
+  display: inline-block !important;
+  margin-top: 8px !important;
+  padding: 10px 20px !important;
+  font-size: 0.95rem !important;
+}
+
+.deals-section .deals-header {
+  margin-bottom: 24px !important;
+}
+
+.deals-section .deals-title {
+  font-size: 1.6rem !important;
+}
+
+.deals-section .deals-subtitle {
+  font-size: 0.95rem !important;
+  max-width: 100% !important;
+  padding: 0 4px !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
