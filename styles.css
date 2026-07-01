@@ -12123,6 +12123,10 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Quicksand', sans-serif; font-weight: 700;
 }
 /* /Zappy custom logo size */
 
+
+.index-hero-section[data-hero-type="fullscreen-scrim"] .hero-fade-img[data-hero-bg] {
+  opacity: 0.85 !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
