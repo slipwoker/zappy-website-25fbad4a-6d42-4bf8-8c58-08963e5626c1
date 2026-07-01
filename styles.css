@@ -12127,6 +12127,19 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Quicksand', sans-serif; font-weight: 700;
 .index-hero-section[data-hero-type="fullscreen-scrim"] .hero-fade-img[data-hero-bg] {
   opacity: 0.85 !important;
 }
+
+.index-hero-section .hero-fade-img {
+  object-fit: contain !important;
+  object-position: center center !important;
+}
+/* zappy-self-heal */
+.index-hero-section .hero-fade-img { object-fit: contain !important; }
+.index-hero-section .hero-fade-img { object-position: center center !important; }
+
+/* zappy-self-heal */
+html body .index-hero-section .hero-fade-img { object-fit: contain !important; }
+html body .index-hero-section .hero-fade-img { object-position: center center !important; }
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
