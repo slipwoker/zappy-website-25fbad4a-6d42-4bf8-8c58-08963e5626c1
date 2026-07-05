@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T12:16:16.937Z",
+  "generated_at": "2026-07-05T12:17:51.274Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 62,
@@ -248,7 +248,7 @@
     },
     {
       "id": "6652fcf7-89f7-4c71-814a-f515522f9623",
-      "slug": "damplyng-ban-nqqr7r",
+      "slug": "damplyng-ban-o30yij",
       "name": "דאמפלינג באן",
       "name_translations": {},
       "description": "",
@@ -264,13 +264,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/damplyng-ban-nqqr7r",
-      "categories": [],
-      "updated_at": "2026-06-30T14:45:48.245Z"
+      "url": "https://parktoys.co.il/product/damplyng-ban-o30yij",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-05T12:17:19.397Z"
     },
     {
       "id": "24505e8e-0b5e-4bd4-9a9f-15dbf910345d",
-      "slug": "plpl-nydv-rakcaq",
+      "slug": "plpl-nydv-7w6uze",
       "name": "פלפל נידו ",
       "name_translations": {},
       "description": "",
@@ -286,11 +288,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/plpl-nydv-rakcaq",
+      "url": "https://parktoys.co.il/product/plpl-nydv-7w6uze",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
-      "updated_at": "2026-06-30T14:44:04.851Z"
+      "updated_at": "2026-07-05T12:17:48.045Z"
     },
     {
       "id": "3e281f2e-a2ac-4af8-ae05-7d9d42f7b51f",
