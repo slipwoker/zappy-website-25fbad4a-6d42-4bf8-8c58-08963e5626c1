@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T19:26:26.108Z",
+  "generated_at": "2026-07-05T19:47:20.898Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 68,
@@ -1399,7 +1399,7 @@
     },
     {
       "id": "b2eec38a-0f13-4a94-a165-179858f51bdd",
-      "slug": "hkdvr-hchkm-kdvrgl-shkt-lmshchk-bbyt-vbchvts-kickerball-lm3cy0",
+      "slug": "hkdvr-hchkm-kdvrgl-shkt-lmshchk-bbyt-vbchvts-kickerball-89wp96",
       "name": "  הכדור החכם: כדורגל שקט למשחק בבית ובחוץ KickerBall",
       "name_translations": {},
       "description": "",
@@ -1415,9 +1415,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/hkdvr-hchkm-kdvrgl-shkt-lmshchk-bbyt-vbchvts-kickerball-lm3cy0",
-      "categories": [],
-      "updated_at": "2026-06-25T09:05:49.401Z"
+      "url": "https://parktoys.co.il/product/hkdvr-hchkm-kdvrgl-shkt-lmshchk-bbyt-vbchvts-kickerball-89wp96",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-07-05T19:46:49.493Z"
     },
     {
       "id": "18c3b2c8-b3e3-4c31-9023-c894419e3228",
