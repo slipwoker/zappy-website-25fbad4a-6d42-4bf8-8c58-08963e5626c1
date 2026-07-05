@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 66**
+**Total active products: 67**
+
+### אוזניות בלוטוס של מכבי חיפה
+https://parktoys.co.il/product/avznyvt-blvtvs-shl-mkby-chyph-sov22e
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: אוזניות קשת אלחוטיות נטענות כולל מיקרופון. מתאים לשיחות, שמיעת מוזיקה.
+- Image: https://parktoys.co.il/assets/product-1783279392791-jvm8g.webp
 
 ### שולחן כדורגל ביתי מכבי תל אביב
 https://parktoys.co.il/product/shvlchn-kdvrgl-byty-mkby-tl-abyb-s8l8pe
