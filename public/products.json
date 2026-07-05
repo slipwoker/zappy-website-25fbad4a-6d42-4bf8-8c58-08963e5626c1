@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T19:15:16.908Z",
+  "generated_at": "2026-07-05T19:17:16.817Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 65,
+  "count": 66,
   "products": [
+    {
+      "id": "0159adcb-b811-47ff-8b4e-5ce8ee220588",
+      "slug": "shvlchn-kdvrgl-byty-mkby-tl-abyb-2ayhzg",
+      "name": "שולחן כדורגל ביתי מכבי תל אביב",
+      "name_translations": {},
+      "description": "",
+      "short_description": "שולחן הכדורגל תוכנן במיוחד למשחק זוגי נוח על גבי שולחן או משטח ישר.\nהוא כולל משטח משחק ירוק עם סימוני מגרש, שחקנים צבעוניים המותקנים על מוטות פלדה עמידים, וידיות אחיזה ארגונומיות לשליטה מרבית ומהירות תגובה.\nמבנה השולחן יציב וכולל לוח תוצאות ידני מעל כל שער, כדי שתוכלו לעקוב אחרי כל גול בדרך לניצחון. הערכה מגיעה עם אביזרים משלימים המבטיחים חוויית משחק שלמה מהרגע הראשון.\n\nמפרט טכני\nעיצובים זמינים: מכבי תל אביב (צהוב-כחול), מכבי חיפה (ירוק-לבן), בית\"ר ירושלים (צהוב-שחור).\nמידות השולחן: אורך כ-55-57",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 150,
+      "sale_price": 99,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1783279027754-7mcbdl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/shvlchn-kdvrgl-byty-mkby-tl-abyb-2ayhzg",
+      "categories": [],
+      "updated_at": "2026-07-05T19:17:16.226Z"
+    },
     {
       "id": "8c9b78e9-4d51-49f9-a014-3e1939478717",
       "slug": "shvlchn-kdvrgl-byty-shl-mkby-chyph-db3ee6",

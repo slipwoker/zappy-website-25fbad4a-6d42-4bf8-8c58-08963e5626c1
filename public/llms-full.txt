@@ -5800,6 +5800,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### שולחן כדורגל ביתי מכבי תל אביב
+URL: https://parktoys.co.il/product/shvlchn-kdvrgl-byty-mkby-tl-abyb-2ayhzg
+Price: 99.00 ILS (sale, was 150.00 ILS)
+Availability: In stock
+
+---
+
 ### שולחן כדורגל ביתי של מכבי חיפה
 URL: https://parktoys.co.il/product/shvlchn-kdvrgl-byty-shl-mkby-chyph-db3ee6
 Price: 99.00 ILS (sale, was 150.00 ILS)
