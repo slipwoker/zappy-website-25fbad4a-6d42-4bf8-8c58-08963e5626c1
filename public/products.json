@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T12:14:44.929Z",
+  "generated_at": "2026-07-05T12:15:35.250Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 62,
@@ -176,7 +176,7 @@
     },
     {
       "id": "273eda63-5ab8-4542-ac9a-409984f64df7",
-      "slug": "pndh-nydv-ank-m9c6tf",
+      "slug": "pndh-nydv-ank-orb9u7",
       "name": "פנדה נידו  ענק",
       "name_translations": {},
       "description": "",
@@ -192,13 +192,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/pndh-nydv-ank-m9c6tf",
-      "categories": [],
-      "updated_at": "2026-06-30T14:58:06.607Z"
+      "url": "https://parktoys.co.il/product/pndh-nydv-ank-orb9u7",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-05T12:15:03.540Z"
     },
     {
       "id": "a90a62e4-add6-4421-929e-631ce0172e2f",
-      "slug": "skvvshy-nydv-shtyh-am-prtsvp-gdvl-qldfu3",
+      "slug": "skvvshy-nydv-shtyh-am-prtsvp-gdvl-mtaz0b",
       "name": "סקוושי נידו שתיה עם פרצוף גדול ",
       "name_translations": {},
       "description": "",
@@ -214,9 +216,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/skvvshy-nydv-shtyh-am-prtsvp-gdvl-qldfu3",
-      "categories": [],
-      "updated_at": "2026-06-30T14:52:19.389Z"
+      "url": "https://parktoys.co.il/product/skvvshy-nydv-shtyh-am-prtsvp-gdvl-mtaz0b",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-05T12:15:24.899Z"
     },
     {
       "id": "fda29abf-e3b9-4242-9efd-c0c3da04670b",
