@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 63**
+**Total active products: 64**
+
+### שולחן כדורגל ביתר ירושלים
+https://parktoys.co.il/product/shvlchn-kdvrgl-bytr-yrvshlym-n5oxfp
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: הביאו את האקטיביות וההתרגשות של המגרש אליכם הביתה עם שולחן כדורגל איכותי ומעוצב. השולחן מאפשר לילדים ולמבוגרים כאחד ליהנות ממשחקים תחרותיים ומהנים, כשהוא מעוטר בסמלים ובצבעים של קבוצות הכדורגל המובילות בישראל. תיאור המוצר שולחן הכדורגל תוכנן במיוחד למשחק זוגי נוח על גבי שולחן או משטח ישר. הוא כולל משטח משחק ירוק עם סימוני מגרש, שחקנים צבעוניים המותקנים על מוטות פלדה עמידים, וידיות אחיזה ארגונומיות לשליטה מרבית ומהירות תגובה. מבנה השולחן יציב וכולל לוח תוצאות ידני מעל כל שער, כדי שתוכלו לעקוב אח
+- Image: https://parktoys.co.il/assets/product-1783278599988-zrnxw5.webp
 
 ### שולחן הוקי אוויר מעץ מבית I-POP
 https://parktoys.co.il/product/shvlchn-hvky-avvyr-mats-mbyt-i-pop-m2yz5a

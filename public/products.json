@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T14:44:52.413Z",
+  "generated_at": "2026-07-05T19:11:36.992Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 63,
+  "count": 64,
   "products": [
+    {
+      "id": "2fce0bde-3737-499f-91dd-6910f5af45db",
+      "slug": "shvlchn-kdvrgl-bytr-yrvshlym-n5oxfp",
+      "name": "שולחן כדורגל ביתר ירושלים",
+      "name_translations": {},
+      "description": "<p>מידות השולחן: אורך כ-55-57 ס\"מ, רוחב כ-45-46</p>",
+      "short_description": "הביאו את האקטיביות וההתרגשות של המגרש אליכם הביתה עם שולחן כדורגל איכותי ומעוצב.\nהשולחן מאפשר לילדים ולמבוגרים כאחד ליהנות ממשחקים תחרותיים ומהנים, כשהוא מעוטר בסמלים ובצבעים של קבוצות הכדורגל המובילות בישראל.\n\nתיאור המוצר\nשולחן הכדורגל תוכנן במיוחד למשחק זוגי נוח על גבי שולחן או משטח ישר.\nהוא כולל משטח משחק ירוק עם סימוני מגרש, שחקנים צבעוניים המותקנים על מוטות פלדה עמידים, וידיות אחיזה ארגונומיות לשליטה מרבית ומהירות תגובה.\nמבנה השולחן יציב וכולל לוח תוצאות ידני מעל כל שער, כדי שתוכלו לעקוב אח",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1783278599988-zrnxw5.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/shvlchn-kdvrgl-bytr-yrvshlym-n5oxfp",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-07-05T19:11:05.328Z"
+    },
     {
       "id": "7b7a1b74-72e6-4945-b540-888f29535907",
       "slug": "shvlchn-hvky-avvyr-mats-mbyt-i-pop-m2yz5a",
