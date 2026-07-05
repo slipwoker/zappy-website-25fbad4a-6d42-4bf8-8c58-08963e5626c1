@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T12:32:27.340Z",
+  "generated_at": "2026-07-05T12:32:56.886Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 62,
@@ -852,7 +852,7 @@
     },
     {
       "id": "538b5131-8121-41cc-8f0b-582349c6fe42",
-      "slug": "brvvz-nydv-ank-1bslk4",
+      "slug": "brvvz-nydv-ank-agsxes",
       "name": "ברווז נידו ענק",
       "name_translations": {},
       "description": "",
@@ -868,9 +868,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/brvvz-nydv-ank-1bslk4",
-      "categories": [],
-      "updated_at": "2026-06-29T07:37:44.924Z"
+      "url": "https://parktoys.co.il/product/brvvz-nydv-ank-agsxes",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-05T12:32:47.902Z"
     },
     {
       "id": "2c356a83-1fad-4ed0-90d7-7292d40696f2",
