@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T12:14:13.453Z",
+  "generated_at": "2026-07-05T12:14:44.929Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 62,
@@ -103,7 +103,7 @@
     },
     {
       "id": "180dfc66-92dc-4d59-99f4-bc1372ff77e3",
-      "slug": "shlt-gyymyng-nydv-gdvl-84qau9",
+      "slug": "shlt-gyymyng-nydv-gdvl-sc33wu",
       "name": "שלט גיימינג נידו גדול ",
       "name_translations": {},
       "description": "",
@@ -119,11 +119,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/shlt-gyymyng-nydv-gdvl-84qau9",
+      "url": "https://parktoys.co.il/product/shlt-gyymyng-nydv-gdvl-sc33wu",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
-      "updated_at": "2026-06-30T15:11:24.738Z"
+      "updated_at": "2026-07-05T12:14:13.420Z"
     },
     {
       "id": "3a36b9a0-047b-422f-989a-947875c37686",
