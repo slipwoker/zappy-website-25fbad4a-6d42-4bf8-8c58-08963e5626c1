@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T12:33:19.711Z",
+  "generated_at": "2026-07-05T12:33:57.844Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 62,
@@ -898,7 +898,7 @@
     },
     {
       "id": "40778ac0-423e-4e02-a26f-18ae47b08820",
-      "slug": "nydv-avp-gdvl-uyslbu",
+      "slug": "nydv-avp-gdvl-8p2h79",
       "name": "נידו עוף גדול ",
       "name_translations": {},
       "description": "",
@@ -914,9 +914,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/nydv-avp-gdvl-uyslbu",
-      "categories": [],
-      "updated_at": "2026-06-29T07:30:46.892Z"
+      "url": "https://parktoys.co.il/product/nydv-avp-gdvl-8p2h79",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-05T12:33:25.929Z"
     },
     {
       "id": "e5951dcb-fff2-4aa9-8bc6-68b5c9624925",
