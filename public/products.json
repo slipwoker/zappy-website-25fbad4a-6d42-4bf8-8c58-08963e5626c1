@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T12:22:33.787Z",
+  "generated_at": "2026-07-05T12:32:27.340Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 62,
@@ -804,7 +804,7 @@
     },
     {
       "id": "894ce3f7-5e7d-441f-8d07-ecb5611e39e4",
-      "slug": "nydv-htynvk-shl-bmbh-ztv9qv",
+      "slug": "nydv-htynvk-shl-bmbh-8kmj1s",
       "name": "נידו התינוק של במבה",
       "name_translations": {},
       "description": "",
@@ -820,13 +820,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/nydv-htynvk-shl-bmbh-ztv9qv",
-      "categories": [],
-      "updated_at": "2026-06-29T08:08:56.862Z"
+      "url": "https://parktoys.co.il/product/nydv-htynvk-shl-bmbh-8kmj1s",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-05T12:31:55.790Z"
     },
     {
       "id": "09955f04-dd39-472c-9795-eb7d263cbb1a",
-      "slug": "brvvz-tsbavny-nydv-gdvl-b0kjli",
+      "slug": "brvvz-tsbavny-nydv-gdvl-naztyf",
       "name": "ברווז צבעוני נידו גדול",
       "name_translations": {},
       "description": "",
@@ -842,9 +844,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/brvvz-tsbavny-nydv-gdvl-b0kjli",
-      "categories": [],
-      "updated_at": "2026-06-29T07:53:00.199Z"
+      "url": "https://parktoys.co.il/product/brvvz-tsbavny-nydv-gdvl-naztyf",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-05T12:32:25.440Z"
     },
     {
       "id": "538b5131-8121-41cc-8f0b-582349c6fe42",
