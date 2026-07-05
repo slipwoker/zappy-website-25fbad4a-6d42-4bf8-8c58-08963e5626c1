@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 64**
+**Total active products: 65**
+
+### שולחן כדורגל ביתי של מכבי תל אביב
+https://parktoys.co.il/product/shvlchn-kdvrgl-byty-shl-mkby-tl-abyb-np7hyh
+- Price: 99.00 ILS (sale, was 150.00 ILS)
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: שולחן הכדורגל תוכנן במיוחד למשחק זוגי נוח על גבי שולחן או משטח ישר. הוא כולל משטח משחק ירוק עם סימוני מגרש, שחקנים צבעוניים המותקנים על מוטות פלדה עמידים, וידיות אחיזה ארגונומיות לשליטה מרבית ומהירות תגובה. מבנה השולחן יציב וכולל לוח תוצאות ידני מעל כל שער, כדי שתוכלו לעקוב אחרי כל גול בדרך לניצחון. הערכה מגיעה עם אביזרים משלימים המבטיחים חוויית משחק שלמה מהרגע הראשון. מפרט טכני עיצובים זמינים: מכבי תל אביב (צהוב-כחול), מכבי חיפה (ירוק-לבן), בית"ר ירושלים (צהוב-שחור). מידות השולחן: אורך כ-55-57
+- Image: https://parktoys.co.il/assets/product-1783278687034-3g7n56.webp
 
 ### שולחן כדורגל ביתר ירושלים
 https://parktoys.co.il/product/shvlchn-kdvrgl-bytr-yrvshlym-n5oxfp
