@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T12:19:49.442Z",
+  "generated_at": "2026-07-05T12:21:00.003Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 62,
@@ -684,7 +684,7 @@
     },
     {
       "id": "cfa983de-ced7-4f79-90b7-ce4e7236efc3",
-      "slug": "tvt-nydv-ms5taq",
+      "slug": "tvt-nydv-xb1no2",
       "name": "תות נידו",
       "name_translations": {},
       "description": "",
@@ -700,13 +700,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/tvt-nydv-ms5taq",
-      "categories": [],
-      "updated_at": "2026-06-29T08:32:40.320Z"
+      "url": "https://parktoys.co.il/product/tvt-nydv-xb1no2",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-05T12:20:00.109Z"
     },
     {
       "id": "e7d00a1e-a08c-4262-bd74-118a68bc0c25",
-      "slug": "damplyng-skvvshy-wk7xnv",
+      "slug": "damplyng-skvvshy-pc47m9",
       "name": "דאמפלינג סקוושי ",
       "name_translations": {},
       "description": "",
@@ -722,9 +724,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/damplyng-skvvshy-wk7xnv",
-      "categories": [],
-      "updated_at": "2026-06-29T08:28:51.445Z"
+      "url": "https://parktoys.co.il/product/damplyng-skvvshy-pc47m9",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-05T12:20:28.532Z"
     },
     {
       "id": "4fb6a01f-515d-4457-818c-6ddb800a2581",
