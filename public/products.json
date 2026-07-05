@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T12:33:57.844Z",
+  "generated_at": "2026-07-05T12:35:18.472Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 62,
@@ -1325,7 +1325,7 @@
     },
     {
       "id": "db18b454-b077-4e95-b0e6-d24f47df3344",
-      "slug": "myny-damplyng-nydv-ycaq60",
+      "slug": "myny-damplyng-nydv-6jaras",
       "name": "מיני דאמפלינג נידו",
       "name_translations": {},
       "description": "",
@@ -1341,9 +1341,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/myny-damplyng-nydv-ycaq60",
-      "categories": [],
-      "updated_at": "2026-06-25T08:21:08.109Z"
+      "url": "https://parktoys.co.il/product/myny-damplyng-nydv-6jaras",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-05T12:34:46.754Z"
     },
     {
       "id": "7d93d27d-4e69-4c4e-a4ab-c79666e150a8",
