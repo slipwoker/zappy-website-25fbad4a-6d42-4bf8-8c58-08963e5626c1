@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T19:25:04.852Z",
+  "generated_at": "2026-07-05T19:26:26.108Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 67,
+  "count": 68,
   "products": [
+    {
+      "id": "b8e85717-d65f-4f57-895d-3b354a0ac8a0",
+      "slug": "avznyvt-bvltvt-shl-mkby-tl-abyb-nmwnp0",
+      "name": "אוזניות בולטות של מכבי תל אביב",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אוזניות קשת אלחוטיות נטענות כולל מיקרופון. מתאים לשיחות, שמיעת מוזיקה.  ",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1783279518747-u278ul.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/avznyvt-bvltvt-shl-mkby-tl-abyb-nmwnp0",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-07-05T19:25:54.323Z"
+    },
     {
       "id": "300c0114-6bb8-455f-83be-ed4321a9d1ad",
       "slug": "avznyvt-blvtvs-shl-mkby-chyph-sov22e",
