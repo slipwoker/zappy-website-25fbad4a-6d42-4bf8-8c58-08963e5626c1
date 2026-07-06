@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 71**
+**Total active products: 72**
+
+### שלישייה דאמפלינג נידו 
+https://parktoys.co.il/product/shlyshyyh-damplyng-nydv-17bi7o
+- Price: 30.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: שלישייה דאמפלינג נידו מדהימים הטרנד הכי חזק
+- Image: https://parktoys.co.il/assets/product-enhanced-1783334721758-f9f8zn.webp
 
 ### קורקינט 3 גלגלים הפוך באיור LOL
 https://parktoys.co.il/product/kvrkynt-3-glglym-hpvk-bayvr-lol-9ffr8j
