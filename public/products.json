@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-06T11:58:06.888Z",
+  "generated_at": "2026-07-06T12:13:20.443Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 75,
+  "count": 76,
   "products": [
+    {
+      "id": "998990a9-a83a-476a-901c-881d29a408b1",
+      "slug": "kvmbv-skyytym-vrvlr-blyyds-grow-tsba-kchvl-8s69zh",
+      "name": "קומבו סקייטים ורולר בליידס Grow - צבע כחול ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "החליקו בנוחות ובסטייל עם רולרבליידס משולב עם סקייטים מבית Grow!\nדגם 2 ב-1 משלב בין חוויית ההחלקה של רולרבליידס לבין היציבות של סקייטים, ומציע פתרון נהדר גם לילדים שלומדים להחליק וגם למנוסים שרוצים לגוון בפעילות.\nבזכות מנגנון מעבר פשוט ומהיר, הנעל האוורירית והתמיכה הארגונומית לרגל, כל החלקה הופכת למהנה ובטוחה יותר.\nפתרון מעולה לפעילות ספורטיבית, פיתוח שיווי משקל וקואורדינציה, והכל בעיצוב צבעוני וייחודי.",
+      "sku": null,
+      "brand": null,
+      "price": 220,
+      "base_price": 220,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783339841556-xzglif.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kvmbv-skyytym-vrvlr-blyyds-grow-tsba-kchvl-8s69zh",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-07-06T12:13:05.871Z"
+    },
     {
       "id": "fec70f9c-ec32-44fd-ac95-a39e960da2c8",
       "slug": "nydv-glydh-skvvyshy-gl-qydxs7",
