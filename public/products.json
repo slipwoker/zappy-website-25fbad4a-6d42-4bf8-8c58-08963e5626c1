@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-06T10:13:24.487Z",
+  "generated_at": "2026-07-06T10:36:10.185Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 70,
+  "count": 71,
   "products": [
+    {
+      "id": "745d2031-c1d3-493a-a286-bde5dc3965fe",
+      "slug": "kvrkynt-3-glglym-hpvk-bayvr-lol-9ffr8j",
+      "name": "קורקינט 3 גלגלים הפוך באיור LOL",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קורקינט 3 גלגלים הפוך- באיור LOL\nכולל גלגלים איכותיים ובלמים חזקים.\nמשקל נשיאה מקסימלי- 50 ק\"ג, גובה מקסימלי – 0.91 ס\"מ.\nגובה מינימלי של ידית הקורקינט- 71 ס\"מ , גובה מקסימלי- 80 ס\"מ\nלגילאי 3 שנים ומעלה.\n\nהתמונה להמחשה בלבד, עשויה להציג מוצרי השלמה שאינם מגיעים במוצר הבסיס.",
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 150,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1783334006364-q5hrvm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kvrkynt-3-glglym-hpvk-bayvr-lol-9ffr8j",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-07-06T10:35:38.443Z"
+    },
     {
       "id": "cf6289ef-a570-4607-9423-446e02b1e0a3",
       "slug": "nydv-mrshmlv-ank-ltsbyah-14t4iz",
