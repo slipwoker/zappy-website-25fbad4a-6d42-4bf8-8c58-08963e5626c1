@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 69**
+**Total active products: 70**
+
+### נידו מרשמלו ענק לצביעה
+https://parktoys.co.il/product/nydv-mrshmlv-ank-ltsbyah-14t4iz
+- Price: 40.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: הכירו את Puffy Mallows – חיות המרשמלו המתוקות והנעימות למגע, שמשלבות בין בובה רכה לבין פעילות יצירה צבעונית! כל חיה מגיעה עם משטח מיוחד שניתן לצביעה ולמחיקה, כך שהילדים יכולים לעצב אותה שוב ושוב לפי הדמיון והיצירתיות שלהם. הערכה כוללת חיית Puffy Mallows רכה + טושים מיוחדים לצביעה, ומאפשרת חוויית משחק אינטראקטיבית, מרגיעה ומהנה במיוחד. למה הילדים מתאהבים ב-Puffy Mallows? ✔ בובה רכה ונעימה למגע ✔ צביעה, מחיקה וצביעה מחדש – בלי סוף ✔ מעודד יצירתיות, דמיון והתפתחות מוטורית ✔ פעילות מושלמת
+- Image: https://parktoys.co.il/assets/product-enhanced-1783332438820-ufuntq.webp
 
 ### קורקינט עם 3 גלגלים לילדים מבית Viper - סופרמן
 https://parktoys.co.il/product/kvrkynt-am-3-glglym-lyldym-mbyt-viper-svprmn-sqil49

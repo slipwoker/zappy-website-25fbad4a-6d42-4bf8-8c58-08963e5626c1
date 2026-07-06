@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-06T09:21:01.994Z",
+  "generated_at": "2026-07-06T10:13:24.487Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 69,
+  "count": 70,
   "products": [
+    {
+      "id": "cf6289ef-a570-4607-9423-446e02b1e0a3",
+      "slug": "nydv-mrshmlv-ank-ltsbyah-14t4iz",
+      "name": "נידו מרשמלו ענק לצביעה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הכירו את Puffy Mallows – חיות המרשמלו המתוקות והנעימות למגע, שמשלבות בין בובה רכה לבין פעילות יצירה צבעונית!\n\nכל חיה מגיעה עם משטח מיוחד שניתן לצביעה ולמחיקה, כך שהילדים יכולים לעצב אותה שוב ושוב לפי הדמיון והיצירתיות שלהם.\n\n\n\nהערכה כוללת חיית Puffy Mallows רכה + טושים מיוחדים לצביעה, ומאפשרת חוויית משחק אינטראקטיבית, מרגיעה ומהנה במיוחד.\n\n\n\nלמה הילדים מתאהבים ב-Puffy Mallows?\n\n✔ בובה רכה ונעימה למגע\n\n✔ צביעה, מחיקה וצביעה מחדש – בלי סוף\n\n✔ מעודד יצירתיות, דמיון והתפתחות מוטורית\n\n✔ פעילות מושלמת",
+      "sku": null,
+      "brand": null,
+      "price": 40,
+      "base_price": 40,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783332438820-ufuntq.webp",
+        "https://parktoys.co.il/assets/product-enhanced-1783332708163-qnrm1f.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/nydv-mrshmlv-ank-ltsbyah-14t4iz",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-06T10:12:52.820Z"
+    },
     {
       "id": "4032c643-20c7-483e-b5a3-ad45b254bf68",
       "slug": "kvrkynt-am-3-glglym-lyldym-mbyt-viper-svprmn-sqil49",
