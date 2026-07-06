@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 80**
+**Total active products: 81**
+
+### קסדת בטיחות סוניק פריים
+https://parktoys.co.il/product/ksdt-btychvt-svnyk-pryym-zrqhym
+- Price: 59.99 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: קסדת בטיחות לילדים בעיצוב סוניק פריים לרכיבה בטיחותית מידות ראש 48-52 ס"מ
+- Image: https://parktoys.co.il/assets/product-enhanced-1783355957852-dwgtss.webp
 
 ### קסדה לילדים מפרץ ההרפתקאות
 https://parktoys.co.il/product/ksdh-lyldym-mprts-hhrptkavt-x2k578
