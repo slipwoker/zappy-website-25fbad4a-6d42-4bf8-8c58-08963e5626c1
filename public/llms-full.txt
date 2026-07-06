@@ -5802,6 +5802,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### שלישייה דאמפלינג אורביז
+URL: https://parktoys.co.il/product/shlyshyyh-damplyng-avrbyz-gcii1h
+Price: 30.00 ILS
+Availability: In stock
+
+---
+
 ### שלישייה דאמפלינג נידו 
 URL: https://parktoys.co.il/product/shlyshyyh-damplyng-nydv-17bi7o
 Price: 30.00 ILS

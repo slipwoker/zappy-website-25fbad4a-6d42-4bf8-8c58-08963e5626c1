@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 72**
+**Total active products: 73**
+
+### שלישייה דאמפלינג אורביז
+https://parktoys.co.il/product/shlyshyyh-damplyng-avrbyz-gcii1h
+- Price: 30.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: שליישיה דאמפלינג אורביז נעים בטירוף
+- Image: https://parktoys.co.il/assets/product-enhanced-1783335127073-s2mwbj.webp
 
 ### שלישייה דאמפלינג נידו 
 https://parktoys.co.il/product/shlyshyyh-damplyng-nydv-17bi7o
