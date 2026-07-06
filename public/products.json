@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-06T12:16:21.766Z",
+  "generated_at": "2026-07-06T12:25:45.629Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 76,
+  "count": 77,
   "products": [
+    {
+      "id": "7e3c0fda-9c1b-4a67-bfef-a156c3f8045b",
+      "slug": "rvlr-blyyds-chd-krn-so3uc2",
+      "name": "רולר בליידס חד קרן",
+      "name_translations": {},
+      "description": "",
+      "short_description": "תנו לילדים שלכם להתחיל את הרפתקת הרכיבה הראשונה שלהם עם רולר בליידס בעיצוב חד-קרן מהפנט! שילוב מושלם של פנטזיה, בטיחות ונוחות – עם צבעים מתוקים, נצנצים ותחושת קסם אמיתית בכל סיבוב גלגל.\n\n",
+      "sku": null,
+      "brand": null,
+      "price": 170,
+      "base_price": 170,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783340438491-o51qm5.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/rvlr-blyyds-chd-krn-so3uc2",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-07-06T12:25:42.330Z"
+    },
     {
       "id": "998990a9-a83a-476a-901c-881d29a408b1",
       "slug": "kvmbv-skyytym-vrvlr-blyyds-grow-tsba-kchvl-8s69zh",

@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 76**
+**Total active products: 77**
+
+### רולר בליידס חד קרן
+https://parktoys.co.il/product/rvlr-blyyds-chd-krn-so3uc2
+- Price: 170.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: תנו לילדים שלכם להתחיל את הרפתקת הרכיבה הראשונה שלהם עם רולר בליידס בעיצוב חד-קרן מהפנט! שילוב מושלם של פנטזיה, בטיחות ונוחות – עם צבעים מתוקים, נצנצים ותחושת קסם אמיתית בכל סיבוב גלגל.
+- Image: https://parktoys.co.il/assets/product-enhanced-1783340438491-o51qm5.webp
 
 ### קומבו סקייטים ורולר בליידס Grow - צבע כחול 
 https://parktoys.co.il/product/kvmbv-skyytym-vrvlr-blyyds-grow-tsba-kchvl-8s69zh
