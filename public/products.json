@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-06T16:17:08.336Z",
+  "generated_at": "2026-07-06T16:26:05.313Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 79,
+  "count": 80,
   "products": [
+    {
+      "id": "16c76476-1dc1-41c2-a71e-1b8f8acd2875",
+      "slug": "ksdh-lyldym-mprts-hhrptkavt-x2k578",
+      "name": "קסדה לילדים מפרץ ההרפתקאות",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קסדת בטיחות לילדים עם דמויות של מפרץ ההרפתקאות לרכיבה בטיחותית.מידות ראש 48-52ס\"מ",
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783354945815-a8ujyj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/ksdh-lyldym-mprts-hhrptkavt-x2k578",
+      "categories": [],
+      "updated_at": "2026-07-06T16:25:33.526Z"
+    },
     {
       "id": "79c5eff7-fb65-4076-af9f-32b323840db0",
       "slug": "kvrkynt-palvlym-g11-mbyt-grow-pro-ryhs1j",

@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 79**
+**Total active products: 80**
+
+### קסדה לילדים מפרץ ההרפתקאות
+https://parktoys.co.il/product/ksdh-lyldym-mprts-hhrptkavt-x2k578
+- Price: 60.00 ILS
+- Availability: In stock
+- Description: קסדת בטיחות לילדים עם דמויות של מפרץ ההרפתקאות לרכיבה בטיחותית.מידות ראש 48-52ס"מ
+- Image: https://parktoys.co.il/assets/product-enhanced-1783354945815-a8ujyj.webp
 
 ### קורקינט פעלולים G11 מבית Grow Pro
 https://parktoys.co.il/product/kvrkynt-palvlym-g11-mbyt-grow-pro-ryhs1j
