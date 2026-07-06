@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 77**
+**Total active products: 78**
+
+### קורקינט GROW PRO G10
+https://parktoys.co.il/product/kvrkynt-grow-pro-g10-hrtonj
+- Price: 899.91 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: הכירו את קורקינט הפעלולים G10 במהדורת הכרום המרהיבה של Grow Pro – שילוב מושלם של עיצוב יוקרתי, איכות הנדסית וביצועים מדויקים 🎯 ה-G10 נבנה במיוחד עבור רוכבים צעירים ובני נוער שאוהבים להרגיש את האקשן – עם מבנה חזק מאלומיניום 6061 תעופתי, מראה כרום נוצץ שמושך מבטים בכל סקייטפארק, ושליטה מושלמת גם בתרגילי פריסטייל מתקדמים. זה לא עוד קורקינט – זה כלי אמיתי לאדרנ
+- Image: https://parktoys.co.il/assets/product-enhanced-1783342060903-1ysrz.webp
 
 ### רולר בליידס חד קרן
 https://parktoys.co.il/product/rvlr-blyyds-chd-krn-so3uc2

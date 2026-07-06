@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-06T12:26:13.929Z",
+  "generated_at": "2026-07-06T12:48:24.010Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 77,
+  "count": 78,
   "products": [
+    {
+      "id": "67e865d5-aacd-42ef-9b42-a13bedfd8dbb",
+      "slug": "kvrkynt-grow-pro-g10-hrtonj",
+      "name": "קורקינט GROW PRO G10",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הכירו את קורקינט הפעלולים G10 במהדורת הכרום המרהיבה של Grow Pro – שילוב מושלם של עיצוב יוקרתי, איכות הנדסית וביצועים מדויקים 🎯\nה-G10 נבנה במיוחד עבור רוכבים צעירים ובני נוער שאוהבים להרגיש את האקשן – עם מבנה חזק מאלומיניום 6061 תעופתי, מראה כרום נוצץ שמושך מבטים בכל סקייטפארק, ושליטה מושלמת גם בתרגילי פריסטייל מתקדמים.\nזה לא עוד קורקינט – זה כלי אמיתי לאדרנ",
+      "sku": null,
+      "brand": null,
+      "price": 899.91,
+      "base_price": 899.91,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783342060903-1ysrz.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kvrkynt-grow-pro-g10-hrtonj",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-07-06T12:47:52.428Z"
+    },
     {
       "id": "7e3c0fda-9c1b-4a67-bfef-a156c3f8045b",
       "slug": "rvlr-blyyds-chd-krn-so3uc2",
