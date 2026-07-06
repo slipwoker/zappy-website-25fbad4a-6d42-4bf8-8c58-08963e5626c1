@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-06T11:52:44.898Z",
+  "generated_at": "2026-07-06T11:53:36.144Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 74,
   "products": [
     {
       "id": "b4de32ca-e8f3-491b-9dbf-6a26a496fd27",
-      "slug": "nydv-artyk-skvvyshy-gly-wzl37n",
+      "slug": "nydv-artyk-skvvyshy-gly-zirh4n",
       "name": "נידו ארטיק סקווישי גלי",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/nydv-artyk-skvvyshy-gly-wzl37n",
+      "url": "https://parktoys.co.il/product/nydv-artyk-skvvyshy-gly-zirh4n",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
-      "updated_at": "2026-07-06T11:52:13.213Z"
+      "updated_at": "2026-07-06T11:53:04.522Z"
     },
     {
       "id": "20174176-20fd-4204-ab0b-fa080113903e",
