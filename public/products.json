@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-06T13:37:22.778Z",
+  "generated_at": "2026-07-06T16:17:08.336Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 78,
+  "count": 79,
   "products": [
+    {
+      "id": "79c5eff7-fb65-4076-af9f-32b323840db0",
+      "slug": "kvrkynt-palvlym-g11-mbyt-grow-pro-ryhs1j",
+      "name": "קורקינט פעלולים G11 מבית Grow Pro",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קורקינט פעלולים G11 מבית Grow Pro\nהכירו את Grow Pro G11, קורקינט פעלולים חצי מקצועי שנבנה עבור רוכבים שרוצים להתקדם בעולם הרכיבה האתגרית וליהנות מביצועים גבוהים בסקייטפארק וברחוב. זהו לא עוד קורקינט רגיל, אלא כלי רכיבה אקסטרים אמיתי, המתוכנן להתמודד עם עומסים של קפיצות, נחיתות ותרגילים דינמיים, תוך שמירה על יציבות, שליטה ובטיחות. המבנה העמיד, ההנדסה המתקדמת והעיצוב המוזהב והבולט מעניקים לו שילוב מנצח של כוח, נוחות וסטייל. Grow Pro G11 מתאים לרוכבים שמחפשים קורקינט איכותי, מרשים ומוכן לאתגר הבא, ",
+      "sku": null,
+      "brand": null,
+      "price": 999,
+      "base_price": 999,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783354571875-nlzn1t.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kvrkynt-palvlym-g11-mbyt-grow-pro-ryhs1j",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-07-06T16:16:36.719Z"
+    },
     {
       "id": "67e865d5-aacd-42ef-9b42-a13bedfd8dbb",
       "slug": "kvrkynt-grow-pro-g10-hfdu33",

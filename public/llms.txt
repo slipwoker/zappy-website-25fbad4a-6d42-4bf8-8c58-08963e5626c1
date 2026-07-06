@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 78**
+**Total active products: 79**
+
+### קורקינט פעלולים G11 מבית Grow Pro
+https://parktoys.co.il/product/kvrkynt-palvlym-g11-mbyt-grow-pro-ryhs1j
+- Price: 999.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: קורקינט פעלולים G11 מבית Grow Pro הכירו את Grow Pro G11, קורקינט פעלולים חצי מקצועי שנבנה עבור רוכבים שרוצים להתקדם בעולם הרכיבה האתגרית וליהנות מביצועים גבוהים בסקייטפארק וברחוב. זהו לא עוד קורקינט רגיל, אלא כלי רכיבה אקסטרים אמיתי, המתוכנן להתמודד עם עומסים של קפיצות, נחיתות ותרגילים דינמיים, תוך שמירה על יציבות, שליטה ובטיחות. המבנה העמיד, ההנדסה המתקדמת והעיצוב המוזהב והבולט מעניקים לו שילוב מנצח של כוח, נוחות וסטייל. Grow Pro G11 מתאים לרוכבים שמחפשים קורקינט איכותי, מרשים ומוכן לאתגר הבא,
+- Image: https://parktoys.co.il/assets/product-enhanced-1783354571875-nlzn1t.webp
 
 ### קורקינט GROW PRO G10
 https://parktoys.co.il/product/kvrkynt-grow-pro-g10-hfdu33
