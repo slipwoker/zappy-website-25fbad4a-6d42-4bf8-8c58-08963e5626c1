@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 81**
+**Total active products: 82**
+
+### ביטסי סקווישי Punirunes חיית מחמד דיגיטלית אינטראקטיבית מבית Spin Master
+https://parktoys.co.il/product/bytsy-skvvyshy-punirunes-chyyt-mchmd-dygytlyt-ayntraktybyt-mbyt-spin-master-mffjmh
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: טפלו וטפחו בהנאה חיות מחמד דיגיטליות שניתן לגעת בהן ובנו עולם משלכם מלא בדמויות חמודות וקסומות! מתאים מגיל 5 ומעלה.הכירו את חיות המחמד הדיגיטליות - ה-Punirunes! טפלו וטפחו בהנאה חיות מחמד דיגיטליות שניתן לגעת בהן ובנו עולם משלכם מלא בדמויות חמודות וקסומות! הניחו אצבע בתוך הצעצוע Punirunes וגלו כפתור רך המגיב למגע. תצוגת LED צבעונית תראה את תנועותיכם על המסך, ממש כאילו אתם נוגעים בדמות ה-Punirunes! לחצו על הכפתור וצפו כיצד הדמות מגיבה
+- Image: https://parktoys.co.il/assets/product-1783360807755-gx2cp.webp
 
 ### קסדת בטיחות סוניק פריים
 https://parktoys.co.il/product/ksdt-btychvt-svnyk-pryym-zrqhym

@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-06T16:40:22.206Z",
+  "generated_at": "2026-07-06T18:03:34.596Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 81,
+  "count": 82,
   "products": [
+    {
+      "id": "6af95548-61b8-483f-acc6-a4b4cfc186c3",
+      "slug": "bytsy-skvvyshy-punirunes-chyyt-mchmd-dygytlyt-ayntraktybyt-mbyt-spin-master-mffjmh",
+      "name": "ביטסי סקווישי Punirunes חיית מחמד דיגיטלית אינטראקטיבית מבית Spin Master",
+      "name_translations": {},
+      "description": "",
+      "short_description": "טפלו וטפחו בהנאה חיות מחמד דיגיטליות שניתן לגעת בהן ובנו עולם משלכם מלא בדמויות חמודות וקסומות! מתאים מגיל 5 ומעלה.הכירו את חיות המחמד הדיגיטליות - ה-Punirunes!\nטפלו וטפחו בהנאה חיות מחמד דיגיטליות שניתן לגעת בהן ובנו עולם משלכם מלא בדמויות חמודות וקסומות!\nהניחו אצבע בתוך הצעצוע Punirunes וגלו כפתור רך המגיב למגע. תצוגת LED צבעונית תראה את תנועותיכם על המסך, ממש כאילו אתם נוגעים בדמות ה-Punirunes! לחצו על הכפתור וצפו כיצד הדמות מגיבה",
+      "sku": null,
+      "brand": null,
+      "price": 119,
+      "base_price": 0,
+      "sale_price": 119,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1783360807755-gx2cp.webp",
+        "https://parktoys.co.il/assets/product-enhanced-1783360858381-vp7a4e.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/bytsy-skvvyshy-punirunes-chyyt-mchmd-dygytlyt-ayntraktybyt-mbyt-spin-master-mffjmh",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-06T18:03:02.958Z"
+    },
     {
       "id": "9ba04cae-32f8-496e-ae9c-db49e7747dc3",
       "slug": "ksdt-btychvt-svnyk-pryym-zrqhym",
