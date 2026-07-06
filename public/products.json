@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T22:12:15.156Z",
+  "generated_at": "2026-07-06T09:21:01.994Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 68,
+  "count": 69,
   "products": [
+    {
+      "id": "4032c643-20c7-483e-b5a3-ad45b254bf68",
+      "slug": "kvrkynt-am-3-glglym-lyldym-mbyt-viper-svprmn-sqil49",
+      "name": "קורקינט עם 3 גלגלים לילדים מבית Viper - סופרמן",
+      "name_translations": {},
+      "description": "",
+      "short_description": "• קורקינט בעיצוב מדליק בהשראת גיבור העל האהוב, סופרמן, מבטיח שעות של כיף והנאה.\n• שלושה גלגלים עשויים סיליקון איכותי ובלם אחורי.\n• מוט מתכוונן להתאמה אישית עד לגובה של 80 ס\"מ.\n• קל ונוח לנשיאה ומתאים לשימוש בבית ובחוץ.\n• תורם לפיתוח שיווי משקל וכישורים מוטוריים.\n\nמפרט טכני\n• משקל נשיאה מקסימלי: 50 ק\"ג\n• גובה ידית מתכווננת: 71-80 ס\"מ\n• גובה הקורקינט: 91 ס\"מ",
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 150,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1783329606574-su8hrq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kvrkynt-am-3-glglym-lyldym-mbyt-viper-svprmn-sqil49",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-07-06T09:20:30.534Z"
+    },
     {
       "id": "b8e85717-d65f-4f57-895d-3b354a0ac8a0",
       "slug": "avznyvt-bvltvt-shl-mkby-tl-abyb-nmwnp0",
