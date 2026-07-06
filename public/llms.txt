@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 74**
+**Total active products: 75**
+
+### נידו גלידה סקווישי גל
+https://parktoys.co.il/product/nydv-glydh-skvvyshy-gl-qydxs7
+- Price: 15.00 ILS
+- Availability: In stock
+- Description: סקווישי גל בצורת גלידה של חברת נידו
+- Image: https://parktoys.co.il/assets/product-enhanced-1783339033043-b64u1w.webp
 
 ### נידו ארטיק סקווישי גלי
 https://parktoys.co.il/product/nydv-artyk-skvvyshy-gly-rmxgjx
