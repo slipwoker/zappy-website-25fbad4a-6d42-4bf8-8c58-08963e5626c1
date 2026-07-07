@@ -5803,7 +5803,7 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 ## Product Catalog
 
 ### בית הבובות של גבי - בית בובות בדרכים
-URL: https://parktoys.co.il/product/byt-hbvbvt-shl-gby-byt-bvbvt-bdrkym-97nn76
+URL: https://parktoys.co.il/product/byt-hbvbvt-shl-gby-byt-bvbvt-bdrkym-e14lnn
 Price: 120.00 ILS
 Availability: In stock
 
