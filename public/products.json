@@ -1,10 +1,30 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T11:39:48.494Z",
+  "generated_at": "2026-07-07T11:55:10.489Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 99,
+  "count": 100,
   "products": [
+    {
+      "id": "9dd13084-4a28-4aee-816d-8efe9a91c74e",
+      "slug": "byt-hbvbvt-shl-gby-byt-bvbvt-bdrkym-av4d7h",
+      "name": "בית הבובות של גבי - בית בובות בדרכים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הביאו הביתה את ההתרגשות של בית הבובות של גבי, עם בית הבובות בדרכים!\nהבית מתנשא לגובה 30 ס\"מ וניתן להשתמש בו לאחסון הדמויות שיש לכם באוסף!\nלבית יש דלת חצי-שקופה והוא מגיע עם דמות משחק של גבי ושני דפי מדבקה מלאים ברהיטי בית מקסימים וחבריה החתולים.",
+      "sku": null,
+      "brand": null,
+      "price": 120,
+      "base_price": 120,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/byt-hbvbvt-shl-gby-byt-bvbvt-bdrkym-av4d7h",
+      "categories": [],
+      "updated_at": "2026-07-07T11:54:38.966Z"
+    },
     {
       "id": "45f040ff-60fb-46d8-91b1-433ae5f2df2c",
       "slug": "pts-alyyb-gvry-kky-zuru-isguv4",
