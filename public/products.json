@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T09:28:50.752Z",
+  "generated_at": "2026-07-07T09:42:43.385Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 91,
   "products": [
     {
       "id": "7db856ce-40ac-4536-86b3-a035be6d11fe",
-      "slug": "mgyny-brkyym-vmrpkym-spyydrmn-spin-royal-mydh-m-o2p15k",
+      "slug": "mgyny-brkyym-vmrpkym-spyydrmn-spin-royal-mydh-m-kf2yf2",
       "name": "מגיני ברכיים ומרפקים ספיידרמן SPIN ROYAL מידה M",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mgyny-brkyym-vmrpkym-spyydrmn-spin-royal-mydh-m-o2p15k",
+      "url": "https://parktoys.co.il/product/mgyny-brkyym-vmrpkym-spyydrmn-spin-royal-mydh-m-kf2yf2",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-07-07T09:28:18.964Z"
+      "updated_at": "2026-07-07T09:42:11.870Z"
     },
     {
       "id": "79e9aea7-a976-4008-a4e3-18fa2054e888",
