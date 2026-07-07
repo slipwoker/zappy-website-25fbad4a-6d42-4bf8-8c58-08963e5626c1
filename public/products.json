@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T07:48:34.154Z",
+  "generated_at": "2026-07-07T07:56:10.851Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 84,
+  "count": 85,
   "products": [
+    {
+      "id": "d1bf50ff-8257-494d-b933-5af39c723cec",
+      "slug": "ksdt-yldym-mavtsbt-am-mngnvn-htamh-vptchy-ayvvrvr-lgyl-3-vmalh-dynvzavr-yrvk-3zvf55",
+      "name": "קסדת ילדים מעוצבת עם מנגנון התאמה, ופתחי איוורור לגיל 3 ומעלה - דינוזאור ירוק",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קסדת בטיחות מעוצבת לילדים מבית Grow Kids\n\nקסדת הילדים המעוצבת היא לא רק אמצעי בטיחות חיוני, אלא גם אביזר אופנתי ומלא סטייל שיעודד את ילדכם לחבוש אותה בכל רכיבה.\nהיא משלבת הגנה מקסימלית עם עיצוב ייחודי שיהפוך את ילדכם למלך הפארק!\n\nתכונות עיקריות:\n\nעיצוב חדשני וכיפי: הקסדה מעוצבת בצורת מושכת את העין. העיצוב המקורי הופך את חבישת הקסדה לחוויה מהנה ומלהיבה.\nהגנה אולטימטיבית: בחלקה הפנימי של הקסדה שכבת EPS דחוסה מוקצפת בצפיפות גבוהה למניעת זעזועים שתספק הגנה מקסימלית לראש הילד במקרה של נפילה או חבטה.\n",
+      "sku": null,
+      "brand": null,
+      "price": 120,
+      "base_price": 120,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783410842967-sgz60i.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/ksdt-yldym-mavtsbt-am-mngnvn-htamh-vptchy-ayvvrvr-lgyl-3-vmalh-dynvzavr-yrvk-3zvf55",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-07-07T07:55:39.144Z"
+    },
     {
       "id": "e2b77d32-250f-4ccf-83ac-c30c9e788b2b",
       "slug": "ksdh-btychvt-lvl-jnxu5m",
