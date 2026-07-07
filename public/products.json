@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T11:15:44.199Z",
+  "generated_at": "2026-07-07T11:39:48.494Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 98,
+  "count": 99,
   "products": [
+    {
+      "id": "45f040ff-60fb-46d8-91b1-433ae5f2df2c",
+      "slug": "pts-alyyb-gvry-kky-zuru-isguv4",
+      "name": "פטס אלייב גורי קקי - Zuru",
+      "name_translations": {},
+      "description": "",
+      "short_description": "טס אלייב גורי קקי - מבית זורו\nZuru pets alive pooping puppies\n   \nהמתנה המושלמת לאוהבי חיות קטנות ומשעשעות!\nפטס אלייב גורי קקי הוא צעצוע אינטראקטיבי שיהפוך כל משחק לחוויה מצחיקה ומלאת חיים.\n \nמה זה פטס אלייב גורי קקי?\nזהו גור כלבים חמוד ומתוק שמגיב להאכלה ולמשחק, ובסיום הוא עושה \"קקי\" ממשי שמעניק לילדים תחושת אחריות וטיפול בחיית מחמד אמיתית, אבל בלי הבלגן האמיתי!\n",
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 150,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1783424331271-5sqdwi.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/pts-alyyb-gvry-kky-zuru-isguv4",
+      "categories": [],
+      "updated_at": "2026-07-07T11:39:16.430Z"
+    },
     {
       "id": "ca06de9b-5228-474e-8e88-a467eb605854",
       "slug": "kryy-byybyz-kvkbym-sydny-cry-babies-k4we2s",

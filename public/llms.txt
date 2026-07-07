@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 98**
+**Total active products: 99**
+
+### פטס אלייב גורי קקי - Zuru
+https://parktoys.co.il/product/pts-alyyb-gvry-kky-zuru-isguv4
+- Price: 150.00 ILS
+- Availability: In stock
+- Description: טס אלייב גורי קקי - מבית זורו Zuru pets alive pooping puppies המתנה המושלמת לאוהבי חיות קטנות ומשעשעות! פטס אלייב גורי קקי הוא צעצוע אינטראקטיבי שיהפוך כל משחק לחוויה מצחיקה ומלאת חיים. מה זה פטס אלייב גורי קקי? זהו גור כלבים חמוד ומתוק שמגיב להאכלה ולמשחק, ובסיום הוא עושה "קקי" ממשי שמעניק לילדים תחושת אחריות וטיפול בחיית מחמד אמיתית, אבל בלי הבלגן האמיתי!
+- Image: https://parktoys.co.il/assets/product-1783424331271-5sqdwi.webp
 
 ### קריי בייביז כוכבים סידני Cry Babies
 https://parktoys.co.il/product/kryy-byybyz-kvkbym-sydny-cry-babies-k4we2s
