@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 101**
+**Total active products: 102**
+
+### פאזל תמונה תלת מימדית 100 חלקים מבית Prime3D - באטמן
+https://parktoys.co.il/product/pazl-tmvnh-tlt-mymdyt-100-chlkym-mbyt-prime3d-batmn-g9vmz2
+- Price: 70.00 ILS
+- Availability: In stock
+- Description: פאזל תלת מימד 100 חלקים מבית Prime3D קחו את חוויית ההרכבה לשלב הבא עם פאזלים תלת-ממדיים מרהיבים שמפתיעים כל פעם מחדש. Prime 3D, היצרן והמפיץ הגדול בעולם של פאזלים תלת-ממדיים, מציג פאזלים חדשניים ההופכים כל תמונה מוכרת לסצנה תלת-ממדית עוצרת נשימה - דמויות אהובות, חיות פרא, עולמות טבע וחלל, כולם קמים לתחייה אל מול העיניים. הרכבת הפאזל הופכת לא רק למשחק, אלא להרפתקה סוחפת, חווייתית ומאתגרת לכל גיל. זה הזמן ליהנות מזמן איכות של שקט וריכוז, פיתוח סבלנות, חשיבה ותכנון קדימה.
+- Image: https://parktoys.co.il/assets/product-enhanced-1783434464003-ouy06.webp
 
 ### קפסולה בובת סטיץ' מבית Just Play Disney
 https://parktoys.co.il/product/kpsvlh-bvbt-styts-mbyt-just-play-disney-h9m5yb
