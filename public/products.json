@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T09:20:51.276Z",
+  "generated_at": "2026-07-07T09:22:34.333Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 89,
+  "count": 90,
   "products": [
+    {
+      "id": "79e9aea7-a976-4008-a4e3-18fa2054e888",
+      "slug": "mgyny-brkyym-vmrpkym-prvzn-spin-royal-mydh-m-wao111",
+      "name": "מגיני ברכיים ומרפקים פרוזן SPIN ROYAL מידה M",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מגיני ברכיים ומרפקים SPIN ROYAL Frozen מציעים הגנה מושלמת בזמן משחק או פעילות ספורטיבית. המיגינים מגיעים במידה M ומעוצבים במיוחד כדי להבטיח נוחות וביטחון.\nעם העיצוב הייחודי של דמויות מהאגדות, הילדים שלכם יהנו מגן ברכיים ומרפקים שגם מבטיח בטיחות וגם משלים את המראה המהמם שלהם.\nמושלם לפעילויות ספורטיביות, טיולים או סתם לשעות המשחקים בבית.\n\n\nאחריות: 12 חודשי אחריות ע\"י היבואן הרשמי – למעט שבר ורטיבות, בהתאם לתנאי האחריות.",
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783416077706-hcel36.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mgyny-brkyym-vmrpkym-prvzn-spin-royal-mydh-m-wao111",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-07-07T09:22:02.390Z"
+    },
     {
       "id": "2ebdbc19-ae31-451b-92f9-0a1b7bcbed3b",
       "slug": "mgyny-brkyym-vmrpkym-styts-spin-royal-mydh-m-eangry",
