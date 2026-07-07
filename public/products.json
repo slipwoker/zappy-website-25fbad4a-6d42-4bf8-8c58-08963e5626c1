@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T07:42:19.468Z",
+  "generated_at": "2026-07-07T07:43:42.398Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 83,
   "products": [
     {
       "id": "47f89341-79b8-4582-b20d-cec25081136c",
-      "slug": "ksdt-btychvt-byt-hbvbvt-shl-gby-4rvg27",
+      "slug": "ksdt-btychvt-byt-hbvbvt-shl-gby-019rp4",
       "name": "קסדת בטיחות בית הבובות של גבי ",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/ksdt-btychvt-byt-hbvbvt-shl-gby-4rvg27",
+      "url": "https://parktoys.co.il/product/ksdt-btychvt-byt-hbvbvt-shl-gby-019rp4",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-07-07T07:41:47.733Z"
+      "updated_at": "2026-07-07T07:43:11.005Z"
     },
     {
       "id": "6af95548-61b8-483f-acc6-a4b4cfc186c3",
