@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 86**
+**Total active products: 87**
+
+### קסדת ילדים מעוצבת עם מנגנון התאמה, ופתחי איוורור לגיל 5 ומעלה - כריש אפור
+https://parktoys.co.il/product/ksdt-yldym-mavtsbt-am-mngnvn-htamh-vptchy-ayvvrvr-lgyl-5-vmalh-krysh-apvr-3lnfhq
+- Price: 120.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: קסדת בטיחות מעוצבת לילדים מבית Grow Kids קסדת הילדים המעוצבת היא לא רק אמצעי בטיחות חיוני, אלא גם אביזר אופנתי ומלא סטייל שיעודד את ילדכם לחבוש אותה בכל רכיבה. היא משלבת הגנה מקסימלית עם עיצוב ייחודי שיהפוך את ילדכם למלך הפארק! תכונות עיקריות: עיצוב חדשני וכיפי: הקסדה מעוצבת בצורת מושכת את העין. העיצוב המקורי הופך את חבישת הקסדה לחוויה מהנה ומלהיבה. הגנה אולטימטיבית: בחלקה הפנימי של הקסדה שכבת EPS דחוסה מוקצפת בצפיפות גבוהה למניעת זעזועים שתספק הגנה מקסימלית לראש הילד במקרה של נפילה או חבטה. או
+- Image: https://parktoys.co.il/assets/product-1783411290929-bspiz.webp
 
 ### קסדה לילדים דגם Unicorn מבית Grow - מידה M - צבע סגול
 https://parktoys.co.il/product/ksdh-lyldym-dgm-unicorn-mbyt-grow-mydh-m-tsba-sgvl-dmffpo
