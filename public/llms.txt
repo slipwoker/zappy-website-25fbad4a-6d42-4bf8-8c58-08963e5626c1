@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 94**
+**Total active products: 95**
+
+### כוס להכנת ברד של סטיץ 
+https://parktoys.co.il/product/kvs-lhknt-brd-shl-styts-illz8k
+- Price: 60.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: כוס להכנת ברד הכנה מהירה וקלה במיוחד
+- Image: https://parktoys.co.il/assets/product-enhanced-1783421240309-7nno7g.webp
 
 ### כוס להכנת ברד של צעצוע של סיפור
 https://parktoys.co.il/product/kvs-lhknt-brd-shl-tsatsva-shl-sypvr-cq9h0d
