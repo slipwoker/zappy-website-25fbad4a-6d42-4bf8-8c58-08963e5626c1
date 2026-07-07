@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T11:14:31.093Z",
+  "generated_at": "2026-07-07T11:15:44.199Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 98,
   "products": [
     {
       "id": "ca06de9b-5228-474e-8e88-a467eb605854",
-      "slug": "kryy-byybyz-kvkbym-sydny-cry-babies-ubbxwd",
+      "slug": "kryy-byybyz-kvkbym-sydny-cry-babies-k4we2s",
       "name": "קריי בייביז כוכבים סידני Cry Babies",
       "name_translations": {},
       "description": "",
@@ -18,12 +18,14 @@
       "base_price": 149,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://parktoys.co.il/assets/product-1783422895972-jsv51m.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kryy-byybyz-kvkbym-sydny-cry-babies-ubbxwd",
+      "url": "https://parktoys.co.il/product/kryy-byybyz-kvkbym-sydny-cry-babies-k4we2s",
       "categories": [],
-      "updated_at": "2026-07-07T11:13:59.350Z"
+      "updated_at": "2026-07-07T11:15:12.382Z"
     },
     {
       "id": "141ba760-a920-4f0b-ab97-bd72ea8b203b",
