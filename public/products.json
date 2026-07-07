@@ -1,10 +1,30 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T11:13:10.980Z",
+  "generated_at": "2026-07-07T11:14:31.093Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 97,
+  "count": 98,
   "products": [
+    {
+      "id": "ca06de9b-5228-474e-8e88-a467eb605854",
+      "slug": "kryy-byybyz-kvkbym-sydny-cry-babies-ubbxwd",
+      "name": "קריי בייביז כוכבים סידני Cry Babies",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קריי בייביז חדש סדרת כוכבים Cry Babies – הבובה החדשה שמטריפה את הבנות קריי בייבי בוכה עם דמעות אמיתיות! עיניי כוכבים נדלקות ומאירות. (נדרש להוסיף מים לדמעות). הוציאו את המוצץ והיא תתחיל לבכות עד שתקבלו בחזרה.\n\nהבובה פועלת עם סוללות 1.5X2AAA  מגילאי 3 ומעלה.",
+      "sku": null,
+      "brand": null,
+      "price": 149,
+      "base_price": 149,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kryy-byybyz-kvkbym-sydny-cry-babies-ubbxwd",
+      "categories": [],
+      "updated_at": "2026-07-07T11:13:59.350Z"
+    },
     {
       "id": "141ba760-a920-4f0b-ab97-bd72ea8b203b",
       "slug": "kryy-byyby-kvny-tsad-rashvn-hbvbh-shbvkh-cftxr7",
