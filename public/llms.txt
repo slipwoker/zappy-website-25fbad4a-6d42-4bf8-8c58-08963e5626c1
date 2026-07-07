@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 100**
+**Total active products: 101**
+
+### קפסולה בובת סטיץ' מבית Just Play Disney
+https://parktoys.co.il/product/kpsvlh-bvbt-styts-mbyt-just-play-disney-h9m5yb
+- Price: 200.00 ILS
+- Availability: In stock
+- Description: גלו עולם של הפתעות עם קפסולת ההפתעה הענקית של סטיץ'! הקפסולה המעוצבת בצורת ראשו של סטיץ' כוללת 8 הפתעות שונות באווירה טרופית – מבובת פלאש חמודה ודמויות קטנות ועד אביזרים, מדבקות ופוסטר צבעוני. מעבר להפתעות שבתוכה, הקפסולה עצמה משמשת כמארז אחסון מעוצב שניתן להציג בחדר. שעות של משחק, דמיון והנאה מחכות לחובבי דיסני וסטיץ'.
+- Image: https://parktoys.co.il/assets/product-enhanced-1783431345166-uibd4i.webp
 
 ### בית הבובות של גבי - בית בובות בדרכים
 https://parktoys.co.il/product/byt-hbvbvt-shl-gby-byt-bvbvt-bdrkym-e14lnn
