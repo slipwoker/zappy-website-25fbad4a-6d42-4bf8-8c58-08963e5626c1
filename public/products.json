@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T07:58:08.653Z",
+  "generated_at": "2026-07-07T08:00:12.101Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 85,
+  "count": 86,
   "products": [
+    {
+      "id": "f3ebcf61-b903-49bd-baf1-806dfa9d695d",
+      "slug": "ksdh-lyldym-dgm-unicorn-mbyt-grow-mydh-m-tsba-sgvl-dmffpo",
+      "name": "קסדה לילדים דגם Unicorn מבית Grow - מידה M - צבע סגול",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קסדה לילדים דגם Unicorn מבית Grow\nמחפשים קסדה שתגן על הילד שלכם מבלי להתפשר על עיצוב ואיכות? הקסדות המעוצבות של Grow הן בדיוק מה שאתם צריכים!\nהקסדה עשויה חומר PC איכותי עם ציפוי מגן UV, המבטיח עמידות גבוהה ושמירה על מראה הקסדה לאורך זמן.\nכוללת מנגנון התאמה חכם לגודל הראש (מתאימה לקוטר ראש של 54-58 ס\"מ) ועד 11 פתחי אוורור המספקים זרימת אוויר מצוינת.\nבחלקה הפנימי יש ריפוד ספוגים רך ונעים, לשימוש נוח גם לאורך זמן.\nהקסדה קלה במיוחד - עד 255 גרם, עומדת בתקני הבטיחות המחמירים ביותר ומתאימה לילדים מגיל",
+      "sku": null,
+      "brand": null,
+      "price": 120,
+      "base_price": 120,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783411120522-j6qje7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/ksdh-lyldym-dgm-unicorn-mbyt-grow-mydh-m-tsba-sgvl-dmffpo",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-07-07T07:59:40.515Z"
+    },
     {
       "id": "d1bf50ff-8257-494d-b933-5af39c723cec",
       "slug": "ksdt-yldym-mavtsbt-am-mngnvn-htamh-vptchy-ayvvrvr-lgyl-3-vmalh-dynvzavr-yrvk-mhx2pf",
