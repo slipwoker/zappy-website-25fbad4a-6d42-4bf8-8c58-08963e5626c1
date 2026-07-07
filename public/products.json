@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T09:12:34.121Z",
+  "generated_at": "2026-07-07T09:20:51.276Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 89,
   "products": [
     {
       "id": "2ebdbc19-ae31-451b-92f9-0a1b7bcbed3b",
-      "slug": "mgyny-brkyym-vmrpkym-styts-spin-royal-mydh-m-8ua5cb",
+      "slug": "mgyny-brkyym-vmrpkym-styts-spin-royal-mydh-m-eangry",
       "name": "מגיני ברכיים ומרפקים סטיצ' SPIN ROYAL מידה M",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mgyny-brkyym-vmrpkym-styts-spin-royal-mydh-m-8ua5cb",
+      "url": "https://parktoys.co.il/product/mgyny-brkyym-vmrpkym-styts-spin-royal-mydh-m-eangry",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-07-07T09:12:02.247Z"
+      "updated_at": "2026-07-07T09:20:19.397Z"
     },
     {
       "id": "00c4a9cf-d7b7-4287-9960-71e4ad0902ff",
