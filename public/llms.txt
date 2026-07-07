@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 91**
+**Total active products: 92**
+
+### קסדה בייסיק שחור Grow מידה S (גיל 3-6)
+https://parktoys.co.il/product/ksdh-byysyk-shchvr-grow-mydh-s-gyl-3-6-3uv6tp
+- Price: 70.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: קסדת GROW Basic – בטיחות מקסימלית, סטייל בלתי מתפשר עם תאורת LED אחורית! מחפשים את השילוב המושלם בין הגנה קשוחה למראה אופנתי? קסדת החצי של GROW היא הבחירה האידיאלית לדור הצעיר של הרוכבים – בין אם הם על אופניים, קורקינט, סקטבורד או רולרבליידס. הגנה היקפית מוגברת: מבנה ה'קערה' הייחודי מעניק כיסוי רחב ומצוין גם לחלק האחורי של הראש (העורף) והרקות – לביטחון מלא בכל רכיבה. הקסדה עשויה ממעטפת PC חזקה במיוחד ו־EPS מוקצף בצפיפות גבוהה – לבלימת זעזועים מושלמת. נוחות ואוורור: פתחי אוורור אסטרטגיים בחלק
+- Image: https://parktoys.co.il/assets/product-enhanced-1783418113405-0x4xbk.webp
 
 ### מגיני ברכיים ומרפקים ספיידרמן SPIN ROYAL מידה M
 https://parktoys.co.il/product/mgyny-brkyym-vmrpkym-spyydrmn-spin-royal-mydh-m-kf2yf2
