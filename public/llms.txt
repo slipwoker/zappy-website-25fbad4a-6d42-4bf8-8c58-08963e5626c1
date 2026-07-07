@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 82**
+**Total active products: 83**
+
+### קסדת בטיחות בית הבובות של גבי 
+https://parktoys.co.il/product/ksdt-btychvt-byt-hbvbvt-shl-gby-4rvg27
+- Price: 60.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: קסדת בטיחות בית הבובות של גבי שמרו על הבטיחות של ילדיכם בסטייל עם קסדת הבטיחות לילדים של בית הבובות של גבי. הקסדה הקשיחה מעוצבת עם הדמות האהובה מסדרת בית הבובות של גבי ומשלבת הגנה מירבית, נוחות מקסימלית ואוורור אופטימלי בזכות פתחי האוורור המובנים. מתאימה לגיל 3 ומעלה, לרכיבה על אופניים, קורקינט, סקייטבורד ועוד - לשעות של נסיעה בטוחה ומהנה.
+- Image: https://parktoys.co.il/assets/product-1783410014331-dkp0m.webp
 
 ### ביטסי סקווישי Punirunes חיית מחמד דיגיטלית אינטראקטיבית מבית Spin Master
 https://parktoys.co.il/product/bytsy-skvvyshy-punirunes-chyyt-mchmd-dygytlyt-ayntraktybyt-mbyt-spin-master-r6905i
