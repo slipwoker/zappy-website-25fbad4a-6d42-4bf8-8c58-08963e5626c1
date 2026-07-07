@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T10:05:23.336Z",
+  "generated_at": "2026-07-07T10:45:56.895Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 93,
+  "count": 94,
   "products": [
+    {
+      "id": "07623011-5ed2-4047-a9fc-8242c7e56ffa",
+      "slug": "kvs-lhknt-brd-shl-tsatsva-shl-sypvr-cq9h0d",
+      "name": "כוס להכנת ברד של צעצוע של סיפור",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כוס להכנת ברד הכנה מהירה וקלה במיוחד",
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783421002700-zltc89.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kvs-lhknt-brd-shl-tsatsva-shl-sypvr-cq9h0d",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-07T10:45:25.002Z"
+    },
     {
       "id": "3a8f5753-1332-4d98-9b2d-fbf1331be567",
       "slug": "ksdh-byysyk-lbn-grow-mydh-m-gyl-5-10-cqc92i",

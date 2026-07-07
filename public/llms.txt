@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 93**
+**Total active products: 94**
+
+### כוס להכנת ברד של צעצוע של סיפור
+https://parktoys.co.il/product/kvs-lhknt-brd-shl-tsatsva-shl-sypvr-cq9h0d
+- Price: 60.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: כוס להכנת ברד הכנה מהירה וקלה במיוחד
+- Image: https://parktoys.co.il/assets/product-enhanced-1783421002700-zltc89.webp
 
 ### קסדה בייסיק לבן Grow מידה M (גיל 5-10)
 https://parktoys.co.il/product/ksdh-byysyk-lbn-grow-mydh-m-gyl-5-10-cqc92i
