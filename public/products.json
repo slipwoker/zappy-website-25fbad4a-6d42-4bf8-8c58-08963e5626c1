@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T09:57:48.863Z",
+  "generated_at": "2026-07-07T10:05:23.336Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 92,
+  "count": 93,
   "products": [
+    {
+      "id": "3a8f5753-1332-4d98-9b2d-fbf1331be567",
+      "slug": "ksdh-byysyk-lbn-grow-mydh-m-gyl-5-10-cqc92i",
+      "name": "קסדה בייסיק לבן Grow מידה M (גיל 5-10)",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קסדת GROW Basic – בטיחות מקסימלית, סטייל בלתי מתפשר עם \n\nמחפשים את השילוב המושלם בין הגנה קשוחה למראה אופנתי? קסדת החצי של GROW היא הבחירה האידיאלית לדור הצעיר של הרוכבים – בין אם הם על אופניים, קורקינט, סקטבורד או רולרבליידס.\n\nהגנה היקפית מוגברת: מבנה ה\"קערה\" הייחודי מעניק כיסוי רחב ומצוין גם לחלק האחורי של הראש (העורף) והרקות – לביטחון מלא בכל רכיבה. הקסדה עשויה ממעטפת PC חזקה במיוחד ו‑EPS מוקצף בצפיפות גבוהה – לבלימת זעזועים מושלמת.\nנוחות ואוורור: פתחי אוורור אסטרטגיים בחלק ה",
+      "sku": null,
+      "brand": null,
+      "price": 70,
+      "base_price": 70,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783418606495-yizx94.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/ksdh-byysyk-lbn-grow-mydh-m-gyl-5-10-cqc92i",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-07-07T10:04:51.335Z"
+    },
     {
       "id": "17b29c06-5b2d-484e-adb8-2e98ed224059",
       "slug": "ksdh-byysyk-shchvr-grow-mydh-s-gyl-3-6-3uv6tp",
