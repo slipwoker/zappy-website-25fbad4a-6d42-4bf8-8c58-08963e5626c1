@@ -79,10 +79,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 100**
 
 ### בית הבובות של גבי - בית בובות בדרכים
-https://parktoys.co.il/product/byt-hbvbvt-shl-gby-byt-bvbvt-bdrkym-av4d7h
+https://parktoys.co.il/product/byt-hbvbvt-shl-gby-byt-bvbvt-bdrkym-97nn76
 - Price: 120.00 ILS
 - Availability: In stock
 - Description: הביאו הביתה את ההתרגשות של בית הבובות של גבי, עם בית הבובות בדרכים! הבית מתנשא לגובה 30 ס"מ וניתן להשתמש בו לאחסון הדמויות שיש לכם באוסף! לבית יש דלת חצי-שקופה והוא מגיע עם דמות משחק של גבי ושני דפי מדבקה מלאים ברהיטי בית מקסימים וחבריה החתולים.
+- Image: https://parktoys.co.il/assets/product-enhanced-1783425344655-61v2w4.webp
 
 ### פטס אלייב גורי קקי - Zuru
 https://parktoys.co.il/product/pts-alyyb-gvry-kky-zuru-isguv4

@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T11:55:10.489Z",
+  "generated_at": "2026-07-07T11:59:43.710Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 100,
   "products": [
     {
       "id": "9dd13084-4a28-4aee-816d-8efe9a91c74e",
-      "slug": "byt-hbvbvt-shl-gby-byt-bvbvt-bdrkym-av4d7h",
+      "slug": "byt-hbvbvt-shl-gby-byt-bvbvt-bdrkym-97nn76",
       "name": "בית הבובות של גבי - בית בובות בדרכים",
       "name_translations": {},
       "description": "",
@@ -18,12 +18,14 @@
       "base_price": 120,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783425344655-61v2w4.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/byt-hbvbvt-shl-gby-byt-bvbvt-bdrkym-av4d7h",
+      "url": "https://parktoys.co.il/product/byt-hbvbvt-shl-gby-byt-bvbvt-bdrkym-97nn76",
       "categories": [],
-      "updated_at": "2026-07-07T11:54:38.966Z"
+      "updated_at": "2026-07-07T11:59:12.041Z"
     },
     {
       "id": "45f040ff-60fb-46d8-91b1-433ae5f2df2c",
