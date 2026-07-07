@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T08:43:17.370Z",
+  "generated_at": "2026-07-07T08:46:22.807Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 88,
@@ -151,7 +151,7 @@
     },
     {
       "id": "6af95548-61b8-483f-acc6-a4b4cfc186c3",
-      "slug": "bytsy-skvvyshy-punirunes-chyyt-mchmd-dygytlyt-ayntraktybyt-mbyt-spin-master-r6905i",
+      "slug": "bytsy-skvvyshy-punirunes-chyyt-mchmd-dygytlyt-ayntraktybyt-mbyt-spin-master-f3t9ip",
       "name": "ביטסי סקווישי Punirunes חיית מחמד דיגיטלית אינטראקטיבית מבית Spin Master",
       "name_translations": {},
       "description": "",
@@ -159,7 +159,7 @@
       "sku": null,
       "brand": null,
       "price": 119,
-      "base_price": 0,
+      "base_price": 150,
       "sale_price": 119,
       "currency": "ILS",
       "images": [
@@ -168,11 +168,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/bytsy-skvvyshy-punirunes-chyyt-mchmd-dygytlyt-ayntraktybyt-mbyt-spin-master-r6905i",
+      "url": "https://parktoys.co.il/product/bytsy-skvvyshy-punirunes-chyyt-mchmd-dygytlyt-ayntraktybyt-mbyt-spin-master-f3t9ip",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
-      "updated_at": "2026-07-06T18:03:47.963Z"
+      "updated_at": "2026-07-07T08:45:50.964Z"
     },
     {
       "id": "9ba04cae-32f8-496e-ae9c-db49e7747dc3",
