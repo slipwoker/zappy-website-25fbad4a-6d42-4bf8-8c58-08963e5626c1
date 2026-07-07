@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 83**
+**Total active products: 84**
+
+### קסדה בטיחות לול 
+https://parktoys.co.il/product/ksdh-btychvt-lvl-jnxu5m
+- Price: 60.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: קסדת בטיחות לול שמרו על הבטיחות של ילדיכם בסטייל עם קסדת הבטיחות לילדים של בית הבובות של גבי. הקסדה הקשיחה מעוצבת עם הדמות האהובה מסדרת לולוומשלבת הגנה מירבית, נוחות מקסימלית ואוורור אופטימלי בזכות פתחי האוורור המובנים. מתאימה לגיל 3 ומעלה, לרכיבה על אופניים, קורקינט, סקייטבורד ועוד - לשעות של נסיעה בטוחה ומהנה.
+- Image: https://parktoys.co.il/assets/product-enhanced-1783410301386-8eu0y8g.webp
 
 ### קסדת בטיחות בית הבובות של גבי 
 https://parktoys.co.il/product/ksdt-btychvt-byt-hbvbvt-shl-gby-019rp4
