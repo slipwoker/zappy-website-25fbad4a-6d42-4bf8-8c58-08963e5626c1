@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T11:12:04.691Z",
+  "generated_at": "2026-07-07T11:13:10.980Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 97,
   "products": [
     {
       "id": "141ba760-a920-4f0b-ab97-bd72ea8b203b",
-      "slug": "kryy-byyby-kvny-tsad-rashvn-hbvbh-shbvkh-idu7s4",
+      "slug": "kryy-byyby-kvny-tsad-rashvn-hbvbh-shbvkh-cftxr7",
       "name": "קריי בייבי קוני צעד ראשון – הבובה שבוכה",
       "name_translations": {},
       "description": "",
@@ -25,9 +25,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kryy-byyby-kvny-tsad-rashvn-hbvbh-shbvkh-idu7s4",
+      "url": "https://parktoys.co.il/product/kryy-byyby-kvny-tsad-rashvn-hbvbh-shbvkh-cftxr7",
       "categories": [],
-      "updated_at": "2026-07-07T11:11:33.007Z"
+      "updated_at": "2026-07-07T11:12:39.533Z"
     },
     {
       "id": "2e69cdeb-de63-4920-b2f2-b11fb6f4caee",
