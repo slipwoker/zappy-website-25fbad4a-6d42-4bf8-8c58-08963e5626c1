@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 108**
+**Total active products: 109**
+
+### השלט של מיקי – דובר עברית
+https://parktoys.co.il/product/hshlt-shl-myky-dvbr-abryt-a6uo1s
+- Price: 140.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: מיקי בשלט רחוק שכולו שירים, שמחה וצחוק. עם השלט של מיקי רק אתם בוחרים - משפטים של מיקי או שירים! ההחלטה היא שלכם - במה תבחרו?
+- Image: https://parktoys.co.il/assets/product-1783496423885-r34vuj.webp
 
 ### יובל המבולבל- בובה קטנה מנגנת
 https://parktoys.co.il/product/yvbl-hmbvlbl-bvbh-ktnh-mngnt-4zs4bd

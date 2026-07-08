@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T07:39:58.626Z",
+  "generated_at": "2026-07-08T07:41:11.161Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 108,
+  "count": 109,
   "products": [
+    {
+      "id": "ecbefd2d-9729-400d-ba16-df636523403a",
+      "slug": "hshlt-shl-myky-dvbr-abryt-a6uo1s",
+      "name": "השלט של מיקי – דובר עברית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מיקי בשלט רחוק שכולו שירים, שמחה וצחוק. עם השלט של מיקי רק אתם בוחרים - משפטים של מיקי או שירים! ההחלטה היא שלכם - במה תבחרו?",
+      "sku": null,
+      "brand": null,
+      "price": 140,
+      "base_price": 140,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1783496423885-r34vuj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/hshlt-shl-myky-dvbr-abryt-a6uo1s",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-08T07:40:39.639Z"
+    },
     {
       "id": "74e6eabc-fb16-46f1-aa4d-b349af79b9a2",
       "slug": "yvbl-hmbvlbl-bvbh-ktnh-mngnt-4zs4bd",
