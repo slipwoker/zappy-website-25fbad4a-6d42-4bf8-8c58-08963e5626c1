@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 116**
+**Total active products: 117**
+
+### כספת לילדים עם צלילים וקוד סודי - מיני מאוס
+https://parktoys.co.il/product/kspt-lyldym-am-tslylym-vkvd-svdy-myny-mavs-6iayq2
+- Price: 99.00 ILS
+- Availability: In stock
+- Brand: מיני מאוס
+- Description: כספת אלקטרונית דיסני לילדים – מיקי ומיני מאוס: לומדים לחסוך עם קוד סודי! הכירו את קופת החיסכון האלקטרונית המדליקה, המשלבת את הקסם של דיסני עם טכנולוגיה חכמה, המעודדת ילדים לפתח הרגלי חיסכון בצורה בטוחה, מהנה וחווייתית!
+- Image: https://parktoys.co.il/assets/product-enhanced-1783515215708-txh01.webp
 
 ### כספת אלקטרונית עם קוד של בית הבובות של גבי
 https://parktoys.co.il/product/kspt-alktrvnyt-am-kvd-shl-byt-hbvbvt-shl-gby-v8mg4m
