@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T06:44:26.573Z",
+  "generated_at": "2026-07-08T06:51:38.321Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 106,
+  "count": 107,
   "products": [
+    {
+      "id": "ba19e493-112c-4029-920a-0dd125df67b7",
+      "slug": "pazl-tmvnh-tlt-mymdyt-200-chlkym-mbyt-prime3d-styts-q0mac5",
+      "name": "פאזל תמונה תלת מימדית 200 חלקים מבית Prime3D - סטיץ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "פאזלים מבית Prime 3D מביאים את התמונות לחיים עם אפקט תלת-ממד מרהיב שמרגש ילדים ומבוגרים בכל הגילאים. הרכבת הפאזל הופכת לחוויה סוחפת, צבעונית ובלתי נשכחת - מושלם לכל מי שאוהב יצירתיות, אתגר ודמיון!",
+      "sku": null,
+      "brand": null,
+      "price": 70,
+      "base_price": 70,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1783493298997-z2ps2f.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/pazl-tmvnh-tlt-mymdyt-200-chlkym-mbyt-prime3d-styts-q0mac5",
+      "categories": [],
+      "updated_at": "2026-07-08T06:51:06.352Z"
+    },
     {
       "id": "45c93a1b-8eee-446d-8042-6c99a4b9744d",
       "slug": "pazl-tmvnh-tlt-mymdyt-300-chlkym-mbyt-prime3d-hary-pvtr-rraetq",
