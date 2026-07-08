@@ -1,10 +1,57 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T07:41:11.161Z",
+  "generated_at": "2026-07-08T07:46:48.832Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 109,
+  "count": 111,
   "products": [
+    {
+      "id": "c96c87e4-4212-487c-8c67-a99a7f3a8b62",
+      "slug": "pazl-tmvnh-tlt-mymdyt-200-chlkym-mbyt-prime3d-styts-zp5xpw",
+      "name": "פאזל תמונה תלת מימדית 200 חלקים מבית Prime3D - סטיץ' ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "פאזלים מבית Prime 3D מביאים את התמונות לחיים עם אפקט תלת-ממד מרהיב שמרגש ילדים ומבוגרים בכל הגילאים. הרכבת הפאזל הופכת לחוויה סוחפת, צבעונית ובלתי נשכחת - מושלם לכל מי שאוהב יצירתיות, אתגר ודמיון!",
+      "sku": null,
+      "brand": null,
+      "price": 70,
+      "base_price": 70,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1783496710145-scb2w.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/pazl-tmvnh-tlt-mymdyt-200-chlkym-mbyt-prime3d-styts-zp5xpw",
+      "categories": [],
+      "updated_at": "2026-07-08T07:46:44.108Z"
+    },
+    {
+      "id": "e503d13a-c4ad-449a-ad49-ad2774ef3fb5",
+      "slug": "pvnts-hklb-dvbr-abryt-72ho24",
+      "name": "פונץ' הכלב – דובר עברית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חבר על ארבע דובר עברית – פרווה רכה, לשון ורודה וסרט בבלורית. מי לא מכיר את חיית המחמד האהובה של מיקי...   הכלב פונץ' הקטן והמתוק הוא חיית המחמד המושלמת. פונץ' יודע ללכת, לכשכש בזנב ואפילו לשיר ולדבר בעברית. להנאתכם – שני מצבי הפעלה. ואיך מיקי אומרת? אין כלב כמו פונץ' מפה ועד הירח!  ",
+      "sku": null,
+      "brand": null,
+      "price": 130,
+      "base_price": 130,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1783496512624-wunx4m.webp",
+        "https://parktoys.co.il/assets/product-1783496527459-rlhro.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/pvnts-hklb-dvbr-abryt-72ho24",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-08T07:46:16.008Z"
+    },
     {
       "id": "ecbefd2d-9729-400d-ba16-df636523403a",
       "slug": "hshlt-shl-myky-dvbr-abryt-a6uo1s",
