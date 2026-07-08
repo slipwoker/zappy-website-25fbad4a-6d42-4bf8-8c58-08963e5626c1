@@ -5803,9 +5803,10 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 ## Product Catalog
 
 ###   ספת סטיץ מהודרת לילדים – רכה, מעוצבת ומפנקת!
-URL: https://parktoys.co.il/product/spt-styts-mhvdrt-lyldym-rkh-mavtsbt-vmpnkt-8okfga
+URL: https://parktoys.co.il/product/spt-styts-mhvdrt-lyldym-rkh-mavtsbt-vmpnkt-wx0b9o
 Price: 299.00 ILS
 Availability: In stock
+Brand: סטיץ
 
 ---
 
