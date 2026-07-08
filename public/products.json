@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T14:52:55.651Z",
+  "generated_at": "2026-07-08T15:07:43.595Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 121,
+  "count": 122,
   "products": [
+    {
+      "id": "5487f42f-ee9b-48c1-8d2a-e52598e8c911",
+      "slug": "spark-toys-hlykvn-lymvdy-dvbr-abryt-517gux",
+      "name": "Spark Toys הליכון לימודי דובר עברית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הליכון מעולה מבית ספארק טויס – חברת צעצועים המתמחה בצעצועים לפעוטות וילדים בגיל הרך.\nההליכון הלימודי של ספארק טויס הינו צעצוע אינטראקטיבי המכיל בתוכו שלל משחקים שילוו את ילדיכם גם אחרי שילמד לרוץ…\nההליכון הינו יציב ביותר ונוח ללימוד הליכה תוך כדי שהפעוט נתמך בו באחיזת הידית הרחבה והנוחה.\nהליכון 2 ב-1 הופך מהליכון לשולחן פעילות.",
+      "sku": null,
+      "brand": null,
+      "price": 220,
+      "base_price": 220,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783522715307-02k0ar.webp",
+        "https://parktoys.co.il/assets/product-1783522785977-tk14oi.webp",
+        "https://parktoys.co.il/assets/product-1783523191676-isxat.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/spark-toys-hlykvn-lymvdy-dvbr-abryt-517gux",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-08T15:07:11.978Z"
+    },
     {
       "id": "bdad26d0-278b-4043-9a5c-744f84a7af36",
       "slug": "shvlchn-paylvt-sprk-dvbr-abryt-4j0djg",

@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 121**
+**Total active products: 122**
+
+### Spark Toys הליכון לימודי דובר עברית
+https://parktoys.co.il/product/spark-toys-hlykvn-lymvdy-dvbr-abryt-517gux
+- Price: 220.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: הליכון מעולה מבית ספארק טויס – חברת צעצועים המתמחה בצעצועים לפעוטות וילדים בגיל הרך. ההליכון הלימודי של ספארק טויס הינו צעצוע אינטראקטיבי המכיל בתוכו שלל משחקים שילוו את ילדיכם גם אחרי שילמד לרוץ… ההליכון הינו יציב ביותר ונוח ללימוד הליכה תוך כדי שהפעוט נתמך בו באחיזת הידית הרחבה והנוחה. הליכון 2 ב-1 הופך מהליכון לשולחן פעילות.
+- Image: https://parktoys.co.il/assets/product-enhanced-1783522715307-02k0ar.webp
 
 ### שולחן פעילות ספרק דובר עברית
 https://parktoys.co.il/product/shvlchn-paylvt-sprk-dvbr-abryt-4j0djg
