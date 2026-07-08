@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T12:34:52.934Z",
+  "generated_at": "2026-07-08T12:40:08.069Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 114,
+  "count": 115,
   "products": [
+    {
+      "id": "082d647c-c0b5-49ca-9621-77a81a3ec8e7",
+      "slug": "kvph-kspt-kvd-alktrvnyt-styts-q5cqw4",
+      "name": "קופה כספת קוד אלקטרונית סטיץ'",
+      "name_translations": {},
+      "description": "<p><strong>קופת כספת אלקטרונית – דגם סטיץ' (STITCH)</strong></p><p>הכירו את הדרך הכי כיפית לחסוך כסף!</p><ul><li>קופה מעוצבת בצורת הדמות האהובה סטיץ' מהסרט <em>לילו וסטיץ'</em>, עם מנגנון דיגיטלי חכם שמאפשר פתיחה באמצעות קוד אישי, ושואב שטרות אוטומטית – בדיוק כמו כספומט אמיתי. ✨ <strong>תכונות עיקריות:</strong>עיצוב מרהיב של דמות סטיץ'</li><li>פתיחה באמצעות קוד סודי (ניתן לשנות לפי בחירה)</li><li>שואבת שטרות בלחיצה – חוויה מהנה לילדים</li><li>מתאימה לחיסכון של מטבעות ושטרות</li><li>מתנה מושלמת לילדים שמעודדת אחריות וכישורי ניהול כספי</li></ul><p>🎁 מתנה נהדרת לימי הולדת, חגים או סתם כי מגיע להם!</p>",
+      "short_description": "קופת כספת דיגיטלית בעיצוב סטיץ' המהמם מהסרט לילו וסטיץ' – כוללת קוד אישי, שואבת שטרות באופן אוטומטי ומוסיפה חוויה קסומה לחיסכון!\nצורכת 3 סוללות AA 1.5V , \n",
+      "sku": "7290119853519",
+      "brand": "סטיץ",
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783514202498-2xlfxj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kvph-kspt-kvd-alktrvnyt-styts-q5cqw4",
+      "categories": [],
+      "updated_at": "2026-07-08T12:39:48.268Z"
+    },
     {
       "id": "4018ff8b-c397-41c0-966d-0dbd43be3d6c",
       "slug": "spt-styts-mhvdrt-lyldym-rkh-mavtsbt-vmpnkt-wx0b9o",

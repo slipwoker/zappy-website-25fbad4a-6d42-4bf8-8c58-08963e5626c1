@@ -76,7 +76,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 114**
+**Total active products: 115**
+
+### קופה כספת קוד אלקטרונית סטיץ'
+https://parktoys.co.il/product/kvph-kspt-kvd-alktrvnyt-styts-q5cqw4
+- Price: 99.00 ILS
+- Availability: In stock
+- SKU: 7290119853519
+- Brand: סטיץ
+- Description: קופת כספת דיגיטלית בעיצוב סטיץ' המהמם מהסרט לילו וסטיץ' – כוללת קוד אישי, שואבת שטרות באופן אוטומטי ומוסיפה חוויה קסומה לחיסכון! צורכת 3 סוללות AA 1.5V ,
+- Image: https://parktoys.co.il/assets/product-enhanced-1783514202498-2xlfxj.webp
 
 ###   ספת סטיץ מהודרת לילדים – רכה, מעוצבת ומפנקת!
 https://parktoys.co.il/product/spt-styts-mhvdrt-lyldym-rkh-mavtsbt-vmpnkt-wx0b9o
