@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T14:50:49.429Z",
+  "generated_at": "2026-07-08T14:52:55.651Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 120,
+  "count": 121,
   "products": [
+    {
+      "id": "bdad26d0-278b-4043-9a5c-744f84a7af36",
+      "slug": "shvlchn-paylvt-sprk-dvbr-abryt-4j0djg",
+      "name": "שולחן פעילות ספרק דובר עברית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "שולחן פעילות ספרק דובר עברית\nשולחן פעילות מעוצב ואיכותי, עשיר בתכנים ובהפעלות התורמות להתפתחות התינוק.\n\nמגוון הפעלות בכל פינה\n\nבעלי חיים\nצורות\nצבעים\nכלי תחבורה\nכלי נגינה\nמספרים\n3 משחקים נשלפים\nהשולחן בעל 2 עוצמות קול וכולל 10 שירי ילדים בעברית!",
+      "sku": null,
+      "brand": null,
+      "price": 199,
+      "base_price": 199,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1783522299662-c0prdi.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/shvlchn-paylvt-sprk-dvbr-abryt-4j0djg",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-08T14:52:24.217Z"
+    },
     {
       "id": "36a39f60-793f-4213-87be-51dc69c5b8c3",
       "slug": "hlykvn-tsvadym-vmtptchym-nritnv",
