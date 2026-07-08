@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 105**
+**Total active products: 106**
+
+### פאזל תמונה תלת מימדית 300 חלקים מבית Prime3D - הארי פוטר
+https://parktoys.co.il/product/pazl-tmvnh-tlt-mymdyt-300-chlkym-mbyt-prime3d-hary-pvtr-rraetq
+- Price: 70.00 ILS
+- Availability: In stock
+- Description: פאזלים מבית Prime 3D מביאים את התמונות לחיים עם אפקט תלת-ממד מרהיב שמרגש ילדים ומבוגרים בכל הגילאים. הרכבת הפאזל הופכת לחוויה סוחפת, צבעונית ובלתי נשכחת - מושלם לכל מי שאוהב יצירתיות, אתגר ודמיון!
+- Image: https://parktoys.co.il/assets/product-enhanced-1783492837070-lb1ahj.webp
 
 ### פאזל רצפה תמונה תלת מימדית 100 חלקים מבית Prime3D - מיקי מאוס
 https://parktoys.co.il/product/pazl-rtsph-tmvnh-tlt-mymdyt-100-chlkym-mbyt-prime3d-myky-mavs-nhw1a4
