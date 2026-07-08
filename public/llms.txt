@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 122**
+**Total active products: 123**
+
+### זוג מכשירי קשר עם מצלמות וידיאו
+https://parktoys.co.il/product/zvg-mkshyry-kshr-am-mtslmvt-vydyav-urwo95
+- Price: 199.00 ILS
+- Availability: In stock
+- Description: מכשיר תקשורת וידאו לילדים מעביר שידור וידאו ותקשורת קולית בזמן אמת — טווח פעולה עד 400 מטר. ממשק פשוט ונוח לתפעול על ידי ילדים, עם כפתורים ברורים ושימוש מידי. מתאים למשחקים בחצר, בפארק ובבית; קל לנשיאה ועיצוב ידידותי לילדים. מעודד משחקי דמיון, תקשורת ושיתוף פעולה בין ילדים בזמן פעילות חיצונית ופנימית.
+- Image: https://parktoys.co.il/assets/product-enhanced-1783528130591-q4laj.webp
 
 ### Spark Toys הליכון לימודי דובר עברית
 https://parktoys.co.il/product/spark-toys-hlykvn-lymvdy-dvbr-abryt-517gux

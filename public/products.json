@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T15:07:43.595Z",
+  "generated_at": "2026-07-08T16:30:02.266Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 122,
+  "count": 123,
   "products": [
+    {
+      "id": "d6f42314-b35c-4c0e-8b52-8ee4ff109f86",
+      "slug": "zvg-mkshyry-kshr-am-mtslmvt-vydyav-urwo95",
+      "name": "זוג מכשירי קשר עם מצלמות וידיאו",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכשיר תקשורת וידאו לילדים\nמעביר שידור וידאו ותקשורת קולית בזמן אמת — טווח פעולה עד 400 מטר.\nממשק פשוט ונוח לתפעול על ידי ילדים, עם כפתורים ברורים ושימוש מידי.\nמתאים למשחקים בחצר, בפארק ובבית; קל לנשיאה ועיצוב ידידותי לילדים.\nמעודד משחקי דמיון, תקשורת ושיתוף פעולה בין ילדים בזמן פעילות חיצונית ופנימית.",
+      "sku": null,
+      "brand": null,
+      "price": 199,
+      "base_price": 199,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783528130591-q4laj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/zvg-mkshyry-kshr-am-mtslmvt-vydyav-urwo95",
+      "categories": [],
+      "updated_at": "2026-07-08T16:29:30.509Z"
+    },
     {
       "id": "5487f42f-ee9b-48c1-8d2a-e52598e8c911",
       "slug": "spark-toys-hlykvn-lymvdy-dvbr-abryt-517gux",
