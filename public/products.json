@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T15:44:00.260Z",
+  "generated_at": "2026-07-08T06:33:47.686Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 103,
+  "count": 104,
   "products": [
+    {
+      "id": "8c1dabe9-e878-4538-8c84-2329683fc8da",
+      "slug": "pazl-rtsph-tmvnh-tlt-mymdyt-100-chlkym-mbyt-prime3d-myny-mavs-qw0hqj",
+      "name": "פאזל רצפה תמונה תלת מימדית 100 חלקים מבית Prime3D - מיני מאוס",
+      "name_translations": {},
+      "description": "",
+      "short_description": "פאזלים מבית Prime 3D מביאים את התמונות לחיים עם אפקט תלת-ממד מרהיב שמרגש ילדים ומבוגרים בכל הגילאים. הרכבת הפאזל הופכת לחוויה סוחפת, צבעונית ובלתי נשכחת - מושלם לכל מי שאוהב יצירתיות, אתגר ודמיון!",
+      "sku": null,
+      "brand": null,
+      "price": 70,
+      "base_price": 70,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1783492213084-hpgrfp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/pazl-rtsph-tmvnh-tlt-mymdyt-100-chlkym-mbyt-prime3d-myny-mavs-qw0hqj",
+      "categories": [],
+      "updated_at": "2026-07-08T06:33:16.204Z"
+    },
     {
       "id": "7c0d5231-405e-4a0a-bfe7-28b7256f0b07",
       "slug": "pazl-tmvnh-tlt-mymdyt-200-chlkym-mbyt-prime3d-spyydrmn-qbg0fh",
