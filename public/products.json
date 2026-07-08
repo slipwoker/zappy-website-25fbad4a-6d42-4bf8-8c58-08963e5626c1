@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T09:08:38.317Z",
+  "generated_at": "2026-07-08T12:27:13.542Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 113,
+  "count": 114,
   "products": [
+    {
+      "id": "4018ff8b-c397-41c0-966d-0dbd43be3d6c",
+      "slug": "spt-styts-mhvdrt-lyldym-rkh-mavtsbt-vmpnkt-8okfga",
+      "name": "  ספת סטיץ מהודרת לילדים – רכה, מעוצבת ומפנקת!",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הכניסו את הקסם של דיסני לחדר הילדים עם ספת הישיבה המהודרת בדמותו של סטיץ' (Stitch) האהוב! הספה מושלמת כפריט עיצובי שמוסיף צבע ושמחה לחדר, ומשמשת כפינה אישית ונוחה לילדים למנוחה, קריאת ספרים או צפייה בטלוויזיה.\n\nלמה הילדים (וההורים) יאהבו אותה?\n\nעיצוב אייקוני: דמותו של סטיץ' בעיצוב צבעוני ומדויק שכל ילד וילדה ישמחו לקבל.\n\nנוחות מקסימלית: ספה רכה ומרופדת המותאמת במיוחד למבנה הגוף של ילדים, המעניקה תמיכה ונוחות בזמן הישיבה.\n\nאיכות ללא פשרות: עשויה מחומרים עמידים ואיכותיים שנשמרים לאורך זמן.\n\nשדרוג ",
+      "sku": null,
+      "brand": null,
+      "price": 299,
+      "base_price": 299,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783513468096-411s78.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/spt-styts-mhvdrt-lyldym-rkh-mavtsbt-vmpnkt-8okfga",
+      "categories": [],
+      "updated_at": "2026-07-08T12:27:12.596Z"
+    },
     {
       "id": "cc54f43a-8c13-416d-950c-2dd9a269253d",
       "slug": "pazl-tmvnh-tlt-mymdyt-100-chlkym-mbyt-prime3d-svprmn-4xrcws",
