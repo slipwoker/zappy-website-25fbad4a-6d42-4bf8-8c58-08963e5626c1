@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 104**
+**Total active products: 105**
+
+### פאזל רצפה תמונה תלת מימדית 100 חלקים מבית Prime3D - מיקי מאוס
+https://parktoys.co.il/product/pazl-rtsph-tmvnh-tlt-mymdyt-100-chlkym-mbyt-prime3d-myky-mavs-nhw1a4
+- Price: 70.00 ILS
+- Availability: In stock
+- Description: פאזלים מבית Prime 3D מביאים את התמונות לחיים עם אפקט תלת-ממד מרהיב שמרגש ילדים ומבוגרים בכל הגילאים. הרכבת הפאזל הופכת לחוויה סוחפת, צבעונית ובלתי נשכחת - מושלם לכל מי שאוהב יצירתיות, אתגר ודמיון!
+- Image: https://parktoys.co.il/assets/product-1783492562326-mg5oo.webp
 
 ### פאזל רצפה תמונה תלת מימדית 100 חלקים מבית Prime3D - מיני מאוס
 https://parktoys.co.il/product/pazl-rtsph-tmvnh-tlt-mymdyt-100-chlkym-mbyt-prime3d-myny-mavs-qw0hqj
