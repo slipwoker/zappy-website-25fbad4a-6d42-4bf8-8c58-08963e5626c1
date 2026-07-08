@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T12:40:20.688Z",
+  "generated_at": "2026-07-08T12:52:09.510Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 115,
+  "count": 116,
   "products": [
+    {
+      "id": "0e3072a7-bb4e-40d0-8cdf-015ccc09b0fb",
+      "slug": "kspt-alktrvnyt-am-kvd-shl-byt-hbvbvt-shl-gby-v8mg4m",
+      "name": "כספת אלקטרונית עם קוד של בית הבובות של גבי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כספת אלקטרונית בית הבובות של גביו לומדים לחסוך עם קוד סודי!\nהכירו את קופת החיסכון האלקטרונית המדליקה, המשלבת את הקסם של דיסני עם טכנולוגיה חכמה, המעודדת ילדים לפתח הרגלי חיסכון בצורה בטוחה, מהנה וחווייתית!\nמוצר זה, בעיצוב גבי האהוב מעניק לילדים הרגשה של “כספת של גדולים” לשמירה על דמי הכיס שלהם.\n\nקופת חיסכון אלקטרונית עם קוד סודי:\nנעילה בטוחה: פתיחת הכספת מתבצעת באמצעות הקשת קוד סודי דיגיטלי (4 ספרות), שניתן לתכנת ולשנות בכל עת.\nחוויה אינטראקטיבית: הכספת משמיעה צלילים ואפקטים ק",
+      "sku": null,
+      "brand": "בית הבובות של גבי ",
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783514472136-jrncrg.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kspt-alktrvnyt-am-kvd-shl-byt-hbvbvt-shl-gby-v8mg4m",
+      "categories": [],
+      "updated_at": "2026-07-08T12:51:37.737Z"
+    },
     {
       "id": "082d647c-c0b5-49ca-9621-77a81a3ec8e7",
       "slug": "kvph-kspt-kvd-alktrvnyt-styts-q5cqw4",

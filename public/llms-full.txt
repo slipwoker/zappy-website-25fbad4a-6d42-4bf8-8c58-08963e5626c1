@@ -5802,6 +5802,14 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### כספת אלקטרונית עם קוד של בית הבובות של גבי
+URL: https://parktoys.co.il/product/kspt-alktrvnyt-am-kvd-shl-byt-hbvbvt-shl-gby-v8mg4m
+Price: 99.00 ILS
+Availability: In stock
+Brand: בית הבובות של גבי 
+
+---
+
 ### קופה כספת קוד אלקטרונית סטיץ'
 URL: https://parktoys.co.il/product/kvph-kspt-kvd-alktrvnyt-styts-q5cqw4
 Price: 99.00 ILS
