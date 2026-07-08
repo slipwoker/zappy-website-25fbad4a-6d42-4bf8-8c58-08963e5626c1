@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 119**
+**Total active products: 120**
+
+### הליכון צועדים ומתפתחים
+https://parktoys.co.il/product/hlykvn-tsvadym-vmtptchym-nritnv
+- Price: 200.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: הליכון דובר עברית צועדים ומתפתחים עשרות משפטים ושירים בעברית! התאמת צורות צעצוע אינטראקטיבי נשלף! מגוון הפעלות מוטוריות! גלגלים עם ציפוי גומי ונעילה למניעת החלקה הגברת יציבות על ידי מילוי מים ברגלי ההליכון מתאים לגילאי שנה +
+- Image: https://parktoys.co.il/assets/product-1783522015027-unopn9.webp
 
 ### בנקט כספת סמי הכבאי
 https://parktoys.co.il/product/bnkt-kspt-smy-hkbay-9cecdq

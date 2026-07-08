@@ -5802,6 +5802,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### הליכון צועדים ומתפתחים
+URL: https://parktoys.co.il/product/hlykvn-tsvadym-vmtptchym-nritnv
+Price: 200.00 ILS
+Availability: In stock
+
+---
+
 ### בנקט כספת סמי הכבאי
 URL: https://parktoys.co.il/product/bnkt-kspt-smy-hkbay-9cecdq
 Price: 99.00 ILS
