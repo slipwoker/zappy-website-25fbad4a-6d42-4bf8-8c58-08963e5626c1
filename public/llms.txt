@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 117**
+**Total active products: 118**
+
+### קופת חיסכון בנקט כספת סוניק - Sonic
+https://parktoys.co.il/product/kvpt-chyskvn-bnkt-kspt-svnyk-sonic-8w0fr6
+- Price: 99.00 ILS
+- Availability: In stock
+- Brand: סוניק
+- Description: כספת לילדים למדו את הילדים שלכם לחסוך כסף עוד מגיל קטן עם הכספת המגניבה הזאת שתלמד אותם לחסוך בצורה מגניבה ומהנה. הילד/ה שלכם יוכל ליצור סיסמה משלו ולהכניס שטרות ומטבעות. כספת לילדים בעלת חריצים להכנסת מטבעות או שטרות מוגנת באמצעות סיסמה מתנה מגניבה לכל ילד/ה
+- Image: https://parktoys.co.il/assets/product-enhanced-1783516009756-nbz0q.webp
 
 ### כספת לילדים עם צלילים וקוד סודי - מיני מאוס
 https://parktoys.co.il/product/kspt-lyldym-am-tslylym-vkvd-svdy-myny-mavs-6iayq2

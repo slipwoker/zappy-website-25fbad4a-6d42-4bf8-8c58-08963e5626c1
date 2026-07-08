@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T12:54:46.550Z",
+  "generated_at": "2026-07-08T13:08:22.194Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 117,
+  "count": 118,
   "products": [
+    {
+      "id": "f4e93042-bda7-47a2-ab8a-15f4487212e9",
+      "slug": "kvpt-chyskvn-bnkt-kspt-svnyk-sonic-8w0fr6",
+      "name": "קופת חיסכון בנקט כספת סוניק - Sonic",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כספת לילדים\n\nלמדו את הילדים שלכם לחסוך כסף עוד מגיל קטן עם הכספת המגניבה הזאת שתלמד אותם לחסוך בצורה מגניבה ומהנה. הילד/ה שלכם יוכל ליצור סיסמה משלו ולהכניס שטרות ומטבעות.\n\n\n\nכספת לילדים\nבעלת חריצים להכנסת מטבעות או שטרות\nמוגנת באמצעות סיסמה\nמתנה מגניבה לכל ילד/ה",
+      "sku": null,
+      "brand": "סוניק",
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783516009756-nbz0q.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kvpt-chyskvn-bnkt-kspt-svnyk-sonic-8w0fr6",
+      "categories": [],
+      "updated_at": "2026-07-08T13:07:50.691Z"
+    },
     {
       "id": "2696fc87-4b8b-4a71-b49a-15e494822d4d",
       "slug": "kspt-lyldym-am-tslylym-vkvd-svdy-myny-mavs-6iayq2",
