@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 118**
+**Total active products: 119**
+
+### בנקט כספת סמי הכבאי
+https://parktoys.co.il/product/bnkt-kspt-smy-hkbay-9cecdq
+- Price: 99.00 ILS
+- Availability: In stock
+- Brand: סמי הכבאי 
+- Description: כספת "סמי הכבאי" אלקטרונית היא קופת חיסכון חכמה דמוית כספת כספת קוד דיגיטלית מושכת שטרות - Gהכוללת מנגנון משיכת שטרות אוטומטי, פתח למטבעות, קוד אישי ואורות כספת סמי הכבאי +
+- Image: https://parktoys.co.il/assets/product-enhanced-1783516183172-js68mm.webp
 
 ### קופת חיסכון בנקט כספת סוניק - Sonic
 https://parktoys.co.il/product/kvpt-chyskvn-bnkt-kspt-svnyk-sonic-8w0fr6

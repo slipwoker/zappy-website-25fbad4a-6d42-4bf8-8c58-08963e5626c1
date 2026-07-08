@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T13:08:22.194Z",
+  "generated_at": "2026-07-08T13:11:43.967Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 118,
+  "count": 119,
   "products": [
+    {
+      "id": "097b81ca-206d-46f2-8f78-88183c3c2144",
+      "slug": "bnkt-kspt-smy-hkbay-9cecdq",
+      "name": "בנקט כספת סמי הכבאי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כספת \"סמי הכבאי\" אלקטרונית היא קופת חיסכון חכמה דמוית כספת כספת קוד דיגיטלית מושכת שטרות - Gהכוללת מנגנון משיכת שטרות אוטומטי, פתח למטבעות, קוד אישי ואורות כספת סמי הכבאי +",
+      "sku": null,
+      "brand": "סמי הכבאי ",
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783516183172-js68mm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/bnkt-kspt-smy-hkbay-9cecdq",
+      "categories": [],
+      "updated_at": "2026-07-08T13:11:02.904Z"
+    },
     {
       "id": "f4e93042-bda7-47a2-ab8a-15f4487212e9",
       "slug": "kvpt-chyskvn-bnkt-kspt-svnyk-sonic-8w0fr6",
