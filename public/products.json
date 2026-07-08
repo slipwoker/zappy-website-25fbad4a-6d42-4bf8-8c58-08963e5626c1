@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T07:46:48.832Z",
+  "generated_at": "2026-07-08T07:47:26.025Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 111,
   "products": [
     {
       "id": "c96c87e4-4212-487c-8c67-a99a7f3a8b62",
-      "slug": "pazl-tmvnh-tlt-mymdyt-200-chlkym-mbyt-prime3d-styts-zp5xpw",
+      "slug": "pazl-tmvnh-tlt-mymdyt-200-chlkym-mbyt-prime3d-styts-m7hra7",
       "name": "פאזל תמונה תלת מימדית 200 חלקים מבית Prime3D - סטיץ' ",
       "name_translations": {},
       "description": "",
@@ -23,9 +23,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/pazl-tmvnh-tlt-mymdyt-200-chlkym-mbyt-prime3d-styts-zp5xpw",
+      "url": "https://parktoys.co.il/product/pazl-tmvnh-tlt-mymdyt-200-chlkym-mbyt-prime3d-styts-m7hra7",
       "categories": [],
-      "updated_at": "2026-07-08T07:46:44.108Z"
+      "updated_at": "2026-07-08T07:46:53.933Z"
     },
     {
       "id": "e503d13a-c4ad-449a-ad49-ad2774ef3fb5",
