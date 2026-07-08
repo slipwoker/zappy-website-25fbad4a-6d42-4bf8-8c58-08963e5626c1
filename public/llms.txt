@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 107**
+**Total active products: 108**
+
+### יובל המבולבל- בובה קטנה מנגנת
+https://parktoys.co.il/product/yvbl-hmbvlbl-bvbh-ktnh-mngnt-4zs4bd
+- Price: 89.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: זה לחם עם ריבה? בטטה צהובה? לא! זה יובל בגודל של בובה! גם בקטן - יובל לא מפסיק להתבלבל ולצחוק - בובת יובל המבולבל תלווה אתכם לכל מקום עם מנגינות עליזות וחיוך, כי עם יובל הכל תמיד יותר מצחיק!
+- Image: https://parktoys.co.il/assets/product-enhanced-1783496158918-d7ao8s.webp
 
 ### פאזל תמונה תלת מימדית 200 חלקים מבית Prime3D - סטיץ
 https://parktoys.co.il/product/pazl-tmvnh-tlt-mymdyt-200-chlkym-mbyt-prime3d-styts-q0mac5

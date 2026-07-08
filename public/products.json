@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T07:35:13.195Z",
+  "generated_at": "2026-07-08T07:37:27.255Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 107,
+  "count": 108,
   "products": [
+    {
+      "id": "74e6eabc-fb16-46f1-aa4d-b349af79b9a2",
+      "slug": "yvbl-hmbvlbl-bvbh-ktnh-mngnt-4zs4bd",
+      "name": "יובל המבולבל- בובה קטנה מנגנת",
+      "name_translations": {},
+      "description": "",
+      "short_description": "זה לחם עם ריבה? בטטה צהובה? לא! זה יובל בגודל של בובה! גם בקטן - יובל לא מפסיק להתבלבל ולצחוק - בובת יובל המבולבל תלווה אתכם לכל מקום עם מנגינות עליזות וחיוך, כי עם יובל הכל תמיד יותר מצחיק!",
+      "sku": null,
+      "brand": null,
+      "price": 89,
+      "base_price": 89,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783496158918-d7ao8s.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/yvbl-hmbvlbl-bvbh-ktnh-mngnt-4zs4bd",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-08T07:36:55.288Z"
+    },
     {
       "id": "ba19e493-112c-4029-920a-0dd125df67b7",
       "slug": "pazl-tmvnh-tlt-mymdyt-200-chlkym-mbyt-prime3d-styts-q0mac5",
