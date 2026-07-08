@@ -1,10 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T16:30:02.266Z",
+  "generated_at": "2026-07-08T16:44:23.368Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 123,
+  "count": 124,
   "products": [
+    {
+      "id": "2eed9000-32f4-45d2-bca6-ecc744fa997a",
+      "slug": "mzvvdt-tyk-rvpa-lyldym-kvllt-10-abyzrymshl-rvpa-styts-wtv4xu",
+      "name": "מזוודת / תיק רופא לילדים כוללת 10 אביזריםשל רופא - סטיץ'",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מזוודת רופא ממש כמו של גדולים\n\nלכל קריאה הרופא שלך מוכן עם מזוודה מאובזרת: פטיש, מדחום, מזרק, מראה לפה, מראה לאוזן, משקפים ומספריים.\n\nאיכות וחומרים\nעשוי פלסטיק איכותי למשחק במוצרים דומים למציאות. זמן משחק מלא חוויה ויצירתיות, הכרת אביזרים וענף הרפואה.\n\nזמן איכות\nאפשר להפוך לזמן איכות ולשחק רופא וחולה עם חברים ומשפחה.\n\nמאפיינים נוספים\nמגיע במזוודה רב פעמית קשיחה עם מנעול וידית נשיאה. גודל המזוודה 25 על 19 על.\n\nמתאים לגילאים\nמתאים לגילאי 3 ומעלה.",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783528986348-3t84um.webp",
+        "https://parktoys.co.il/assets/product-1783528958321-9sry3.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mzvvdt-tyk-rvpa-lyldym-kvllt-10-abyzrymshl-rvpa-styts-wtv4xu",
+      "categories": [],
+      "updated_at": "2026-07-08T16:43:51.396Z"
+    },
     {
       "id": "d6f42314-b35c-4c0e-8b52-8ee4ff109f86",
       "slug": "zvg-mkshyry-kshr-am-mtslmvt-vydyav-urwo95",
