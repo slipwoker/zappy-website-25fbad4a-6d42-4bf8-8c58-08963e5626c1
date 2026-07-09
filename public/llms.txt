@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 125**
+**Total active products: 126**
+
+### אופנוע מוטור ספורט עם שלט
+https://parktoys.co.il/product/avpnva-mvtvr-spvrt-am-shlt-kjcrzl
+- Price: 140.00 ILS
+- Availability: In stock
+- Description: אופנוע ספורט עם שלט רחוק. האופנוע מגיע עם סוללה נטענת
+- Image: https://parktoys.co.il/assets/product-enhanced-1783589457659-54gtbl.webp
 
 ### רחפן יורה כדורי ג'לי כולל מצלמת K4 HD 
 https://parktoys.co.il/product/rchpn-yvrh-kdvry-gly-kvll-mtslmt-k4-hd-eolst2

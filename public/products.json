@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T09:22:39.315Z",
+  "generated_at": "2026-07-09T09:31:42.344Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 125,
+  "count": 126,
   "products": [
+    {
+      "id": "953e501b-436f-4fcd-9db1-6f1562d2189a",
+      "slug": "avpnva-mvtvr-spvrt-am-shlt-kjcrzl",
+      "name": "אופנוע מוטור ספורט עם שלט",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אופנוע ספורט עם שלט רחוק. האופנוע מגיע עם סוללה נטענת",
+      "sku": null,
+      "brand": null,
+      "price": 140,
+      "base_price": 140,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783589457659-54gtbl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/avpnva-mvtvr-spvrt-am-shlt-kjcrzl",
+      "categories": [],
+      "updated_at": "2026-07-09T09:31:10.717Z"
+    },
     {
       "id": "726c806a-45aa-4754-944d-de24635144e0",
       "slug": "rchpn-yvrh-kdvry-gly-kvll-mtslmt-k4-hd-eolst2",
