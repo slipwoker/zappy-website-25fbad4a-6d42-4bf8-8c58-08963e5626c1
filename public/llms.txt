@@ -76,19 +76,13 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 126**
-
-### אופנוע מוטור ספורט עם שלט
-https://parktoys.co.il/product/avpnva-mvtvr-spvrt-am-shlt-kjcrzl
-- Price: 140.00 ILS
-- Availability: In stock
-- Description: אופנוע ספורט עם שלט רחוק. האופנוע מגיע עם סוללה נטענת
-- Image: https://parktoys.co.il/assets/product-enhanced-1783589457659-54gtbl.webp
+**Total active products: 125**
 
 ### רחפן יורה כדורי ג'לי כולל מצלמת K4 HD 
-https://parktoys.co.il/product/rchpn-yvrh-kdvry-gly-kvll-mtslmt-k4-hd-eolst2
+https://parktoys.co.il/product/rchpn-yvrh-kdvry-gly-kvll-mtslmt-k4-hd-82udlt
 - Price: 300.00 ILS
 - Availability: In stock
+- Category: צעצועי שלט
 - Description: רחפן יורה כדורי ג'לי כולל מצלמת K4 HD מתכווננת רחפן יורה כדורי ג'לי עם מנועים חזקים ועצמתיים קלים לשליטה וחסכניים באנרגיה . מצלמת K4 HD מתכווננת ,מצלמת איזון אוטומטית , כולל צילום וידאו . 3 מהירויות טיסה ,טיסה יציבה ומהירה של הרחפן . בקרת טיסה אלקטרונית מתחברת לנייד בשידור בזמן אמת , צילום תמונה HD , מייצב גובה אוטומטי תכנון מסלול טיסה יורה כדורי ג'לי ( מתאים למשחק )
 - Image: https://parktoys.co.il/assets/product-enhanced-1783588610596-ohu2mi.webp
 

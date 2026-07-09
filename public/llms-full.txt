@@ -5802,15 +5802,8 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
-### אופנוע מוטור ספורט עם שלט
-URL: https://parktoys.co.il/product/avpnva-mvtvr-spvrt-am-shlt-kjcrzl
-Price: 140.00 ILS
-Availability: In stock
-
----
-
 ### רחפן יורה כדורי ג'לי כולל מצלמת K4 HD 
-URL: https://parktoys.co.il/product/rchpn-yvrh-kdvry-gly-kvll-mtslmt-k4-hd-eolst2
+URL: https://parktoys.co.il/product/rchpn-yvrh-kdvry-gly-kvll-mtslmt-k4-hd-82udlt
 Price: 300.00 ILS
 Availability: In stock
 
