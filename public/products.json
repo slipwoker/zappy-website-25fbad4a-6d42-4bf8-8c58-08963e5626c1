@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T19:29:13.253Z",
+  "generated_at": "2026-07-09T09:17:43.750Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 124,
+  "count": 125,
   "products": [
+    {
+      "id": "726c806a-45aa-4754-944d-de24635144e0",
+      "slug": "rchpn-krb-chvrh-kdvry-avrbyz-tf3kwl",
+      "name": "רחפן קרב חורה כדורי אורביז",
+      "name_translations": {},
+      "description": "",
+      "short_description": "רחפן יורה כדורי ג'לי כולל מצלמת K4 HD מתכווננת\nרחפן יורה כדורי ג'לי עם מנועים חזקים ועצמתיים קלים לשליטה וחסכניים באנרגיה .\nמצלמת K4 HD מתכווננת ,מצלמת איזון אוטומטית , כולל צילום וידאו .\n3 מהירויות טיסה ,טיסה יציבה ומהירה של הרחפן .\nבקרת טיסה אלקטרונית מתחברת לנייד בשידור בזמן אמת ,\nצילום תמונה HD , מייצב גובה אוטומטי\nתכנון מסלול טיסה\nיורה כדורי ג'לי ( מתאים למשחק )",
+      "sku": null,
+      "brand": null,
+      "price": 300,
+      "base_price": 300,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783588610596-ohu2mi.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/rchpn-krb-chvrh-kdvry-avrbyz-tf3kwl",
+      "categories": [],
+      "updated_at": "2026-07-09T09:17:12.113Z"
+    },
     {
       "id": "2eed9000-32f4-45d2-bca6-ecc744fa997a",
       "slug": "mzvvdt-tyk-rvpa-lyldym-kvllt-10-abyzrymshl-rvpa-styts-wtv4xu",
