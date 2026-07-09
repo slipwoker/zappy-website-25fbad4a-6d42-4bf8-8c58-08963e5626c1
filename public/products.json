@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T10:13:27.444Z",
+  "generated_at": "2026-07-09T11:23:37.955Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 127,
+  "count": 128,
   "products": [
+    {
+      "id": "775f71cb-e262-4816-afbb-26e88015912a",
+      "slug": "rkb-shtch-gdvl-am-shlt-thh5tc",
+      "name": "רכב שטח גדול עם שלט",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מפלצת שטח, רכב שטח 4X4 עם יכולת עבירות גבוהה. עם שלדה חזקה ועמידה במיוחד. מכונית עם צמיגים גדולים ועמידים וקפיצים לנסיעה חלקה",
+      "sku": null,
+      "brand": null,
+      "price": 350,
+      "base_price": 350,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/rkb-shtch-gdvl-am-shlt-thh5tc",
+      "categories": [
+        "צעצועי שלט"
+      ],
+      "updated_at": "2026-07-09T11:23:06.361Z"
+    },
     {
       "id": "f0c723f1-8944-49a3-8e23-cfa20133419e",
       "slug": "mkvnyt-4x4-kravlr-am-shlt-2wyp42",

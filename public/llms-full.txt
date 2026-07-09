@@ -5802,6 +5802,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### רכב שטח גדול עם שלט
+URL: https://parktoys.co.il/product/rkb-shtch-gdvl-am-shlt-thh5tc
+Price: 350.00 ILS
+Availability: In stock
+
+---
+
 ### מכונית 4X4 קראולר עם שלט
 URL: https://parktoys.co.il/product/mkvnyt-4x4-kravlr-am-shlt-2wyp42
 Price: 130.00 ILS
