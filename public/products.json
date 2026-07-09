@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T11:23:37.955Z",
+  "generated_at": "2026-07-09T11:24:54.678Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 128,
   "products": [
     {
       "id": "775f71cb-e262-4816-afbb-26e88015912a",
-      "slug": "rkb-shtch-gdvl-am-shlt-thh5tc",
+      "slug": "rkb-shtch-gdvl-am-shlt-1y3ycm",
       "name": "רכב שטח גדול עם שלט",
       "name_translations": {},
       "description": "",
@@ -18,14 +18,16 @@
       "base_price": 350,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783596234403-yxgzt9.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/rkb-shtch-gdvl-am-shlt-thh5tc",
+      "url": "https://parktoys.co.il/product/rkb-shtch-gdvl-am-shlt-1y3ycm",
       "categories": [
         "צעצועי שלט"
       ],
-      "updated_at": "2026-07-09T11:23:06.361Z"
+      "updated_at": "2026-07-09T11:24:22.844Z"
     },
     {
       "id": "f0c723f1-8944-49a3-8e23-cfa20133419e",

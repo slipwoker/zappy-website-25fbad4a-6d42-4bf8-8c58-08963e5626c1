@@ -79,11 +79,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 128**
 
 ### רכב שטח גדול עם שלט
-https://parktoys.co.il/product/rkb-shtch-gdvl-am-shlt-thh5tc
+https://parktoys.co.il/product/rkb-shtch-gdvl-am-shlt-1y3ycm
 - Price: 350.00 ILS
 - Availability: In stock
 - Category: צעצועי שלט
 - Description: מפלצת שטח, רכב שטח 4X4 עם יכולת עבירות גבוהה. עם שלדה חזקה ועמידה במיוחד. מכונית עם צמיגים גדולים ועמידים וקפיצים לנסיעה חלקה
+- Image: https://parktoys.co.il/assets/product-enhanced-1783596234403-yxgzt9.webp
 
 ### מכונית 4X4 קראולר עם שלט
 https://parktoys.co.il/product/mkvnyt-4x4-kravlr-am-shlt-2wyp42
