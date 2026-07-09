@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T10:08:12.591Z",
+  "generated_at": "2026-07-09T10:13:27.444Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 127,
   "products": [
     {
       "id": "f0c723f1-8944-49a3-8e23-cfa20133419e",
-      "slug": "mkvnyt-4x4-kravlr-am-shlt-issoyo",
+      "slug": "mkvnyt-4x4-kravlr-am-shlt-2wyp42",
       "name": "מכונית 4X4 קראולר עם שלט",
       "name_translations": {},
       "description": "",
@@ -23,9 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mkvnyt-4x4-kravlr-am-shlt-issoyo",
-      "categories": [],
-      "updated_at": "2026-07-09T10:07:40.516Z"
+      "url": "https://parktoys.co.il/product/mkvnyt-4x4-kravlr-am-shlt-2wyp42",
+      "categories": [
+        "צעצועי שלט"
+      ],
+      "updated_at": "2026-07-09T10:12:55.436Z"
     },
     {
       "id": "24717674-fe55-4394-bafa-ab6a007d6902",
