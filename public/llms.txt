@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 125**
+**Total active products: 126**
+
+### מכונית ספורט עם שלט
+https://parktoys.co.il/product/mkvnyt-spvrt-am-shlt-vzgmqs
+- Price: 100.00 ILS
+- Availability: In stock
+- Category: צעצועי שלט
+- Description: מכונית ספורט על שלט עם דלתות נפתחות.
+- Image: https://parktoys.co.il/assets/product-enhanced-1783590083544-0kj7b.webp
 
 ### רחפן יורה כדורי ג'לי כולל מצלמת K4 HD 
 https://parktoys.co.il/product/rchpn-yvrh-kdvry-gly-kvll-mtslmt-k4-hd-82udlt

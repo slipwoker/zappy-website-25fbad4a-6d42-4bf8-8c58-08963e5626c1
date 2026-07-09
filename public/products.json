@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T09:39:33.432Z",
+  "generated_at": "2026-07-09T09:43:37.566Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 125,
+  "count": 126,
   "products": [
+    {
+      "id": "24717674-fe55-4394-bafa-ab6a007d6902",
+      "slug": "mkvnyt-spvrt-am-shlt-vzgmqs",
+      "name": "מכונית ספורט עם שלט",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכונית ספורט על שלט עם דלתות נפתחות.",
+      "sku": null,
+      "brand": null,
+      "price": 100,
+      "base_price": 100,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783590083544-0kj7b.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mkvnyt-spvrt-am-shlt-vzgmqs",
+      "categories": [
+        "צעצועי שלט"
+      ],
+      "updated_at": "2026-07-09T09:43:25.813Z"
+    },
     {
       "id": "726c806a-45aa-4754-944d-de24635144e0",
       "slug": "rchpn-yvrh-kdvry-gly-kvll-mtslmt-k4-hd-82udlt",
