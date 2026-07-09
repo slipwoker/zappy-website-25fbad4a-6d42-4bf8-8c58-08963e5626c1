@@ -5802,6 +5802,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### מכונית 4X4 קראולר עם שלט
+URL: https://parktoys.co.il/product/mkvnyt-4x4-kravlr-am-shlt-issoyo
+Price: 130.00 ILS
+Availability: In stock
+
+---
+
 ### מכונית ספורט עם שלט
 URL: https://parktoys.co.il/product/mkvnyt-spvrt-am-shlt-vzgmqs
 Price: 100.00 ILS

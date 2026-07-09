@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T09:43:57.954Z",
+  "generated_at": "2026-07-09T10:08:12.591Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 126,
+  "count": 127,
   "products": [
+    {
+      "id": "f0c723f1-8944-49a3-8e23-cfa20133419e",
+      "slug": "mkvnyt-4x4-kravlr-am-shlt-issoyo",
+      "name": "מכונית 4X4 קראולר עם שלט",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכונית שטח קראולר HST 4X4 – חוויית נהיגה ללא גבולות!\nמחפשים מתנה מושלמת או רכב שטח קשוח שיעבור כל מכשול? ה-Crawler מבית HST מציע שילוב מנצח של עוצמה, עמידות ועיצוב ספורטיבי ומדליק. עם הנעה כפולה ובולמי זעזועים מתקדמים, הוא מוכן לכבוש סלעים, חול ומסלולי שטח מאתגרים! מפרט טכני ומאפיינים מרכזיים:\n\nסוללה נטענת: מגיע עם סוללה פנימית ומטען USB לחסכון ומקסימום נוחות.\nשלט רחוק מתקדם: שלט בעיצוב אקדח (2.4GHz) לטווח רחוק ושליטה מדויקת ללא הפרעות.\nהמכונית מגיע בצבע כחול!!\n",
+      "sku": null,
+      "brand": null,
+      "price": 130,
+      "base_price": 130,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783591640461-lp45wq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mkvnyt-4x4-kravlr-am-shlt-issoyo",
+      "categories": [],
+      "updated_at": "2026-07-09T10:07:40.516Z"
+    },
     {
       "id": "24717674-fe55-4394-bafa-ab6a007d6902",
       "slug": "mkvnyt-spvrt-am-shlt-vzgmqs",

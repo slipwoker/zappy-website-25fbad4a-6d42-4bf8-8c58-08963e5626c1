@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 126**
+**Total active products: 127**
+
+### מכונית 4X4 קראולר עם שלט
+https://parktoys.co.il/product/mkvnyt-4x4-kravlr-am-shlt-issoyo
+- Price: 130.00 ILS
+- Availability: In stock
+- Description: מכונית שטח קראולר HST 4X4 – חוויית נהיגה ללא גבולות! מחפשים מתנה מושלמת או רכב שטח קשוח שיעבור כל מכשול? ה-Crawler מבית HST מציע שילוב מנצח של עוצמה, עמידות ועיצוב ספורטיבי ומדליק. עם הנעה כפולה ובולמי זעזועים מתקדמים, הוא מוכן לכבוש סלעים, חול ומסלולי שטח מאתגרים! מפרט טכני ומאפיינים מרכזיים: סוללה נטענת: מגיע עם סוללה פנימית ומטען USB לחסכון ומקסימום נוחות. שלט רחוק מתקדם: שלט בעיצוב אקדח (2.4GHz) לטווח רחוק ושליטה מדויקת ללא הפרעות. המכונית מגיע בצבע כחול!!
+- Image: https://parktoys.co.il/assets/product-enhanced-1783591640461-lp45wq.webp
 
 ### מכונית ספורט עם שלט
 https://parktoys.co.il/product/mkvnyt-spvrt-am-shlt-vzgmqs
