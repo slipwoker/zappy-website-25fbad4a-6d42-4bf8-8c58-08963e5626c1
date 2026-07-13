@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T12:30:24.745Z",
+  "generated_at": "2026-07-13T12:34:10.972Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 135,
+  "count": 136,
   "products": [
+    {
+      "id": "6bbe3941-eb17-45bd-b6c0-345ec44b9687",
+      "slug": "hvt-vvyls-mslvl-mkvnyvt-hmbvrgryh-hot-whells-dnmlk5",
+      "name": "הוט ווילס מסלול מכוניות המבורגריה – HOT WHELLS",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מסלול מכוניות בצורת המבורגר\n\nבואו להיכנס לחנות המבורגרים לפני שאתם יוצאים לדרכים!\n\nאבל היזהרו מאויבים המסוכנים שמחכים לכם במסלול המכוניות בצורת המבורגר.\n\nמסובבים את השלט והלוגו ומכוניות מתגלגלות אוטומטית, בדוק את הפריט ואת השער בצורית מרית הניתן להזזה.\n\nסט זה מגיע עם מכונית אחת ומתחבר לסטים אחרים.\n\nמגילאי 4 ומעלה.",
+      "sku": null,
+      "brand": null,
+      "price": 129,
+      "base_price": 129,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783945968459-qmf2cq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/hvt-vvyls-mslvl-mkvnyvt-hmbvrgryh-hot-whells-dnmlk5",
+      "categories": [],
+      "updated_at": "2026-07-13T12:33:41.662Z"
+    },
     {
       "id": "b14ccf15-0a3f-42bf-97e9-35830b652cdd",
       "slug": "dmplyng-ank-ccmlfs",
