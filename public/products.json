@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T12:40:42.316Z",
+  "generated_at": "2026-07-13T12:48:13.577Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 137,
+  "count": 138,
   "products": [
+    {
+      "id": "c37f9963-ac86-4663-8637-183fbbe1bb22",
+      "slug": "skvvshy-tyrs-ank-nydv-ank-r3h8yy",
+      "name": "סקוושי תירס ענק נידו ענק",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סקוושי תירס ענק נידו ענק",
+      "sku": null,
+      "brand": null,
+      "price": 40,
+      "base_price": 40,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783946832889-a4we7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/skvvshy-tyrs-ank-nydv-ank-r3h8yy",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-13T12:47:59.246Z"
+    },
     {
       "id": "f19a4758-0e96-47d2-b6da-f14b72dc428f",
       "slug": "msvk-am-shlt-sky-king-q3bk7x",
