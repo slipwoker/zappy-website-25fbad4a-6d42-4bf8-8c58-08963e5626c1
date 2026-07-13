@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 133**
+**Total active products: 134**
+
+### חניון פעלולים הוט ווילס
+https://parktoys.co.il/product/chnyvn-palvlym-hvt-vvyls-z7ril1
+- Price: 200.00 ILS
+- Availability: In stock
+- Description: הוט ווילס עיר חניון פעלולים מבית הוט ווילס Hot Wheels stunt garage קחו את חוויית המכוניות המדהימה שלכם לגבהים חדשים עם הוט ווילס - חניון פעלולים עירוני! ערכת משחק מהנה ומרגשת שמספקת שעות של הרפתקאות, מהירות ואקשן. מאפיינים עיקריים: חניון רב-קומות: ערכו תמרונים בחניון בעל מספר קומות וסדרו עד 20 רכבי הוט ווילס! מעלית רכבים אוטומטית: העלו את המכוניות לקומות העליונות בקלות בעזרת מעלית מיוחדת. מסלולי פעלולים: פרקו את המכוניות במסלול הפעלולים ושחררו אותן לזינוק במהירות שיא! אפשרויות משחק מגוונות: שי
+- Image: https://parktoys.co.il/assets/product-enhanced-1783945527271-anuvf6.webp
 
 ### סקווישי בננה גדול
 https://parktoys.co.il/product/skvvyshy-bnnh-gdvl-wsenz5

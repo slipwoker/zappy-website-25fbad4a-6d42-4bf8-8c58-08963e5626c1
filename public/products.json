@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T12:22:32.277Z",
+  "generated_at": "2026-07-13T12:27:18.524Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 133,
+  "count": 134,
   "products": [
+    {
+      "id": "cdb605dd-2a27-4335-b5af-79887897184a",
+      "slug": "chnyvn-palvlym-hvt-vvyls-z7ril1",
+      "name": "חניון פעלולים הוט ווילס",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הוט ווילס עיר חניון פעלולים מבית הוט ווילס Hot Wheels stunt garage\nקחו את חוויית המכוניות המדהימה שלכם לגבהים חדשים עם הוט ווילס - חניון פעלולים עירוני! ערכת משחק מהנה ומרגשת שמספקת שעות של הרפתקאות, מהירות ואקשן.\n\nמאפיינים עיקריים:\n\nחניון רב-קומות: ערכו תמרונים בחניון בעל מספר קומות וסדרו עד 20 רכבי הוט ווילס!\nמעלית רכבים אוטומטית: העלו את המכוניות לקומות העליונות בקלות בעזרת מעלית מיוחדת.\nמסלולי פעלולים: פרקו את המכוניות במסלול הפעלולים ושחררו אותן לזינוק במהירות שיא!\nאפשרויות משחק מגוונות: שי",
+      "sku": null,
+      "brand": null,
+      "price": 200,
+      "base_price": 200,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783945527271-anuvf6.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chnyvn-palvlym-hvt-vvyls-z7ril1",
+      "categories": [],
+      "updated_at": "2026-07-13T12:26:40.661Z"
+    },
     {
       "id": "18c06831-461a-4886-9d21-90817f01dcb6",
       "slug": "skvvyshy-bnnh-gdvl-wsenz5",
