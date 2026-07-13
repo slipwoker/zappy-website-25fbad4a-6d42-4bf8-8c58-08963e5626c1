@@ -5803,7 +5803,7 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 ## Product Catalog
 
 ### בובת הענק הירוק 30 ס"מ 
-URL: https://parktoys.co.il/product/bvbt-hank-hyrvk-30-sm-tshbe0
+URL: https://parktoys.co.il/product/bvbt-hank-hyrvk-30-sm-txdfle
 Price: 60.00 ILS
 Availability: In stock
 

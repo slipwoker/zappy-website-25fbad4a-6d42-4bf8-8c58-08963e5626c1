@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T13:16:26.530Z",
+  "generated_at": "2026-07-13T13:17:15.982Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 140,
   "products": [
     {
       "id": "eedf9f10-ef07-48ed-b55f-873c5158dc3c",
-      "slug": "bvbt-hank-hyrvk-30-sm-tshbe0",
+      "slug": "bvbt-hank-hyrvk-30-sm-txdfle",
       "name": "בובת הענק הירוק 30 ס\"מ ",
       "name_translations": {},
       "description": "",
@@ -19,13 +19,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1783947581684-8wh58t.webp"
+        "https://parktoys.co.il/assets/product-enhanced-1783948582391-pjljwq.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/bvbt-hank-hyrvk-30-sm-tshbe0",
+      "url": "https://parktoys.co.il/product/bvbt-hank-hyrvk-30-sm-txdfle",
       "categories": [],
-      "updated_at": "2026-07-13T13:15:54.673Z"
+      "updated_at": "2026-07-13T13:16:44.051Z"
     },
     {
       "id": "8efdc598-a525-46bb-9f7b-8b76876c8077",
