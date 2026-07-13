@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 129**
+**Total active products: 130**
+
+### ספיידי דמות עם אופנוע איירון מן
+https://parktoys.co.il/product/spyydy-dmvt-am-avpnva-ayyrvn-mn-toegd5
+- Price: 60.00 ILS
+- Availability: In stock
+- Description: ספיידי עם אופנוע מדהים של איירון מן! דמות פעולה עם אופנוע בעיצוב מרשים, מושלמת לילדים שאוהבים גיבורי על. אידיאלי לאוסף גיבורים או כמתנה מיוחדת לחובבי מארוול.
+- Image: https://parktoys.co.il/assets/product-enhanced-1783933963809-q1h5zs.webp
 
 ### בובת ספיידרמן אין דרך הביתה 3 ב-1 מבית Hasbro Marvel
 https://parktoys.co.il/product/bvbt-spyydrmn-ayn-drk-hbyth-3-b-1-mbyt-hasbro-marvel-frw2nq
