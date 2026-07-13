@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 136**
+**Total active products: 137**
+
+### מסוק עם שלט SKY KING
+https://parktoys.co.il/product/msvk-am-shlt-sky-king-q3bk7x
+- Price: 200.00 ILS
+- Availability: In stock
+- Category: צעצועי שלט
+- Description: מסוק גדול עם שלט רחוק. הצבע מגע לפי המלאי בחנות
+- Image: https://parktoys.co.il/assets/product-enhanced-1783946376126-zu2wym.webp
 
 ### הוט ווילס מסלול מכוניות המבורגריה – HOT WHELLS
 https://parktoys.co.il/product/hvt-vvyls-mslvl-mkvnyvt-hmbvrgryh-hot-whells-dnmlk5
