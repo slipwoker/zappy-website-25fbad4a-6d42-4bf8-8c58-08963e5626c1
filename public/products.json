@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T12:18:10.771Z",
+  "generated_at": "2026-07-13T12:22:32.277Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 132,
+  "count": 133,
   "products": [
+    {
+      "id": "18c06831-461a-4886-9d21-90817f01dcb6",
+      "slug": "skvvyshy-bnnh-gdvl-wsenz5",
+      "name": "סקווישי בננה גדול",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סקווישי גדול נידו בצרות בננה",
+      "sku": null,
+      "brand": null,
+      "price": 40,
+      "base_price": 40,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783945281601-bzhd7b.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/skvvyshy-bnnh-gdvl-wsenz5",
+      "categories": [],
+      "updated_at": "2026-07-13T12:21:54.209Z"
+    },
     {
       "id": "8546bb7a-974c-4177-96f1-ab2974e6c3b3",
       "slug": "mslvl-lshtypt-mkvnyvt-kvll-rkb-rxveg9",
