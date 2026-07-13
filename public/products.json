@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T09:16:49.487Z",
+  "generated_at": "2026-07-13T12:11:22.049Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 130,
+  "count": 131,
   "products": [
+    {
+      "id": "e2e0cfd5-bd44-4998-8f79-ee5545bc0fd9",
+      "slug": "spyydy-vchbrym-st-5-dmvyvt-9-sm-pdkhco",
+      "name": "ספיידי וחברים – סט 5 דמויות 9 ס”מ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מארז 5 דמויות מארוול בגודל 9 ס\"מ\nספיידי, איירון מן, הפנתר השחור, מיילס מורלס וגוסט ספיידר.",
+      "sku": null,
+      "brand": null,
+      "price": 89,
+      "base_price": 89,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783944606724-7l49em.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/spyydy-vchbrym-st-5-dmvyvt-9-sm-pdkhco",
+      "categories": [],
+      "updated_at": "2026-07-13T12:11:03.006Z"
+    },
     {
       "id": "f1dd043d-a804-44e8-9f68-ad32a39995d5",
       "slug": "spyydy-dmvt-am-avpnva-ayyrvn-mn-toegd5",
