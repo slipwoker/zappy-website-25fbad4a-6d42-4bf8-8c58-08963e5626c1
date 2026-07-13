@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T12:17:10.405Z",
+  "generated_at": "2026-07-13T12:18:10.771Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 132,
   "products": [
     {
       "id": "8546bb7a-974c-4177-96f1-ab2974e6c3b3",
-      "slug": "mslvl-lshtypt-mkvnyvt-kvll-rkb-ymtmq8",
+      "slug": "mslvl-lshtypt-mkvnyvt-kvll-rkb-rxveg9",
       "name": "מסלול לשטיפת מכוניות כולל רכב",
       "name_translations": {},
       "description": "",
@@ -23,9 +23,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mslvl-lshtypt-mkvnyvt-kvll-rkb-ymtmq8",
+      "url": "https://parktoys.co.il/product/mslvl-lshtypt-mkvnyvt-kvll-rkb-rxveg9",
       "categories": [],
-      "updated_at": "2026-07-13T12:16:38.668Z"
+      "updated_at": "2026-07-13T12:17:38.196Z"
     },
     {
       "id": "e2e0cfd5-bd44-4998-8f79-ee5545bc0fd9",
