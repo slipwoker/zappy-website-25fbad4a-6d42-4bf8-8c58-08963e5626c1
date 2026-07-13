@@ -1,17 +1,17 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T12:54:07.635Z",
+  "generated_at": "2026-07-13T12:57:15.809Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 139,
   "products": [
     {
       "id": "8efdc598-a525-46bb-9f7b-8b76876c8077",
-      "slug": "skvvyshy-mvch-6acwzj",
+      "slug": "skvvyshy-mvch-w3pke8",
       "name": "סקווישי מוח",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "סקווישי גדול נידו בצורת מוח",
       "sku": null,
       "brand": null,
       "price": 40,
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/skvvyshy-mvch-6acwzj",
+      "url": "https://parktoys.co.il/product/skvvyshy-mvch-w3pke8",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
-      "updated_at": "2026-07-13T12:53:35.832Z"
+      "updated_at": "2026-07-13T12:56:44.352Z"
     },
     {
       "id": "c37f9963-ac86-4663-8637-183fbbe1bb22",

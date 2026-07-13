@@ -79,10 +79,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 139**
 
 ### סקווישי מוח
-https://parktoys.co.il/product/skvvyshy-mvch-6acwzj
+https://parktoys.co.il/product/skvvyshy-mvch-w3pke8
 - Price: 40.00 ILS
 - Availability: In stock
 - Category: הטרנדים הכי חזקים בישראל 
+- Description: סקווישי גדול נידו בצורת מוח
 - Image: https://parktoys.co.il/assets/product-enhanced-1783947137537-ruvf4.webp
 
 ### סקוושי תירס ענק נידו ענק
