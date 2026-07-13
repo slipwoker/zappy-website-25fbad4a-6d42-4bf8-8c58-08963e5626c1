@@ -5802,6 +5802,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### דמפלינג ענק
+URL: https://parktoys.co.il/product/dmplyng-ank-ccmlfs
+Price: 150.00 ILS
+Availability: In stock
+
+---
+
 ### חניון פעלולים הוט ווילס
 URL: https://parktoys.co.il/product/chnyvn-palvlym-hvt-vvyls-z7ril1
 Price: 200.00 ILS

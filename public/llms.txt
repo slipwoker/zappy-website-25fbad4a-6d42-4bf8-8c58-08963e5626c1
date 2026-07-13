@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 134**
+**Total active products: 135**
+
+### דמפלינג ענק
+https://parktoys.co.il/product/dmplyng-ank-ccmlfs
+- Price: 150.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: דמפלינג נידו ענק. שימו לב המוצר מגיע ללא הדמפלינג הרגיל, המוצר שם רק כדי להמחיש כמה המוצר ענקי
+- Image: https://parktoys.co.il/assets/product-enhanced-1783945679053-40sgop.webp
 
 ### חניון פעלולים הוט ווילס
 https://parktoys.co.il/product/chnyvn-palvlym-hvt-vvyls-z7ril1
