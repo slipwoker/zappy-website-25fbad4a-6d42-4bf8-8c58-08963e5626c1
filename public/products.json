@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T08:58:07.222Z",
+  "generated_at": "2026-07-13T09:05:03.527Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 128,
+  "count": 129,
   "products": [
+    {
+      "id": "165f8d08-6a71-45b9-96cb-77a089831bde",
+      "slug": "bvbt-spyydrmn-ayn-drk-hbyth-3-b-1-mbyt-hasbro-marvel-frw2nq",
+      "name": "בובת ספיידרמן אין דרך הביתה 3 ב-1 מבית Hasbro Marvel",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ילדים יוכלו לדמיין הרפתקאות מדהימות עם הדמות של ספיידרמן!\nספיידרמן מגיע עם אביזרים המאפשרים להחליף מראה כדי להילחם ברוע ולהביס נבלים בכל מקום!\nהוא מעוצב בהשראת הסרט לפרטי פרטים, ומגיע עם מפרקים המאפשרים להזיז את הידיים והרגליים שלו.\n\n• כולל אביזרים\n• דמות מעוצבת לפרטי פרטים בהשראת הסרט\n• מפרקים המאפשרים להזיז את הידיים והרגליים שלו",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783933339650-83uycs.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/bvbt-spyydrmn-ayn-drk-hbyth-3-b-1-mbyt-hasbro-marvel-frw2nq",
+      "categories": [],
+      "updated_at": "2026-07-13T09:04:28.400Z"
+    },
     {
       "id": "775f71cb-e262-4816-afbb-26e88015912a",
       "slug": "rkb-shtch-gdvl-am-shlt-1y3ycm",
