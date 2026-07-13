@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T12:57:15.809Z",
+  "generated_at": "2026-07-13T13:16:26.530Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 139,
+  "count": 140,
   "products": [
+    {
+      "id": "eedf9f10-ef07-48ed-b55f-873c5158dc3c",
+      "slug": "bvbt-hank-hyrvk-30-sm-tshbe0",
+      "name": "בובת הענק הירוק 30 ס\"מ ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בובת הענק הירוק 30 ס\"מ מסדרת הנוקמים מבית הסברו. \n\nדמות הענק הירוק מסדרת הנוקמים במהדורת גיבורי הטיטאן מבית הסברו כוללת ארטיקולציה בסיסית ובקנה מידה המתנשא לגובה של 30 ס\"מ, כך שילדים יכולים לשחק ולדמיין קרבות בגודל ענק ישירות מהקופסא! \n\nאספו דמויות נוספות מסדרת גיבורי הטיטאן לעוד אקשן מרהיב מבית מארוול! (נמכרות בנפרד)\n\nלגילאי 4 ומעלה.",
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783947581684-8wh58t.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/bvbt-hank-hyrvk-30-sm-tshbe0",
+      "categories": [],
+      "updated_at": "2026-07-13T13:15:54.673Z"
+    },
     {
       "id": "8efdc598-a525-46bb-9f7b-8b76876c8077",
       "slug": "skvvyshy-mvch-w3pke8",
