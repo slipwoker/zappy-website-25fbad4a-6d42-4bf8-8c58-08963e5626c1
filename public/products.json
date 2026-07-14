@@ -1,10 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-14T16:41:26.692Z",
+  "generated_at": "2026-07-14T16:48:36.882Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 154,
+  "count": 155,
   "products": [
+    {
+      "id": "ab034f92-a606-421b-ac95-e36abf9e252f",
+      "slug": "mprts-hhrptkavt-arkt-mshchk-rkb-htslh-mwxbkm",
+      "name": "מפרץ ההרפתקאות ערכת משחק רכב הצלה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "צאו למשימות חילוץ מרגשות ומלאות אקשן עם רכב ההצלה של צוות מפרץ ההרפתקאות! הסט כולל את הדמות של ריידר, הטרקטורון שלו ורכב הצלה הכולל דלתות משתנות, משגר כפול ואפקטים קוליים מרתקים לחוויה סוחפת. לגיל 3 ומעלה.\n\n",
+      "sku": null,
+      "brand": null,
+      "price": 350,
+      "base_price": 350,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784047633166-plg12s.webp",
+        "https://parktoys.co.il/assets/product-enhanced-1784047663260-k4997o.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mprts-hhrptkavt-arkt-mshchk-rkb-htslh-mwxbkm",
+      "categories": [],
+      "updated_at": "2026-07-14T16:48:04.781Z"
+    },
     {
       "id": "4da63fb8-50e2-46ec-bbb6-755b1d879d78",
       "slug": "arkt-mshchk-tchnt-kybvy-ash-vchylvts-mprts-hhrptkavt-st-tchnh-ayntraktybyt-kbayt-vabyzrym-paw-patrol-cnfi4l",
