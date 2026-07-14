@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-14T16:26:54.639Z",
+  "generated_at": "2026-07-14T16:30:15.093Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 153,
@@ -29,7 +29,7 @@
     },
     {
       "id": "726b023d-a2fc-4e90-9783-0cb2b0beedda",
-      "slug": "brby-marz-kryyrh-rvpat-shynyym-q564v2",
+      "slug": "brby-marz-kryyrh-rvpat-shynyym-89ynic",
       "name": "ברבי מארז קריירה רופאת שיניים",
       "name_translations": {},
       "description": "",
@@ -41,13 +41,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://parktoys.co.il/assets/product-1784037213345-yo1k1m.webp"
+        "https://parktoys.co.il/assets/product-enhanced-1784046568430-tuf72.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/brby-marz-kryyrh-rvpat-shynyym-q564v2",
+      "url": "https://parktoys.co.il/product/brby-marz-kryyrh-rvpat-shynyym-89ynic",
       "categories": [],
-      "updated_at": "2026-07-14T13:54:24.231Z"
+      "updated_at": "2026-07-14T16:29:39.092Z"
     },
     {
       "id": "1ac0f44b-587e-4775-8c1c-b8fde7a36db2",
