@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-14T07:42:52.319Z",
+  "generated_at": "2026-07-14T10:17:52.023Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 140,
+  "count": 141,
   "products": [
+    {
+      "id": "28624d67-fb3f-4a1a-8e80-9f1d55cae8d1",
+      "slug": "dmvt-pavlh-ayyrvn-mn-28-sm-am-ydyym-vrglyym-zzvt-vmtkn-rychvp-mtchbr-5vp596",
+      "name": "דמות פעולה איירון מן 28 ס\"מ עם ידיים ורגליים זזות ומתקן ריחוף מתחבר",
+      "name_translations": {},
+      "description": "",
+      "short_description": "דמות איירון מן מסרטי מארוול עם ראש, ידיים ורגליים זזות כולל ציוד רחיפה.\nדמות פעולה מדליקה של איירון מןר מסדרת הקומיקס של מארוול עם מתקן ריחוף מתחבר לגב בהתקנה מהירה וקלה.\nדמות משחק אידאלית למשחקי דמיון עשירים לילדים חובבי קומיקס של מארוול או לאספנים חובבים.\n\nגובה הדמות כ-28 ס\"מ.\nמתאים מגילאי 4 ומעלה.\nמוצר בייבוא מקביל.",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784024186417-skxl2.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/dmvt-pavlh-ayyrvn-mn-28-sm-am-ydyym-vrglyym-zzvt-vmtkn-rychvp-mtchbr-5vp596",
+      "categories": [],
+      "updated_at": "2026-07-14T10:17:34.772Z"
+    },
     {
       "id": "eedf9f10-ef07-48ed-b55f-873c5158dc3c",
       "slug": "bvbt-hank-hyrvk-30-sm-txdfle",
