@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 151**
+**Total active products: 152**
+
+### ברבי מארז קריירה רופאת שיניים
+https://parktoys.co.il/product/brby-marz-kryyrh-rvpat-shynyym-q564v2
+- Price: 120.00 ILS
+- Availability: In stock
+- Description: אתם יכולים להיות רופאי שיניים עם סט רופא השיניים של ברבי! סט זה כולל ברבי ומטופלת בובת הילד המקסימה שלה עם קטעי משחק בנושא קריירה! עם כיסא הבדיקה של רופא השיניים, ברבי יכולה לבדוק את שיני המטופל שלה עם אביזרי כלי השיניים. ברבי לובשת שמלה מודפסת עם חלוק המעבדה הלבן שלה עם googles רופא השיניים שלה היא מוכנה לוודא ששיני המטופל נהדרות! סט הבובות והאביזרים הוא צעצוע נהדר לילדים בגילאי 3 ומעלה, במיוחד לאלה שאוהבים לטפח ולטפל!
+- Image: https://parktoys.co.il/assets/product-1784037213345-yo1k1m.webp
 
 ### ברבי – בובת ברבי סגולה כחולה ואביזרים בהפתעה
 https://parktoys.co.il/product/brby-bvbt-brby-sgvlh-kchvlh-vabyzrym-bhptah-4jelzu
