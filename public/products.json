@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T18:04:55.932Z",
+  "generated_at": "2026-07-14T07:35:30.389Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 140,
@@ -95,7 +95,7 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/msvk-am-shlt-sky-king-q3bk7x",
       "categories": [
-        "צעצועי שלט"
+        "צעצועי שלט/מסלולי מכוניות/מכוניות "
       ],
       "updated_at": "2026-07-13T12:40:09.959Z"
     },
@@ -299,7 +299,7 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/rkb-shtch-gdvl-am-shlt-1y3ycm",
       "categories": [
-        "צעצועי שלט"
+        "צעצועי שלט/מסלולי מכוניות/מכוניות "
       ],
       "updated_at": "2026-07-09T11:24:22.844Z"
     },
@@ -323,7 +323,7 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/mkvnyt-4x4-kravlr-am-shlt-2wyp42",
       "categories": [
-        "צעצועי שלט"
+        "צעצועי שלט/מסלולי מכוניות/מכוניות "
       ],
       "updated_at": "2026-07-09T10:12:55.436Z"
     },
@@ -347,7 +347,7 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/mkvnyt-spvrt-am-shlt-vzgmqs",
       "categories": [
-        "צעצועי שלט"
+        "צעצועי שלט/מסלולי מכוניות/מכוניות "
       ],
       "updated_at": "2026-07-09T09:43:25.813Z"
     },
@@ -371,7 +371,7 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/rchpn-yvrh-kdvry-gly-kvll-mtslmt-k4-hd-82udlt",
       "categories": [
-        "צעצועי שלט"
+        "צעצועי שלט/מסלולי מכוניות/מכוניות "
       ],
       "updated_at": "2026-07-09T09:39:01.578Z"
     },
