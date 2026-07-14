@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-14T12:30:01.627Z",
+  "generated_at": "2026-07-14T13:16:41.188Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 150,
@@ -29,7 +29,7 @@
     },
     {
       "id": "fb6beeff-71f8-40d1-8a28-225807cde488",
-      "slug": "bvbt-brby-am-tvspvt-shyar-vabyzry-avpnh-wiyk4r",
+      "slug": "bvbt-brby-am-tvspvt-shyar-vabyzry-avpnh-dkq7b7",
       "name": "בובת ברבי עם תוספות שיער ואביזרי אופנה ",
       "name_translations": {},
       "description": "",
@@ -45,9 +45,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/bvbt-brby-am-tvspvt-shyar-vabyzry-avpnh-wiyk4r",
+      "url": "https://parktoys.co.il/product/bvbt-brby-am-tvspvt-shyar-vabyzry-avpnh-dkq7b7",
       "categories": [],
-      "updated_at": "2026-07-14T12:29:29.238Z"
+      "updated_at": "2026-07-14T13:16:09.136Z"
     },
     {
       "id": "dd08e04c-cf89-4227-a185-18cd61340108",
