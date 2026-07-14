@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-14T15:41:55.552Z",
+  "generated_at": "2026-07-14T16:26:54.639Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 152,
+  "count": 153,
   "products": [
+    {
+      "id": "d7cab24e-dc58-49ab-bf43-cdb80b8dea71",
+      "slug": "hatsymls-gdvl-papykvrn-mbyt-hatsymls-hatchimals-pufficorn-knherz",
+      "name": "האצ’ימלס גדול – פאפיקורן מבית האצ’ימלס Hatchimals - Pufficorn",
+      "name_translations": {},
+      "description": "",
+      "short_description": "\nהילדים יוכלו לשחק ולראות את המפלצת החמודה שלהם, הפאפיקורן, מתפתחת מביצה לחיה מלאת חיים. הראו לה חום ואהבה ולאחר זמן מה הפאפיקורן תבקע מן הביצה. למעלה ממאה תגובות שונות, סאונדים ותנועות. חוויה ייחודית שמזמינה את הילדים ללמוד על קשר ואחריות תוך כיף והתרגשות. הביצה הגדולה מעניקה הפתעה מסתורית ומלהיבה – איזו פאפיקורן תקבלו? ",
+      "sku": null,
+      "brand": null,
+      "price": 200,
+      "base_price": 200,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784046365562-449dl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/hatsymls-gdvl-papykvrn-mbyt-hatsymls-hatchimals-pufficorn-knherz",
+      "categories": [],
+      "updated_at": "2026-07-14T16:26:22.423Z"
+    },
     {
       "id": "726b023d-a2fc-4e90-9783-0cb2b0beedda",
       "slug": "brby-marz-kryyrh-rvpat-shynyym-q564v2",
