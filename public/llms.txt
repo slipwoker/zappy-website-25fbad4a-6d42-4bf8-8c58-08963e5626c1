@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 150**
+**Total active products: 151**
+
+### ברבי – בובת ברבי סגולה כחולה ואביזרים בהפתעה
+https://parktoys.co.il/product/brby-bvbt-brby-sgvlh-kchvlh-vabyzrym-bhptah-4jelzu
+- Price: 120.00 ILS
+- Availability: In stock
+- Description: ברבי Party Unboxed היא חוויית פתיחה מלאה בהפתעות! 10 הפתעות בתוך קופסה נוצצת כולל בובה זוהרת, אקססוריז מגניבים, אפקט שינוי צבע וחיית מחמד. כל פתיחה היא מסיבה!
+- Image: https://parktoys.co.il/assets/product-enhanced-1784035386444-syqdfl.webp
 
 ### ברבי ביביסיטר
 https://parktoys.co.il/product/brby-bybysytr-py8rp9
