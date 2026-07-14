@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 153**
+**Total active products: 154**
+
+### ערכת משחק תחנת כיבוי אש וחילוץ מפרץ ההרפתקאות – סט תחנה אינטראקטיבית, כבאית ואביזרים Paw Patrol
+https://parktoys.co.il/product/arkt-mshchk-tchnt-kybvy-ash-vchylvts-mprts-hhrptkavt-st-tchnh-ayntraktybyt-kbayt-vabyzrym-paw-patrol-cnfi4l
+- Price: 400.00 ILS
+- Availability: In stock
+- Description: הקפיצו את צוות הכבאים למשימה נועזת! ערכת משחק רשמית מבית Spin Master המציגה את תחנת כיבוי האש והחילוץ האייקונית של מרשל מתוך “מפרץ ההרפתקאות”, בדיוק כפי שהיא מופיעה הסט כולל את מבנה המפקדה האינטראקטיבי עם דלתות מוסך נפתחות, כבאית חילוץ עם סולם מתכוונן ותותח מים, דמות של מרשל הכבאי ואביזרי להבות משחק.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784047237257-ara04l.webp
 
 ### האצ’ימלס גדול – פאפיקורן מבית האצ’ימלס Hatchimals - Pufficorn
 https://parktoys.co.il/product/hatsymls-gdvl-papykvrn-mbyt-hatsymls-hatchimals-pufficorn-knherz

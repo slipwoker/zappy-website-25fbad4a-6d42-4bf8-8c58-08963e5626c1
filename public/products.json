@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-14T16:32:18.420Z",
+  "generated_at": "2026-07-14T16:41:26.692Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 153,
+  "count": 154,
   "products": [
+    {
+      "id": "4da63fb8-50e2-46ec-bbb6-755b1d879d78",
+      "slug": "arkt-mshchk-tchnt-kybvy-ash-vchylvts-mprts-hhrptkavt-st-tchnh-ayntraktybyt-kbayt-vabyzrym-paw-patrol-cnfi4l",
+      "name": "ערכת משחק תחנת כיבוי אש וחילוץ מפרץ ההרפתקאות – סט תחנה אינטראקטיבית, כבאית ואביזרים Paw Patrol",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הקפיצו את צוות הכבאים למשימה נועזת! ערכת משחק רשמית מבית Spin Master המציגה את תחנת כיבוי האש והחילוץ האייקונית של מרשל מתוך “מפרץ ההרפתקאות”, בדיוק כפי שהיא מופיעה הסט כולל את מבנה המפקדה האינטראקטיבי עם דלתות מוסך נפתחות, כבאית חילוץ עם סולם מתכוונן ותותח מים, דמות של מרשל הכבאי ואביזרי להבות משחק.",
+      "sku": null,
+      "brand": null,
+      "price": 400,
+      "base_price": 400,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784047237257-ara04l.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/arkt-mshchk-tchnt-kybvy-ash-vchylvts-mprts-hhrptkavt-st-tchnh-ayntraktybyt-kbayt-vabyzrym-paw-patrol-cnfi4l",
+      "categories": [],
+      "updated_at": "2026-07-14T16:40:54.619Z"
+    },
     {
       "id": "d7cab24e-dc58-49ab-bf43-cdb80b8dea71",
       "slug": "hatsymls-gdvl-papykvrn-mbyt-hatsymls-hatchimals-pufficorn-knherz",
