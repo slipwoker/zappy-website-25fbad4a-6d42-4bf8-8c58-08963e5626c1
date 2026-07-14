@@ -1,10 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-14T10:25:05.682Z",
+  "generated_at": "2026-07-14T10:33:19.528Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 143,
+  "count": 144,
   "products": [
+    {
+      "id": "be86a475-cdd2-4f39-afb6-06ca277859cd",
+      "slug": "aglt-bvbh-myny-mavs-3-b-1-dysny-78mv8u",
+      "name": " עגלת בובה מיני מאוס 3 ב-1 דיסני",
+      "name_translations": {},
+      "description": "",
+      "short_description": "עגלת בובה מיני מאוס 3 ב- 1 דיסני\n• עגלת בובה איכותית.\n• מנגנון בטיחות כפול למניעת התקפלות העגלה.\n• קלה לפתיחה/קיפול.\n• סל קל נשלף לנשיאת הבובה.\nמידות העגלה:\nרוחב: 36.5 ס\"מ, גובה 58 ס\"מ עומק 45 ס\"מ.\nמידות אריזה\nרוחב 37 ס\"מ, אורך 52 ס\"מ, עומק 16 ס\"מ.\n\n \n\nעודפים – פריט זה תקין באריזה פגומה.\n\nהתמונה להמחשה בלבד, עשויה להציג מוצרי השלמה שאינם מגיעים במוצר הבסיס.",
+      "sku": null,
+      "brand": null,
+      "price": 249,
+      "base_price": 299,
+      "sale_price": 249,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784024842765-uhwnt.webp",
+        "https://parktoys.co.il/assets/product-enhanced-1784024968263-7fjb3t.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/aglt-bvbh-myny-mavs-3-b-1-dysny-78mv8u",
+      "categories": [],
+      "updated_at": "2026-07-14T10:32:47.749Z"
+    },
     {
       "id": "08d32437-882f-47dc-8e03-8cf4c6bc669a",
       "slug": "mkvnyt-shlt-mshtvllt-stant-avrvt-vtslylym-kvll-taynh-hst-0y5r5m",
