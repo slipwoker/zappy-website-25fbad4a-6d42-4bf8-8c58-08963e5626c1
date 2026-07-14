@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-14T11:17:01.894Z",
+  "generated_at": "2026-07-14T11:28:49.194Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 148,
+  "count": 149,
   "products": [
+    {
+      "id": "fb6beeff-71f8-40d1-8a28-225807cde488",
+      "slug": "bvbt-brby-avpnh-blvndynyt-am-shyar-arvk-bmyvchd-tvspt-shyar-shny-sgnvnvt-lbvsh-v10-abyzry-styylyng-fun-fancy-mbyt-barbie-mattel-m2huxy",
+      "name": "בובת ברבי אופנה בלונדינית עם שיער ארוך במיוחד, תוספת שיער, שני סגנונות לבוש ו־10 אביזרי סטיילינג | Fun & Fancy מבית Barbie Mattel",
+      "name_translations": {},
+      "description": "",
+      "short_description": "\nעמוד הבית / ברבי barbie\nברבי Barbie\nבובה ברבי כיף JCT729564\n \n₪119\n\nכמות של בובה ברבי כיף JCT729564\n1\nהוספה לסל\nBuy now\n אריזת מתנה - בתוספת ₪5?\nמק\"ט: 194735276141\nקטגוריה: ברבי barbie\nתגיות: 194735276141, Barbie, JCT729564, panda toys, בובה ברבי, בובה ברבי כיף, בובה ברבי כיף JCT729564, בובת ברבי, ברבי, פנדה טויס, פנדה טויס panda toys, פנדה צעצועים, צעצועים לילדים\nמותג: ברבי Barbie\nתיאור\nמשלוחים ואספקה\nזוהי בובת ברבי מסדרת Fun & Fancy Hair. \n \nהבובה מגיעה עם שיער בלונדיני ארוך במיוחד, באורך של ",
+      "sku": null,
+      "brand": null,
+      "price": 120,
+      "base_price": 120,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784028184292-zsnuos.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/bvbt-brby-avpnh-blvndynyt-am-shyar-arvk-bmyvchd-tvspt-shyar-shny-sgnvnvt-lbvsh-v10-abyzry-styylyng-fun-fancy-mbyt-barbie-mattel-m2huxy",
+      "categories": [],
+      "updated_at": "2026-07-14T11:28:17.405Z"
+    },
     {
       "id": "dd08e04c-cf89-4227-a185-18cd61340108",
       "slug": "brby-rvkbt-al-svs-piudox",
