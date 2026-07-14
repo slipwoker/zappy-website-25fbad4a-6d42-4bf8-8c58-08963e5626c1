@@ -5802,6 +5802,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### ברבי רוכבת על סוס
+URL: https://parktoys.co.il/product/brby-rvkbt-al-svs-piudox
+Price: 100.00 ILS
+Availability: In stock
+
+---
+
 ### מסוק שלט 3.5ch gyro HST 
 URL: https://parktoys.co.il/product/msvk-shlt-35ch-gyro-hst-twzemm
 Price: 130.00 ILS

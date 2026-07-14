@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 147**
+**Total active products: 148**
+
+### ברבי רוכבת על סוס
+https://parktoys.co.il/product/brby-rvkbt-al-svs-piudox
+- Price: 100.00 ILS
+- Availability: In stock
+- Description: ברבי מגיעה לבושה בתלבושת רכיבה אופנתית הכולל ורוד בדוגמת מעוינים, מכנסיים, מגפיים וקסדת רכיבה נשלפת. הבובה מעוצבת במיוחד למשחקי רכיבה והרפתקאות. לברבי מפרקים גמישים במרפקים, בפרקי הידיים ובברכיים, המאפשרים תנועות מציאותיות יותר בזמן משחק ותנוחות שונות לרכיבה ולמשחק תפקידים. פרטים נוספים סגור Netflix בהשראת סדרת Malibu בובת ברבי תלבושת רכיבה הכוללת וסט, מכנסיים, מגפיים וקסדה נשלפת מפרקים גמישים במרפקים, בפרקי הידיים ובברכיים מתאימה למשחקי דמיון והרפתקאות בעולם הסוסים ניתן לשלב עם בובות ואב
+- Image: https://parktoys.co.il/assets/product-enhanced-1784027751990-k3h7s.webp
 
 ### מסוק שלט 3.5ch gyro HST 
 https://parktoys.co.il/product/msvk-shlt-35ch-gyro-hst-twzemm

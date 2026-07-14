@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-14T11:06:57.979Z",
+  "generated_at": "2026-07-14T11:17:01.894Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 147,
+  "count": 148,
   "products": [
+    {
+      "id": "dd08e04c-cf89-4227-a185-18cd61340108",
+      "slug": "brby-rvkbt-al-svs-piudox",
+      "name": "ברבי רוכבת על סוס",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ברבי מגיעה לבושה בתלבושת רכיבה אופנתית הכולל ורוד בדוגמת מעוינים, מכנסיים, מגפיים וקסדת רכיבה נשלפת.\n\nהבובה מעוצבת במיוחד למשחקי רכיבה והרפתקאות.\n\nלברבי מפרקים גמישים במרפקים, בפרקי הידיים ובברכיים, המאפשרים תנועות מציאותיות יותר בזמן משחק ותנוחות שונות לרכיבה ולמשחק תפקידים.\n\nפרטים נוספים\n\nסגור\n\nNetflix בהשראת סדרת Malibu בובת ברבי\n\nתלבושת רכיבה הכוללת וסט, מכנסיים, מגפיים וקסדה נשלפת\n\nמפרקים גמישים במרפקים, בפרקי הידיים ובברכיים מתאימה למשחקי דמיון והרפתקאות בעולם הסוסים ניתן לשלב עם בובות ואב",
+      "sku": null,
+      "brand": null,
+      "price": 100,
+      "base_price": 100,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784027751990-k3h7s.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/brby-rvkbt-al-svs-piudox",
+      "categories": [],
+      "updated_at": "2026-07-14T11:16:29.176Z"
+    },
     {
       "id": "19a4a3c9-660e-4e69-8cd0-89f4a74de25f",
       "slug": "msvk-shlt-35ch-gyro-hst-twzemm",
