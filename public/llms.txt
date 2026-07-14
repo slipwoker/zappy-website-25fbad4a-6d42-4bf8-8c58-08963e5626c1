@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 144**
+**Total active products: 145**
+
+### מטבח מפואר אורות וצלילים – סטיץ' (Stitch)
+https://parktoys.co.il/product/mtbch-mpvar-avrvt-vtslylym-styts-stitch-9eiwl3
+- Price: 249.00 ILS (sale, was 300.00 ILS)
+- Availability: In stock
+- Description: הכניסו את הקסם של סטיץ' למטבח של הילדים! מטבח משחק מרהיב ומעוצב בהשראת הדמות האהובה מסרטי "לילו וסטיץ'", המעניק חוויית משחק אינטראקטיבית, עשירה ומלאת דמיון. מה בחבילה? עיצוב צבעוני ומדליק: המטבח מעוטר באיורים של סטיץ' ובצבעי התכלת והכחול המזוהים איתו. אפקטים של אורות וצלילים: להעצמת חוויית הבישול, המטבח כולל פונקציות קוליות ואורות המדמים עבודה במטבח אמיתי. אביזרים נלווים: הערכה כוללת מגוון כלי מטבח ואביזרים המאפשרים לילדים להתחיל "לבשל" מיד (כלי אוכל, סירים, אביזרי הגשה ועוד).
+- Image: https://parktoys.co.il/assets/product-enhanced-1784025475405-jgrxmf.webp
 
 ###  עגלת בובה מיני מאוס 3 ב-1 דיסני
 https://parktoys.co.il/product/aglt-bvbh-myny-mavs-3-b-1-dysny-78mv8u
