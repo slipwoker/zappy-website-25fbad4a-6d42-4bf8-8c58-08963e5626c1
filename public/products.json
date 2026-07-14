@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-14T10:40:31.191Z",
+  "generated_at": "2026-07-14T10:44:26.670Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 145,
+  "count": 146,
   "products": [
+    {
+      "id": "9f691291-912a-40e0-9352-dfa482cc081a",
+      "slug": "mtbch-ank-byt-hbvbvt-shl-gby-gabbys-dollhouse-rmrynz",
+      "name": "  מטבח ענק - בית הבובות של גבי (Gabby's Dollhouse)",
+      "name_translations": {},
+      "description": "<p>הכניסו את הקסם של הסדרה האהובה \"בית הבובות של גבי\" היישר אל חדר המשחקים! המטבח הענק של גבי הוא המתנה המושלמת לילדים וילדות שאוהבים לבשל, לאפות וליצור הרפתקאות דמיוניות יחד עם הדמויות המוכרות.</p><p><strong>מה בערכה?</strong></p><ul><li><strong>עיצוב צבעוני ומרהיב:</strong> מטבח מאובזר בעיצוב המזוהה עם הסדרה, הכולל את הצבעים והדמויות שילדים אוהבים.</li><li><strong>חוויית משחק אינטראקטיבית:</strong> המטבח כולל מגוון אביזרים המאפשרים לילדים להרגיש כמו שפים אמיתיים בתוך העולם של גבי.</li><li><strong>פיתוח מיומנויות:</strong> המשחק מעודד יצירתיות, משחקי תפקידים, פיתוח דמיון ומוטוריקה עדינה.</li></ul><p><strong>פרטים נוספים:</strong></p><ul><li><strong>מותג:</strong> Gabby's Dollhouse (בית הבובות של גבי).</li><li><strong>מתאים לגילאי:</strong> 3 ומעלה.</li><li><strong>מחיר באתר:</strong> 229 ₪ (עשוי להשתנות בהתאם למבצעי האתר).</li><li><strong>אפשרות לתוספת:</strong> ניתן להוסיף אריזת מתנה בתיאום מול החנות.</li></ul><p><strong>למה כדאי?</strong> זהו לא רק מטבח צעצוע, אלא שער לעולם שלם של כיף שבו הילדים יכולים \"להכין\" ארוחות לחברים החתולים של גבי, בדיוק כמו בתוכנית! המטבח עמיד, בטיחותי לשימוש ומעניק שעות של הנאה.</p>",
+      "short_description": "הכניסו את הקסם של הסדרה האהובה \"בית הבובות של גבי\" היישר אל חדר המשחקים! המטבח הענק של גבי הוא המתנה המושלמת לילדים וילדות שאוהבים לבשל, לאפות וליצור הרפתקאות דמיוניות יחד עם הדמויות המוכרות.",
+      "sku": null,
+      "brand": null,
+      "price": 249,
+      "base_price": 300,
+      "sale_price": 249,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784025817546-vog8h.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mtbch-ank-byt-hbvbvt-shl-gby-gabbys-dollhouse-rmrynz",
+      "categories": [],
+      "updated_at": "2026-07-14T10:43:54.560Z"
+    },
     {
       "id": "35615611-0e18-458e-b8db-d0803b940466",
       "slug": "mtbch-mpvar-avrvt-vtslylym-styts-stitch-9eiwl3",

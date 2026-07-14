@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 145**
+**Total active products: 146**
+
+###   מטבח ענק - בית הבובות של גבי (Gabby's Dollhouse)
+https://parktoys.co.il/product/mtbch-ank-byt-hbvbvt-shl-gby-gabbys-dollhouse-rmrynz
+- Price: 249.00 ILS (sale, was 300.00 ILS)
+- Availability: In stock
+- Description: הכניסו את הקסם של הסדרה האהובה "בית הבובות של גבי" היישר אל חדר המשחקים! המטבח הענק של גבי הוא המתנה המושלמת לילדים וילדות שאוהבים לבשל, לאפות וליצור הרפתקאות דמיוניות יחד עם הדמויות המוכרות.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784025817546-vog8h.webp
 
 ### מטבח מפואר אורות וצלילים – סטיץ' (Stitch)
 https://parktoys.co.il/product/mtbch-mpvar-avrvt-vtslylym-styts-stitch-9eiwl3
