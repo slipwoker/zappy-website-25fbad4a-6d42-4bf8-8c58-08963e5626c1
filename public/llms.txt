@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 146**
+**Total active products: 147**
+
+### מסוק שלט 3.5ch gyro HST 
+https://parktoys.co.il/product/msvk-shlt-35ch-gyro-hst-twzemm
+- Price: 130.00 ILS
+- Availability: In stock
+- Description: מסוק שלט 3.5 ערוצי טיסה. כולל מייצב מובנה gyrosope לטיסה יציבה. שלדת המסוק חזקה ועמידה במיוחד. מדליק אורות בעת הטיסה. כולל סוללה פנימית נטענת ומטען USB מהיר.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784026741158-ymv1oj.webp
 
 ###   מטבח ענק - בית הבובות של גבי (Gabby's Dollhouse)
 https://parktoys.co.il/product/mtbch-ank-byt-hbvbvt-shl-gby-gabbys-dollhouse-rmrynz
