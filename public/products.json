@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-14T11:29:30.460Z",
+  "generated_at": "2026-07-14T12:21:37.557Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 149,
+  "count": 150,
   "products": [
+    {
+      "id": "a49f039f-0f14-46bc-b4c8-f14d7ce65184",
+      "slug": "brby-bybysytr-py8rp9",
+      "name": "ברבי ביביסיטר",
+      "name_translations": {},
+      "description": "",
+      "short_description": "תהנו מרגעי בייביסיטר קלאסיים עם ערכת המשחקים של Barbie Skipper Babysitters Inc.\nהבובה הפעוטה מוכנה להתכרבל למיטתה לבושה בפיג'מה עם הדפס כוכב וקשת זוהר בחושך.\nהמיטה הצבעונית מעוצבת עם שערים לפעוטות וכוכבים ורודים ומגיעה עם שמיכה מודפסת יפה.\nחתול לבן ישן הופך לחבר המושלם לפני השינה.\nיש גם דובי וספר סיפורים כדי להבטיח חלומות מתוקים.",
+      "sku": null,
+      "brand": null,
+      "price": 120,
+      "base_price": 120,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784031616528-96c7ls.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/brby-bybysytr-py8rp9",
+      "categories": [],
+      "updated_at": "2026-07-14T12:21:05.826Z"
+    },
     {
       "id": "fb6beeff-71f8-40d1-8a28-225807cde488",
       "slug": "bvbt-brby-avpnh-blvndynyt-am-shyar-arvk-bmyvchd-tvspt-shyar-shny-sgnvnvt-lbvsh-v10-abyzry-styylyng-fun-fancy-mbyt-barbie-mattel-c67s7e",
