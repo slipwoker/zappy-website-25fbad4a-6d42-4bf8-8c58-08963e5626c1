@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-14T07:37:39.352Z",
+  "generated_at": "2026-07-14T07:38:19.573Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 140,
@@ -149,7 +149,7 @@
     },
     {
       "id": "cdb605dd-2a27-4335-b5af-79887897184a",
-      "slug": "chnyvn-palvlym-hvt-vvyls-z7ril1",
+      "slug": "chnyvn-palvlym-hvt-vvyls-uu6ict",
       "name": "חניון פעלולים הוט ווילס",
       "name_translations": {},
       "description": "",
@@ -165,9 +165,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chnyvn-palvlym-hvt-vvyls-z7ril1",
-      "categories": [],
-      "updated_at": "2026-07-13T12:26:40.661Z"
+      "url": "https://parktoys.co.il/product/chnyvn-palvlym-hvt-vvyls-uu6ict",
+      "categories": [
+        "צעצועי שלט/מסלולי מכוניות/מכוניות "
+      ],
+      "updated_at": "2026-07-14T07:37:47.803Z"
     },
     {
       "id": "18c06831-461a-4886-9d21-90817f01dcb6",
