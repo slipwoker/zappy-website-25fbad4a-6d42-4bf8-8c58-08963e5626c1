@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 156**
+**Total active products: 157**
+
+### סקווישי המבורגר נידו ענקי
+https://parktoys.co.il/product/skvvyshy-hmbvrgr-nydv-anky-w15ekn
+- Price: 40.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: המבורגר נידו ענקי נעים וכיפי למגע
+- Image: https://parktoys.co.il/assets/product-1784129792962-ahsk1.webp
 
 ### סקווישי גבינה נידו ענקית
 https://parktoys.co.il/product/skvvyshy-gbynh-nydv-ankyt-bx0o11

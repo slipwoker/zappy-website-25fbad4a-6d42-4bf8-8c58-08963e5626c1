@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-15T15:34:27.841Z",
+  "generated_at": "2026-07-15T15:39:11.952Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 156,
+  "count": 157,
   "products": [
+    {
+      "id": "62b736d0-188c-4d1d-9298-3a32b68ebf1c",
+      "slug": "skvvyshy-hmbvrgr-nydv-anky-w15ekn",
+      "name": "סקווישי המבורגר נידו ענקי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "המבורגר נידו ענקי נעים וכיפי למגע ",
+      "sku": null,
+      "brand": null,
+      "price": 40,
+      "base_price": 40,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784129792962-ahsk1.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/skvvyshy-hmbvrgr-nydv-anky-w15ekn",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-15T15:38:40.131Z"
+    },
     {
       "id": "a2bfa71b-6bb1-421f-9d23-5dc7ad971df8",
       "slug": "skvvyshy-gbynh-nydv-ankyt-bx0o11",
