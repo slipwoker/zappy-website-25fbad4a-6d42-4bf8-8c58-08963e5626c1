@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 155**
+**Total active products: 156**
+
+### סקווישי גבינה נידו ענקית
+https://parktoys.co.il/product/skvvyshy-gbynh-nydv-ankyt-bx0o11
+- Price: 40.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: סקווישי גבינה נידו ענקית ונעימה
+- Image: https://parktoys.co.il/assets/product-enhanced-1784129587963-1nh0ak.webp
 
 ### מפרץ ההרפתקאות ערכת משחק רכב הצלה
 https://parktoys.co.il/product/mprts-hhrptkavt-arkt-mshchk-rkb-htslh-mwxbkm

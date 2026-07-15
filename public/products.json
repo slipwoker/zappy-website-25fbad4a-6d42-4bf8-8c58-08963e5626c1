@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-15T14:38:32.918Z",
+  "generated_at": "2026-07-15T15:34:27.841Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 155,
+  "count": 156,
   "products": [
+    {
+      "id": "a2bfa71b-6bb1-421f-9d23-5dc7ad971df8",
+      "slug": "skvvyshy-gbynh-nydv-ankyt-bx0o11",
+      "name": "סקווישי גבינה נידו ענקית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סקווישי גבינה נידו ענקית ונעימה ",
+      "sku": null,
+      "brand": null,
+      "price": 40,
+      "base_price": 40,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784129587963-1nh0ak.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/skvvyshy-gbynh-nydv-ankyt-bx0o11",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-15T15:33:50.932Z"
+    },
     {
       "id": "ab034f92-a606-421b-ac95-e36abf9e252f",
       "slug": "mprts-hhrptkavt-arkt-mshchk-rkb-htslh-mwxbkm",
