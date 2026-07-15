@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-15T15:40:43.804Z",
+  "generated_at": "2026-07-15T15:44:20.806Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 158,
+  "count": 159,
   "products": [
+    {
+      "id": "a3bd48b0-59a6-4eee-9f47-7e8d816532b0",
+      "slug": "skvvyshy-abtych-nydv-ank-5ba388",
+      "name": "סקווישי אבטיח נידו ענק ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סקווישי ענק כיפי ונעים למגע ",
+      "sku": null,
+      "brand": null,
+      "price": 40,
+      "base_price": 40,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784130216964-4foetra.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/skvvyshy-abtych-nydv-ank-5ba388",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-15T15:43:48.157Z"
+    },
     {
       "id": "81d75db4-190b-4ddc-be7e-fcdc8caa3bb6",
       "slug": "skvvyshy-kp-yd-ankyt-nydv-iqis8d",

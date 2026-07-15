@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 158**
+**Total active products: 159**
+
+### סקווישי אבטיח נידו ענק 
+https://parktoys.co.il/product/skvvyshy-abtych-nydv-ank-5ba388
+- Price: 40.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: סקווישי ענק כיפי ונעים למגע
+- Image: https://parktoys.co.il/assets/product-enhanced-1784130216964-4foetra.webp
 
 ### סקווישי כף יד ענקית נידו
 https://parktoys.co.il/product/skvvyshy-kp-yd-ankyt-nydv-iqis8d
