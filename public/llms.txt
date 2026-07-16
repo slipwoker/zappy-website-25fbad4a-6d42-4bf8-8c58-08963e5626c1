@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 162**
+**Total active products: 163**
+
+### מפרץ הרפתקאות – רכב חילוץ אש ודמות ריידר
+https://parktoys.co.il/product/mprts-hrptkavt-rkb-chylvts-ash-vdmvt-ryydr-m6iog4
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: מפרץ הרפתקאות 
+- Description: ריידר יוצא לדרך – מנהיגים את משימת החילוץ מהסלון! רכב בסיסי חילוץ אש עם ריידר מבית Spin Master
+- Image: https://parktoys.co.il/assets/product-enhanced-1784199196824-6dna2.webp
 
 ### מפרץ ההרפתקאות - רכב בסיסי ראבל
 https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-rabl-rsz4j3
