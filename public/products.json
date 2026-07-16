@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-16T10:45:26.636Z",
+  "generated_at": "2026-07-16T10:47:27.976Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 160,
   "products": [
     {
       "id": "dc3f7b81-b24c-4d16-9db2-a3d7a38b690c",
-      "slug": "mprts-hhrptkavt-rkb-bsysy-rvky-x3q6fo",
+      "slug": "mprts-hhrptkavt-rkb-bsysy-rvky-63ts6u",
       "name": "מפרץ ההרפתקאות - רכב בסיסי רוקי",
       "name_translations": {},
       "description": "",
@@ -23,9 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-rvky-x3q6fo",
-      "categories": [],
-      "updated_at": "2026-07-16T10:44:40.771Z"
+      "url": "https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-rvky-63ts6u",
+      "categories": [
+        "מפרץ הרפתקאות "
+      ],
+      "updated_at": "2026-07-16T10:47:27.165Z"
     },
     {
       "id": "a3bd48b0-59a6-4eee-9f47-7e8d816532b0",

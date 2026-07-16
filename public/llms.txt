@@ -79,9 +79,10 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 160**
 
 ### מפרץ ההרפתקאות - רכב בסיסי רוקי
-https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-rvky-x3q6fo
+https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-rvky-63ts6u
 - Price: 79.00 ILS
 - Availability: In stock
+- Category: מפרץ הרפתקאות 
 - Image: https://parktoys.co.il/assets/product-enhanced-1784198623653-app1oi.webp
 
 ### סקווישי אבטיח נידו ענק 
