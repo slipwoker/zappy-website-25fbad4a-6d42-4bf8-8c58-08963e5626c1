@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 161**
+**Total active products: 162**
+
+### מפרץ ההרפתקאות - רכב בסיסי ראבל
+https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-rabl-rsz4j3
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: מפרץ הרפתקאות 
+- Image: https://parktoys.co.il/assets/product-enhanced-1784199097726-7ljezd.webp
 
 ### מפרץ ההרפתקאות - רכב בסיסי צייס
 https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-tsyys-7ifnco

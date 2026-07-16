@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-16T10:51:05.707Z",
+  "generated_at": "2026-07-16T10:52:31.291Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 161,
+  "count": 162,
   "products": [
+    {
+      "id": "26e29b72-4e61-4260-a47c-60614f4c25f5",
+      "slug": "mprts-hhrptkavt-rkb-bsysy-rabl-rsz4j3",
+      "name": "מפרץ ההרפתקאות - רכב בסיסי ראבל",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784199097726-7ljezd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-rabl-rsz4j3",
+      "categories": [
+        "מפרץ הרפתקאות "
+      ],
+      "updated_at": "2026-07-16T10:51:59.027Z"
+    },
     {
       "id": "b9f4fb0d-b893-46bd-a323-d61ff9a5a158",
       "slug": "mprts-hhrptkavt-rkb-bsysy-tsyys-7ifnco",
