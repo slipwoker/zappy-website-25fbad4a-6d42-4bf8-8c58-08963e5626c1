@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-16T21:15:42.126Z",
+  "generated_at": "2026-07-16T21:22:12.287Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 164,
   "products": [
     {
       "id": "ac8b164a-e42e-4c68-b13a-e6f242f06567",
-      "slug": "mprts-hrptkavt-mrshl-mkvnyt-vdmvt-lyldym-iya5xr",
+      "slug": "mprts-hrptkavt-mrshl-mkvnyt-vdmvt-lyldym-j7wvvw",
       "name": "מפרץ הרפתקאות מרשל מכונית ודמות לילדים",
       "name_translations": {},
       "description": "",
@@ -24,11 +24,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mprts-hrptkavt-mrshl-mkvnyt-vdmvt-lyldym-iya5xr",
+      "url": "https://parktoys.co.il/product/mprts-hrptkavt-mrshl-mkvnyt-vdmvt-lyldym-j7wvvw",
       "categories": [
         "מפרץ הרפתקאות "
       ],
-      "updated_at": "2026-07-16T21:15:10.010Z"
+      "updated_at": "2026-07-16T21:21:40.032Z"
     },
     {
       "id": "25a8314e-07f4-4ebe-a80b-23fa1e03fc36",
