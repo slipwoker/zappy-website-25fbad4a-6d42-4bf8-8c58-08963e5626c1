@@ -5893,6 +5893,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### מפרץ ההרפתקאות - רכב בסיסי צייס
+URL: https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-tsyys-7ifnco
+Price: 99.00 ILS
+Availability: In stock
+
+---
+
 ### מפרץ ההרפתקאות - רכב בסיסי רוקי
 URL: https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-rvky-63ts6u
 Price: 79.00 ILS

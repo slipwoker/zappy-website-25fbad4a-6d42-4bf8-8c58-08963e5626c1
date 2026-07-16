@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-16T10:47:58.775Z",
+  "generated_at": "2026-07-16T10:51:05.707Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 160,
+  "count": 161,
   "products": [
+    {
+      "id": "b9f4fb0d-b893-46bd-a323-d61ff9a5a158",
+      "slug": "mprts-hhrptkavt-rkb-bsysy-tsyys-7ifnco",
+      "name": "מפרץ ההרפתקאות - רכב בסיסי צייס",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784198935713-v4wrft.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-tsyys-7ifnco",
+      "categories": [
+        "מפרץ הרפתקאות "
+      ],
+      "updated_at": "2026-07-16T10:50:34.036Z"
+    },
     {
       "id": "dc3f7b81-b24c-4d16-9db2-a3d7a38b690c",
       "slug": "mprts-hhrptkavt-rkb-bsysy-rvky-63ts6u",
