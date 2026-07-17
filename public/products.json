@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-17T08:19:27.864Z",
+  "generated_at": "2026-07-17T08:20:14.808Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 167,
   "products": [
     {
       "id": "aba5f6d6-aa7e-4d7b-81ac-fc3be017a11e",
-      "slug": "dmvt-mrshl-am-kbayt-hmpltst-glgly-chylvts-mprts-hhrptkavt-f62mef",
+      "slug": "dmvt-mrshl-am-kbayt-hmpltst-glgly-chylvts-mprts-hhrptkavt-ed1s0s",
       "name": "דמות מרשל עם כבאית המפלצת גלגלי חילוץ – מפרץ ההרפתקאות",
       "name_translations": {},
       "description": "<p class=\"ql-align-justify\"><strong>מפרץ ההרפתקאות – סיירת המשימה עם כלבי ההצלה האהובים עלינו&nbsp;</strong></p><p class=\"ql-align-justify\">ביבשה, באוויר וגם בים.</p><p class=\"ql-align-justify\">למשימות חילוץ דחופות למי אתם קוראים?! לגורי ההצלה.</p><p class=\"ql-align-justify\">דמות מרשל עם הכבאית החילוץ החדש של צוות החילוץ המפלצת סדרת גלגלי החילוץ!</p><p class=\"ql-align-justify\">מרשל עם המדים החדשים של צוות ההצלה עם קסדה ותרמיל,</p><p class=\"ql-align-justify\">הושיבו את מרשל במושב הנהג לפני המרוץ למשימת החילות העמוסה באקשן.</p><p class=\"ql-align-justify\">הכבאית של מרשל מגיעה עם משגר ושני קליעים מוכנים לשיגור,</p><p class=\"ql-align-justify\">טען את הקליע לתוך המשגר ואז לחץ על הכפתור כדי לירות ולהציל את היום.</p><p class=\"ql-align-justify\">בואו לשחזר את הסצנות האהובות מהסדרה!</p><p class=\"ql-align-justify\">מגילאי 3 ומעלה</p><p><br></p>",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/dmvt-mrshl-am-kbayt-hmpltst-glgly-chylvts-mprts-hhrptkavt-f62mef",
+      "url": "https://parktoys.co.il/product/dmvt-mrshl-am-kbayt-hmpltst-glgly-chylvts-mprts-hhrptkavt-ed1s0s",
       "categories": [
         "מפרץ הרפתקאות "
       ],
-      "updated_at": "2026-07-17T08:18:55.880Z"
+      "updated_at": "2026-07-17T08:19:42.368Z"
     },
     {
       "id": "01fa565c-4b34-4947-bf1d-af4481861cd1",
