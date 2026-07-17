@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 175**
+**Total active products: 176**
+
+### מארז דמיות פוקימון 
+https://parktoys.co.il/product/marz-dmyvt-pvkymvn-h5iw3o
+- Price: 100.00 ILS
+- Availability: In stock
+- Description: מארז 10 בובות פוקימון Battle Figure הסט כולל דמויות בגודל 5 ס״מ פיקאצ’, סקווירטל, בולבסאור, צ’רמנדר, פרואקי, יאמפר, ג’יבל, גרולית’, אודיש ו דמות סינדרייס בגודל 12 ס״מ כולם פרטים אותנטיים ונראים כאילו קפצו ישר מתוך סדרת האנימציה של פוקימון. מצוידים במספר סוגים של פוקימונים, תהיו מוכנים להילחם מוצר פוקימון ברישיון רשמי מבית Jazwares גילאי 4+ התמונה להמחשה בלבד, עשויה להציג מוצרי השלמה שאינם מגיעים במוצר הבסיס.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784284609741-j5v2d.webp
 
 ### מטוסי על - גולדן בוי שחור משנה צורה 3 ב-1 גודל 12 ס"מ - עונה 10
 https://parktoys.co.il/product/mtvsy-al-gvldn-bvy-shchvr-mshnh-tsvrh-3-b-1-gvdl-12-sm-avnh-10-1ip7d3
