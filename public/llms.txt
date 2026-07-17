@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 171**
+**Total active products: 172**
+
+### מטוסי על - ג'רום משנה צורה 2 ב-1 גודל 12 ס"מ - עונה 10
+https://parktoys.co.il/product/mtvsy-al-grvm-mshnh-tsvrh-2-b-1-gvdl-12-sm-avnh-10-ikn2vm
+- Price: 98.00 ILS
+- Availability: In stock
+- Category: מפרץ הרפתקאות 
+- Description: הכוכב הכי קצבי בשמיים מגיע אליכם הביתה מוכן להופעה! הכירו את ג'רום, טייס הפעלולים הנועז של צוות סופר ווינגס! ג'רום הוא לא רק מטוס סילון מהיר ומרהיב, הוא גם רקדן מלידה שמכיר את כל סגנונות הריקוד ואוהב ללמד את כולם תנועות חדשות ומגניבות. הוא מתלבש על אור הזרקורים, אוהב להתחרות ברוח טובה עם חברו ג'ט, אבל ברגע האמת – הוא תמיד הראשון להתייצב ולעזור לחברים שלו בכל משימת חילוץ! ✈️ שינוי צורה חווייתי (טרנספורמציה): מעבר קל, חלק ומהיר ממטוס פעלולים אווירודינמי לרובוט גיבור ומרשים, המותאם בדיוק לידיים של …
+- Image: https://parktoys.co.il/assets/product-1784280811843-zhtdy5.webp
 
 ### Spin Master מפרץ ההרפתקאות - רכב בסיסי ריידר - Spin Master
 https://parktoys.co.il/product/spin-master-mprts-hhrptkavt-rkb-bsysy-ryydr-spin-master-686oje
