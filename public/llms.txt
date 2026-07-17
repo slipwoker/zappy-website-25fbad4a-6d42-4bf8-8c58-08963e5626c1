@@ -79,9 +79,10 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 178**
 
 ### פוקימון – מארז פוכדור וחגורה פוקימון
-https://parktoys.co.il/product/pvkymvn-marz-pvkdvr-vchgvrh-pvkymvn-0ygtgo
+https://parktoys.co.il/product/pvkymvn-marz-pvkdvr-vchgvrh-pvkymvn-tk62e2
 - Price: 60.00 ILS
 - Availability: In stock
+- Category: מפרץ הרפתקאות 
 - Description: התמונה להמחשה: המארז מגיע בהתאם למלאי בחנות
 - Image: https://parktoys.co.il/assets/product-enhanced-1784287722473-bw3ob.webp
 
