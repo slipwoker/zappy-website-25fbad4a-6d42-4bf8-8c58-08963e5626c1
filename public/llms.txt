@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 170**
+**Total active products: 171**
+
+### Spin Master מפרץ ההרפתקאות - רכב בסיסי ריידר - Spin Master
+https://parktoys.co.il/product/spin-master-mprts-hhrptkavt-rkb-bsysy-ryydr-spin-master-khdz2n
+- Price: 79.00 ILS
+- Availability: In stock
+- Category: מפרץ הרפתקאות 
+- Description: מפרץ ההרפתקאות - רכב בסיסי - ריידר מבית ספין מאסטר Spin Master - Ryder Rescue Atv רכב מפרץ ההרפתקאות והדמות של ריידר מהסדרה האהובה. מפתח ומעורר את הדמיון. הערכה כוללת את דמות ריידר על רכב המפרץ, מוכן לכל סוג של הרפתקה. שחקו, חקרו, והצילו עם ריידר ורכבו. המשחק מתאים לגילאי 3+ משתתפים: 1+ ברקוד מוצר: 778988507865
+- Image: https://parktoys.co.il/assets/product-1784280087467-6li79w.webp
 
 ### דמות רוקי עם רכב מפלצת גלגלי החילוץ – מפרץ ההרפתקאות
 https://parktoys.co.il/product/dmvt-rvky-am-rkb-mpltst-glgly-hchylvts-mprts-hhrptkavt-mngvc0
