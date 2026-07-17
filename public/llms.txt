@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 165**
+**Total active products: 166**
+
+### מסוק סקיי סדרת איתור והצלה מפרץ ההרפתקאות
+https://parktoys.co.il/product/msvk-skyy-sdrt-aytvr-vhtslh-mprts-hhrptkavt-ip238f
+- Price: 89.00 ILS
+- Availability: In stock
+- Category: מפרץ הרפתקאות 
+- Description: מסוק סקיי סדרת איתור והצלה מפרץ ההרפתקאות ביבשה, באוויר וגם בים, למשימות חילוץ דחופות למי אתם קוראים?! לגורי ההצלה. מסוק חיפוש והצלה של סקיי ! סט מלא פעולה זה כולל מסוק צעצוע בגודל 15 ס"מ ו-2 דמויות, כולל סקיי , בגובה של יותר מ-5 ס"מ במדי החיפוש וההצלה שלה, מוכנה להציל את המצב. ילדים יכולים להציב את סקיי והקנגורו במסוק , ואז למשוך אותם אחורה ולשגר קדימה לקבלת אלמנט מרגש בכל משימה. עם עיצוב מקורי של PAW Patrol, צעצוע זה נראה בדיוק כמו כלי הרכב מהסדרה, ומעורר השראה בילדים לצאת להרפתקאות משלהם.
+- Image: https://parktoys.co.il/assets/product-1784276063291-rs33flt.webp
 
 ### מפרץ ההרפתקאות – רכב בסיסי חילוץ אש – זומה
 https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-chylvts-ash-zvmh-0z5m3q

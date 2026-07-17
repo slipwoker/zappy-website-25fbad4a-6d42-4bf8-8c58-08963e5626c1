@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-17T08:13:19.833Z",
+  "generated_at": "2026-07-17T08:17:05.972Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 165,
+  "count": 166,
   "products": [
+    {
+      "id": "01fa565c-4b34-4947-bf1d-af4481861cd1",
+      "slug": "msvk-skyy-sdrt-aytvr-vhtslh-mprts-hhrptkavt-ip238f",
+      "name": "מסוק סקיי סדרת איתור והצלה מפרץ ההרפתקאות",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מסוק סקיי סדרת איתור והצלה מפרץ ההרפתקאות\nביבשה, באוויר וגם בים, למשימות חילוץ דחופות למי אתם קוראים?! לגורי ההצלה.\n\nמסוק חיפוש והצלה של סקיי ! סט מלא פעולה זה כולל מסוק צעצוע בגודל 15 ס\"מ ו-2 דמויות, כולל סקיי , בגובה של יותר מ-5 ס\"מ במדי החיפוש וההצלה שלה, מוכנה להציל את המצב.\nילדים יכולים להציב את סקיי והקנגורו במסוק , ואז למשוך אותם אחורה ולשגר קדימה לקבלת אלמנט מרגש בכל משימה.\nעם עיצוב מקורי של PAW Patrol, צעצוע זה נראה בדיוק כמו כלי הרכב מהסדרה, ומעורר השראה בילדים לצאת להרפתקאות משלהם.",
+      "sku": null,
+      "brand": null,
+      "price": 89,
+      "base_price": 89,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784276063291-rs33flt.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/msvk-skyy-sdrt-aytvr-vhtslh-mprts-hhrptkavt-ip238f",
+      "categories": [
+        "מפרץ הרפתקאות "
+      ],
+      "updated_at": "2026-07-17T08:16:33.937Z"
+    },
     {
       "id": "1ae1054a-d65c-4fe1-b2c7-bc00f6403389",
       "slug": "mprts-hhrptkavt-rkb-bsysy-chylvts-ash-zvmh-0z5m3q",
