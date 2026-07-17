@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-17T08:20:14.808Z",
+  "generated_at": "2026-07-17T08:54:40.377Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 167,
+  "count": 168,
   "products": [
+    {
+      "id": "68c79224-ae9e-4e65-b758-42c6831464d8",
+      "slug": "dmvt-rabl-am-rkb-mpltst-glgly-hchylvts-mprts-hhrptkavt-n8fiz7",
+      "name": "דמות ראבל עם רכב מפלצת גלגלי החילוץ – מפרץ ההרפתקאות",
+      "name_translations": {},
+      "description": "<p>מפרץ ההרפתקאות – סיירת המשימה עם כלבי ההצלה האהובים עלינו </p><p><br></p><p>ביבשה, באוויר וגם בים.</p><p><br></p><p>למשימות חילוץ דחופות למי אתם קוראים?! לגורי ההצלה.</p><p><br></p><p>דמות ראבל עם רכב החילוץ החדש של צוות החילוץ המפלצת סדרת גלגלי החילוץ!</p><p><br></p><p>ראבל עם המדים החדשים של צוות ההצלה עם קסדה ותרמיל,</p><p><br></p><p>הושיבו את ראבל במושב הנהג לפני המרוץ למשימת החילות העמוסה באקשן.</p><p><br></p><p>המשאית מפלצת של ראבל מגיעה במהירות לכל משימה.</p><p><br></p><p>בואו לשחזר את הסצנות האהובות מהסדרה!</p><p><br></p><p>מגילאי 3 ומעלה</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 95,
+      "base_price": 95,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784278373688-c3t4jg.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/dmvt-rabl-am-rkb-mpltst-glgly-hchylvts-mprts-hhrptkavt-n8fiz7",
+      "categories": [
+        "מפרץ הרפתקאות "
+      ],
+      "updated_at": "2026-07-17T08:54:08.852Z"
+    },
     {
       "id": "aba5f6d6-aa7e-4d7b-81ac-fc3be017a11e",
       "slug": "dmvt-mrshl-am-kbayt-hmpltst-glgly-chylvts-mprts-hhrptkavt-ed1s0s",
