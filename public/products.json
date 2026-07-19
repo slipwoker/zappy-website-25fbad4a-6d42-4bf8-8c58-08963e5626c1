@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T13:45:14.090Z",
+  "generated_at": "2026-07-19T13:49:00.920Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 187,
+  "count": 188,
   "products": [
+    {
+      "id": "5adbed7c-34db-4a64-886b-3b536954a981",
+      "slug": "dmvyvt-spyydy-vavpnva-ayyrvn-mn-efa2qn",
+      "name": "דמויות ספיידי ואופנוע (איירון מן)",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכת המשחק הזו מציגה את הדמות איירון מן יחד עם האופנוע המהיר שלו, מתוך סדרת \"ספיידי וחבריו המופלאים\"\nדמות פעולה: הדמות של איירון מן בגובה של כ-10 ס\"מ ובעלת מפרקים ניתנים להזזה.\nאופנוע צעצוע: האופנוע האדום והצהוב מעוצב בהשראת הסדרה וכולל גלגלים אמיתיים המאפשרים לילדים לדחוף אותו.\nגיל מומלץ: הצעצוע מתאים לילדים בגילאי 3 ומעלה",
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784468891308-uxdllr.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/dmvyvt-spyydy-vavpnva-ayyrvn-mn-efa2qn",
+      "categories": [
+        "מפרץ הרפתקאות "
+      ],
+      "updated_at": "2026-07-19T13:48:46.415Z"
+    },
     {
       "id": "7bd1fac8-3841-4200-82c9-243afbc851ab",
       "slug": "dmvyvt-spyydy-vavpnva-spyydrmn-spyn-zwk7wg",

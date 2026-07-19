@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 187**
+**Total active products: 188**
+
+### דמויות ספיידי ואופנוע (איירון מן)
+https://parktoys.co.il/product/dmvyvt-spyydy-vavpnva-ayyrvn-mn-efa2qn
+- Price: 60.00 ILS
+- Availability: In stock
+- Category: מפרץ הרפתקאות 
+- Description: ערכת המשחק הזו מציגה את הדמות איירון מן יחד עם האופנוע המהיר שלו, מתוך סדרת "ספיידי וחבריו המופלאים" דמות פעולה: הדמות של איירון מן בגובה של כ-10 ס"מ ובעלת מפרקים ניתנים להזזה. אופנוע צעצוע: האופנוע האדום והצהוב מעוצב בהשראת הסדרה וכולל גלגלים אמיתיים המאפשרים לילדים לדחוף אותו. גיל מומלץ: הצעצוע מתאים לילדים בגילאי 3 ומעלה
+- Image: https://parktoys.co.il/assets/product-enhanced-1784468891308-uxdllr.webp
 
 ### דמויות ספיידי ואופנוע ספיידרמן (ספין)
 https://parktoys.co.il/product/dmvyvt-spyydy-vavpnva-spyydrmn-spyn-zwk7wg
