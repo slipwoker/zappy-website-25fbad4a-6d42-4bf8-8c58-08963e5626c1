@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 191**
+**Total active products: 192**
+
+### ריינבוקורן AXOLOTLCORN
+https://parktoys.co.il/product/ryynbvkvrn-axolotlcorn-c0ap50
+- Price: 70.00 ILS
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: בקעו את הביצה הקסומה שלכם עם חיבוק ענק כדי לחשוף את מה ההפתעה שיצאה לכם. לכל אחד מהם יש 10 הפתעות
+- Image: https://parktoys.co.il/assets/product-1784479544912-plm2ph.webp
 
 ### דמויות ספיידי ספיידר דינו מארז  מארז ספיידי
 https://parktoys.co.il/product/dmvyvt-spyydy-spyydr-dynv-marz-marz-spyydy-hi1567

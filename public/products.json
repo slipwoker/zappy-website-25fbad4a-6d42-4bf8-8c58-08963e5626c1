@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T15:15:01.244Z",
+  "generated_at": "2026-07-19T16:46:44.777Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 191,
+  "count": 192,
   "products": [
+    {
+      "id": "b8de6f30-ff49-402a-b9b8-ac8507cf53f7",
+      "slug": "ryynbvkvrn-axolotlcorn-c0ap50",
+      "name": "ריינבוקורן AXOLOTLCORN",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בקעו את הביצה הקסומה שלכם עם חיבוק ענק כדי לחשוף את מה ההפתעה שיצאה לכם.\n\nלכל אחד מהם יש 10 הפתעות ",
+      "sku": null,
+      "brand": null,
+      "price": 70,
+      "base_price": 70,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784479544912-plm2ph.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/ryynbvkvrn-axolotlcorn-c0ap50",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-07-19T16:46:13.121Z"
+    },
     {
       "id": "acdcf844-f892-46b5-a138-de4a07577f59",
       "slug": "dmvyvt-spyydy-spyydr-dynv-marz-marz-spyydy-hi1567",
