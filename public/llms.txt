@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 188**
+**Total active products: 189**
+
+### דמויות ספיידי ספיידר דינו מארז ספין
+https://parktoys.co.il/product/dmvyvt-spyydy-spyydr-dynv-marz-spyn-h0cd0o
+- Price: 70.00 ILS
+- Availability: In stock
+- Category: מפרץ הרפתקאות 
+- Description: זהו סט משחק Hasbro Marvel Spidey and His Amazing Friends Dino-Webs הכולל דמויות של Ghost-Spider ודינוזאור. הסט כולל דמות Ghost-Spider בגודל 10 ס"מ עם מסכה שניתן להפוך כדי לחשוף את פניה. הדינוזאור הכלול הוא Dino Spin, המעוצב בהשראת ספיידרמן. המוצר מיועד לילדים מגיל 3 ומעלה
+- Image: https://parktoys.co.il/assets/product-enhanced-1784469322828-clcf4o.webp
 
 ### דמויות ספיידי ואופנוע (איירון מן)
 https://parktoys.co.il/product/dmvyvt-spyydy-vavpnva-ayyrvn-mn-qso1tz
