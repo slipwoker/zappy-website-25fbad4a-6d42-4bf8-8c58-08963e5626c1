@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T10:50:29.206Z",
+  "generated_at": "2026-07-19T10:58:58.945Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 182,
+  "count": 183,
   "products": [
+    {
+      "id": "c809bc98-1cd6-4d26-8158-7c60fb908d0a",
+      "slug": "arkt-brby-mvrh-vyldh-bbyt-hspr-am-abyzrym-lla42a",
+      "name": "ערכת ברבי מורה וילדה בבית הספר עם אביזרים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סט משחק ברבי מורה מזמין את הילדים לנהל כיתה משלהם! הערכה כוללת בובת ברבי בלוק מקצועי, בובת ילדה מתוקה (תלמידה) ומגוון אביזרי לימוד מושלמים: לוח כיתה אינטראקטיבי, כיסא קטן לתלמידה, מחשב נייד, ספר, מספרים בטיחותיים, דבק, מחברת ותיק גב. הסט מעודד משחק תפקידים יצירתי, ביטוי עצמי ופיתוח מיומנויות חברתיות דרך עולם הלמידה. מתאים לגילאי 3 ומעלה",
+      "sku": null,
+      "brand": null,
+      "price": 119.9,
+      "base_price": 119.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784458681599-hrdf59.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/arkt-brby-mvrh-vyldh-bbyt-hspr-am-abyzrym-lla42a",
+      "categories": [],
+      "updated_at": "2026-07-19T10:58:26.847Z"
+    },
     {
       "id": "e28875b4-f32a-49c8-8f5b-92e0871efabd",
       "slug": "brby-drym-bstyz-brby-mlybv-al-glgylyvt-am-abyzry-avpnh-n61r3a",
