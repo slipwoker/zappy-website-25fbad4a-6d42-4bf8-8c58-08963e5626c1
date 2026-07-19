@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 185**
+**Total active products: 186**
+
+### דמויות ספיידי ואפנוע במארז
+https://parktoys.co.il/product/dmvyvt-spyydy-vapnva-bmarz-d916vw
+- Price: 60.03 ILS
+- Availability: In stock
+- Category: מפרץ הרפתקאות 
+- Description: סט צעצוע זה מבית Hasbro כולל דמות פעולה של ספיידי בגובה 10 ס"מ (4 אינץ') ואופנוע מירוץ אדום תואם עם גלגלים כחולים בולטים.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784467528516-evxgn.webp
 
 ### ריינבו היי - ראש בובה לעיצוב | RAINBOW HIGH
 https://parktoys.co.il/product/ryynbv-hyy-rash-bvbh-laytsvb-rainbow-high-rarmu8
