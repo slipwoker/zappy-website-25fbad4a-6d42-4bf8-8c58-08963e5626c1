@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 180**
+**Total active products: 181**
+
+### ברבי דרים בסטיז – רנה כוכבת הרשת (עם 12 אביזרים)
+https://parktoys.co.il/product/brby-drym-bstyz-rnh-kvkbt-hrsht-am-12-abyzrym-kh46ad
+- Price: 119.90 ILS
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: בובת רנה מסדרת Barbie Dream Besties חולמת להנחות תוכנית אוכל וטיולים משלה! הבובה הגמישה מגיעה עם שיער שחור ארוך בעיטור גוונים סגולים מנצנצים, ולבושה בטופ סגול עם לב נוצץ, שורטס ג'ינס ומגפיים. הסט כולל 12 אביזרי אוכל ובלוגינג אופנתיים: מחשב נייד, תיק יד מעוצב כטוסט, משולש פיצה, בייגלה, שקית צ'יפס, שייק מפנק, טלפון נייד וכיסוי. מתאים לגילאי 4 ומעלה.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784456880359-e47a3l.webp
 
 ### ברבי דרים בסטיז – ערכת התארגנות וסטייל עם ברבי מליבו
 https://parktoys.co.il/product/brby-drym-bstyz-arkt-htargnvt-vstyyl-am-brby-mlybv-1v1p3r
