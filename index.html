@@ -628,11 +628,55 @@
     
     <style id="zappy-critical-above-fold-css">
 html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{box-sizing:inherit}body{margin:0;min-width:320px;overflow-x:clip}img,svg,video{max-width:100%;height:auto}main{display:block}.container{width:min(100% - 32px,1200px);margin-inline:auto}.navbar,nav.navbar,header .navbar,header[role="banner"]{position:relative;z-index:1000;width:100%}.nav-container,.navbar .container{display:flex;align-items:center;justify-content:space-between;min-height:64px}.logo,.logo-link img{display:block;width:35px;height:35px;object-fit:contain}.nav-menu,#navMenu{list-style:none;margin:0;padding:0}.navbar a,.nav-menu a,#navMenu a,.navbar .nav-links a{color:inherit;text-decoration:none}.navbar .sub-menu,.nav-menu .sub-menu,#navMenu .sub-menu{display:none}.fa,.fas,.far,.fab,.fa-solid,.fa-regular,.fa-brands{display:inline-block;min-width:1em;text-align:center}html:not(#zappy-noop)[data-zappy-site-type="ecommerce"] .phone-header-btn,html:not(#zappy-noop) .navbar:has(.nav-ecommerce-icons)>.phone-header-btn{display:none!important;visibility:hidden!important;width:0!important;height:0!important;pointer-events:none!important}.zappy-preview-empty-store-cta{display:none!important;visibility:hidden!important;height:0!important;max-height:0!important;overflow:hidden!important;margin:0!important;padding:0!important;border:0!important;box-shadow:none!important}.zappy-catalog-menu{background:var(--surface-color,var(--surface,linear-gradient(135deg,#f8f9fa 0%,#fff 100%)));border-bottom:1px solid var(--border-color,#e5e7eb);padding:0;position:sticky;top:0;z-index:90}.zappy-catalog-menu[dir=rtl],.zappy-catalog-menu.rtl{direction:rtl}.zappy-catalog-menu[dir=ltr],.zappy-catalog-menu.ltr{direction:ltr}.catalog-menu-container{max-width:1440px;margin:0 auto;display:flex;align-items:center;gap:8px;padding:10px 24px;overflow:visible}.catalog-menu-categories,.catalog-menu-list{display:flex;align-items:center;gap:4px;flex-wrap:wrap;margin:0;padding:0;list-style:none}.catalog-menu-item{display:inline-flex;align-items:center;padding:8px 16px;font-size:14px;font-weight:500;color:var(--text-color,var(--text,#374151));text-decoration:none;border-radius:20px;white-space:nowrap}.catalog-menu-all{background:var(--primary-color,var(--primary,#111));color:var(--text-light,#fff)!important}.catalog-menu-parent{position:relative;display:inline-flex;align-items:center}.catalog-menu-trigger{display:inline-flex;align-items:center;gap:6px}.catalog-menu-chevron{flex-shrink:0}.catalog-menu-parent>.sub-menu{display:none!important;visibility:hidden!important;opacity:0!important;pointer-events:none!important}.hero-section,.index-hero-section,section[class*="hero"]{position:relative;overflow:hidden;min-height:560px}.hero-bg-wrapper,.hero-bg-image,section[class*="hero"] [class*="hero-bg"]{position:absolute;inset:0;width:100%;height:100%}.hero-bg-wrapper img,.hero-bg-image img,section[class*="hero"] [data-hero-bg],section[class*="hero"] img[data-hero-background="true"]{width:100%!important;height:100%!important;object-fit:cover!important;display:block}.hero-content,section[class*="hero"] .container{position:relative;z-index:2}@media(max-width:768px){:root{--header-height:72px;--total-header-height:72px;--zappy-mobile-menu-top:72px}html[data-zappy-site-type="ecommerce"] body{padding-top:var(--total-header-height,72px)}html[data-zappy-site-type="ecommerce"] body>nav.navbar,html[data-zappy-site-type="ecommerce"] body>.navbar:not(.zappy-catalog-menu){position:fixed!important;top:0;left:0;right:0;z-index:100000;width:100%;margin-bottom:0}.zappy-catalog-menu{position:fixed;top:var(--header-height,72px);left:0;right:0;z-index:99999}.nav-container,.navbar .container{min-height:60px}.nav-menu,#navMenu{max-width:100vw;overflow-x:hidden}.hero-section,.index-hero-section,section[class*="hero"]{min-height:100svh}.hero-bg-wrapper,.hero-bg-image,.hero-scrim{min-height:100svh}}
+:root{--nav-bg:#FFFFFF}.navbar{background-color:#FFFFFF!important}
+
+/* ZAPPY_ANNOUNCEMENT_HEADER_OFFSET_CSS_V3 */
+:root {
+  --zappy-header-stack-height: calc(var(--zappy-announcement-height, 40px) + var(--header-height, 72px));
+}
+body:has(.zappy-announcement-bar) nav.navbar:not(.zappy-catalog-menu),
+body:has(.zappy-announcement-bar) header.navbar,
+body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-search-panel) {
+  top: var(--zappy-announcement-height, 40px) !important;
+}
+
+
+
+/* ZAPPY_CONTENT_ALIGNMENT_FIRST_PAINT_CSS_V1 */
+[data-zappy-content-align] {
+  display: flex !important;
+  flex-direction: column !important;
+}
+[data-zappy-content-align^="top-"] { justify-content: flex-start !important; }
+[data-zappy-content-align^="upper-"],
+[data-zappy-content-align^="center-"],
+[data-zappy-content-align^="lower-"] { justify-content: center !important; }
+[data-zappy-content-align^="bottom-"] { justify-content: flex-end !important; }
+[data-zappy-content-align$="-left"],
+[data-zappy-content-align$="-mid-left"] {
+  align-items: flex-start !important;
+  text-align: start !important;
+}
+[data-zappy-content-align$="-center"] {
+  align-items: center !important;
+  text-align: center !important;
+}
+[data-zappy-content-align$="-right"],
+[data-zappy-content-align$="-mid-right"] {
+  align-items: flex-end !important;
+  text-align: end !important;
+}
+[data-zappy-content-align] [data-zappy-align-target] {
+  margin-left: auto;
+  margin-right: auto;
+}
+[data-zappy-content-align$="-center"] [data-zappy-align-target],
+[data-zappy-content-align$="-center"] [data-zappy-align-target] > * {
+  text-align: center !important;
+}
+
 </style>
-    <link rel="preload" href="/styles.css" as="style" />
-    <link rel="stylesheet" href="/styles.css" media="print" onload="this.media='all'" />
-    <noscript><link rel="stylesheet" href="/styles.css" /></noscript>
-    
+    <link rel="stylesheet" href="/styles.css" />
     <link rel="preload" as="image" href="/assets/site-index-hero-image-1-replace_background-1782916468191-rpgipa.webp?v=1782916468191" fetchpriority="high" />
 
     <style id="zappy-dropdown-submenu-styles">
@@ -769,7 +813,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
       <ul class="sub-menu" id="zappy-nav-category-links" dir="rtl">
         <li><a href="/products" data-i18n="ecom_products">מוצרים</a></li>
         <!-- Categories will be loaded dynamically -->
-      <li data-category-id="fda694d9-1115-4ebd-9d5e-35f70eddf03c" data-category-slug="wheels"><a href="/category/wheels" dir="rtl">גלגלים</a></li><li data-category-id="a218b2aa-3e19-416e-bc35-c951bd5b2c86" data-category-slug="trending-in-israel"><a href="/category/trending-in-israel" dir="rtl">הטרנדים הכי חזקים בישראל </a></li><li data-category-id="4a00ad67-b2f2-4956-9042-86e9a1f00319" data-category-slug="sports-products"><a href="/category/sports-products" dir="rtl">מוצרי ספורט</a></li><li data-category-id="9ac35e75-aeb9-4fe8-bfbd-f8ea4544bf28" data-category-slug="baby-products"><a href="/category/baby-products" dir="rtl">מוצרי תינוקות </a></li><li data-category-id="b5e13be1-99da-4bd0-a519-cc4562590e6c" data-category-slug="rc-carstrackstoys"><a href="/category/rc-carstrackstoys" dir="rtl">צעצועי שלט/מסלולי מכוניות/מכוניות </a></li></ul>
+      <li data-category-id="17189329-c2d2-46e5-b3dd-39c200c58cc7" data-category-slug="dollsbarbie"><a href="/category/dollsbarbie" dir="rtl">בובות/ברבי</a></li><li data-category-id="fda694d9-1115-4ebd-9d5e-35f70eddf03c" data-category-slug="wheels"><a href="/category/wheels" dir="rtl">גלגלים</a></li><li data-category-id="a218b2aa-3e19-416e-bc35-c951bd5b2c86" data-category-slug="trending-in-israel"><a href="/category/trending-in-israel" dir="rtl">הטרנדים הכי חזקים בישראל </a></li><li data-category-id="4a00ad67-b2f2-4956-9042-86e9a1f00319" data-category-slug="sports-products"><a href="/category/sports-products" dir="rtl">מוצרי ספורט</a></li><li data-category-id="9ac35e75-aeb9-4fe8-bfbd-f8ea4544bf28" data-category-slug="baby-products"><a href="/category/baby-products" dir="rtl">מוצרי תינוקות </a></li><li data-category-id="03ae0b49-cc07-4231-9cc7-c944afed3f38" data-category-slug="adventure-bay"><a href="/category/adventure-bay" dir="rtl">מפרץ הרפתקאות </a></li><li data-category-id="7f772dfb-967c-4cbf-a4c9-3c305adc6bc8" data-category-slug="creative-games"><a href="/category/creative-games" dir="rtl">משחקי יצירה</a></li><li data-category-id="b5e13be1-99da-4bd0-a519-cc4562590e6c" data-category-slug="rc-carstrackstoys"><a href="/category/rc-carstrackstoys" dir="rtl">צעצועי שלט/מסלולי מכוניות/מכוניות </a></li></ul>
     </li>
   <li><a href="/">בית</a></li><li><a href="/categories-benefits">קטגוריות והטבות</a></li><li><a href="/about">אודות</a></li><li class="mobile-contact-link nav-cta-mobile-item"><a href="/contact" class="nav-cta-btn">צור קשר ושאלות נפוצות</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg><span class="cart-count">0</span></a><div class="nav-search-box">
     <input type="text" class="nav-search-input" id="nav-search-input" placeholder="חיפוש מוצרים..." autocomplete="off" />
@@ -1243,7 +1287,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
   
   <main id="main">
     <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-treatment="fade-bleed" style="--hero-fade-color: var(--bg-light);" data-hero-type="fullscreen-scrim" id="index-hero-section">
-    <div data-zappy-zoom-wrapper="true" data-element-id="img-1784014595977-xebk8knf5" data-element-type="image" data-zappy-zoom-wrapper-width-mode="full" style="position: absolute !important; top: 0px !important; left: 0px !important; width: 100% !important; height: 100% !important; max-width: none !important; margin-left: 0px !important; margin-right: 0px !important; display: block !important; z-index: 0 !important; overflow: hidden !important;" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true"><img loading="eager" fetchpriority="high" class="hero-fade-img" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="קבוצת ילדים שמחים משחקים בצעצועים טרנדיים: קורקינט ממונע, משחק קופסה צבעוני ופאזל, על רקע פארק שטוף שמש, צילום בסגנון קמפיין מסחרי אופטימי ומקצועי" width="1200" height="600" src="/assets/site-index-hero-image-1-replace_background-1782916468191-rpgipa.webp?v=1782916468191" alt="ילדים משחקים בצעצועים טרנדיים בפארק הצעצועים" style="width: 100%; height: 100%; object-position: 50% 50% !important; object-fit: contain !important; margin: 0px !important;" data-hero-background="true" data-element-type="image" data-element-id="img-1784014595977-xebk8knf5" data-zappy-object-position="50% 50%" data-zappy-zoom="1" decoding="async" /></div>
+    <div data-zappy-zoom-wrapper="true" data-element-id="img-1784014595977-xebk8knf5" data-element-type="image" data-zappy-zoom-wrapper-width-mode="full" style="position: absolute; top: 0px !important; left: 0px !important; width: 100%; height: 100%; max-width: none; margin-left: 0px !important; margin-right: 0px !important; display: block !important; z-index: 0 !important; overflow: hidden; inset: 0; max-height: none" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true"><img loading="eager" fetchpriority="high" class="hero-fade-img" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="קבוצת ילדים שמחים משחקים בצעצועים טרנדיים: קורקינט ממונע, משחק קופסה צבעוני ופאזל, על רקע פארק שטוף שמש, צילום בסגנון קמפיין מסחרי אופטימי ומקצועי" width="1200" height="600" src="/assets/site-index-hero-image-1-replace_background-1782916468191-rpgipa.webp?v=1782916468191" alt="ילדים משחקים בצעצועים טרנדיים בפארק הצעצועים" style="width: 100%; height: 100%; object-position: 50% 50%; object-fit: cover; margin: 0; position: absolute; max-width: none; max-height: none; inset: 0" data-hero-background="true" data-element-type="image" data-element-id="img-1784014595977-xebk8knf5" data-zappy-object-position="50% 50%" data-zappy-zoom="1" decoding="async" /></div>
     
     <div class="hero-fade-content">
         <h1 class="display-xl">פארק הצעצועים – הטרנדים הכי חמים לילדים שלך</h1>
