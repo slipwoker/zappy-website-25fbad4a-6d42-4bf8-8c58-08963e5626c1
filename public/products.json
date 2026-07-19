@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T13:49:18.526Z",
+  "generated_at": "2026-07-19T13:51:45.753Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 188,
   "products": [
     {
       "id": "5adbed7c-34db-4a64-886b-3b536954a981",
-      "slug": "dmvyvt-spyydy-vavpnva-ayyrvn-mn-efa2qn",
+      "slug": "dmvyvt-spyydy-vavpnva-ayyrvn-mn-qso1tz",
       "name": "דמויות ספיידי ואופנוע (איירון מן)",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/dmvyvt-spyydy-vavpnva-ayyrvn-mn-efa2qn",
+      "url": "https://parktoys.co.il/product/dmvyvt-spyydy-vavpnva-ayyrvn-mn-qso1tz",
       "categories": [
         "מפרץ הרפתקאות "
       ],
-      "updated_at": "2026-07-19T13:48:46.415Z"
+      "updated_at": "2026-07-19T13:51:13.888Z"
     },
     {
       "id": "7bd1fac8-3841-4200-82c9-243afbc851ab",
