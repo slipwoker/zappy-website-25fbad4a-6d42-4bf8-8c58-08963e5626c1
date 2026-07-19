@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T13:26:15.714Z",
+  "generated_at": "2026-07-19T13:27:04.096Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 186,
   "products": [
     {
       "id": "eecf1f22-bd89-46b7-b153-62452fb953ed",
-      "slug": "dmvyvt-spyydy-vapnva-bmarz-90pz9r",
+      "slug": "dmvyvt-spyydy-vapnva-bmarz-w37u4t",
       "name": "דמויות ספיידי ואפנוע במארז",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/dmvyvt-spyydy-vapnva-bmarz-90pz9r",
+      "url": "https://parktoys.co.il/product/dmvyvt-spyydy-vapnva-bmarz-w37u4t",
       "categories": [
         "מפרץ הרפתקאות "
       ],
-      "updated_at": "2026-07-19T13:26:02.245Z"
+      "updated_at": "2026-07-19T13:26:32.118Z"
     },
     {
       "id": "d5f51cf1-594a-4b8e-9eda-f408f5c2c22a",
