@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 178**
+**Total active products: 179**
+
+### ברבי חוקרת הטבע עם כלבלב וציוד טיולים Barbie
+https://parktoys.co.il/product/brby-chvkrt-htba-am-klblb-vtsyvd-tyvlym-barbie-zi6m88
+- Price: 99.90 ILS
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: ברבי חוקרת הטבע יוצאת למסע מרתק עם תרמיל, מצלמה, חפצים שימושיים וכלבלב מתוק שילווה אותה בכל הרפתקה! צעצוע מושלם לילדות עם אהבה לטיולים ודמיון.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784451455428-ndlwgj.webp
 
 ### פוקימון – מארז פוכדור וחגורה פוקימון
 https://parktoys.co.il/product/pvkymvn-marz-pvkdvr-vchgvrh-pvkymvn-tk62e2
