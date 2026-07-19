@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T14:40:08.170Z",
+  "generated_at": "2026-07-19T15:15:01.244Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 190,
+  "count": 191,
   "products": [
+    {
+      "id": "acdcf844-f892-46b5-a138-de4a07577f59",
+      "slug": "dmvyvt-spyydy-spyydr-dynv-marz-marz-spyydy-hi1567",
+      "name": "דמויות ספיידי ספיידר דינו מארז  מארז ספיידי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכת צעצועים של Hasbro המבוססת על הסדרה \"ספיידי וחבריו המופלאים\", הכוללת דמות של מיילס מוראלס בגובה 10 ס\"מ ודינוזאור ספיידי-רקס.\nדמות הדינוזאור כוללת זרוע משגרת קורי עכביש ושתי הדמויות ניתנות להצבה בתנוחות שונות.\nהצעצוע מתאים לילדים מגיל 3 ומעלה, ומעודד משחק דמיון הרפתקני.",
+      "sku": null,
+      "brand": null,
+      "price": 70,
+      "base_price": 70,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784473995905-qj0e2c.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/dmvyvt-spyydy-spyydr-dynv-marz-marz-spyydy-hi1567",
+      "categories": [
+        "מפרץ הרפתקאות "
+      ],
+      "updated_at": "2026-07-19T15:14:28.722Z"
+    },
     {
       "id": "8cb3d05c-eade-4c9c-9b24-aaa78697066d",
       "slug": "dmvyvt-spyydy-spyydr-dynv-marz-akbysh-rpaym-fg9rca",
