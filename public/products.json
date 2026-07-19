@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T10:58:58.945Z",
+  "generated_at": "2026-07-19T10:59:38.691Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 183,
   "products": [
     {
       "id": "c809bc98-1cd6-4d26-8158-7c60fb908d0a",
-      "slug": "arkt-brby-mvrh-vyldh-bbyt-hspr-am-abyzrym-lla42a",
+      "slug": "arkt-brby-mvrh-vyldh-bbyt-hspr-am-abyzrym-sinoo5",
       "name": "ערכת ברבי מורה וילדה בבית הספר עם אביזרים",
       "name_translations": {},
       "description": "",
@@ -23,9 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/arkt-brby-mvrh-vyldh-bbyt-hspr-am-abyzrym-lla42a",
-      "categories": [],
-      "updated_at": "2026-07-19T10:58:26.847Z"
+      "url": "https://parktoys.co.il/product/arkt-brby-mvrh-vyldh-bbyt-hspr-am-abyzrym-sinoo5",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-07-19T10:59:06.914Z"
     },
     {
       "id": "e28875b4-f32a-49c8-8f5b-92e0871efabd",
