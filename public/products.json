@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T16:46:44.777Z",
+  "generated_at": "2026-07-19T16:49:18.900Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 192,
+  "count": 193,
   "products": [
+    {
+      "id": "d1dd4e70-c264-401f-b884-58d0610dc2d2",
+      "slug": "ryynbvkvrn-mylkshyyk-gly-avnh-2-rainbocorns-unyarf",
+      "name": "ריינבוקורן מילקשייק ג'לי עונה 2 - Rainbocorns",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ריינבוקורן מילקשייק ג'לי (עונה 2)\nRainbocorn - Jelly Shake 8 Surprises\n\nמסיבת המילקשייק ג'לי עוד רגע יוצאת לדרך!\nגביע מילקשייק ענק (גובה 35 ס\"מ), הכולל 8 שכבות של הפתעות ריינבוקורן חדשה ומדברת!\nלחצו פעם אחת על כף היד של הבובה והיא תדבר ותשיר, תלחצו פעמיים והיא תחזור אחריכם בקול מתוק!\n\nהגביע מכיל את אחת מ-6 הדמויות החדשות.\n\nהערכה כוללת: מארז גביע ג'לי שייק, בחלק העליון יש אביזרים להכנת צמיד. כולל בובה, חוט וחרוזים\nבחלק התחתון של שקית המילקשייק - יש סליים ג׳לי נוצץ.\n\n* לא ניתן לבחור את סוג הביצה (",
+      "sku": null,
+      "brand": null,
+      "price": 169,
+      "base_price": 169,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784479613203-mdiy4p.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/ryynbvkvrn-mylkshyyk-gly-avnh-2-rainbocorns-unyarf",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-07-19T16:48:56.570Z"
+    },
     {
       "id": "b8de6f30-ff49-402a-b9b8-ac8507cf53f7",
       "slug": "ryynbvkvrn-axolotlcorn-c0ap50",
