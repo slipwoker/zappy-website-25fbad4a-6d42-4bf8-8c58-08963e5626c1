@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T12:06:11.888Z",
+  "generated_at": "2026-07-19T12:49:08.527Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 184,
   "products": [
     {
       "id": "3bb9a7a7-bdd8-4992-9881-574c032e4c70",
-      "slug": "arkt-ryynbv-hyy-lytls-chnvt-kynvchym-mtvkh-am-bvbh-vabyzrym-3g2a43",
+      "slug": "arkt-ryynbv-hyy-lytls-chnvt-kynvchym-mtvkh-am-bvbh-vabyzrym-tcb2fg",
       "name": "ערכת ריינבו היי ליטלס – חנות קינוחים מתוקה עם בובה ואביזרים",
       "name_translations": {},
       "description": "",
@@ -19,13 +19,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://parktoys.co.il/assets/product-1784462716677-b09shb.webp"
+        "https://parktoys.co.il/assets/product-enhanced-1784462802837-vgeiac.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/arkt-ryynbv-hyy-lytls-chnvt-kynvchym-mtvkh-am-bvbh-vabyzrym-3g2a43",
-      "categories": [],
-      "updated_at": "2026-07-19T12:05:39.139Z"
+      "url": "https://parktoys.co.il/product/arkt-ryynbv-hyy-lytls-chnvt-kynvchym-mtvkh-am-bvbh-vabyzrym-tcb2fg",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-07-19T12:48:36.853Z"
     },
     {
       "id": "c809bc98-1cd6-4d26-8158-7c60fb908d0a",
