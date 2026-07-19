@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T13:13:33.376Z",
+  "generated_at": "2026-07-19T13:14:33.989Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 185,
   "products": [
     {
       "id": "d5f51cf1-594a-4b8e-9eda-f408f5c2c22a",
-      "slug": "ryynbv-hyy-rash-bvbh-laytsvb-rainbow-high-c3xg2w",
+      "slug": "ryynbv-hyy-rash-bvbh-laytsvb-rainbow-high-rarmu8",
       "name": "ריינבו היי - ראש בובה לעיצוב | RAINBOW HIGH",
       "name_translations": {},
       "description": "",
@@ -25,11 +25,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/ryynbv-hyy-rash-bvbh-laytsvb-rainbow-high-c3xg2w",
+      "url": "https://parktoys.co.il/product/ryynbv-hyy-rash-bvbh-laytsvb-rainbow-high-rarmu8",
       "categories": [
         "בובות/ברבי"
       ],
-      "updated_at": "2026-07-19T13:13:00.931Z"
+      "updated_at": "2026-07-19T13:14:01.990Z"
     },
     {
       "id": "3bb9a7a7-bdd8-4992-9881-574c032e4c70",
