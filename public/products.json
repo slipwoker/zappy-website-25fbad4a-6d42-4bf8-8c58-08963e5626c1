@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T10:29:31.259Z",
+  "generated_at": "2026-07-19T10:50:29.206Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 181,
+  "count": 182,
   "products": [
+    {
+      "id": "e28875b4-f32a-49c8-8f5b-92e0871efabd",
+      "slug": "brby-drym-bstyz-brby-mlybv-al-glgylyvt-am-abyzry-avpnh-n61r3a",
+      "name": "ברבי דרים בסטיז – ברבי מליבו על גלגיליות עם אביזרי אופנה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בובת ברבי \"מליבו\" מסדרת Dream Besties מוכנה להחליק בסטייל על גלגיליות! הבובה הגמישה מציגה שיער בלונדיני ארוך וגלי עם סיכות צבעוניות, ולבושה בטופ אופנתי, מכנסיים קצרים וגלגיליות מדליקות. הסט מגיע עם מגוון אביזרי בטיחות וסטייל מושלמים: קסדת מגן, מגני ברכיים, תיק גב קטן, חטיף, בקבוק שתייה וטלפון נייד. מתנה מושלמת ומלאת תנועה לילדים וילדות בגילאי 4 ומעלה.",
+      "sku": null,
+      "brand": null,
+      "price": 119.9,
+      "base_price": 119.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784458034504-ynzgci.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/brby-drym-bstyz-brby-mlybv-al-glgylyvt-am-abyzry-avpnh-n61r3a",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-07-19T10:49:56.786Z"
+    },
     {
       "id": "59edebc2-cec2-49bd-9492-973055784e94",
       "slug": "brby-drym-bstyz-rnh-kvkbt-hrsht-am-12-abyzrym-kh46ad",
