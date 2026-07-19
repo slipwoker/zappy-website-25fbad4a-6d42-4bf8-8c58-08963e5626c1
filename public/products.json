@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T16:49:27.910Z",
+  "generated_at": "2026-07-19T16:52:52.604Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 193,
+  "count": 194,
   "products": [
+    {
+      "id": "83b1aa6c-7bf1-4234-b21b-1eb51120b391",
+      "slug": "ryynbvkvrn-lbn-ank-ubd30s",
+      "name": "ריינבוקורן לבן ענק",
+      "name_translations": {},
+      "description": "",
+      "short_description": "\nעזרו לנו להציל את חדי-הקרן! חוויית ה-Rescue של Rainbocorns כבר כאן! משהו קסום קורה בעיר ריינבוויל, וחדי-הקרן צריכים את העזרה שלכם! הכירו את סדרת ה-Unicorn Rescue – השילוב המושלם בין בובת פרווה מחבקת לבין ערכת וטרינר מלאה בהפתעות.\nמה הופך את ה-Unicorn Rescue למתנה הכי מבוקשת? קסם ה-“Peel & Reveal”: קלפו את הלב שעל בטן הכלבלב כדי לגלות מה גורם לו להרגיש לא טוב. האם זה צינון? פציעה קלה? רק אתם תוכלו לעזור לו להחלים!\n\nמעל 25 הפתעות בפנים: כל ביצה ענקית מכילה עולם שלם! החל מפתקים ס",
+      "sku": null,
+      "brand": null,
+      "price": 189,
+      "base_price": 189,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784479819048-t5o639.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/ryynbvkvrn-lbn-ank-ubd30s",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-07-19T16:52:20.824Z"
+    },
     {
       "id": "d1dd4e70-c264-401f-b884-58d0610dc2d2",
       "slug": "ryynbvkvrn-mylkshyyk-gly-avnh-2-rainbocorns-unyarf",
