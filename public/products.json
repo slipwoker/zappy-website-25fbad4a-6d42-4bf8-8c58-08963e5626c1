@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T13:43:55.221Z",
+  "generated_at": "2026-07-19T13:44:39.493Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 187,
@@ -31,8 +31,8 @@
     },
     {
       "id": "eecf1f22-bd89-46b7-b153-62452fb953ed",
-      "slug": "dmvyvt-spyydy-vapnva-bmarz-w37u4t",
-      "name": "דמויות ספיידי ואפנוע במארז",
+      "slug": "dmvyvt-spyydy-vapnva-bmarz-spyydy-1hnr1b",
+      "name": "דמויות ספיידי ואפנוע במארז (ספיידי)",
       "name_translations": {},
       "description": "",
       "short_description": "סט צעצוע זה מבית Hasbro\nכולל דמות פעולה של ספיידי בגובה 10 ס\"מ (4 אינץ')\nואופנוע מירוץ אדום תואם עם גלגלים כחולים בולטים.",
@@ -47,11 +47,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/dmvyvt-spyydy-vapnva-bmarz-w37u4t",
+      "url": "https://parktoys.co.il/product/dmvyvt-spyydy-vapnva-bmarz-spyydy-1hnr1b",
       "categories": [
         "מפרץ הרפתקאות "
       ],
-      "updated_at": "2026-07-19T13:26:32.118Z"
+      "updated_at": "2026-07-19T13:44:07.664Z"
     },
     {
       "id": "d5f51cf1-594a-4b8e-9eda-f408f5c2c22a",
