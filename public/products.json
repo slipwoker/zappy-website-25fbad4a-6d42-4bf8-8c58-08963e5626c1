@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T12:49:42.974Z",
+  "generated_at": "2026-07-19T13:13:33.376Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 184,
+  "count": 185,
   "products": [
+    {
+      "id": "d5f51cf1-594a-4b8e-9eda-f408f5c2c22a",
+      "slug": "ryynbv-hyy-rash-bvbh-laytsvb-rainbow-high-c3xg2w",
+      "name": "ריינבו היי - ראש בובה לעיצוב | RAINBOW HIGH",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ראש בובה Rainbow High 4 ב-1 – סט עיצוב שיער ואופנה מרהיב! \nהיכנסו לעולם של יצירתיות, צבע וסטייל עם ראש הבובה Rainbow High 4 ב-1 – הסט המושלם לעיצוב שיער, איפור ודמיון אינסופי!\nהבובה כוללת שיער ארוך, חלק ורך שניתן לסרק, לקלוע, לצבוע ולעצב – עם עשרות אביזרים שיאפשרו לילדות (ולילדים!) להפוך למעצבי שיער מקצועיים.\n\n♀️ 4 פעילויות בסט אחד!\n\nעיצוב שיער\n\nצביעת שיער (עם צבעים זמניים ובטוחים לשימוש)\n\nהוספת אביזרים\n\nיצירת מראות שונים שוב ושוב!\n\nכולל מגוון רחב של אביזרים: סיכות, קליפסים, מסרקים, גומיו",
+      "sku": null,
+      "brand": null,
+      "price": 220,
+      "base_price": 220,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784466573967-zpyhjd.webp",
+        "https://parktoys.co.il/assets/product-enhanced-1784465964198-78ttx.webp",
+        "https://parktoys.co.il/assets/product-1784466540672-rfx0qj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/ryynbv-hyy-rash-bvbh-laytsvb-rainbow-high-c3xg2w",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-07-19T13:13:00.931Z"
+    },
     {
       "id": "3bb9a7a7-bdd8-4992-9881-574c032e4c70",
       "slug": "arkt-ryynbv-hyy-lytls-chnvt-kynvchym-mtvkh-am-bvbh-vabyzrym-xyylif",
