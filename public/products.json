@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T13:42:11.912Z",
+  "generated_at": "2026-07-19T13:43:55.221Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 187,
   "products": [
     {
       "id": "7bd1fac8-3841-4200-82c9-243afbc851ab",
-      "slug": "dmvyvt-spyydy-vavpnva-spyydrmn-spyn-cxgj9z",
+      "slug": "dmvyvt-spyydy-vavpnva-spyydrmn-spyn-zwk7wg",
       "name": "דמויות ספיידי ואופנוע ספיידרמן (ספין)",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/dmvyvt-spyydy-vavpnva-spyydrmn-spyn-cxgj9z",
+      "url": "https://parktoys.co.il/product/dmvyvt-spyydy-vavpnva-spyydrmn-spyn-zwk7wg",
       "categories": [
         "מפרץ הרפתקאות "
       ],
-      "updated_at": "2026-07-19T13:41:39.786Z"
+      "updated_at": "2026-07-19T13:43:23.292Z"
     },
     {
       "id": "eecf1f22-bd89-46b7-b153-62452fb953ed",
