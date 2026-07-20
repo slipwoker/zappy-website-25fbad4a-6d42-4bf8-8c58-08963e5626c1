@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T14:11:52.962Z",
+  "generated_at": "2026-07-20T16:51:41.310Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 197,
+  "count": 198,
   "products": [
+    {
+      "id": "51b2f76c-2d6d-40d8-bd54-2e89bb798c9a",
+      "slug": "smashrs-mgh-chvvyyt-aymh-lyldym-fpxcg8",
+      "name": "סמאשרס מגה חוויית אימה- לילדים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "צאו להרפתקה מרתקת בתוך בית האימה המגה Smashers.\n עם יותר מ-35 הפתעות בפנים, האם אתם אמיצים מספיק לפתוח את הארון ולחשוף מפלצת?",
+      "sku": null,
+      "brand": null,
+      "price": 169,
+      "base_price": 169,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784566230318-rweg4t.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/smashrs-mgh-chvvyyt-aymh-lyldym-fpxcg8",
+      "categories": [
+        "מפרץ הרפתקאות "
+      ],
+      "updated_at": "2026-07-20T16:51:09.199Z"
+    },
     {
       "id": "4b56ee5b-02ee-4bef-b249-042b113fbc1b",
       "slug": "chgygt-ryynbvkvrn-eggzania-mini-mania-c75kue",
