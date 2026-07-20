@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 196**
+**Total active products: 197**
+
+### חגיגת ריינבוקורן – Eggzania Mini Mania
+https://parktoys.co.il/product/chgygt-ryynbvkvrn-eggzania-mini-mania-c75kue
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: Rainbocorns Eggzania עמוס ביותר מ-10 הפתעות ללא תחרות! יש לאסוף 6 קטיפה מיני מאניה של Eggzania ו-6 יולקים תואמים. חגיגת ריינבוקורן מיני בגודל המהנה האלה הם החברים המושלמים בגודל כיס. גלה את צמיד ה-Eggzania שלך בתוך ביצת החלמונית שלך! קלפו את הלב מה-Rainbocorn שלכם כדי לחשוף מה הם אוהבים!
+- Image: https://parktoys.co.il/assets/product-1784555254366-99nv9n.webp
 
 ### דורה רוקדת ומדברת – בובה אינטראקטיבית
 https://parktoys.co.il/product/dvrh-rvkdt-vmdbrt-bvbh-ayntraktybyt-wrtipp

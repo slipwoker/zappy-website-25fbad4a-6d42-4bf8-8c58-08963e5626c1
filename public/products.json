@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T13:45:54.832Z",
+  "generated_at": "2026-07-20T13:49:28.961Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 196,
+  "count": 197,
   "products": [
+    {
+      "id": "4b56ee5b-02ee-4bef-b249-042b113fbc1b",
+      "slug": "chgygt-ryynbvkvrn-eggzania-mini-mania-c75kue",
+      "name": "חגיגת ריינבוקורן – Eggzania Mini Mania",
+      "name_translations": {},
+      "description": "",
+      "short_description": "Rainbocorns Eggzania עמוס ביותר מ-10 הפתעות ללא תחרות!\nיש לאסוף 6 קטיפה מיני מאניה של Eggzania ו-6 יולקים תואמים.\nחגיגת ריינבוקורן מיני בגודל המהנה האלה הם החברים המושלמים בגודל כיס.\nגלה את צמיד ה-Eggzania שלך בתוך ביצת החלמונית שלך!\nקלפו את הלב מה-Rainbocorn שלכם כדי לחשוף מה הם אוהבים!",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784555254366-99nv9n.webp",
+        "https://parktoys.co.il/assets/product-1784555302577-0zvcd2.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chgygt-ryynbvkvrn-eggzania-mini-mania-c75kue",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-07-20T13:48:56.458Z"
+    },
     {
       "id": "19ea9c75-dd00-4526-9b83-7a9fd9a47392",
       "slug": "dvrh-rvkdt-vmdbrt-bvbh-ayntraktybyt-wrtipp",
