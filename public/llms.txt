@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 201** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 202** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בובה קריי בייבי ביצת הזהב 
+https://parktoys.co.il/product/bvbh-kryy-byyby-bytst-hzhb-anj8ih
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: מארז תצוגה של בובות Cry Babies Magic Tears Golden House Edition. כל מארז דמעה מוזהב מכיל בובת הפתעה בלעדית במהדורת זהב. ישנן 7 דמויות שונות לאיסוף במהדורה זו, כולל דמות נדירה אחת. כל בובה מגיעה עם 4 אביזרים משותפים (בקבוק, מוצץ, צמיד וכיסא) ו-2 אביזרים מותאמים אישית. הבובות בוכות "דמעות זהב" אמיתיות כאשר מאכילים אותן במים ולוחצים על בטנן. לא ניתן לבחור בובה מסוימת. המחיר עבור יחידה.
+- Image: https://parktoys.co.il/assets/product-1784567004040-n64e0l.webp
 
 ### קריי בייביז דמעות הקסם ביצת החלומות
 https://parktoys.co.il/product/kryy-byybyz-dmavt-hksm-bytst-hchlvmvt-a0ytn9
@@ -1614,14 +1622,6 @@ https://parktoys.co.il/product/bytsy-chyvt-hksm-nnqpsn
 - Availability: In stock
 - Description: טרנד השנה לגדל חייה דיגטלית בתלת מימד משחק מדהים
 - Image: https://parktoys.co.il/assets/product-1782318259316-dm1byf.webp
-
-### מארז הטרנדים של פארק הצעצועים 
-https://parktoys.co.il/product/marz-htrndym-shl-park-htsatsvaym-u3yid7
-- Price: 100.00 ILS (sale, was 150.00 ILS)
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: מארז הטרנדים הכי מטורף שיש 8 פריטים הכי ויראלים שיש בטיקטוק
-- Image: https://parktoys.co.il/assets/product-ai-fit-1782833451793-1p50dc.webp
 
 ---
 

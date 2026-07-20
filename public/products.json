@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T17:03:04.467Z",
+  "generated_at": "2026-07-20T17:04:23.042Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 201,
+  "count": 202,
   "products": [
+    {
+      "id": "39cd966c-7847-4004-b442-8f0c18b0705f",
+      "slug": "bvbh-kryy-byyby-bytst-hzhb-anj8ih",
+      "name": "בובה קריי בייבי ביצת הזהב ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מארז תצוגה של בובות Cry Babies Magic Tears Golden House Edition. \n \nכל מארז דמעה מוזהב מכיל בובת הפתעה בלעדית במהדורת זהב. \n \nישנן 7 דמויות שונות לאיסוף במהדורה זו, כולל דמות נדירה אחת. \n \nכל בובה מגיעה עם 4 אביזרים משותפים (בקבוק, מוצץ, צמיד וכיסא) ו-2 אביזרים מותאמים אישית. \n \nהבובות בוכות \"דמעות זהב\" אמיתיות כאשר מאכילים אותן במים ולוחצים על בטנן. \nלא ניתן לבחור בובה מסוימת.\nהמחיר עבור יחידה.",
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784567004040-n64e0l.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/bvbh-kryy-byyby-bytst-hzhb-anj8ih",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-07-20T17:03:51.317Z"
+    },
     {
       "id": "23ebb98c-c580-446d-8a8f-e0a58df870a3",
       "slug": "kryy-byybyz-dmavt-hksm-bytst-hchlvmvt-a0ytn9",
