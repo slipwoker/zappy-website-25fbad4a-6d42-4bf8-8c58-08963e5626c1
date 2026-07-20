@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T16:56:31.563Z",
+  "generated_at": "2026-07-20T17:02:38.385Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 200,
+  "count": 201,
   "products": [
+    {
+      "id": "23ebb98c-c580-446d-8a8f-e0a58df870a3",
+      "slug": "kryy-byybyz-dmavt-hksm-bytst-hchlvmvt-a0ytn9",
+      "name": "קריי בייביז דמעות הקסם ביצת החלומות",
+      "name_translations": {},
+      "description": "<p>קריי בייביז דמעות הקסם ביצת החלומות</p><p>בובת הפתעה מסדרת Cry Babies Magic Tears המגיעה בתוך ביצת דמעה ורודה ומעוצבת. פותחים את הביצה ומגלים דמות חמודה מסדרת קריי בייביז יחד עם אביזרים למשחק דמיון, איסוף וחוויית פתיחה מהנה.</p><p>מה כולל המוצר?</p><ul><li>בובת Cry Babies Magic Tears בהפתעה</li><li>ביצת דמעה ורודה לאחסון ולמשחק</li><li>דמות אספנות מסדרת Pink Edition</li><li>אביזרים נלווים בהתאם לתכולת המארז</li><li>מתאים לגילאי 3 ומעלה&nbsp;</li><li>דגם: 81550</li><li>ברקוד: 8421134081550</li></ul><p>יתרונות עיקריים</p><ul><li>חוויית פתיחה מפתיעה ומרגשת</li><li>עיצוב ורוד ומבריק בצורת דמעה</li><li>מתאים לאיסוף דמויות Cry Babies</li><li>מעודד משחק דמיון וסיפורים יצירתיים</li><li>בחירה נהדרת כמתנה לילדים שאוהבים בובות הפתעה</li></ul><p><br></p>",
+      "short_description": "קריי בייביז דמעות הקסם ביצת החלומות\nבובת הפתעה מסדרת Cry Babies Magic Tears המגיעה בתוך ביצת דמעה ורודה ומעוצבת. פותחים את הביצה ומגלים דמות חמודה מסדרת קריי בייביז יחד עם אביזרים למשחק דמיון, איסוף וחוויית פתיחה מהנה.\n\nמה כולל המוצר?\nבובת Cry Babies Magic Tears בהפתעה\nביצת דמעה ורודה לאחסון ולמשחק\nדמות אספנות מסדרת Pink Edition\nאביזרים נלווים בהתאם לתכולת המארז\nמתאים לגילאי 3 ומעלה \nדגם: 81550\nברקוד: 8421134081550\nיתרונות עיקריים\nחוויית פתיחה מפתיעה ומרגשת\nעיצוב ורוד ומבריק בצורת דמעה\nמתאים לאי",
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784566759599-8ubhvl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kryy-byybyz-dmavt-hksm-bytst-hchlvmvt-a0ytn9",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-07-20T17:02:32.009Z"
+    },
     {
       "id": "94bb7e0e-33a7-4258-b4be-35c9668caf98",
       "slug": "smashrs-chmyshyyh-dynv-25-hptavt-2nss6c",

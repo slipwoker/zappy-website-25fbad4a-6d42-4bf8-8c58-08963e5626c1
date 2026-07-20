@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 200**
+**Total active products: 201** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קריי בייביז דמעות הקסם ביצת החלומות
+https://parktoys.co.il/product/kryy-byybyz-dmavt-hksm-bytst-hchlvmvt-a0ytn9
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: קריי בייביז דמעות הקסם ביצת החלומות בובת הפתעה מסדרת Cry Babies Magic Tears המגיעה בתוך ביצת דמעה ורודה ומעוצבת. פותחים את הביצה ומגלים דמות חמודה מסדרת קריי בייביז יחד עם אביזרים למשחק דמיון, איסוף וחוויית פתיחה מהנה. מה כולל המוצר? בובת Cry Babies Magic Tears בהפתעה ביצת דמעה ורודה לאחסון ולמשחק דמות אספנות מסדרת Pink Edition אביזרים נלווים בהתאם לתכולת המארז מתאים לגילאי 3 ומעלה דגם: 81550 ברקוד: 8421134081550 יתרונות עיקריים חוויית פתיחה מפתיעה ומרגשת עיצוב ורוד ומבריק בצורת דמעה מתאים לאי
+- Image: https://parktoys.co.il/assets/product-1784566759599-8ubhvl.webp
 
 ### סמאשרס חמישייה דינו 25 הפתעות
 https://parktoys.co.il/product/smashrs-chmyshyyh-dynv-25-hptavt-2nss6c
@@ -1614,14 +1622,6 @@ https://parktoys.co.il/product/marz-htrndym-shl-park-htsatsvaym-u3yid7
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: מארז הטרנדים הכי מטורף שיש 8 פריטים הכי ויראלים שיש בטיקטוק
 - Image: https://parktoys.co.il/assets/product-ai-fit-1782833451793-1p50dc.webp
-
-### דאמפלינג דים סאם 
-https://parktoys.co.il/product/damplyng-dym-sam-cr3b40
-- Price: 25.00 ILS (sale, was 30.00 ILS)
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: דאמפלינג דים סאן מגיע 4 יחידות דים סאן גלי
-- Image: https://parktoys.co.il/assets/product-enhanced-1782308451847-owh2v4.webp
 
 ---
 
