@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T16:51:41.310Z",
+  "generated_at": "2026-07-20T16:53:43.402Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 198,
+  "count": 199,
   "products": [
+    {
+      "id": "f691ff31-f078-42f2-8a9d-d8e577feaefd",
+      "slug": "smashrs-byt-haymh-mgh-lyldym-dwwzns",
+      "name": "סמאשרס בית האימה מגה לילדים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ברוכים הבאים לבית האימה של Smashers! \n\n \n\nפתחו את יד הזומבים המפחידה הזו מבית ZURU וגלו מעל 10 הפתעות!\n\n \n\nלילדים מגיל 3 ומעלה!\n\n \n\nזהירות: סכנת חנק עקב חלקים קטנים!",
+      "sku": null,
+      "brand": null,
+      "price": 79,
+      "base_price": 79,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784566356974-dvrzto.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/smashrs-byt-haymh-mgh-lyldym-dwwzns",
+      "categories": [
+        "מפרץ הרפתקאות "
+      ],
+      "updated_at": "2026-07-20T16:53:11.010Z"
+    },
     {
       "id": "51b2f76c-2d6d-40d8-bd54-2e89bb798c9a",
       "slug": "smashrs-mgh-chvvyyt-aymh-lyldym-fpxcg8",

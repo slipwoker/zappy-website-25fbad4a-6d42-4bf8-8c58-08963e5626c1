@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 198**
+**Total active products: 199**
+
+### סמאשרס בית האימה מגה לילדים
+https://parktoys.co.il/product/smashrs-byt-haymh-mgh-lyldym-dwwzns
+- Price: 79.00 ILS
+- Availability: In stock
+- Category: מפרץ הרפתקאות 
+- Description: ברוכים הבאים לבית האימה של Smashers! פתחו את יד הזומבים המפחידה הזו מבית ZURU וגלו מעל 10 הפתעות! לילדים מגיל 3 ומעלה! זהירות: סכנת חנק עקב חלקים קטנים!
+- Image: https://parktoys.co.il/assets/product-1784566356974-dvrzto.webp
 
 ### סמאשרס מגה חוויית אימה- לילדים
 https://parktoys.co.il/product/smashrs-mgh-chvvyyt-aymh-lyldym-fpxcg8
