@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 218** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 219** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קורקינט 3 גלגלים kick’n’roll למבורגיני
+https://parktoys.co.il/product/kvrkynt-3-glglym-kicknroll-lmbvrgyny-j5yi83
+- Price: 250.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: קורקינט 3 גלגלים מבית kick’n’roll בשיתוף המותג למבורגיני הקונספט העיצובי של קורקינט זה נולד בהשראת מכוניות למבורגיני, כאשר גם הצבע וגם תבנית הלוטוס שעל חישוק הגלגל נושאים את הגנים של למבורגיני. קורקינט זה יהיה מתנה מדהימה לילדים, ויוכל להעניק להם חוויית רכיבה יוצאת דופן וזיכרונות מאושרים. תכונות עיקריות: מבנה עמיד: שלדה חזקה לשימוש ארוך טווח. עיצוב ידידותי לסביבה: מיוצר מחומרים וטכנולוגיות בני-קיימא. שיתוף פעולה בלעדי: מהדורה מיוחדת של הקורקינט משיתוף הפעולה בין kick’n’roll ללמבורגיני.
+- Image: https://parktoys.co.il/assets/product-1784636051314-dqc4cr.webp
 
 ### סט חמישייה מכוניות הוט ווילס
 https://parktoys.co.il/product/st-chmyshyyh-mkvnyvt-hvt-vvyls-7wm6b5
@@ -1618,14 +1626,6 @@ https://parktoys.co.il/product/byt-hbvbvt-shl-gby-byt-bvbvt-ank-tsbavny-gabbys-d
 - Availability: In stock
 - Description: בית הבובות של גבי - בית בובות ענק צבעוני מבית ספין מאסטר Spin Master - Gabby's Dollhouse Colourful כיף ודמיון עם בית הבובות של גבי. בית בובות ענק צבעוני. הבית מתהדר בעיצוב צבעוני ומרהיב, המאפשר לילדים לצלול לעולם של הרפתקאות ודמיון. בבית 3 קומות תמצאו חדרים מעוצבים באהבה ובפרטים קטנים המעשירים את המשחק. כל חדר צבעוני ומזמין, מאובזר בחלונות שקופים שדרכם ניתן לראות את הפעילות התוססת בפנים. הבית כולל מגלשה צידית ליציאות החיצוניות שמוסיפה תחושת הרפתקנות וכיף למשחק. גג הבית מעוטר בכיפה צהובה וורודה,
 - Image: https://parktoys.co.il/assets/product-enhanced-1782635766788-mbk8qf.webp
-
-### סקוטר לקטנטנים-little tikes
-https://parktoys.co.il/product/skvtr-lktntnym-little-tikes-033sjw
-- Price: 59.00 ILS (sale, was 100.00 ILS)
-- Availability: In stock
-- Category: גלגלים
-- Description: המתנה המושלמת לפעוטות, בנים ובנות בגילאי שנה וחצי עד 5 שנים. סקוטר לקטנטנים לרכיבה פנימית/חיצונית עם ידית היגוי נוחה לאחיזה. הדגם מעודד פיתוח מיומנויות מוטוריות עדינות של ילדיכם. גילאי: שנה וחצי+ / מידות: 46.36X20.32X37.85 ס"מ / ארץ ייצור: סין
-- Image: https://parktoys.co.il/assets/product-enhanced-1782634601351-xvrfai.webp
 
 ---
 
