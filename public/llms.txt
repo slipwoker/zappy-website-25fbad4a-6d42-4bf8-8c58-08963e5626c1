@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 217** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 218** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### סט חמישייה מכוניות הוט ווילס
+https://parktoys.co.il/product/st-chmyshyyh-mkvnyvt-hvt-vvyls-7wm6b5
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
+- Description: לא ניתן לבחור סט מגיע אקראי
+- Image: https://parktoys.co.il/assets/product-enhanced-1784633412732-bc8ccu.webp
 
 ### בובת ריינבו היי מיני –לא ניתן לבחור צבע 
 https://parktoys.co.il/product/bvbt-ryynbv-hyy-myny-la-nytn-lbchvr-tsba-pdgv91
@@ -1618,15 +1626,6 @@ https://parktoys.co.il/product/skvtr-lktntnym-little-tikes-033sjw
 - Category: גלגלים
 - Description: המתנה המושלמת לפעוטות, בנים ובנות בגילאי שנה וחצי עד 5 שנים. סקוטר לקטנטנים לרכיבה פנימית/חיצונית עם ידית היגוי נוחה לאחיזה. הדגם מעודד פיתוח מיומנויות מוטוריות עדינות של ילדיכם. גילאי: שנה וחצי+ / מידות: 46.36X20.32X37.85 ס"מ / ארץ ייצור: סין
 - Image: https://parktoys.co.il/assets/product-enhanced-1782634601351-xvrfai.webp
-
-### קורקינט פעלולים מקצועי גלגלי סיליקון 110 מ''מ VIPER 
-https://parktoys.co.il/product/kvrkynt-palvlym-mktsvay-glgly-sylykvn-110-mm-viper-gojx72
-- Price: 399.00 ILS (sale, was 550.00 ILS)
-- Availability: In stock
-- Category: גלגלים
-- Brand: ipop
-- Description: קורקינט פעלולים איכותי ומרשים בעיצוב Art Chrome ייחודי, המשלב מראה צבעוני ודינמי עם מבנה חזק ועמיד במיוחד לרכיבה אגרסיבית ותרגילים. השלדה הקשיחה והכידון הרחב מעניקים יציבות גבוהה ושליטה מלאה, כך שתוכלו לבצע קפיצות, סיבובים וטריקים בביטחון מרבי.קורקינט פעלולים איכותי ומרשים בעיצוב Art Chrome ייחודי, המשלב מראה צבעוני ודינמי עם מבנה חזק ועמיד במיוחד לרכיבה אגרסיבית ותרגילים. השלדה הקשיחה והכידון הרחב מעניקים יציבות גבוהה ושליטה מלאה, כך שתוכלו לבצע קפיצות, סיבובים וטריקים בביטחון מרבי.
-- Image: https://parktoys.co.il/assets/product-enhanced-1782488310022-a9cgti.webp
 
 ---
 

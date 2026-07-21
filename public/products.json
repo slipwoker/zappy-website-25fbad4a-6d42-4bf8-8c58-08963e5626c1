@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T10:25:50.163Z",
+  "generated_at": "2026-07-21T11:30:59.682Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 217,
+  "count": 218,
   "products": [
+    {
+      "id": "8725fdeb-ae6c-4f2c-a765-039bf6d33c63",
+      "slug": "st-chmyshyyh-mkvnyvt-hvt-vvyls-7wm6b5",
+      "name": "סט חמישייה מכוניות הוט ווילס",
+      "name_translations": {},
+      "description": "",
+      "short_description": "לא ניתן לבחור סט מגיע אקראי ",
+      "sku": null,
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784633412732-bc8ccu.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/st-chmyshyyh-mkvnyvt-hvt-vvyls-7wm6b5",
+      "categories": [
+        "צעצועי שלט/מסלולי מכוניות/מכוניות "
+      ],
+      "updated_at": "2026-07-21T11:30:27.450Z"
+    },
     {
       "id": "e7579156-9433-4970-9701-602705a8ced6",
       "slug": "bvbt-ryynbv-hyy-myny-la-nytn-lbchvr-tsba-pdgv91",
