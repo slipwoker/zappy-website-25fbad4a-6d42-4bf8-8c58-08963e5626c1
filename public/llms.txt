@@ -79,11 +79,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 226** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### SCANIA משאית הובלת מכולות ארוכה עם אורות וצלילים
-https://parktoys.co.il/product/scania-mshayt-hvblt-mkvlvt-arvkh-am-avrvt-vtslylym-f3fqba
+https://parktoys.co.il/product/scania-mshayt-hvblt-mkvlvt-arvkh-am-avrvt-vtslylym-lj0apr
 - Price: 100.00 ILS
 - Availability: In stock
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
-- Description: משאית הובלת מכולות ארוכה 45סמ פריקשן אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, דלתות המכולה נפתחות, כולל 2 רגלי תמיכה מתכווננות
+- Description: משאית הובלת מכולות ארוכה עם אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, דלתות המכולה נפתחות, כולל 2 רגלי תמיכה מתכווננות
 - Image: https://parktoys.co.il/assets/product-1784649963780-lx20e.webp
 
 ### SCANIA משאית איסוף ארוכה עם אורות וצלילים
