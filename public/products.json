@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T08:21:10.466Z",
+  "generated_at": "2026-07-21T08:50:42.876Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 210,
+  "count": 211,
   "products": [
+    {
+      "id": "d825e947-92ad-4d5c-a877-c235018937a4",
+      "slug": "marz-gybvry-al-marvel-ultimate-protectors-pack-5au1oy",
+      "name": "מארז גיבורי על Marvel Ultimate Protectors Pack",
+      "name_translations": {},
+      "description": "",
+      "short_description": "המארז מכיל 8 גיבורי-על : \n\nאיירון מן (Iron Man)\nקפטן אמריקה (Captain America) – מגיע עם אביזר המגן המפורסם שלו.\nספיידרמן (Spider-Man)\nהענק הירוק (Hulk)\nהפנתר השחור (Black Panther)\nאנט-מן (Ant-Man)\nפלקון (Falcon)\nוור מאשין (War Machine) \nכל דמות היא בגובה של כ-15 ס\"מ.\n\nלדמויות יש מפרקים הניתנים להזזה (זרועות ורגליים) והמאפשרים להעמיד אותן בתנוחות קרב שונות.",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784623785866-0xij1o.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/marz-gybvry-al-marvel-ultimate-protectors-pack-5au1oy",
+      "categories": [
+        "מפרץ הרפתקאות "
+      ],
+      "updated_at": "2026-07-21T08:50:11.374Z"
+    },
     {
       "id": "7b2eac22-906e-4cd9-92ac-3a6402c34a25",
       "slug": "zvrv-zuru-pts-alyyb-chtltvlym-btsmr-gpn-zuru-08x2w0",
