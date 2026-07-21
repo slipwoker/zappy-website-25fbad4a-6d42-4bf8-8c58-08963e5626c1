@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 214** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 215** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מג'יק מיקסיס מנורת ג'יני 
+https://parktoys.co.il/product/mgyk-myksys-mnvrt-gyny-jp4lcx
+- Price: 199.00 ILS
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: מנורת הג’יני הקסומה של Magic Mixies מאפשרת לילדים ליצור חיית קסם אינטראקטיבית באמצעות מחוות, צלילים ואור. משחק חווייתי ומרגש עם יותר מ־60 תגובות שונות, המעודד דמיון, סקרנות ותחושת קסם אמיתית.
+- Image: https://parktoys.co.il/assets/product-1784628294607-3ktnx.webp
 
 ### LOL לול OOTD מזוודה 25 הפתעות - LOL
 https://parktoys.co.il/product/lol-lvl-ootd-mzvvdh-25-hptavt-lol-zwaaxt
@@ -1618,14 +1626,6 @@ https://parktoys.co.il/product/klb-nydv-tsbavny-qvrdy4
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: כלב נידו צבעוני רך ונעים
 - Image: https://parktoys.co.il/assets/product-enhanced-1782488781167-fe04m.webp
-
-### לב נידו צבעוני
-https://parktoys.co.il/product/lb-nydv-tsbavny-48mea4
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: לב נידו צבעוני נעיף ורך בטירוף
-- Image: https://parktoys.co.il/assets/product-enhanced-1782485306751-3huh1s.webp
 
 ---
 
