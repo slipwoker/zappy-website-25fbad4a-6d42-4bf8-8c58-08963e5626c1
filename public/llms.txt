@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 243** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 244** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### תכשיטי נסיכות ברבי
+https://parktoys.co.il/product/tkshyty-nsykvt-brby-hu4fdh
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: ערכת יצירה להכנת תכשיטים הכוללת פקקים אופנתיים
+- Image: https://parktoys.co.il/assets/product-1784662457200-c4ugfu.webp
 
 ### ערכת מדע – המעגל החשמלי הראשון שלי
 https://parktoys.co.il/product/arkt-mda-hmagl-hchshmly-hrashvn-shly-usdo7x
@@ -1623,13 +1631,6 @@ https://parktoys.co.il/product/kvrkynt-prvzn-3-glglym-am-blm-rgl-ilfzty
 - Category: גלגלים
 - Description: קורקינט איכותי ומעוצב בהשראת הדמויות האהובות מפרוזן – עם ידית מתכווננת, גלגלים עמידים ובלם אחורי לנסיעה בטוחה ומהנה במיוחד. יתרונות המוצר: • עיצוב קסום של פרוזן עם הדפסים צבעוניים • ידית מתכווננת לגובה 62–76.5 ס"מ להתאמה אישית • מערכת היגוי מתקדמת ונוחה לשימוש • גלגלי PU איכותיים לנסיעה חלקה ושקטה • כולל בלם רגל אחורי לבטיחות מרבית • משטח עמיד עם ציפוי נגד החלקה
 - Image: https://parktoys.co.il/assets/product-1782748381178-vgir5g.webp
-
-### תנור אפייה של קוקיז Cookeez Makery
-https://parktoys.co.il/product/tnvr-apyyh-shl-kvkyz-cookeez-makery-kfx8e2
-- Price: 229.00 ILS (sale, was 299.00 ILS)
-- Availability: In stock
-- Description: בתנור תנור אפייה של קוקיז Cookeez Makery. תנור אפייה עם בובה בהפתעה! ערבבו את החומרים שמגיעים בערכה ליצירת בצק והכניסו לתבנית המצורפת ליצירת דמות בצק קטנטנה הכניסו את הבצק שלכם לתנור, סובבו את הטיימר ותהיו מופתעים כשתצא במקום הבצק בובה גדולה בהפתעה עם ריח נהדר! בכל תנור תצא בובה אחת בלבד בלי שנדע איזו בובה תצא מגיל 3 ומעלה
-- Image: https://parktoys.co.il/assets/product-1782748175184-yh9hp.webp
 
 ---
 

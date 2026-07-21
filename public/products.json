@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T19:34:01.235Z",
+  "generated_at": "2026-07-21T19:35:20.323Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 243,
+  "count": 244,
   "products": [
+    {
+      "id": "2d1bd48e-596d-4a8b-bcdd-39e46ea629a6",
+      "slug": "tkshyty-nsykvt-brby-hu4fdh",
+      "name": "תכשיטי נסיכות ברבי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכת יצירה להכנת תכשיטים הכוללת פקקים אופנתיים",
+      "sku": null,
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784662457200-c4ugfu.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/tkshyty-nsykvt-brby-hu4fdh",
+      "categories": [
+        "משחקי יצירה"
+      ],
+      "updated_at": "2026-07-21T19:34:46.981Z"
+    },
     {
       "id": "addd5412-c769-4b2d-a459-120a6f9f4c07",
       "slug": "arkt-mda-hmagl-hchshmly-hrashvn-shly-usdo7x",
