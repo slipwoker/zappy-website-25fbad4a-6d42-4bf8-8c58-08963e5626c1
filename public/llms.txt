@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 205** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 206** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בובת Dream Besties Skate Party גודל 29 ס''מ מבית Mattel - מאליבו
+https://parktoys.co.il/product/bvbt-dream-besties-skate-party-gvdl-29-sm-mbyt-mattel-malybv-zz20tm
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: בובת Barbie Dream Besties Skate Party משלבת עולם של אופנה, חברות וביטוי אישי עם לוק צבעוני בהשראת מסיבת גלגליות ותחביבים יצירתיים. הבובה מעוצבת בסגנון עדכני עם אביזרים אופנתיים ופריטים המעודדים משחקי דמיון, יצירת סיפורים והרפתקאות מלאות סטייל ואנרגיה. העיצוב האופנתי והאביזרים הנלווים מעניקים לבובה אופי ייחודי ומשלבים עולם של חלומות, יצירתיות והשראה, תוך עידוד ילדות לבטא את עצמן ולדמיין את כל מה שהן יכולות להיות. הבובה מתאימה למשחק עצמאי, לאיסוף ולשילוב עם דמויות נוספות מסדרת Dream Besties Skate …
+- Image: https://parktoys.co.il/assets/product-enhanced-1784620110465-tqsbx.webp
 
 ### ברבי סקיפר בייביסיטר עם תינוק, לול ואביזרים
 https://parktoys.co.il/product/brby-skypr-byybysytr-am-tynvk-lvl-vabyzrym-dkujx1
@@ -1616,14 +1624,6 @@ https://parktoys.co.il/product/myny-damplyng-nydv-6jaras
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: צעצוע סקוושי בצורת כיסון מיני 5.5 ס\"מ, צעצוע רך בצורת לחמנייה מאודה, צעצוע חושי להפגת מתחים, צעצוע בעל עלייה איטית, מתנה לילדים
 - Image: https://parktoys.co.il/assets/product-1782375539383-qlujoe.webp
-
-### סקווישי 4 מיני דונאטס דאמפלינג - Dumpling Squishy
-https://parktoys.co.il/product/skvvyshy-4-myny-dvnats-damplyng-dumpling-squishy-fndnuc
-- Price: 15.00 ILS (sale, was 25.00 ILS)
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: המתיקות שתפיג לכם את כל המתחים! מארז 4 מיני סקווישי דאמפלינג ודונאטס (Mini Dumpling Donuts) הוא הפינוק המושלם לחובבי הצעצועים החושיים. המארז כולל 4 דמויות סקווישי קטנות, סופר-רכות ומעוצבות בצורת מאפים וכיסונים מתוקים וקאוואיים. הצעצוע המושלם להפגת מתחים (Anti-Stress), שיפור הריכוז ומשחק מגע ממכר ונעים שאי אפשר להפסיק למעוך וללחוץ בכל רגע ביום. * המחיר מתיחס לשקית הפתעה אחת
-- Image: https://parktoys.co.il/assets/product-1782375300844-v7y15y.webp
 
 ---
 
