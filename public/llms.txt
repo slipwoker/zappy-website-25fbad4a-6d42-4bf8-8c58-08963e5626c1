@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 229** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 230** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### Smashers Robo Alive דינוזאור מאובן גדול להרכבה
+https://parktoys.co.il/product/smashers-robo-alive-dynvzavr-mavbn-gdvl-lhrkbh-82712c
+- Price: 60.00 ILS
+- Availability: In stock
+- Category: מפרץ הרפתקאות 
+- Description: ערכת משחק והרכבה מסדרת Smashers Robo Alive בעיצוב דינוזאור מאובן גדול. המארז כולל ביצת הפתעה, חלקי דינוזאור להרכבה וכלי חפירה, ומאפשר לילדים ליהנות מחוויית גילוי, חפירה והרכבת דינוזאור מרשימה. מה כולל המוצר? ביצת דינוזאור גדולה מסדרת Smashers חלקי מאובן להרכבת דינוזאור כלי חפירה למשחק וגילוי דינוזאור אדום בעיצוב Volcano Dino חוויית Fossil Find לילדים
+- Image: https://parktoys.co.il/assets/product-enhanced-1784652203695-2orqbx.webp
 
 ### SCANIA משאית מחפרון עם אורות וצלילים
 https://parktoys.co.il/product/scania-mshayt-mchprvn-am-avrvt-vtslylym-hqzg28
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/nydv-glydh-0zt82m
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: נידו גלידה נעים וכיפי למגע
 - Image: https://parktoys.co.il/assets/product-enhanced-1782720285981-3c0c07.webp
-
-### נידו גבינה 
-https://parktoys.co.il/product/nydv-gbynh-zveux9
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: נידו גבינה נעים וכיפי למגע
-- Image: https://parktoys.co.il/assets/product-1782720026606-xdu8na.webp
 
 ---
 
