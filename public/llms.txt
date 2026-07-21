@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 232** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 233** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קעקועים – גיבורי על
+https://parktoys.co.il/product/kakvaym-gybvry-al-md05qi
+- Price: 39.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: יוצרים קעקועים מדליקים מעיצובי גיבורי על צבעוניים.
+- Image: https://parktoys.co.il/assets/product-1784655473215-k7i4jg.webp
 
 ### קעקועים – ברבי
 https://parktoys.co.il/product/kakvaym-brby-8tv1mt
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/tvt-nydv-xb1no2
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: תות נידו נעים וכיפי למגע
 - Image: https://parktoys.co.il/assets/product-enhanced-1782721908140-5tifk.webp
-
-### דאמפלינג סקוושי 
-https://parktoys.co.il/product/damplyng-skvvshy-pc47m9
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: נעים וכיפי למגע
-- Image: https://parktoys.co.il/assets/product-enhanced-1782721637451-hzvd14.webp
 
 ---
 
