@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 216** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 217** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בובת ריינבו היי מיני –לא ניתן לבחור צבע 
+https://parktoys.co.il/product/bvbt-ryynbv-hyy-myny-la-nytn-lbchvr-tsba-pdgv91
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: אין חברה יותר טובה מהאחות הקטנה – הכירו את האחות הקטנה של בובות ריינבו היי האהובות עליכם! הכירו את האחות הקטנה של סקיילר בראדשו – ספיר. ספיר היא סופר אנרגטית, אוהבת לצאת, בטוחה בעצמה ולפעמים גם אימפולסיבית. זה יכול להכניס אותה לצרות לפעמים, אבל עם עזרה מאחותה הגדולה, היא תמיד מוצאת את דרכה. לספיר יש סגנון ייחודי משלה – היא לבושה בג’ינס כחול מכף רגל ועד ראש עם חצאית ג’ינס רכה וז’קט דנים מלאכותי מעוצב (הבגדים ניתנים להסרה). והיא מגיעה עם נעלי ספורט כחולות תואמות, ארנק וחיית מחמד כחולה קסומה סופר ח
+- Image: https://parktoys.co.il/assets/product-enhanced-1784629429278-ee1yfr.webp
 
 ###  קורקינט גולד סקוט פעלולים מקצועי וייפר זהב
 https://parktoys.co.il/product/kvrkynt-gvld-skvt-palvlym-mktsvay-vyypr-zhb-ysjqnf
@@ -1619,13 +1627,6 @@ https://parktoys.co.il/product/kvrkynt-palvlym-mktsvay-glgly-sylykvn-110-mm-vipe
 - Brand: ipop
 - Description: קורקינט פעלולים איכותי ומרשים בעיצוב Art Chrome ייחודי, המשלב מראה צבעוני ודינמי עם מבנה חזק ועמיד במיוחד לרכיבה אגרסיבית ותרגילים. השלדה הקשיחה והכידון הרחב מעניקים יציבות גבוהה ושליטה מלאה, כך שתוכלו לבצע קפיצות, סיבובים וטריקים בביטחון מרבי.קורקינט פעלולים איכותי ומרשים בעיצוב Art Chrome ייחודי, המשלב מראה צבעוני ודינמי עם מבנה חזק ועמיד במיוחד לרכיבה אגרסיבית ותרגילים. השלדה הקשיחה והכידון הרחב מעניקים יציבות גבוהה ושליטה מלאה, כך שתוכלו לבצע קפיצות, סיבובים וטריקים בביטחון מרבי.
 - Image: https://parktoys.co.il/assets/product-enhanced-1782488310022-a9cgti.webp
-
-### מצלמת ילדים דיגיטלית עם הדפסה מיידית
-https://parktoys.co.il/product/mtslmt-yldym-dygytlyt-am-hdpsh-myydyt-v8c9sd
-- Price: 129.00 ILS (sale, was 199.00 ILS)
-- Availability: In stock
-- Description: המתנה המושלמת לילדים – מצלמה דיגיטלית צבעונית עם הדפסה מיידית של תמונות, ממש כמו בקסם! המצלמה מגיעה עם מסך 2 אינץ', מאפשרת צילום תמונות, צילום וידאו, הוספת מסגרות גרפיות, איכות צילום HD – והכי חשוב: מדפיסה את התמונות בלחיצת כפתור וללא צורך בדיו! כוללת 3 סלילים להדפסה (כל אחד בצבע אחר), כך שהילדים יכולים להתחיל לצלם ולהדפיס מיד! מתאימה כמתנה ליום הולדת, פעילות יצירה, גן, בית ספר או מתנה מהממת לחופש הגדול.
-- Image: https://parktoys.co.il/assets/product-1782485941783-8gpre.webp
 
 ---
 

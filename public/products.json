@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T10:20:57.226Z",
+  "generated_at": "2026-07-21T10:25:50.163Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 216,
+  "count": 217,
   "products": [
+    {
+      "id": "e7579156-9433-4970-9701-602705a8ced6",
+      "slug": "bvbt-ryynbv-hyy-myny-la-nytn-lbchvr-tsba-pdgv91",
+      "name": "בובת ריינבו היי מיני –לא ניתן לבחור צבע ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אין חברה יותר טובה מהאחות הקטנה – הכירו את האחות הקטנה של בובות ריינבו היי האהובות עליכם! הכירו את האחות הקטנה של סקיילר בראדשו – ספיר. ספיר היא סופר אנרגטית, אוהבת לצאת, בטוחה בעצמה ולפעמים גם אימפולסיבית. זה יכול להכניס אותה לצרות לפעמים, אבל עם עזרה מאחותה הגדולה, היא תמיד מוצאת את דרכה. לספיר יש סגנון ייחודי משלה – היא לבושה בג’ינס כחול מכף רגל ועד ראש עם חצאית ג’ינס רכה וז’קט דנים מלאכותי מעוצב (הבגדים ניתנים להסרה). והיא מגיעה עם נעלי ספורט כחולות תואמות, ארנק וחיית מחמד כחולה קסומה סופר ח",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784629429278-ee1yfr.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/bvbt-ryynbv-hyy-myny-la-nytn-lbchvr-tsba-pdgv91",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-07-21T10:25:18.345Z"
+    },
     {
       "id": "7b66085f-3fbd-461c-b40d-5cab3f845200",
       "slug": "kvrkynt-gvld-skvt-palvlym-mktsvay-vyypr-zhb-ysjqnf",
