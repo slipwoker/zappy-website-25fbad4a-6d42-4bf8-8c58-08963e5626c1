@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 238** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 239** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ספר הזכרונות שלי
+https://parktoys.co.il/product/spr-hzkrvnvt-shly-1frvx9
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: ערכה לעיצוב וקישוט ספר זכרונות איכותי מעץ
+- Image: https://parktoys.co.il/assets/product-1784657575310-rl6xq8.webp
 
 ### פייטים – בית
 https://parktoys.co.il/product/pyytym-byt-84p0gb
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/kvrkynt-prymyvm-mtkpl-am-glglym-gdvlym-bvlmy-zazv
 - Category: גלגלים
 - Description: מחפשים קורקינט איכותי, יציב ונוח לרכיבה? הקורקינט הפרימיום עם גלגלים גדולים ובולמי זעזועים מעניק חוויית רכיבה חלקה, בטוחה ומהנה לילדים, בני נוער ומבוגרים. בזכות מערכת הקיפול המהירה, המבנה החזק והעיצוב המודרני, זהו פתרון מושלם לנסיעות יומיומיות, טיולים בפארק ופעילות ספורטיבית מהנה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1782733553785-gcywcn.webp
-
-### קורקינט 3 גלגלים סוניק פריים
-https://parktoys.co.il/product/kvrkynt-3-glglym-svnyk-pryym-b84qes
-- Price: 150.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: קורקינט סוניק לילדים הקורקינט הראשון שלי בעיצוב סוניק. קורקינט איכותי מאוד ונוח לרכיבה בטוחה כיפית בשכונה, בגינה ובפארקים. הצעד הראשון של ילדכם ללמוד תנועה, איזון ושיווי משקל קורקינט בטיחותי המגיע עם משטח מונע החלקה גדול ורחב,
-- Image: https://parktoys.co.il/assets/product-enhanced-1782731974533-cne9pd.webp
 
 ---
 

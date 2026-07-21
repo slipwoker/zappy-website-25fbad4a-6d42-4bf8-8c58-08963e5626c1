@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T18:12:10.573Z",
+  "generated_at": "2026-07-21T18:14:04.095Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 238,
+  "count": 239,
   "products": [
+    {
+      "id": "e67c8a55-0a97-4dc3-8bd4-c53c9075164e",
+      "slug": "spr-hzkrvnvt-shly-1frvx9",
+      "name": "ספר הזכרונות שלי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכה לעיצוב וקישוט ספר זכרונות איכותי מעץ",
+      "sku": null,
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784657575310-rl6xq8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/spr-hzkrvnvt-shly-1frvx9",
+      "categories": [
+        "משחקי יצירה"
+      ],
+      "updated_at": "2026-07-21T18:13:32.145Z"
+    },
     {
       "id": "352d5396-3f7b-4f06-a497-f717d90b47c4",
       "slug": "pyytym-byt-84p0gb",
