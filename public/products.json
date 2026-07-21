@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T08:05:27.442Z",
+  "generated_at": "2026-07-21T08:11:19.858Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 208,
+  "count": 209,
   "products": [
+    {
+      "id": "96de5471-0883-4504-9bc5-a4efdd3fe030",
+      "slug": "brby-kvlvr-rybl-shmsh-annym-fxr9vd",
+      "name": "ברבי קולור ריבל שמש עננים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ברבי קולור ריבל מארז ברבי מחליף צבעים לילדים.",
+      "sku": null,
+      "brand": null,
+      "price": 119,
+      "base_price": 119,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784621421846-15imd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/brby-kvlvr-rybl-shmsh-annym-fxr9vd",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-07-21T08:10:47.685Z"
+    },
     {
       "id": "1a36491b-0107-4684-af3b-901023b7e079",
       "slug": "bvbh-brby-mvrh-hu0mvh",

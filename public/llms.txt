@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 208** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 209** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ברבי קולור ריבל שמש עננים
+https://parktoys.co.il/product/brby-kvlvr-rybl-shmsh-annym-fxr9vd
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: ברבי קולור ריבל מארז ברבי מחליף צבעים לילדים.
+- Image: https://parktoys.co.il/assets/product-1784621421846-15imd.webp
 
 ### בובה ברבי מורה 
 https://parktoys.co.il/product/bvbh-brby-mvrh-hu0mvh
@@ -1616,14 +1624,6 @@ https://parktoys.co.il/product/hkdvr-hchkm-kdvrgl-shkt-lmshchk-bbyt-vbchvts-kick
 - Category: מוצרי ספורט
 - Description: הכדור החכם מבית TOYRRIFIC הוא הפתרון המושלם לילדים שאוהבים לשחק כדורגל בכל מקום ובכל זמן. מדובר בכדור רגל שקט במיוחד, המעוצב במיוחד כדי לאפשר משחק פעיל ומהנה בתוך הבית מבלי להפריע לשכנים או להורים, ובמקביל עמיד מספיק למשחק מחוץ לבית. הכדור עשוי מחומרים איכותיים ורכים המעניקים לו יכולת ניתור מצוינת וגמישות גבוהה. הוא קופצני במיוחד, קל משקל ובטיחותי לשימוש, מה שהופך אותו למתנה אידיאלית לילדים המעוניינים לשפר את כישורי הכדורגל שלהם, לעבוד על שליטה בכדור או פשוט להוציא אנרגיה בצורה מהנה. הכדור מתאים
 - Image: https://parktoys.co.il/assets/product-1782378241524-3rg68f.webp
-
-### בית הבובות של גבי - מכונת גלידה - Gabby's Dollhouse
-https://parktoys.co.il/product/byt-hbvbvt-shl-gby-mkvnt-glydh-gabbys-dollhouse-uscay7
-- Price: 89.00 ILS (sale, was 120.00 ILS)
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: בית הבובות של גבי - מכונת גלידה מבית ספין מאסטרGabby's Dollhouse - Ice Cream Machine הילדים אוהבים גלידה? עם המכונה תוכלו להכין להם, מבלי לצאת מהבית. התכוננו ליום מהנה של הכנת גלידה עם בית הבובות של גבי! להכנה מהירה ופשוטה של גלידה אמיתית בטעמים שונים (בעזרת מבוגר). ניתן להכין את הגלידה ממוצרים שיש בבית. מתאים לגילאי 3+משתתפים: 1+
-- Image: https://parktoys.co.il/assets/product-1782376918226-0od2iq.webp
 
 ---
 
