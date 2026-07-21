@@ -79,12 +79,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 221** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### ערכת בצק – חגיגת המבורגרים
-https://parktoys.co.il/product/arkt-btsk-chgygt-hmbvrgrym-k7nwz8
+https://parktoys.co.il/product/arkt-btsk-chgygt-hmbvrgrym-7lirvl
 - Price: 50.00 ILS
 - Availability: In stock
 - Category: משחקי יצירה
 - Description: ערכת בצק – חגיגת המבורגרים היא ערכת יצירה מהנה וצבעונית, המאפשרת לילדים להכין “מנות מזון” מבצק רך וגמיש. עם התבניות והאביזרים המצורפים, הילדים יכולים לעצב לחמניות, קציצות, ירקות ותוספות – ולבנות המבורגרים טעימים למראה שמגרים את הדמיון.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784640532757-mwd1ue.webp
+- Image: https://parktoys.co.il/assets/product-enhanced-1784640600240-tb8twd.webp
 
 ### ערכת בצק – חגיגת יום הולדת
 https://parktoys.co.il/product/arkt-btsk-chgygt-yvm-hvldt-8gy1ko
