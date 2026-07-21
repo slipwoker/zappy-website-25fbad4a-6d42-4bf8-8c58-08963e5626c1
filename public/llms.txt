@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 237** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 238** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### פייטים – בית
+https://parktoys.co.il/product/pyytym-byt-84p0gb
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: ערכת פייטים להכנת תמונת בית
+- Image: https://parktoys.co.il/assets/product-1784657457233-n5zh64.webp
 
 ### תיק חד קרן
 https://parktoys.co.il/product/tyk-chd-krn-jbn932
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/kvrkynt-3-glglym-svnyk-pryym-b84qes
 - Category: גלגלים
 - Description: קורקינט סוניק לילדים הקורקינט הראשון שלי בעיצוב סוניק. קורקינט איכותי מאוד ונוח לרכיבה בטוחה כיפית בשכונה, בגינה ובפארקים. הצעד הראשון של ילדכם ללמוד תנועה, איזון ושיווי משקל קורקינט בטיחותי המגיע עם משטח מונע החלקה גדול ורחב,
 - Image: https://parktoys.co.il/assets/product-enhanced-1782731974533-cne9pd.webp
-
-### קורקינט 3 גלגלים הלו קיטי
-https://parktoys.co.il/product/kvrkynt-3-glglym-hlv-kyty-3sis1z
-- Price: 150.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: קורקינט בעיצוב הלו קיטי האהובה, עם שילוב צבעים ורודים וטורקיזיים שמושכים את העין. מבנה של 3 גלגלים מספק יציבות גבוהה ותומך בלמידת רכיבה, פיתוח שיווי משקל וקואורדינציה – אידאלי לילדים בתחילת הדרך.
-- Image: https://parktoys.co.il/assets/product-enhanced-1782729467676-rgtr92.webp
 
 ---
 

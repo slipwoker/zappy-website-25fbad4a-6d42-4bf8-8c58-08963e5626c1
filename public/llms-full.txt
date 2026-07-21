@@ -5721,6 +5721,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### פייטים – בית
+URL: https://parktoys.co.il/product/pyytym-byt-84p0gb
+Price: 49.00 ILS
+Availability: In stock
+
+---
+
 ### תיק חד קרן
 URL: https://parktoys.co.il/product/tyk-chd-krn-jbn932
 Price: 49.00 ILS
