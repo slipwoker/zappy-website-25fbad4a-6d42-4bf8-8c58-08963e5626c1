@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T13:36:13.702Z",
+  "generated_at": "2026-07-21T13:37:18.326Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 221,
+  "count": 222,
   "products": [
+    {
+      "id": "aef35dab-2f67-40c5-9c48-090fb871f84a",
+      "slug": "arkt-btsk-chgygt-glydvt-0o0fag",
+      "name": "ערכת בצק – חגיגת גלידות",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכת בצק – חגיגת גלידות היא ערכת יצירה צבעונית ומהנה שמאפשרת לילדים להכין “גלידות” טעימות למראה בעזרת בצק רך ואביזרים תואמים. המשחק מעודד דמיון ויצירתיות, ומעניק חוויה של משחק תפקידים בכיף מתוק במיוחד.",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784640979951-x8q0og.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/arkt-btsk-chgygt-glydvt-0o0fag",
+      "categories": [
+        "משחקי יצירה"
+      ],
+      "updated_at": "2026-07-21T13:36:46.681Z"
+    },
     {
       "id": "ea0ea903-0479-4d9d-9ac1-21b0b72f6a97",
       "slug": "arkt-btsk-chgygt-hmbvrgrym-7lirvl",

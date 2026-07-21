@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 221** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 222** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ערכת בצק – חגיגת גלידות
+https://parktoys.co.il/product/arkt-btsk-chgygt-glydvt-0o0fag
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: ערכת בצק – חגיגת גלידות היא ערכת יצירה צבעונית ומהנה שמאפשרת לילדים להכין “גלידות” טעימות למראה בעזרת בצק רך ואביזרים תואמים. המשחק מעודד דמיון ויצירתיות, ומעניק חוויה של משחק תפקידים בכיף מתוק במיוחד.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784640979951-x8q0og.webp
 
 ### ערכת בצק – חגיגת המבורגרים
 https://parktoys.co.il/product/arkt-btsk-chgygt-hmbvrgrym-7lirvl
@@ -1619,14 +1627,6 @@ https://parktoys.co.il/product/kvrkynt-3-glglym-styts-dzfzio
 - Category: גלגלים
 - Description: קורקינט בעיצוב דמויות שילדים אוהבים קורקינט ילדים עם שני גלגלי סיליקון קדמיים והיגוי באמצעות הכידון (הטיה ימינה / שמאלה) לקורקינט ידיות גומי לאחיזה נוחה משטח דריכה עם ציפוי מונע החלקה ובלם גלגל אחורי. קורקינט 3 גלגלים לילדים עם כידון מתכוונן גובה 62 ועד 75 ס"מ מומלץ לחבוש קסדה (נמכרת בנפרד) מידות כלליות: אורך כ-50 ס"מ, רוחב כ-23 ס"מ, גובה כ-79 ס"מ. מידות משטח דריכה: אורך כ-30 ס"מ, רוחב כ-13 ס"מ. מתאים מגילאי 3 ומעלה ועד משקל 30 ק"ג. משטח מונע החלקה גדול ורחב מעצור רגל קל לשימוש לעצירה מוחלטת של
 - Image: https://parktoys.co.il/assets/product-enhanced-1782654847431-bnocl.webp
-
-### בימבה גוק חד קרן 
-https://parktoys.co.il/product/bymbh-gvk-chd-krn-4ugrwe
-- Price: 99.00 ILS (sale, was 130.00 ILS)
-- Availability: In stock
-- Category: גלגלים
-- Description: בימבה ג'וק מבית Viper בימבה קלה במיוחד בעיצוב חד קרן, מתקפלת בקלות ונוחה לשימוש יומיומי. מעודדת את פיתוח שרירי הרגליים, שיווי משקל וביטחון עצמי בקרב פעוטות. נוחה לנשיאה ולאחסון, ומתאימה למשחק גם בבית וגם בחוץ. כוללת מנגנון קיפול מכני חכם להפעלה פשוטה ונוחה. מצוידת ב-3 גלגלים ליציבות מקסימלית ובטיחות מרבית ברכיבה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1782642053459-6mumh.webp
 
 ---
 
