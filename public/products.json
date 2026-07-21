@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T16:13:09.224Z",
+  "generated_at": "2026-07-21T16:24:09.181Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 226,
+  "count": 227,
   "products": [
+    {
+      "id": "f2ba353e-f97e-493f-8ca6-780c3cdc7721",
+      "slug": "scania-mshayt-myksr-btvn-37-sm-38p21z",
+      "name": "SCANIA משאית מיקסר בטון 37 ס\"מ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "משאית מיקסר בטון מבית SCANIA . המשאית מפעילה אורות וצלילים.\n\n",
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 150,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784650984273-1qw8kd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/scania-mshayt-myksr-btvn-37-sm-38p21z",
+      "categories": [
+        "צעצועי שלט/מסלולי מכוניות/מכוניות "
+      ],
+      "updated_at": "2026-07-21T16:23:45.831Z"
+    },
     {
       "id": "279279fa-6176-4b18-9ed7-e495fb2cbdd8",
       "slug": "scania-mshayt-hvblt-mkvlvt-arvkh-am-avrvt-vtslylym-lj0apr",
