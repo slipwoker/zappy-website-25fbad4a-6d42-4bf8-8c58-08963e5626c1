@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 203** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 204** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ברבי נוצצת 10 הפתעות בקופסה Party Unboxed Glam Party
+https://parktoys.co.il/product/brby-nvtstst-10-hptavt-bkvpsh-party-unboxed-glam-party-i56b9x
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: ברבי Party Unboxed היא חוויית פתיחה מלאה בהפתעות! 10 הפתעות בתוך קופסה נוצצת כולל בובה זוהרת, אקססוריז מגניבים, אפקט שינוי צבע וחיית מחמד. כל פתיחה היא מסיבה!
+- Image: https://parktoys.co.il/assets/product-enhanced-1784617501183-cd0hnp.webp
 
 ### בובת ברבי המדענית ערכת מדע.
 https://parktoys.co.il/product/bvbt-brby-hmdanyt-arkt-mda-fv465m
@@ -1616,13 +1624,6 @@ https://parktoys.co.il/product/skvvshy-ban-damplyng-larvcht-dym-sam-btsknyt-bshl
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: הכירו את הטרנד שמשגע את הילדים והנוער – סקווישי באן של מאכל הרחוב האהוב! המשחק החושי המושלם שמשלב את אלמנט ההפתעה יחד עם חוויית מעיכה מרגיעה וממכרת. כל מארז מעוצב כלחמניית באן חמודה וקורצת, ובתוכה מסתתר דאמפלינג (כיסון) צבעוני ובמרקם של דים סאם אמיתי. המשחק מציע מגוון רחב של צבעים איזה צבע מחכה לכם בפנים? פתחו את הלחמנייה וגלו סקווישי מדליק גילאים מומלצים: 3 ומעלה. יחידה אחת בקופסא (נשלח לפי זמינות) – מגוון צבעים, מגוון הבעות פנים, קופסא בגווני חום
 - Image: https://parktoys.co.il/assets/product-1782374384993-20am9o.webp
-
-### קופסת ההפתעות בנים – Diamant Surprise Box Girls
-https://parktoys.co.il/product/kvpst-hhptavt-bnym-diamant-surprise-box-girls-pigvii
-- Price: 79.00 ILS (sale, was 120.00 ILS)
-- Availability: In stock
-- Description: קופסת ההפתעות בנים מבית Diamant Toys היא מתנה צבעונית ומרגשת שמביאה איתה חוויית גילוי מיוחדת. בתוך הקופסה מחכות 10 הפתעות שונות, שכל אחת מהן נפתחת ברגע אחר ומעניקה עוד רגע קטן של שמחה, משחק ודמיון.
-- Image: https://parktoys.co.il/assets/product-1782373312771-bwsra2.webp
 
 ---
 
