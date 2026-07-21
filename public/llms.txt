@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 204** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 205** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ברבי סקיפר בייביסיטר עם תינוק, לול ואביזרים
+https://parktoys.co.il/product/brby-skypr-byybysytr-am-tynvk-lvl-vabyzrym-lzxkih
+- Price: 129.00 ILS
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: סט משחק מסדרת Barbie Skipper Babysitters Inc הכולל בובת סקיפר, תינוק קטן, לול ואביזרי טיפול למשחק דמיון מתוק ומהנה. המארז מאפשר לילדים ליצור סיפורי בייביסיטר, טיפול בתינוק ומשחקי משפחה עם אביזרים צבעוניים ומפורטים.
 
 ### ברבי נוצצת 10 הפתעות בקופסה Party Unboxed Glam Party
 https://parktoys.co.il/product/brby-nvtstst-10-hptavt-bkvpsh-party-unboxed-glam-party-i56b9x
@@ -1616,14 +1623,6 @@ https://parktoys.co.il/product/skvvyshy-4-myny-dvnats-damplyng-dumpling-squishy-
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: המתיקות שתפיג לכם את כל המתחים! מארז 4 מיני סקווישי דאמפלינג ודונאטס (Mini Dumpling Donuts) הוא הפינוק המושלם לחובבי הצעצועים החושיים. המארז כולל 4 דמויות סקווישי קטנות, סופר-רכות ומעוצבות בצורת מאפים וכיסונים מתוקים וקאוואיים. הצעצוע המושלם להפגת מתחים (Anti-Stress), שיפור הריכוז ומשחק מגע ממכר ונעים שאי אפשר להפסיק למעוך וללחוץ בכל רגע ביום. * המחיר מתיחס לשקית הפתעה אחת
 - Image: https://parktoys.co.il/assets/product-1782375300844-v7y15y.webp
-
-### סקוושי באן דאמפלינג לארוחת דים סאם (בצקנית) בשלל צבעים (צבע בהפתעה) 
-https://parktoys.co.il/product/skvvshy-ban-damplyng-larvcht-dym-sam-btsknyt-bshll-tsbaym-tsba-bhptah-q4ljd0
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: הכירו את הטרנד שמשגע את הילדים והנוער – סקווישי באן של מאכל הרחוב האהוב! המשחק החושי המושלם שמשלב את אלמנט ההפתעה יחד עם חוויית מעיכה מרגיעה וממכרת. כל מארז מעוצב כלחמניית באן חמודה וקורצת, ובתוכה מסתתר דאמפלינג (כיסון) צבעוני ובמרקם של דים סאם אמיתי. המשחק מציע מגוון רחב של צבעים איזה צבע מחכה לכם בפנים? פתחו את הלחמנייה וגלו סקווישי מדליק גילאים מומלצים: 3 ומעלה. יחידה אחת בקופסא (נשלח לפי זמינות) – מגוון צבעים, מגוון הבעות פנים, קופסא בגווני חום
-- Image: https://parktoys.co.il/assets/product-1782374384993-20am9o.webp
 
 ---
 

@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T07:20:04.390Z",
+  "generated_at": "2026-07-21T07:42:32.240Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 204,
+  "count": 205,
   "products": [
+    {
+      "id": "1109accb-e3f4-4c8d-9290-9cf2d1445d7c",
+      "slug": "brby-skypr-byybysytr-am-tynvk-lvl-vabyzrym-lzxkih",
+      "name": "ברבי סקיפר בייביסיטר עם תינוק, לול ואביזרים",
+      "name_translations": {},
+      "description": "<p>מה כולל המוצר?</p><ul><li>בובת סקיפר מסדרת Barbie Babysitters Inc</li><li>בובת תינוק קטנה</li><li>לול ורוד לתינוק</li><li>בקבוק, דובי ואביזרי טיפול</li><li>פריטי משחק נוספים בהתאם לתמונה</li><li>מתאים מגיל 3 ומעלה</li><li>דגם: HJY339564</li><li>ברקוד: 194735098262</li></ul><p>יתרונות עיקריים</p><ul><li>מעודד משחקי דמיון וטיפול</li><li>כולל בובה, תינוק ואביזרים במארז אחד</li><li>מתאים למשחקי בייביסיטר ומשפחה</li><li>עיצוב צבעוני ומפורט</li><li>מתנה נהדרת לילדים שאוהבים ברבי ומשחקי תפקידים</li></ul><p>למה כדאי לבחור במוצר?</p><p>סט ברבי סקיפר בייביסיטר מעניק לילדים חוויית משחק מלאה סביב טיפול בתינוק, עם לול ואביזרים שמעשירים את הסיפור. השילוב בין סקיפר, התינוק ופריטי הטיפול מאפשר ליצור משחק יצירתי, רגשי ומהנה בכל פעם מחדש.</p>",
+      "short_description": "סט משחק מסדרת Barbie Skipper Babysitters Inc הכולל בובת סקיפר, תינוק קטן, לול ואביזרי טיפול למשחק דמיון מתוק ומהנה. המארז מאפשר לילדים ליצור סיפורי בייביסיטר, טיפול בתינוק ומשחקי משפחה עם אביזרים צבעוניים ומפורטים.",
+      "sku": null,
+      "brand": null,
+      "price": 129,
+      "base_price": 129,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/brby-skypr-byybysytr-am-tynvk-lvl-vabyzrym-lzxkih",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-07-21T07:42:00.354Z"
+    },
     {
       "id": "6dc45ec2-3992-41a5-b544-f27b1a0750fd",
       "slug": "brby-nvtstst-10-hptavt-bkvpsh-party-unboxed-glam-party-i56b9x",
