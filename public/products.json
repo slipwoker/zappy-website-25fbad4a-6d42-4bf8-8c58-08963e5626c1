@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T16:01:46.836Z",
+  "generated_at": "2026-07-21T16:12:23.730Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 225,
+  "count": 226,
   "products": [
+    {
+      "id": "279279fa-6176-4b18-9ed7-e495fb2cbdd8",
+      "slug": "scania-mshayt-hvblt-mkvlvt-arvkh-am-avrvt-vtslylym-f3fqba",
+      "name": "SCANIA משאית הובלת מכולות ארוכה עם אורות וצלילים",
+      "name_translations": {},
+      "description": "",
+      "short_description": " משאית הובלת מכולות ארוכה 45סמ פריקשן אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, דלתות המכולה נפתחות, כולל 2 רגלי תמיכה מתכווננות",
+      "sku": null,
+      "brand": null,
+      "price": 100,
+      "base_price": 100,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784649963780-lx20e.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/scania-mshayt-hvblt-mkvlvt-arvkh-am-avrvt-vtslylym-f3fqba",
+      "categories": [
+        "צעצועי שלט/מסלולי מכוניות/מכוניות "
+      ],
+      "updated_at": "2026-07-21T16:11:51.948Z"
+    },
     {
       "id": "136c12ad-d6df-41d6-bf74-93a4c0240399",
       "slug": "scania-mshayt-aysvp-arvkh-am-avrvt-vtslylym-uwkvsm",

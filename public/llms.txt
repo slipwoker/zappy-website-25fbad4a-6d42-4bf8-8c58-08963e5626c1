@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 225** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 226** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### SCANIA משאית הובלת מכולות ארוכה עם אורות וצלילים
+https://parktoys.co.il/product/scania-mshayt-hvblt-mkvlvt-arvkh-am-avrvt-vtslylym-f3fqba
+- Price: 100.00 ILS
+- Availability: In stock
+- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
+- Description: משאית הובלת מכולות ארוכה 45סמ פריקשן אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, דלתות המכולה נפתחות, כולל 2 רגלי תמיכה מתכווננות
+- Image: https://parktoys.co.il/assets/product-1784649963780-lx20e.webp
 
 ### SCANIA משאית איסוף ארוכה עם אורות וצלילים
 https://parktoys.co.il/product/scania-mshayt-aysvp-arvkh-am-avrvt-vtslylym-uwkvsm
@@ -1621,13 +1629,6 @@ https://parktoys.co.il/product/brvvz-nydv-ank-agsxes
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: ברווז מידו ענק נעים וכיפי למגע
 - Image: https://parktoys.co.il/assets/product-enhanced-1782718611065-609bxk.webp
-
-### נידו בננה ענקי 
-https://parktoys.co.il/product/nydv-bnnh-anky-znpfcv
-- Price: 60.00 ILS
-- Availability: In stock
-- Description: נידו בננה ענקי נעים וכיפי למגע
-- Image: https://parktoys.co.il/assets/product-enhanced-1782718372579-uwdopb.webp
 
 ---
 
