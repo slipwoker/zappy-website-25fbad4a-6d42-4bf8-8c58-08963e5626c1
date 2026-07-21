@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 241** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 242** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ערכת מדע – לייצור נייר
+https://parktoys.co.il/product/arkt-mda-lyytsvr-nyyr-6g1i6y
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: למדו איך נוצר הנייר והכינו בעצמכם נייר ממוחזר משאריות נייר, ירקות, עשב ועלים!
 
 ### ערכת מדע – טיהור מים
 https://parktoys.co.il/product/arkt-mda-tyhvr-mym-9grxoc
@@ -1621,14 +1628,6 @@ https://parktoys.co.il/product/kvp-ayntraktyby-am-50-kvlvt-vtgvbvt-little-live-p
 - Availability: In stock
 - Description: הכירו את החבר הכי חמוד וכיפי שאפשר לבקש – Little Live Pets My Baby Monkey, מנגו! הקוף הקטן והמתוק הזה מחכה לכם, שתטפלו בו ותשחקו איתו. עם אוזני קוף מקסימות ופרווה רכה, מנגו נראה בדיוק כמו קוף אמיתי, וכיף גדול לחבק וללטף אותו! אבל מנגו הוא לא סתם בובת פרווה – הוא מגיב כמו קוף אמיתי! למעלה מ-50 צלילים ותגובות שונות יגרמו לילדים שלכם להרגיש שהם מטפלים בקוף קטן ואמיתי. הפה של מנגו זז בצורה מציאותית כשהוא מוצץ את האגודל או שותה מהבקבוק שלו. הוא אוהב שמטפלים בו ומלטפים אותו, ואפילו יצחק כשמדגדגים אותו
 - Image: https://parktoys.co.il/assets/product-enhanced-1782746982872-a3zjk7.webp
-
-### קורקינט 3 גלגלים לילדים Viper Super Ride 
-https://parktoys.co.il/product/kvrkynt-3-glglym-lyldym-viper-super-ride-i3mlgt
-- Price: 200.00 ILS (sale, was 250.00 ILS)
-- Availability: In stock
-- Category: גלגלים
-- Description: הכירו את הקורקינט התלת-גלגלי והצבעוני הזה, המגיע אליכם בצבעים מדליקים ונועד להעניק לילדים ולילדות שלכם שעות של הנאה בתנועה. הקורקינט מצויד במוט מתכוונן וחכם, המאפשר לכם להתאים את הגובה בדיוק למידותיהם הצומחות של הקטנטנים, וכדי להבטיח רכיבה חלקה ובטוחה.
-- Image: https://parktoys.co.il/assets/product-1782738351036-0wcvv.webp
 
 ---
 

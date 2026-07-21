@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T19:29:53.383Z",
+  "generated_at": "2026-07-21T19:30:43.117Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 241,
+  "count": 242,
   "products": [
+    {
+      "id": "171cfae7-2a9c-4619-9c02-925b5c2c6123",
+      "slug": "arkt-mda-lyytsvr-nyyr-6g1i6y",
+      "name": "ערכת מדע – לייצור נייר",
+      "name_translations": {},
+      "description": "",
+      "short_description": "למדו איך נוצר הנייר והכינו בעצמכם נייר ממוחזר משאריות נייר, ירקות, עשב ועלים!",
+      "sku": null,
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/arkt-mda-lyytsvr-nyyr-6g1i6y",
+      "categories": [
+        "משחקי יצירה"
+      ],
+      "updated_at": "2026-07-21T19:30:11.197Z"
+    },
     {
       "id": "551cb8f9-d69b-4c8b-91a4-92f62abc7894",
       "slug": "arkt-mda-tyhvr-mym-9grxoc",
