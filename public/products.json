@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T19:32:31.098Z",
+  "generated_at": "2026-07-21T19:34:01.235Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 243,
@@ -31,7 +31,7 @@
     },
     {
       "id": "171cfae7-2a9c-4619-9c02-925b5c2c6123",
-      "slug": "arkt-mda-lyytsvr-nyyr-6g1i6y",
+      "slug": "arkt-mda-lyytsvr-nyyr-rulezs",
       "name": "ערכת מדע – לייצור נייר",
       "name_translations": {},
       "description": "",
@@ -42,14 +42,16 @@
       "base_price": 49,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://parktoys.co.il/assets/product-1784662398863-nb7diua.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/arkt-mda-lyytsvr-nyyr-6g1i6y",
+      "url": "https://parktoys.co.il/product/arkt-mda-lyytsvr-nyyr-rulezs",
       "categories": [
         "משחקי יצירה"
       ],
-      "updated_at": "2026-07-21T19:30:11.197Z"
+      "updated_at": "2026-07-21T19:33:28.819Z"
     },
     {
       "id": "551cb8f9-d69b-4c8b-91a4-92f62abc7894",

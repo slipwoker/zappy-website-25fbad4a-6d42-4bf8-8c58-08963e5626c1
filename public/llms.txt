@@ -87,11 +87,12 @@ https://parktoys.co.il/product/arkt-mda-hmagl-hchshmly-hrashvn-shly-usdo7x
 - Image: https://parktoys.co.il/assets/product-1784662278064-07q0z.webp
 
 ### ערכת מדע – לייצור נייר
-https://parktoys.co.il/product/arkt-mda-lyytsvr-nyyr-6g1i6y
+https://parktoys.co.il/product/arkt-mda-lyytsvr-nyyr-rulezs
 - Price: 49.00 ILS
 - Availability: In stock
 - Category: משחקי יצירה
 - Description: למדו איך נוצר הנייר והכינו בעצמכם נייר ממוחזר משאריות נייר, ירקות, עשב ועלים!
+- Image: https://parktoys.co.il/assets/product-1784662398863-nb7diua.webp
 
 ### ערכת מדע – טיהור מים
 https://parktoys.co.il/product/arkt-mda-tyhvr-mym-9grxoc
