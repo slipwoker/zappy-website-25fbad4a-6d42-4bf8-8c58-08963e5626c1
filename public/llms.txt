@@ -76,7 +76,23 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 219** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 221** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ערכת בצק – חגיגת המבורגרים
+https://parktoys.co.il/product/arkt-btsk-chgygt-hmbvrgrym-k7nwz8
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: ערכת בצק – חגיגת המבורגרים היא ערכת יצירה מהנה וצבעונית, המאפשרת לילדים להכין “מנות מזון” מבצק רך וגמיש. עם התבניות והאביזרים המצורפים, הילדים יכולים לעצב לחמניות, קציצות, ירקות ותוספות – ולבנות המבורגרים טעימים למראה שמגרים את הדמיון.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784640532757-mwd1ue.webp
+
+### ערכת בצק – חגיגת יום הולדת
+https://parktoys.co.il/product/arkt-btsk-chgygt-yvm-hvldt-8gy1ko
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: ערכת בצק חגיגת יום הולדת – ערכת יצירה רב פעמית לפיסול ויצירת עוגות יום הולדת מבצק צבעוני מעצבים ומפסלים חגיגת יום הולדת מושלמת עם שלל תוספות, בעזרת בצקים במגוון צבעים, שבלונות, תבניות ומכשיר מדחס לעיצוב בצק במגוון צורות ודגמים.
+- Image: https://parktoys.co.il/assets/product-1784636946595-z49fqj.webp
 
 ### קורקינט 3 גלגלים kick’n’roll למבורגיני
 https://parktoys.co.il/product/kvrkynt-3-glglym-kicknroll-lmbvrgyny-j5yi83
@@ -1611,21 +1627,6 @@ https://parktoys.co.il/product/bymbh-gvk-chd-krn-4ugrwe
 - Category: גלגלים
 - Description: בימבה ג'וק מבית Viper בימבה קלה במיוחד בעיצוב חד קרן, מתקפלת בקלות ונוחה לשימוש יומיומי. מעודדת את פיתוח שרירי הרגליים, שיווי משקל וביטחון עצמי בקרב פעוטות. נוחה לנשיאה ולאחסון, ומתאימה למשחק גם בבית וגם בחוץ. כוללת מנגנון קיפול מכני חכם להפעלה פשוטה ונוחה. מצוידת ב-3 גלגלים ליציבות מקסימלית ובטיחות מרבית ברכיבה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1782642053459-6mumh.webp
-
-### בימבה ג'וק סמי הכבאי מבית Viper
-https://parktoys.co.il/product/bymbh-gvk-smy-hkbay-mbyt-viper-w5pujo
-- Price: 99.00 ILS (sale, was 130.00 ILS)
-- Availability: In stock
-- Category: גלגלים
-- Description: בימבה ג'וק מבית Viper בימבה קלה במיוחד בעיצוב סמי הכבאי, מתקפלת בקלות ונוחה לשימוש יומיומי. פיתוח מיומנויות מעודדת את פיתוח שרירי הרגליים, שיווי משקל וביטחון עצמי בקרב פעוטות. ניידות ושימוש נוחה לנשיאה ולאחסון, ומתאימה למשחק גם בבית וגם בחוץ. מנגנון קיפול כוללת מנגנון קיפול מכני חכם להפעלה פשוטה ונוחה. יציבות ובטיחות מצוידת ב-3 גלגלים ליציבות מקסימלית ובטיחות מרבית ברכיבה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1782641765990-ba1ee.webp
-
-### בית הבובות של גבי בית בובות ענק צבעוני - Gabby's Dollhouse
-https://parktoys.co.il/product/byt-hbvbvt-shl-gby-byt-bvbvt-ank-tsbavny-gabbys-dollhouse-nf7jqy
-- Price: 369.00 ILS (sale, was 500.00 ILS)
-- Availability: In stock
-- Description: בית הבובות של גבי - בית בובות ענק צבעוני מבית ספין מאסטר Spin Master - Gabby's Dollhouse Colourful כיף ודמיון עם בית הבובות של גבי. בית בובות ענק צבעוני. הבית מתהדר בעיצוב צבעוני ומרהיב, המאפשר לילדים לצלול לעולם של הרפתקאות ודמיון. בבית 3 קומות תמצאו חדרים מעוצבים באהבה ובפרטים קטנים המעשירים את המשחק. כל חדר צבעוני ומזמין, מאובזר בחלונות שקופים שדרכם ניתן לראות את הפעילות התוססת בפנים. הבית כולל מגלשה צידית ליציאות החיצוניות שמוסיפה תחושת הרפתקנות וכיף למשחק. גג הבית מעוטר בכיפה צהובה וורודה,
-- Image: https://parktoys.co.il/assets/product-enhanced-1782635766788-mbk8qf.webp
 
 ---
 

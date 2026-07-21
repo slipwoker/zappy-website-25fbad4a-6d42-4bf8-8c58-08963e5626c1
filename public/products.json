@@ -1,10 +1,58 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T12:15:49.564Z",
+  "generated_at": "2026-07-21T13:30:03.288Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 219,
+  "count": 221,
   "products": [
+    {
+      "id": "ea0ea903-0479-4d9d-9ac1-21b0b72f6a97",
+      "slug": "arkt-btsk-chgygt-hmbvrgrym-k7nwz8",
+      "name": "ערכת בצק – חגיגת המבורגרים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכת בצק – חגיגת המבורגרים היא ערכת יצירה מהנה וצבעונית, המאפשרת לילדים להכין “מנות מזון” מבצק רך וגמיש. עם התבניות והאביזרים המצורפים, הילדים יכולים לעצב לחמניות, קציצות, ירקות ותוספות – ולבנות המבורגרים טעימים למראה שמגרים את הדמיון.",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784640532757-mwd1ue.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/arkt-btsk-chgygt-hmbvrgrym-k7nwz8",
+      "categories": [
+        "משחקי יצירה"
+      ],
+      "updated_at": "2026-07-21T13:29:31.025Z"
+    },
+    {
+      "id": "805c52c9-7fff-47e8-be2f-bdcec74a07fd",
+      "slug": "arkt-btsk-chgygt-yvm-hvldt-8gy1ko",
+      "name": "ערכת בצק – חגיגת יום הולדת",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכת בצק חגיגת יום הולדת – ערכת יצירה רב פעמית לפיסול ויצירת עוגות יום הולדת מבצק צבעוני\nמעצבים ומפסלים חגיגת יום הולדת מושלמת עם שלל תוספות, בעזרת בצקים במגוון צבעים, שבלונות, תבניות ומכשיר מדחס לעיצוב בצק במגוון צורות ודגמים.",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784636946595-z49fqj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/arkt-btsk-chgygt-yvm-hvldt-8gy1ko",
+      "categories": [
+        "משחקי יצירה"
+      ],
+      "updated_at": "2026-07-21T12:30:11.999Z"
+    },
     {
       "id": "dacae859-5354-4598-be03-10f9a8760b6a",
       "slug": "kvrkynt-3-glglym-kicknroll-lmbvrgyny-j5yi83",
