@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 230** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 231** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קעקועים – חד קרן
+https://parktoys.co.il/product/kakvaym-chd-krn-widjws
+- Price: 39.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: קעקועים – חד קרן יוצרים קעקועים מדליקים מעיצובי חד קרן צבעוניים
+- Image: https://parktoys.co.il/assets/product-1784655353192-jvttg.webp
 
 ### Smashers Robo Alive דינוזאור מאובן גדול להרכבה
 https://parktoys.co.il/product/smashers-robo-alive-dynvzavr-mavbn-gdvl-lhrkbh-82712c
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/kapybrh-nydv-ikjwsa
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: נעים וכיפי למגע
 - Image: https://parktoys.co.il/assets/product-enhanced-1782721008475-dut2u.webp
-
-### נידו גלידה
-https://parktoys.co.il/product/nydv-glydh-0zt82m
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: נידו גלידה נעים וכיפי למגע
-- Image: https://parktoys.co.il/assets/product-enhanced-1782720285981-3c0c07.webp
 
 ---
 
