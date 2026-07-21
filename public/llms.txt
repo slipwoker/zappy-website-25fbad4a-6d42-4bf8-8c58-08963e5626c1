@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 207** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 208** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בובה ברבי מורה 
+https://parktoys.co.il/product/bvbh-brby-mvrh-hu0mvh
+- Price: 119.00 ILS
+- Availability: In stock
+- Description: זוהי בובת ברבי מורה (Barbie Teacher Doll) עם ערכת משחק לכיתה. הסט כולל בובת ברבי מורה, בובת תלמידה עם צבע שיער בלונדיני ואביזרים שונים. האביזרים כוללים לוח מחיק הפיך, כיסא, שולחן, מספריים, דבק, מחברת וצלחת אוכל. הבובה הראשית לובשת שמלת פסים בצבעי הקשת. הצעצוע עשוי מפלסטיק ומתאים לילדים מגיל 3 ומעלה.
+- Image: https://parktoys.co.il/assets/product-1784620767992-p6r16h.webp
 
 ### ברבי מארז קריירה רופאת שיניים - Barbie
 https://parktoys.co.il/product/brby-marz-kryyrh-rvpat-shynyym-barbie-8dzxsu
@@ -1617,13 +1624,6 @@ https://parktoys.co.il/product/byt-hbvbvt-shl-gby-mkvnt-glydh-gabbys-dollhouse-u
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: בית הבובות של גבי - מכונת גלידה מבית ספין מאסטרGabby's Dollhouse - Ice Cream Machine הילדים אוהבים גלידה? עם המכונה תוכלו להכין להם, מבלי לצאת מהבית. התכוננו ליום מהנה של הכנת גלידה עם בית הבובות של גבי! להכנה מהירה ופשוטה של גלידה אמיתית בטעמים שונים (בעזרת מבוגר). ניתן להכין את הגלידה ממוצרים שיש בבית. מתאים לגילאי 3+משתתפים: 1+
 - Image: https://parktoys.co.il/assets/product-1782376918226-0od2iq.webp
-
-### ביצי הפתעה מבית דיאמנט - דינוזאורים
-https://parktoys.co.il/product/bytsy-hptah-mbyt-dyamnt-dynvzavrym-e12bhs
-- Price: 100.00 ILS
-- Availability: In stock
-- Description: ביצי הפתעה מבית דיאמנט - דינוזאורים ערכת חפירה דינוזאורים מזמינה אתכם לצאת להרפתקת גילוי מרגשת עם ביצים מסתוריות. בכל ביצה מסתתרת הפתעה שונה, והחוויה משלבת חפירה, סקרנות וגילוי הדרגתי של הדמות שבתוכה. המשחק מעודד חקירה וסבלנות, כאשר תהליך הפתיחה יוצר מתח והתרגשות עד לחשיפת הדינוזאור. מגוון הביצים וההפתעות מאפשרים ליהנות שוב ושוב מחוויית גילוי חדשה בכל פעם. מתאים לילדים שאוהבים דינוזאורים, חפירה והרפתקאות, ומשלב בין משחק יצירתי ללמידה חווייתית.
-- Image: https://parktoys.co.il/assets/product-1782376599210-li7vjo.webp
 
 ---
 

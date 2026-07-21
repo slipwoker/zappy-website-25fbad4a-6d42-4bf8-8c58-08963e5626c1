@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T07:53:28.602Z",
+  "generated_at": "2026-07-21T08:05:27.442Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 207,
+  "count": 208,
   "products": [
+    {
+      "id": "1a36491b-0107-4684-af3b-901023b7e079",
+      "slug": "bvbh-brby-mvrh-hu0mvh",
+      "name": "בובה ברבי מורה ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "זוהי בובת ברבי מורה (Barbie Teacher Doll) עם ערכת משחק לכיתה. \n \nהסט כולל בובת ברבי מורה, בובת תלמידה עם צבע שיער בלונדיני ואביזרים שונים.\nהאביזרים כוללים לוח מחיק הפיך, כיסא, שולחן, מספריים, דבק, מחברת וצלחת אוכל.\nהבובה הראשית לובשת שמלת פסים בצבעי הקשת.\nהצעצוע עשוי מפלסטיק ומתאים לילדים מגיל 3 ומעלה.",
+      "sku": null,
+      "brand": null,
+      "price": 119,
+      "base_price": 119,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784620767992-p6r16h.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/bvbh-brby-mvrh-hu0mvh",
+      "categories": [],
+      "updated_at": "2026-07-21T08:04:55.415Z"
+    },
     {
       "id": "2be185b0-991a-4bdb-b9a0-2804afb7db23",
       "slug": "brby-marz-kryyrh-rvpat-shynyym-barbie-8dzxsu",
