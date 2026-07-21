@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 239** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 240** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ערכת מדע – צוללת
+https://parktoys.co.il/product/arkt-mda-tsvllt-479ywr
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: מה מאפשר לספינות לצוף וכיצד הצוללות פועלות? למדו את הסודות הכמוסים של כוח הציפה.
+- Image: https://parktoys.co.il/assets/product-1784662069245-zaldf7.webp
 
 ### ספר הזכרונות שלי
 https://parktoys.co.il/product/spr-hzkrvnvt-shly-1frvx9
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/kvrkynt-lyldym-3-glglym-am-avrvt-mbyt-viper-b9k1v
 - Category: גלגלים
 - Description: הכירו את הקורקינט המושלם לקטנטנים - שילוב של כיף, בטיחות וסטייל! הקורקינט מגיע עם 3 גלגלים ליציבות מירבית, כאשר הגלגלים וצדי הקורקינט מוארים באורות לד צבעוניים ומרהיבים, שמוסיפים חוויית רכיבה זוהרת במיוחד.
 - Image: https://parktoys.co.il/assets/product-1782734300034-896qr.webp
-
-### קורקינט פרימיום מתקפל עם גלגלים גדולים, בולמי זעזועים ומעצור יד – קורקינט איכותי לילדים, נוער
-https://parktoys.co.il/product/kvrkynt-prymyvm-mtkpl-am-glglym-gdvlym-bvlmy-zazvaym-vmatsvr-yd-kvrkynt-aykvty-lyldym-nvar-ssuk0u
-- Price: 300.00 ILS (sale, was 498.98 ILS)
-- Availability: In stock
-- Category: גלגלים
-- Description: מחפשים קורקינט איכותי, יציב ונוח לרכיבה? הקורקינט הפרימיום עם גלגלים גדולים ובולמי זעזועים מעניק חוויית רכיבה חלקה, בטוחה ומהנה לילדים, בני נוער ומבוגרים. בזכות מערכת הקיפול המהירה, המבנה החזק והעיצוב המודרני, זהו פתרון מושלם לנסיעות יומיומיות, טיולים בפארק ופעילות ספורטיבית מהנה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1782733553785-gcywcn.webp
 
 ---
 

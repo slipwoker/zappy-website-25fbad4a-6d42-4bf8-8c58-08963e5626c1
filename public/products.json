@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T18:14:04.095Z",
+  "generated_at": "2026-07-21T19:28:43.640Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 239,
+  "count": 240,
   "products": [
+    {
+      "id": "0e7738d9-3aab-4d9d-909e-8fda4eec1ad5",
+      "slug": "arkt-mda-tsvllt-479ywr",
+      "name": "ערכת מדע – צוללת",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מה מאפשר לספינות לצוף וכיצד הצוללות פועלות? למדו את הסודות הכמוסים של כוח הציפה.",
+      "sku": null,
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784662069245-zaldf7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/arkt-mda-tsvllt-479ywr",
+      "categories": [
+        "משחקי יצירה"
+      ],
+      "updated_at": "2026-07-21T19:28:11.472Z"
+    },
     {
       "id": "e67c8a55-0a97-4dc3-8bd4-c53c9075164e",
       "slug": "spr-hzkrvnvt-shly-1frvx9",
