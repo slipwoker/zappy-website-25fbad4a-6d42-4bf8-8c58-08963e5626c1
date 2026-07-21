@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 211** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 212** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+###  דמות פעולה איירון מן 28 ס"מ עם ידיים ורגליים זזות ומתקן ריחוף מתחבר
+https://parktoys.co.il/product/dmvt-pavlh-ayyrvn-mn-28-sm-am-ydyym-vrglyym-zzvt-vmtkn-rychvp-mtchbr-ck1vwc
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: מפרץ הרפתקאות 
+- Description: דמות איירון מן מסרטי מארוול עם ראש, ידיים ורגליים זזות כולל ציוד רחיפה. דמות פעולה מדליקה של איירון מןר מסדרת הקומיקס של מארוול עם מתקן ריחוף מתחבר לגב בהתקנה מהירה וקלה. דמות משחק אידאלית למשחקי דמיון עשירים לילדים חובבי קומיקס של מארוול או לאספנים חובבים. גובה הדמות כ-28 ס"מ. מתאים מגילאי 4 ומעלה.
+- Image: https://parktoys.co.il/assets/product-1784624913400-ns7u5.webp
 
 ### מארז גיבורי על Marvel Ultimate Protectors Pack
 https://parktoys.co.il/product/marz-gybvry-al-marvel-ultimate-protectors-pack-5au1oy
@@ -1618,13 +1626,6 @@ https://parktoys.co.il/product/styts-nydv-7h9mhs
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: סטיץ נידו מגע נעים וכיפי
 - Image: https://parktoys.co.il/assets/product-enhanced-1782473155809-oq1fb.webp
-
-### דיסני – סטיץ' בובת פרווה אינטראקטיבית 35 ס"מ
-https://parktoys.co.il/product/dysny-styts-bvbt-prvvh-ayntraktybyt-35-sm-2ypatg
-- Price: 399.00 ILS
-- Availability: In stock
-- Description: הכירו את סטיץ' המצחיק והחכם ! צעצוע הפרווה האינטראקטיבי שיגרום לילדים לצחוק, לשחק ולהתאהב מחדש בכל יום! עם למעלה מ-100 שילובים של צלילים ותנועות, סטיץ' מציג את מגוון הרגשות הקיצוניים והמשעשעים של הדמות האהובה – מהחמוד והשובב ועד לחייזר חסר מעצורים. בהשראת הסרט האהוב ""לילו וסטיץ'"", הצעצוע האינטראקטיבי הזה מלא בהפתעות שילדים לא ירצו להפסיק לגלות: לחצו על האף, הלשון, הבטן או היד – וסטיץ' מגיב עם קולות, תנועות, ריקודים ומשפטים מצחיקים בשפת ה""טנטלוג"". לחיצה ארוכה על האף או הבטן – מפעילה את מצב או
-- Image: https://parktoys.co.il/assets/product-1782424208499-12jmz.webp
 
 ---
 
