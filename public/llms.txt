@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 240** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 241** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ערכת מדע – טיהור מים
+https://parktoys.co.il/product/arkt-mda-tyhvr-mym-9grxoc
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: הם מכסים את כדור הארץ ורוב גופנו עשוי מהם…המים הם תמצית החיים אז בואו ונהפוך אותם לנקיים וטהורים!
+- Image: https://parktoys.co.il/assets/product-1784662127760-1oweza.webp
 
 ### ערכת מדע – צוללת
 https://parktoys.co.il/product/arkt-mda-tsvllt-479ywr
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/kvrkynt-3-glglym-lyldym-viper-super-ride-i3mlgt
 - Category: גלגלים
 - Description: הכירו את הקורקינט התלת-גלגלי והצבעוני הזה, המגיע אליכם בצבעים מדליקים ונועד להעניק לילדים ולילדות שלכם שעות של הנאה בתנועה. הקורקינט מצויד במוט מתכוונן וחכם, המאפשר לכם להתאים את הגובה בדיוק למידותיהם הצומחות של הקטנטנים, וכדי להבטיח רכיבה חלקה ובטוחה.
 - Image: https://parktoys.co.il/assets/product-1782738351036-0wcvv.webp
-
-### קורקינט לילדים 3 גלגלים עם אורות מבית Viper
-https://parktoys.co.il/product/kvrkynt-lyldym-3-glglym-am-avrvt-mbyt-viper-b9k1vk
-- Price: 250.00 ILS (sale, was 300.00 ILS)
-- Availability: In stock
-- Category: גלגלים
-- Description: הכירו את הקורקינט המושלם לקטנטנים - שילוב של כיף, בטיחות וסטייל! הקורקינט מגיע עם 3 גלגלים ליציבות מירבית, כאשר הגלגלים וצדי הקורקינט מוארים באורות לד צבעוניים ומרהיבים, שמוסיפים חוויית רכיבה זוהרת במיוחד.
-- Image: https://parktoys.co.il/assets/product-1782734300034-896qr.webp
 
 ---
 
