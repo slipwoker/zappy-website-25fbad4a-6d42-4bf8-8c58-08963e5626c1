@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 233** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 234** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### פעמוני רוח – פורינג
+https://parktoys.co.il/product/pamvny-rvch-pvryng-faibyb
+- Price: 59.00 ILS
+- Availability: In stock
+- Description: ערכת יצירה לעיצוב וקישוט של פעמוני רוח בטכניקת הצביעה האומנותית פורינג.
+- Image: https://parktoys.co.il/assets/product-1784656859045-x48oob.webp
 
 ### קעקועים – גיבורי על
 https://parktoys.co.il/product/kakvaym-gybvry-al-md05qi
@@ -1621,14 +1628,6 @@ https://parktoys.co.il/product/nydv-labvbv-mtvrp-c8cgu2
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: נידו לאבובו מטורף כיפי ונעים למגע
 - Image: https://parktoys.co.il/assets/product-enhanced-1782724574505-p9sh6g.webp
-
-### תות נידו
-https://parktoys.co.il/product/tvt-nydv-xb1no2
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: תות נידו נעים וכיפי למגע
-- Image: https://parktoys.co.il/assets/product-enhanced-1782721908140-5tifk.webp
 
 ---
 

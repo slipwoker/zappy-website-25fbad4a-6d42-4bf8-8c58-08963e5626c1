@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T17:40:45.911Z",
+  "generated_at": "2026-07-21T18:02:14.482Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 233,
+  "count": 234,
   "products": [
+    {
+      "id": "b970027a-0c99-4a7a-895a-919aaaf88da4",
+      "slug": "pamvny-rvch-pvryng-faibyb",
+      "name": "פעמוני רוח – פורינג",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכת יצירה לעיצוב וקישוט של פעמוני רוח בטכניקת הצביעה האומנותית פורינג.",
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784656859045-x48oob.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/pamvny-rvch-pvryng-faibyb",
+      "categories": [],
+      "updated_at": "2026-07-21T18:01:42.901Z"
+    },
     {
       "id": "58f7f0b5-c750-49d3-8c0b-c6275581b34c",
       "slug": "kakvaym-gybvry-al-md05qi",
