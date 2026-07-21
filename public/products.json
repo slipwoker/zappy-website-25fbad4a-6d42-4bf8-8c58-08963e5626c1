@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T10:07:10.718Z",
+  "generated_at": "2026-07-21T10:20:57.226Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 215,
+  "count": 216,
   "products": [
+    {
+      "id": "7b66085f-3fbd-461c-b40d-5cab3f845200",
+      "slug": "kvrkynt-gvld-skvt-palvlym-mktsvay-vyypr-zhb-ysjqnf",
+      "name": " קורקינט גולד סקוט פעלולים מקצועי וייפר זהב",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קורקינט פעלולים סקוט גרו GROW G7 צבע זהב\nהכירו את קורקינט הפעלולים Grow Pro G7, הבחירה המושלמת לילדים ובני נוער שרוצים להשויץ בסקייטפארק\n\nבעל משטח מתכת עם שלוש תעלות חיזוק\nגלגלי סיליקון איכותיים בקוטר 110מ\"מ עם יכולת ספיגת זעזועים גבוהה וליבת אלומינים\nמיסבים איכותיים ABEC 9 לגלישה שקטה וחלקה\nמתאים לנשיאה עד משקל של 100 ק”ג\nסגירת HIC\nמעצור רגל אחורי ללא קפיץ\nמזלג מחוזק\nגימור אנודייז עמיד בפני חלודה לשימוש ממושך\nמתאים מגיל 6 ומעלה\nרוחב כידון: 560 מ\"מ, גובה כידון: 850 מ\"מ\nמשקל מקסימלי – 100 ק\"ג",
+      "sku": null,
+      "brand": null,
+      "price": 499,
+      "base_price": 499,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784629084743-jpe2kh.webp",
+        "https://parktoys.co.il/assets/product-1784629117248-p16tu.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kvrkynt-gvld-skvt-palvlym-mktsvay-vyypr-zhb-ysjqnf",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-07-21T10:20:25.595Z"
+    },
     {
       "id": "126c0975-5e08-4059-8ae8-1624ab0ed282",
       "slug": "mgyk-myksys-mnvrt-gyny-jp4lcx",

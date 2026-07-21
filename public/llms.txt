@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 215** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 216** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+###  קורקינט גולד סקוט פעלולים מקצועי וייפר זהב
+https://parktoys.co.il/product/kvrkynt-gvld-skvt-palvlym-mktsvay-vyypr-zhb-ysjqnf
+- Price: 499.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: קורקינט פעלולים סקוט גרו GROW G7 צבע זהב הכירו את קורקינט הפעלולים Grow Pro G7, הבחירה המושלמת לילדים ובני נוער שרוצים להשויץ בסקייטפארק בעל משטח מתכת עם שלוש תעלות חיזוק גלגלי סיליקון איכותיים בקוטר 110מ"מ עם יכולת ספיגת זעזועים גבוהה וליבת אלומינים מיסבים איכותיים ABEC 9 לגלישה שקטה וחלקה מתאים לנשיאה עד משקל של 100 ק”ג סגירת HIC מעצור רגל אחורי ללא קפיץ מזלג מחוזק גימור אנודייז עמיד בפני חלודה לשימוש ממושך מתאים מגיל 6 ומעלה רוחב כידון: 560 מ"מ, גובה כידון: 850 מ"מ משקל מקסימלי – 100 ק"ג
+- Image: https://parktoys.co.il/assets/product-1784629084743-jpe2kh.webp
 
 ### מג'יק מיקסיס מנורת ג'יני 
 https://parktoys.co.il/product/mgyk-myksys-mnvrt-gyny-jp4lcx
@@ -1618,14 +1626,6 @@ https://parktoys.co.il/product/mtslmt-yldym-dygytlyt-am-hdpsh-myydyt-v8c9sd
 - Availability: In stock
 - Description: המתנה המושלמת לילדים – מצלמה דיגיטלית צבעונית עם הדפסה מיידית של תמונות, ממש כמו בקסם! המצלמה מגיעה עם מסך 2 אינץ', מאפשרת צילום תמונות, צילום וידאו, הוספת מסגרות גרפיות, איכות צילום HD – והכי חשוב: מדפיסה את התמונות בלחיצת כפתור וללא צורך בדיו! כוללת 3 סלילים להדפסה (כל אחד בצבע אחר), כך שהילדים יכולים להתחיל לצלם ולהדפיס מיד! מתאימה כמתנה ליום הולדת, פעילות יצירה, גן, בית ספר או מתנה מהממת לחופש הגדול.
 - Image: https://parktoys.co.il/assets/product-1782485941783-8gpre.webp
-
-### כלב נידו צבעוני 
-https://parktoys.co.il/product/klb-nydv-tsbavny-qvrdy4
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: כלב נידו צבעוני רך ונעים
-- Image: https://parktoys.co.il/assets/product-enhanced-1782488781167-fe04m.webp
 
 ---
 
