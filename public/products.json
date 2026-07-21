@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T18:08:40.116Z",
+  "generated_at": "2026-07-21T18:10:14.514Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 236,
+  "count": 237,
   "products": [
+    {
+      "id": "059a0229-8ad0-4f7c-a8e4-29e875ac72fa",
+      "slug": "tyk-chd-krn-jbn932",
+      "name": "תיק חד קרן",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכת יצירה להכנת תיק צד חד קרן עם המון מדבקות יהלומים מנצנצות.",
+      "sku": null,
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784657370071-lo1iii.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/tyk-chd-krn-jbn932",
+      "categories": [
+        "משחקי יצירה"
+      ],
+      "updated_at": "2026-07-21T18:09:42.769Z"
+    },
     {
       "id": "11aa6a69-fe1b-4e40-9bb9-4aeb78e4198d",
       "slug": "kdvr-shlg-nvtsts-chd-krn-m45qb9",

@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 236** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 237** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### תיק חד קרן
+https://parktoys.co.il/product/tyk-chd-krn-jbn932
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: ערכת יצירה להכנת תיק צד חד קרן עם המון מדבקות יהלומים מנצנצות.
+- Image: https://parktoys.co.il/assets/product-1784657370071-lo1iii.webp
 
 ### כדור שלג נוצץ – חד קרן
 https://parktoys.co.il/product/kdvr-shlg-nvtsts-chd-krn-m45qb9
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/kvrkynt-3-glglym-hlv-kyty-3sis1z
 - Category: גלגלים
 - Description: קורקינט בעיצוב הלו קיטי האהובה, עם שילוב צבעים ורודים וטורקיזיים שמושכים את העין. מבנה של 3 גלגלים מספק יציבות גבוהה ותומך בלמידת רכיבה, פיתוח שיווי משקל וקואורדינציה – אידאלי לילדים בתחילת הדרך.
 - Image: https://parktoys.co.il/assets/product-enhanced-1782729467676-rgtr92.webp
-
-### בננה נידו
-https://parktoys.co.il/product/bnnh-nydv-7109qj
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: בננה נידו כיפית ונעימה
-- Image: https://parktoys.co.il/assets/product-enhanced-1782727192098-6lq4te.webp
 
 ---
 

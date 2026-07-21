@@ -5721,6 +5721,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### תיק חד קרן
+URL: https://parktoys.co.il/product/tyk-chd-krn-jbn932
+Price: 49.00 ILS
+Availability: In stock
+
+---
+
 ### כדור שלג נוצץ – חד קרן
 URL: https://parktoys.co.il/product/kdvr-shlg-nvtsts-chd-krn-m45qb9
 Price: 59.00 ILS
