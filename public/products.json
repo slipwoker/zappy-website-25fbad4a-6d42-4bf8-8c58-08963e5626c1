@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T19:36:17.026Z",
+  "generated_at": "2026-07-21T19:39:18.584Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 245,
+  "count": 246,
   "products": [
+    {
+      "id": "7489c83d-fe56-4c0b-a253-daf6d07e70a5",
+      "slug": "tsypvrnyym-bstyyl-qi1zte",
+      "name": "ציפורניים בסטייל",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכת סטודיו לעיצוב, לקישוט ולטיפוח הציפורניים",
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784662694756-popaek.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/tsypvrnyym-bstyyl-qi1zte",
+      "categories": [
+        "משחקי יצירה"
+      ],
+      "updated_at": "2026-07-21T19:38:46.272Z"
+    },
     {
       "id": "476c8bd3-37bf-496b-a984-92f975fdab49",
       "slug": "tkshyty-tmvnvt-3nmst9",

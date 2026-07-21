@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 245** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 246** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ציפורניים בסטייל
+https://parktoys.co.il/product/tsypvrnyym-bstyyl-qi1zte
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: ערכת סטודיו לעיצוב, לקישוט ולטיפוח הציפורניים
+- Image: https://parktoys.co.il/assets/product-1784662694756-popaek.webp
 
 ### תכשיטי תמונות
 https://parktoys.co.il/product/tkshyty-tmvnvt-3nmst9
@@ -1624,13 +1632,6 @@ https://parktoys.co.il/product/kvrkynt-myky-mavs-3-glglym-am-blm-rgl-disney-fo9l
 - Category: גלגלים
 - Description: קורקינט יציב ובטיחותי עם עיצוב שובב של מיקי מאוס – מתאים במיוחד לילדים צעירים, עם שלל תכונות המשלבות הנאה, נוחות ובטיחות מלאה. יתרונות המוצר: • עיצוב צבעוני ואהוב של מיקי מאוס • ידית מתכווננת לגובה 62–76.5 ס"מ • מערכת היגוי קלה ונוחה לתפעול • גלגלי PU איכותיים לנסיעה חלקה ושקטה • בלם רגל אחורי לבלימה בטוחה • משטח רכיבה רחב עם ציפוי נגד החלקה תיאור טכני: • מתאים לגילאי 3+ • משקל נשיאה מקסימלי: 30 ק"ג
 - Image: https://parktoys.co.il/assets/product-1782750062456-apt07.webp
-
-### Cookeez Makery Pancake Treatz – מחבת קסומה... Cookeez Makery Pancake Treatz – מחבת קסומה להכנת בובת הפתעה ריחנית
-https://parktoys.co.il/product/cookeez-makery-pancake-treatz-mchbt-ksvmh-cookeez-makery-pancake-treatz-mchbt-ksvmh-lhknt-bvbt-hptah-rychnyt-sy95aa
-- Price: 149.00 ILS
-- Availability: In stock
-- Description: ערכת Cookeez Makery Pancake Treatz מביאה לילדים חוויית משחק קסומה ומפתיעה במיוחד: מכינים “פנקייק” במחבת, הופכים — ומגלים בובת פרווה ריחנית ואינטראקטיבית! הערכה משלבת משחק דמיון, הפתעה, בובה רכה ואביזרי מטבח קטנים, כך שכל ילד יכול להרגיש כאילו הוא מכין קינוח מתוק שמסתיים בחבר פרוותי חדש. הילדים פותחים את ה”מצרכים”, מוסיפים את הבלילה למחבת, משתמשים במרית והופכים את הפנקייק כדי לחשוף את בובת ההפתעה. הבובה מגיעה עם ריח מתוק בסגנון פנקייק, וגם כוללת צלילים ותגובות אינטראקטיביות שמוסיפות עוד קסם למשח
-- Image: https://parktoys.co.il/assets/product-1782748597670-6tnecp.webp
 
 ---
 
