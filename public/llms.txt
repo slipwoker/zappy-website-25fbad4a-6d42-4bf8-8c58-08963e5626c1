@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 223** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### SCANIA משאית כיבוי אש עם מנוף אורות וצלילים
-https://parktoys.co.il/product/scania-mshayt-kybvy-ash-am-mnvp-avrvt-vtslylym-u3tbdj
+https://parktoys.co.il/product/scania-mshayt-kybvy-ash-am-mnvp-avrvt-vtslylym-8fpuhe
 - Price: 200.00 ILS
 - Availability: In stock
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
