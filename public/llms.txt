@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 244** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 245** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### תכשיטי תמונות
+https://parktoys.co.il/product/tkshyty-tmvnvt-3nmst9
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: ערכה להכנת צמידים ושרשראות בשילוב תמונות בתוך מסגרות אופנתיות
+- Image: https://parktoys.co.il/assets/product-1784662529714-bpqo3l.webp
 
 ### תכשיטי נסיכות ברבי
 https://parktoys.co.il/product/tkshyty-nsykvt-brby-hu4fdh
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/cookeez-makery-pancake-treatz-mchbt-ksvmh-cookeez
 - Availability: In stock
 - Description: ערכת Cookeez Makery Pancake Treatz מביאה לילדים חוויית משחק קסומה ומפתיעה במיוחד: מכינים “פנקייק” במחבת, הופכים — ומגלים בובת פרווה ריחנית ואינטראקטיבית! הערכה משלבת משחק דמיון, הפתעה, בובה רכה ואביזרי מטבח קטנים, כך שכל ילד יכול להרגיש כאילו הוא מכין קינוח מתוק שמסתיים בחבר פרוותי חדש. הילדים פותחים את ה”מצרכים”, מוסיפים את הבלילה למחבת, משתמשים במרית והופכים את הפנקייק כדי לחשוף את בובת ההפתעה. הבובה מגיעה עם ריח מתוק בסגנון פנקייק, וגם כוללת צלילים ותגובות אינטראקטיביות שמוסיפות עוד קסם למשח
 - Image: https://parktoys.co.il/assets/product-1782748597670-6tnecp.webp
-
-### קורקינט פרוזן 3 גלגלים עם בלם רגל
-https://parktoys.co.il/product/kvrkynt-prvzn-3-glglym-am-blm-rgl-ilfzty
-- Price: 150.00 ILS (sale, was 200.00 ILS)
-- Availability: In stock
-- Category: גלגלים
-- Description: קורקינט איכותי ומעוצב בהשראת הדמויות האהובות מפרוזן – עם ידית מתכווננת, גלגלים עמידים ובלם אחורי לנסיעה בטוחה ומהנה במיוחד. יתרונות המוצר: • עיצוב קסום של פרוזן עם הדפסים צבעוניים • ידית מתכווננת לגובה 62–76.5 ס"מ להתאמה אישית • מערכת היגוי מתקדמת ונוחה לשימוש • גלגלי PU איכותיים לנסיעה חלקה ושקטה • כולל בלם רגל אחורי לבטיחות מרבית • משטח עמיד עם ציפוי נגד החלקה
-- Image: https://parktoys.co.il/assets/product-1782748381178-vgir5g.webp
 
 ---
 
