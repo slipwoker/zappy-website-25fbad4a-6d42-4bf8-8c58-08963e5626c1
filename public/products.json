@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T13:37:18.326Z",
+  "generated_at": "2026-07-21T14:19:48.155Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 222,
+  "count": 223,
   "products": [
+    {
+      "id": "5383d48d-5d7d-4e83-a502-0dbcb04cdc0e",
+      "slug": "scania-mshayt-kybvy-ash-am-mnvp-avrvt-vtslylym-u3tbdj",
+      "name": "SCANIA משאית כיבוי אש עם מנוף אורות וצלילים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "משאית כיבוי אש עם סולם גדולה 51סמ עם אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, סולם מסתובב 360 מעלות, ניתן להגבהה והארכה באופן ידני, דלתות המשאית נפתחות",
+      "sku": null,
+      "brand": null,
+      "price": 200,
+      "base_price": 200,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784643520447-sqkoin.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/scania-mshayt-kybvy-ash-am-mnvp-avrvt-vtslylym-u3tbdj",
+      "categories": [
+        "צעצועי שלט/מסלולי מכוניות/מכוניות "
+      ],
+      "updated_at": "2026-07-21T14:19:15.929Z"
+    },
     {
       "id": "aef35dab-2f67-40c5-9c48-090fb871f84a",
       "slug": "arkt-btsk-chgygt-glydvt-0o0fag",

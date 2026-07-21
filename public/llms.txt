@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 222** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 223** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### SCANIA משאית כיבוי אש עם מנוף אורות וצלילים
+https://parktoys.co.il/product/scania-mshayt-kybvy-ash-am-mnvp-avrvt-vtslylym-u3tbdj
+- Price: 200.00 ILS
+- Availability: In stock
+- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
+- Description: משאית כיבוי אש עם סולם גדולה 51סמ עם אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, סולם מסתובב 360 מעלות, ניתן להגבהה והארכה באופן ידני, דלתות המשאית נפתחות
+- Image: https://parktoys.co.il/assets/product-enhanced-1784643520447-sqkoin.webp
 
 ### ערכת בצק – חגיגת גלידות
 https://parktoys.co.il/product/arkt-btsk-chgygt-glydvt-0o0fag
@@ -1619,14 +1627,6 @@ https://parktoys.co.il/product/mtslmh-dygytlyt-lyldym-am-abyzrym-13z4u6
 - Availability: In stock
 - Description: "העניקו לילדיכם את ההזדמנות לגלות את העולם מנקודת מבטם הייחודית ולתעד כל רגע קסום דרך העדשה! המצלמה הדיגיטלית שלנו היא לא רק צעצוע, אלא כלי ליצירה עצמאית; היא ידידותית למשתמש, עמידה במיוחד בפני נפילות וזעזועים, ומעוצבת במבנה ארגונומי המותאם בדיוק לאחיזה של ידיים קטנות וסקרניות. המצלמה מאפשרת צילום תמונות חדות יחד עם ערכת האביזרים המשלימים המצורפת – הכוללת רצועת נשיאה בטיחותית ופתרונות טעינה נוחים – מובטחת לילדיכם חוויית צילום מקצועית, מעצימה ומהנה כבר מהרגע הראשון שבו יוצאים להרפתקה."
 - Image: https://parktoys.co.il/assets/product-1782664406387-q4vs4.webp
-
-### קורקינט 3 גלגלים סטיץ
-https://parktoys.co.il/product/kvrkynt-3-glglym-styts-dzfzio
-- Price: 149.00 ILS (sale, was 199.00 ILS)
-- Availability: In stock
-- Category: גלגלים
-- Description: קורקינט בעיצוב דמויות שילדים אוהבים קורקינט ילדים עם שני גלגלי סיליקון קדמיים והיגוי באמצעות הכידון (הטיה ימינה / שמאלה) לקורקינט ידיות גומי לאחיזה נוחה משטח דריכה עם ציפוי מונע החלקה ובלם גלגל אחורי. קורקינט 3 גלגלים לילדים עם כידון מתכוונן גובה 62 ועד 75 ס"מ מומלץ לחבוש קסדה (נמכרת בנפרד) מידות כלליות: אורך כ-50 ס"מ, רוחב כ-23 ס"מ, גובה כ-79 ס"מ. מידות משטח דריכה: אורך כ-30 ס"מ, רוחב כ-13 ס"מ. מתאים מגילאי 3 ומעלה ועד משקל 30 ק"ג. משטח מונע החלקה גדול ורחב מעצור רגל קל לשימוש לעצירה מוחלטת של
-- Image: https://parktoys.co.il/assets/product-enhanced-1782654847431-bnocl.webp
 
 ---
 
