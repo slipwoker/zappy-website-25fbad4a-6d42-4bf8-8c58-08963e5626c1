@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T19:39:18.584Z",
+  "generated_at": "2026-07-21T19:43:50.235Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 246,
+  "count": 247,
   "products": [
+    {
+      "id": "ae683d8a-84d6-455e-ab2b-6a4e526bb6a9",
+      "slug": "tkshyty-avtyvt-chrvzym-xl-0evj74",
+      "name": "תכשיטי אותיות – חרוזים XL",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכה להכנת צמידים ושרשראות בעיצוב אישי",
+      "sku": null,
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784662950632-cqqzlk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/tkshyty-avtyvt-chrvzym-xl-0evj74",
+      "categories": [
+        "משחקי יצירה"
+      ],
+      "updated_at": "2026-07-21T19:43:18.690Z"
+    },
     {
       "id": "7489c83d-fe56-4c0b-a253-daf6d07e70a5",
       "slug": "tsypvrnyym-bstyyl-qi1zte",

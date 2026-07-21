@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 246** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 247** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### תכשיטי אותיות – חרוזים XL
+https://parktoys.co.il/product/tkshyty-avtyvt-chrvzym-xl-0evj74
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: ערכה להכנת צמידים ושרשראות בעיצוב אישי
+- Image: https://parktoys.co.il/assets/product-1784662950632-cqqzlk.webp
 
 ### ציפורניים בסטייל
 https://parktoys.co.il/product/tsypvrnyym-bstyyl-qi1zte
@@ -1624,14 +1632,6 @@ https://parktoys.co.il/product/ryynbvkvrn-ank-lbn-chd-krn-brcas7
 - Availability: In stock
 - Description: הצל את החד קרן שלך! כולל 1 בובת חד קרן 1ביצת חד קרן 1 Reveal 'n' Heal Heart 3 ביצי Boo-Boocorns 3 קאקי 1 סרט לראש 1 שרביט ריפוי קסם 1 סליים קסום Rainbocorns כרטיס להבריא 1 דוח בדיקת גוף ו-2x מדבקת רנטגן השתמש בדוח הבריאות, במדבקות רנטגן, במטה הקסמים ובמזרקי ריפוי כדי להציל את ה-Rainbocorn שלך יש שלושה ד"ר בו-בוקורן לאסוף ולעזור לך להציל את ריינבווויל השתמש במדריך האספנים כדי למצוא את כל החברים בעלי הקטיפה הגרועה שזקוקים לחיסכון מידות: 29.2L x 26W x 35H ס"מ
 - Image: https://parktoys.co.il/assets/product-enhanced-1782760228682-i7z7n9.webp
-
-### קורקינט מיקי מאוס 3 גלגלים עם בלם רגל - Disney
-https://parktoys.co.il/product/kvrkynt-myky-mavs-3-glglym-am-blm-rgl-disney-fo9les
-- Price: 150.00 ILS (sale, was 200.00 ILS)
-- Availability: In stock
-- Category: גלגלים
-- Description: קורקינט יציב ובטיחותי עם עיצוב שובב של מיקי מאוס – מתאים במיוחד לילדים צעירים, עם שלל תכונות המשלבות הנאה, נוחות ובטיחות מלאה. יתרונות המוצר: • עיצוב צבעוני ואהוב של מיקי מאוס • ידית מתכווננת לגובה 62–76.5 ס"מ • מערכת היגוי קלה ונוחה לתפעול • גלגלי PU איכותיים לנסיעה חלקה ושקטה • בלם רגל אחורי לבלימה בטוחה • משטח רכיבה רחב עם ציפוי נגד החלקה תיאור טכני: • מתאים לגילאי 3+ • משקל נשיאה מקסימלי: 30 ק"ג
-- Image: https://parktoys.co.il/assets/product-1782750062456-apt07.webp
 
 ---
 
