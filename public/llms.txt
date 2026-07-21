@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 235** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 236** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### כדור שלג נוצץ – חד קרן
+https://parktoys.co.il/product/kdvr-shlg-nvtsts-chd-krn-m45qb9
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: ערכה ליצירת כדור שלג קשת בענן וחד קרן עם אבקת קסמים והרבה נצנצים.
+- Image: https://parktoys.co.il/assets/product-1784657190533-kzpc2a.webp
 
 ### הפסיפס שלי – פרפר
 https://parktoys.co.il/product/hpsyps-shly-prpr-vq8pfk
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/bnnh-nydv-7109qj
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: בננה נידו כיפית ונעימה
 - Image: https://parktoys.co.il/assets/product-enhanced-1782727192098-6lq4te.webp
-
-### סקווישי חתול מתנפח בראש
-https://parktoys.co.il/product/skvvyshy-chtvl-mtnpch-brash-vfhfdv
-- Price: 20.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: סקווישי חתול מתנפח בראש בלחיצות לא ניתן לבחור צבע נבחר אקראי
-- Image: https://parktoys.co.il/assets/product-enhanced-1782725585774-p1k1r7.webp
 
 ---
 

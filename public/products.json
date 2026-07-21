@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T18:06:27.499Z",
+  "generated_at": "2026-07-21T18:08:40.116Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 235,
+  "count": 236,
   "products": [
+    {
+      "id": "11aa6a69-fe1b-4e40-9bb9-4aeb78e4198d",
+      "slug": "kdvr-shlg-nvtsts-chd-krn-m45qb9",
+      "name": "כדור שלג נוצץ – חד קרן",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכה ליצירת כדור שלג קשת בענן וחד קרן עם אבקת קסמים והרבה נצנצים.",
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784657190533-kzpc2a.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kdvr-shlg-nvtsts-chd-krn-m45qb9",
+      "categories": [
+        "משחקי יצירה"
+      ],
+      "updated_at": "2026-07-21T18:08:08.057Z"
+    },
     {
       "id": "ac5fdabd-e564-40c9-bc10-5074c335eaa5",
       "slug": "hpsyps-shly-prpr-vq8pfk",
