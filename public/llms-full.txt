@@ -5721,6 +5721,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### SCANIA משאית איסוף ארוכה עם אורות וצלילים
+URL: https://parktoys.co.il/product/scania-mshayt-aysvp-arvkh-am-avrvt-vtslylym-uwkvsm
+Price: 100.00 ILS
+Availability: In stock
+
+---
+
 ### SCANIA P410 משאית מיקסר בטון גדולה עם אורות וצלילים
 URL: https://parktoys.co.il/product/scania-p410-mshayt-myksr-btvn-gdvlh-am-avrvt-vtslylym-zrfivo
 Price: 200.00 ILS

@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 224** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 225** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### SCANIA משאית איסוף ארוכה עם אורות וצלילים
+https://parktoys.co.il/product/scania-mshayt-aysvp-arvkh-am-avrvt-vtslylym-uwkvsm
+- Price: 100.00 ILS
+- Availability: In stock
+- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
+- Description: משאית איסוף ארוכה עם אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, דלתות הארגז האחורי נפתחות, כולל 2 רגלי תמיכה מתכווננות
+- Image: https://parktoys.co.il/assets/product-enhanced-1784649401633-492amn.webp
 
 ### SCANIA P410 משאית מיקסר בטון גדולה עם אורות וצלילים
 https://parktoys.co.il/product/scania-p410-mshayt-myksr-btvn-gdvlh-am-avrvt-vtslylym-zrfivo
@@ -1620,14 +1628,6 @@ https://parktoys.co.il/product/nydv-bnnh-anky-znpfcv
 - Availability: In stock
 - Description: נידו בננה ענקי נעים וכיפי למגע
 - Image: https://parktoys.co.il/assets/product-enhanced-1782718372579-uwdopb.webp
-
-### נידו עוף גדול 
-https://parktoys.co.il/product/nydv-avp-gdvl-8p2h79
-- Price: 50.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: סקוושי נידו עוף גדול נעים וכיפי למגע
-- Image: https://parktoys.co.il/assets/product-enhanced-1782718236077-ja4jlna.webp
 
 ---
 

@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T15:24:57.429Z",
+  "generated_at": "2026-07-21T16:01:46.836Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 224,
+  "count": 225,
   "products": [
+    {
+      "id": "136c12ad-d6df-41d6-bf74-93a4c0240399",
+      "slug": "scania-mshayt-aysvp-arvkh-am-avrvt-vtslylym-uwkvsm",
+      "name": "SCANIA משאית איסוף ארוכה עם אורות וצלילים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "משאית איסוף ארוכה עם אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, דלתות הארגז האחורי נפתחות, כולל 2 רגלי תמיכה מתכווננות",
+      "sku": null,
+      "brand": null,
+      "price": 100,
+      "base_price": 100,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784649401633-492amn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/scania-mshayt-aysvp-arvkh-am-avrvt-vtslylym-uwkvsm",
+      "categories": [
+        "צעצועי שלט/מסלולי מכוניות/מכוניות "
+      ],
+      "updated_at": "2026-07-21T16:01:14.619Z"
+    },
     {
       "id": "e64ce28e-6a0e-48ef-9edd-e1a46287b987",
       "slug": "scania-p410-mshayt-myksr-btvn-gdvlh-am-avrvt-vtslylym-zrfivo",
