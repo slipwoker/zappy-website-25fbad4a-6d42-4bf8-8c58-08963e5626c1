@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 227** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 228** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### SCANIA משאית איסוף עם אורות וצלילים
+https://parktoys.co.il/product/scania-mshayt-aysvp-am-avrvt-vtslylym-x66erz
+- Price: 80.00 ILS
+- Availability: In stock
+- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
+- Description: משאית איסוף 26סמ פריקשן אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, ארגז אחורי ניתן להרמה
+- Image: https://parktoys.co.il/assets/product-enhanced-1784651396493-zfuz45.webp
 
 ### SCANIA משאית מיקסר בטון 37 ס"מ
 https://parktoys.co.il/product/scania-mshayt-myksr-btvn-37-sm-38p21z
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/nydv-htynvk-shl-bmbh-8kmj1s
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: נידו נעים וכיפי למגע
 - Image: https://parktoys.co.il/assets/product-1782720473052-steldk.webp
-
-### ברווז צבעוני נידו גדול
-https://parktoys.co.il/product/brvvz-tsbavny-nydv-gdvl-naztyf
-- Price: 50.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: ברווז צבעוני נידו נעים וכיפי למגע
-- Image: https://parktoys.co.il/assets/product-enhanced-1782718976920-2cyr4.webp
 
 ---
 
