@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T09:20:31.501Z",
+  "generated_at": "2026-07-21T09:28:36.419Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 213,
+  "count": 214,
   "products": [
+    {
+      "id": "82b11404-bbf3-43bf-9fb0-d82b629545dd",
+      "slug": "lol-lvl-ootd-mzvvdh-25-hptavt-lol-zwaaxt",
+      "name": "LOL לול OOTD מזוודה 25 הפתעות - LOL",
+      "name_translations": {},
+      "description": "",
+      "short_description": "לול OOTD מזוודה 25 הפתעות LOL Surprise Outfit of the Day #OOTD 25 Surprises לול מזוודה עם בובת לול ועוד 24 הפתעות - תלבושות ואביזרים הערכה מתאימה לגילאי 3+ משתתפים: 1+",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784626068660-a96zm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lol-lvl-ootd-mzvvdh-25-hptavt-lol-zwaaxt",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-07-21T09:28:03.216Z"
+    },
     {
       "id": "93fd578d-906e-421d-bbb1-1b6d623b8bbe",
       "slug": "klb-mshtrh-mbyt-spark-toys-dh1l3q",

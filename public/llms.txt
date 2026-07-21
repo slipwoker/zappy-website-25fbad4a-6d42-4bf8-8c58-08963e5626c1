@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 213** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 214** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### LOL לול OOTD מזוודה 25 הפתעות - LOL
+https://parktoys.co.il/product/lol-lvl-ootd-mzvvdh-25-hptavt-lol-zwaaxt
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: לול OOTD מזוודה 25 הפתעות LOL Surprise Outfit of the Day #OOTD 25 Surprises לול מזוודה עם בובת לול ועוד 24 הפתעות - תלבושות ואביזרים הערכה מתאימה לגילאי 3+ משתתפים: 1+
+- Image: https://parktoys.co.il/assets/product-enhanced-1784626068660-a96zm.webp
 
 ### כלב משטרה מבית Spark Toys
 https://parktoys.co.il/product/klb-mshtrh-mbyt-spark-toys-dh1l3q
@@ -1618,14 +1626,6 @@ https://parktoys.co.il/product/lb-nydv-tsbavny-48mea4
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: לב נידו צבעוני נעיף ורך בטירוף
 - Image: https://parktoys.co.il/assets/product-enhanced-1782485306751-3huh1s.webp
-
-### נידו הלו קיטי 
-https://parktoys.co.il/product/nydv-hlv-kyty-3e8okk
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: נידו הלו קיטי נעים בטירוף
-- Image: https://parktoys.co.il/assets/product-enhanced-1782474593755-8zk70o.webp
 
 ---
 
