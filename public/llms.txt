@@ -79,11 +79,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 205** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### ברבי סקיפר בייביסיטר עם תינוק, לול ואביזרים
-https://parktoys.co.il/product/brby-skypr-byybysytr-am-tynvk-lvl-vabyzrym-lzxkih
+https://parktoys.co.il/product/brby-skypr-byybysytr-am-tynvk-lvl-vabyzrym-dkujx1
 - Price: 129.00 ILS
 - Availability: In stock
 - Category: בובות/ברבי
 - Description: סט משחק מסדרת Barbie Skipper Babysitters Inc הכולל בובת סקיפר, תינוק קטן, לול ואביזרי טיפול למשחק דמיון מתוק ומהנה. המארז מאפשר לילדים ליצור סיפורי בייביסיטר, טיפול בתינוק ומשחקי משפחה עם אביזרים צבעוניים ומפורטים.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784619907544-rm2jto.webp
 
 ### ברבי נוצצת 10 הפתעות בקופסה Party Unboxed Glam Party
 https://parktoys.co.il/product/brby-nvtstst-10-hptavt-bkvpsh-party-unboxed-glam-party-i56b9x
