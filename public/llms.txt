@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 242** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 243** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ערכת מדע – המעגל החשמלי הראשון שלי
+https://parktoys.co.il/product/arkt-mda-hmagl-hchshmly-hrashvn-shly-usdo7x
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: אתם לא יכולים לראות אותו, אבל אתם רואים מה הוא יודע לעשות ואתם ממש לא יכולים בלעדיו. הכירו את סודותיו של החשמל!
+- Image: https://parktoys.co.il/assets/product-1784662278064-07q0z.webp
 
 ### ערכת מדע – לייצור נייר
 https://parktoys.co.il/product/arkt-mda-lyytsvr-nyyr-6g1i6y
@@ -1621,13 +1629,6 @@ https://parktoys.co.il/product/tnvr-apyyh-shl-kvkyz-cookeez-makery-kfx8e2
 - Availability: In stock
 - Description: בתנור תנור אפייה של קוקיז Cookeez Makery. תנור אפייה עם בובה בהפתעה! ערבבו את החומרים שמגיעים בערכה ליצירת בצק והכניסו לתבנית המצורפת ליצירת דמות בצק קטנטנה הכניסו את הבצק שלכם לתנור, סובבו את הטיימר ותהיו מופתעים כשתצא במקום הבצק בובה גדולה בהפתעה עם ריח נהדר! בכל תנור תצא בובה אחת בלבד בלי שנדע איזו בובה תצא מגיל 3 ומעלה
 - Image: https://parktoys.co.il/assets/product-1782748175184-yh9hp.webp
-
-### קוף אינטראקטיבי עם 50 קולות ותגובות - Little Live Pets Mango
-https://parktoys.co.il/product/kvp-ayntraktyby-am-50-kvlvt-vtgvbvt-little-live-pets-mango-tdy9rj
-- Price: 230.00 ILS (sale, was 300.00 ILS)
-- Availability: In stock
-- Description: הכירו את החבר הכי חמוד וכיפי שאפשר לבקש – Little Live Pets My Baby Monkey, מנגו! הקוף הקטן והמתוק הזה מחכה לכם, שתטפלו בו ותשחקו איתו. עם אוזני קוף מקסימות ופרווה רכה, מנגו נראה בדיוק כמו קוף אמיתי, וכיף גדול לחבק וללטף אותו! אבל מנגו הוא לא סתם בובת פרווה – הוא מגיב כמו קוף אמיתי! למעלה מ-50 צלילים ותגובות שונות יגרמו לילדים שלכם להרגיש שהם מטפלים בקוף קטן ואמיתי. הפה של מנגו זז בצורה מציאותית כשהוא מוצץ את האגודל או שותה מהבקבוק שלו. הוא אוהב שמטפלים בו ומלטפים אותו, ואפילו יצחק כשמדגדגים אותו
-- Image: https://parktoys.co.il/assets/product-enhanced-1782746982872-a3zjk7.webp
 
 ---
 
