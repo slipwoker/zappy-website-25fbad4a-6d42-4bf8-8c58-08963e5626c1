@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 202** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 203** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בובת ברבי המדענית ערכת מדע.
+https://parktoys.co.il/product/bvbt-brby-hmdanyt-arkt-mda-fv465m
+- Price: 119.00 ILS (sale, was 150.00 ILS)
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: בובת ברבי המדענית ערכת מדע. Barbie Scientist - You Can Be Anything ברבי בובות קרירה נוצרו על מנת לעודד ילדים לחלום בגדול. בובת המשחק לוקחות מקומות עבודה שונים והופכת את זה למשחק שדרכו ניתן ללמוד על סביבת עבודה וכלי עבודה אמתיים. ברבי המדענית היא ערכה שכוללת בובת ברבי עם שולחן מדעי אשר כולל: כיור, כיסא, שולחן עם מגירות, מדף ומבחנות. בנוסף מגיעות בערכה מבחנות, משקפי מגן, כפיות מדידה, פיפטות, כוס מדידה, ועוד. הערכה מתאימה לגילאי 3+ משתתפים: 1+ סינון לפי גילאים :3+
+- Image: https://parktoys.co.il/assets/product-enhanced-1784617157402-88vb6.webp
 
 ### בובה קריי בייבי ביצת הזהב 
 https://parktoys.co.il/product/bvbh-kryy-byyby-bytst-hzhb-anj8ih
@@ -1615,13 +1623,6 @@ https://parktoys.co.il/product/kvpst-hhptavt-bnym-diamant-surprise-box-girls-pig
 - Availability: In stock
 - Description: קופסת ההפתעות בנים מבית Diamant Toys היא מתנה צבעונית ומרגשת שמביאה איתה חוויית גילוי מיוחדת. בתוך הקופסה מחכות 10 הפתעות שונות, שכל אחת מהן נפתחת ברגע אחר ומעניקה עוד רגע קטן של שמחה, משחק ודמיון.
 - Image: https://parktoys.co.il/assets/product-1782373312771-bwsra2.webp
-
-### ביטסי חיות הקסם 
-https://parktoys.co.il/product/bytsy-chyvt-hksm-nnqpsn
-- Price: 199.00 ILS
-- Availability: In stock
-- Description: טרנד השנה לגדל חייה דיגטלית בתלת מימד משחק מדהים
-- Image: https://parktoys.co.il/assets/product-1782318259316-dm1byf.webp
 
 ---
 

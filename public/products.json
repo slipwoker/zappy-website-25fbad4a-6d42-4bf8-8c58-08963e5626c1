@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T06:14:57.267Z",
+  "generated_at": "2026-07-21T07:03:04.198Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 202,
+  "count": 203,
   "products": [
+    {
+      "id": "dcac445b-15e0-4719-a8b6-2e31aa43b08d",
+      "slug": "bvbt-brby-hmdanyt-arkt-mda-fv465m",
+      "name": "בובת ברבי המדענית ערכת מדע.",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בובת ברבי המדענית ערכת מדע.\n\nBarbie Scientist - You Can Be Anything\n\n \n\nברבי בובות קרירה נוצרו על מנת לעודד ילדים לחלום בגדול. בובת המשחק לוקחות מקומות עבודה שונים והופכת את זה למשחק שדרכו ניתן ללמוד על סביבת עבודה וכלי עבודה אמתיים.\n\n \n\nברבי המדענית היא ערכה שכוללת בובת ברבי עם שולחן מדעי אשר כולל:\n\nכיור, כיסא, שולחן עם מגירות, מדף ומבחנות.\n\nבנוסף מגיעות בערכה מבחנות, משקפי מגן, כפיות מדידה, פיפטות, כוס מדידה, ועוד.\n\n \n\nהערכה מתאימה לגילאי 3+\n\nמשתתפים: 1+\n\nסינון לפי גילאים :3+\n",
+      "sku": null,
+      "brand": null,
+      "price": 119,
+      "base_price": 150,
+      "sale_price": 119,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784617157402-88vb6.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/bvbt-brby-hmdanyt-arkt-mda-fv465m",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-07-21T07:02:32.261Z"
+    },
     {
       "id": "39cd966c-7847-4004-b442-8f0c18b0705f",
       "slug": "bvbh-kryy-byyby-bytst-hzhb-anj8ih",
