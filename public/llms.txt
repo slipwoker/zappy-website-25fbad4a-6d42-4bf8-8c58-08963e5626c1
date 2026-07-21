@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 206** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 207** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ברבי מארז קריירה רופאת שיניים - Barbie
+https://parktoys.co.il/product/brby-marz-kryyrh-rvpat-shynyym-barbie-8dzxsu
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: הוסיפו נגיעה של אופנת רחוב עדכנית לאוסף שלכם עם בובת ברבי מסדרת ה-Fashionistas. בובה זו מציגה מראה אורבני, נועז ומלא בסטייל, המשלב צבעוניות עזה עם טקסטורות ג'ינס קלאסיות. עם שערה השחור והחלק המעוטר בסיכות ראש אופנתיות, היא מוכנה לכל הרפתקה בעיר. מה במארז? חליפת דנים דו-חלקית: ברבי לובשת חולצת ג'ינס מכופתרת וחצאית ג'ינס תואמת עם הדפסים צבעוניים ומשמחים של פרחים ולבבות. גוזיית "קולור-בלוק": מתחת לחליפת הג'ינס מציצה גופיית ספורט בשילוב צבעים של ורוד וכתום המעניקה זריקת צבע ללוק. אביזרים משלימים
+- Image: https://parktoys.co.il/assets/product-enhanced-1784620345891-dtreqk.webp
 
 ### בובת Dream Besties Skate Party גודל 29 ס''מ מבית Mattel - מאליבו
 https://parktoys.co.il/product/bvbt-dream-besties-skate-party-gvdl-29-sm-mbyt-mattel-malybv-zz20tm
@@ -1616,14 +1624,6 @@ https://parktoys.co.il/product/bytsy-hptah-mbyt-dyamnt-dynvzavrym-e12bhs
 - Availability: In stock
 - Description: ביצי הפתעה מבית דיאמנט - דינוזאורים ערכת חפירה דינוזאורים מזמינה אתכם לצאת להרפתקת גילוי מרגשת עם ביצים מסתוריות. בכל ביצה מסתתרת הפתעה שונה, והחוויה משלבת חפירה, סקרנות וגילוי הדרגתי של הדמות שבתוכה. המשחק מעודד חקירה וסבלנות, כאשר תהליך הפתיחה יוצר מתח והתרגשות עד לחשיפת הדינוזאור. מגוון הביצים וההפתעות מאפשרים ליהנות שוב ושוב מחוויית גילוי חדשה בכל פעם. מתאים לילדים שאוהבים דינוזאורים, חפירה והרפתקאות, ומשלב בין משחק יצירתי ללמידה חווייתית.
 - Image: https://parktoys.co.il/assets/product-1782376599210-li7vjo.webp
-
-### מיני דאמפלינג נידו
-https://parktoys.co.il/product/myny-damplyng-nydv-6jaras
-- Price: 15.00 ILS (sale, was 20.00 ILS)
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: צעצוע סקוושי בצורת כיסון מיני 5.5 ס\"מ, צעצוע רך בצורת לחמנייה מאודה, צעצוע חושי להפגת מתחים, צעצוע בעל עלייה איטית, מתנה לילדים
-- Image: https://parktoys.co.il/assets/product-1782375539383-qlujoe.webp
 
 ---
 
