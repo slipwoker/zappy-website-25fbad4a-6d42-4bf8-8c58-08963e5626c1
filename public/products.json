@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-21T09:09:48.598Z",
+  "generated_at": "2026-07-21T09:20:31.501Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 212,
+  "count": 213,
   "products": [
+    {
+      "id": "93fd578d-906e-421d-bbb1-1b6d623b8bbe",
+      "slug": "klb-mshtrh-mbyt-spark-toys-dh1l3q",
+      "name": "כלב משטרה מבית Spark Toys",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כלב משטרה מבית Spark Toys\nכלב משטרה המופעל באמצעות שלט רחוק 360 מעלות, אומר עשרות משפטים ושירים בעברית!\nלכלב המשטרה מגוון הפעלות ותנועות בשליטה מרחוק, הוא ניתן לתכנות, מגיע עם סוללה נטענת וחוברת הפעלה בעברית.",
+      "sku": null,
+      "brand": null,
+      "price": 239,
+      "base_price": 239,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784625561196-vtmv6c.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/klb-mshtrh-mbyt-spark-toys-dh1l3q",
+      "categories": [
+        "צעצועי שלט/מסלולי מכוניות/מכוניות "
+      ],
+      "updated_at": "2026-07-21T09:19:59.376Z"
+    },
     {
       "id": "7c43b7bc-ccf3-4448-b325-833659d1c7fe",
       "slug": "dmvt-pavlh-ayyrvn-mn-28-sm-am-ydyym-vrglyym-zzvt-vmtkn-rychvp-mtchbr-ck1vwc",
