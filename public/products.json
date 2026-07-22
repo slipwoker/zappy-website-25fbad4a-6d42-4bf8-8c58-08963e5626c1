@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T15:17:22.852Z",
+  "generated_at": "2026-07-22T15:28:57.855Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 305,
+  "count": 306,
   "products": [
+    {
+      "id": "b9813c62-d9e9-4d76-b3fa-13a42df06e41",
+      "slug": "my-zh-shm-wyhz9e",
+      "name": "מי זה שם?",
+      "name_translations": {},
+      "description": "",
+      "short_description": "משחק דמויות אסטרטגי מרתק!\nבוחרים דמות, שואלים שאלות, מגלים מי הדמות שהיריב בחר ומנצחים!",
+      "sku": null,
+      "brand": null,
+      "price": 80,
+      "base_price": 80,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784734035875-pxn2wl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/my-zh-shm-wyhz9e",
+      "categories": [
+        "משחקי חברה"
+      ],
+      "updated_at": "2026-07-22T15:28:26.123Z"
+    },
     {
       "id": "aaae3abb-6b59-4dfa-b13c-ba8f2fa608c3",
       "slug": "mshchk-zykrvn-womepk",

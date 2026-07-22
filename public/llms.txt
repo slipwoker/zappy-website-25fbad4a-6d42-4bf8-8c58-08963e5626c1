@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 305** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 306** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מי זה שם?
+https://parktoys.co.il/product/my-zh-shm-wyhz9e
+- Price: 80.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: משחק דמויות אסטרטגי מרתק! בוחרים דמות, שואלים שאלות, מגלים מי הדמות שהיריב בחר ומנצחים!
+- Image: https://parktoys.co.il/assets/product-enhanced-1784734035875-pxn2wl.webp
 
 ### משחק זיכרון
 https://parktoys.co.il/product/mshchk-zykrvn-womepk
@@ -1632,13 +1640,6 @@ https://parktoys.co.il/product/pazl-tmvnh-tlt-mymdyt-200-chlkym-mbyt-prime3d-sty
 - Availability: In stock
 - Description: פאזלים מבית Prime 3D מביאים את התמונות לחיים עם אפקט תלת-ממד מרהיב שמרגש ילדים ומבוגרים בכל הגילאים. הרכבת הפאזל הופכת לחוויה סוחפת, צבעונית ובלתי נשכחת - מושלם לכל מי שאוהב יצירתיות, אתגר ודמיון!
 - Image: https://parktoys.co.il/assets/product-1783493298997-z2ps2f.webp
-
-### פאזל תמונה תלת מימדית 300 חלקים מבית Prime3D - הארי פוטר
-https://parktoys.co.il/product/pazl-tmvnh-tlt-mymdyt-300-chlkym-mbyt-prime3d-hary-pvtr-rraetq
-- Price: 70.00 ILS
-- Availability: In stock
-- Description: פאזלים מבית Prime 3D מביאים את התמונות לחיים עם אפקט תלת-ממד מרהיב שמרגש ילדים ומבוגרים בכל הגילאים. הרכבת הפאזל הופכת לחוויה סוחפת, צבעונית ובלתי נשכחת - מושלם לכל מי שאוהב יצירתיות, אתגר ודמיון!
-- Image: https://parktoys.co.il/assets/product-enhanced-1783492837070-lb1ahj.webp
 
 ---
 
