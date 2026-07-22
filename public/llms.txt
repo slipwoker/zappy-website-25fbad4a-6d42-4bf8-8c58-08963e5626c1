@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 290** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 291** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### סולמות וחבלים - עולים בסולמות וגולשים בחבלים עד שמנצחים
+https://parktoys.co.il/product/svlmvt-vchblym-avlym-bsvlmvt-vgvlshym-bchblym-ad-shmntschym-xtsixm
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: הכירו את המשחק המרהיב של הילדות הקלאסית 'סולמות וחבלים', שיספק שעות של הנאה לכל המשפחה! המשחק תורם רבות להתפתחות הילד, משפר את כושר הריכוז והזיכרון המספרי, ומחזק את התפיסה החזותית-מרחבית. כללי המשחק פשוטים: כל שחקן מטיל קובייה ומתקדם על הלוח. אם תגיעו למשבצת עם סולם, תטפסו במהירות למעלה ותתקרבו לניצחון. אך אם תנחתו על משבצת עם חבל, תיאלצו לרדת למטה. המנצח הוא הראשון שיגיע למשבצת הסיום. איכות החומרים: המשחק עשוי מקרטון איכותי ועמיד ומבטיח הנאה לאורך זמן.
+- Image: https://parktoys.co.il/assets/product-1784722405791-lxyyq.webp
 
 ### עולם 4 המשחקים
 https://parktoys.co.il/product/avlm-4-hmshchkym-tewgg8
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/ksdh-byysyk-shchvr-grow-mydh-s-gyl-3-6-3uv6tp
 - Category: גלגלים
 - Description: קסדת GROW Basic – בטיחות מקסימלית, סטייל בלתי מתפשר עם תאורת LED אחורית! מחפשים את השילוב המושלם בין הגנה קשוחה למראה אופנתי? קסדת החצי של GROW היא הבחירה האידיאלית לדור הצעיר של הרוכבים – בין אם הם על אופניים, קורקינט, סקטבורד או רולרבליידס. הגנה היקפית מוגברת: מבנה ה'קערה' הייחודי מעניק כיסוי רחב ומצוין גם לחלק האחורי של הראש (העורף) והרקות – לביטחון מלא בכל רכיבה. הקסדה עשויה ממעטפת PC חזקה במיוחד ו־EPS מוקצף בצפיפות גבוהה – לבלימת זעזועים מושלמת. נוחות ואוורור: פתחי אוורור אסטרטגיים בחלק
 - Image: https://parktoys.co.il/assets/product-enhanced-1783418113405-0x4xbk.webp
-
-### מגיני ברכיים ומרפקים ספיידרמן SPIN ROYAL מידה M
-https://parktoys.co.il/product/mgyny-brkyym-vmrpkym-spyydrmn-spin-royal-mydh-m-kf2yf2
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: סט מגן מעוצב בהשראת ספיידרמן – הבחירה המושלמת לילדים שאוהבים אקשן, תנועה וספורט. כולל מגני ברכיים ומרפקים במידה M, עם התאמה מושלמת לילדים בגילאי 3+ הרוכבים על רולר בליידס, אופניים, קורקינט או סקייטבורד. יתרונות המוצר כולל 4 מגנים – 2 לברכיים ו-2 למרפקים עיצוב מקורי עם הדמות האהובה ספיידרמן ריפוד פנימי נעים ורצועות סקוץ' רחבות אריזת רשת עם שרוך – לנשיאה קלה וסידור נוח תיאור טכני גילאי 3+ מידה M כולל 4 מגנים (2 ברכיים + 2 מרפקים) מגיע באריזת רשת עם שרוך
-- Image: https://parktoys.co.il/assets/product-enhanced-1783416424949-o2fatj.webp
 
 ---
 

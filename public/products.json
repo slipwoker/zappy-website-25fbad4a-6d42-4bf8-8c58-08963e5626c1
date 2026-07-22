@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T12:10:27.236Z",
+  "generated_at": "2026-07-22T12:15:04.626Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 290,
+  "count": 291,
   "products": [
+    {
+      "id": "f59fc912-2b57-4964-ab09-e5cb270d5fdc",
+      "slug": "svlmvt-vchblym-avlym-bsvlmvt-vgvlshym-bchblym-ad-shmntschym-xtsixm",
+      "name": "סולמות וחבלים - עולים בסולמות וגולשים בחבלים עד שמנצחים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הכירו את המשחק המרהיב של הילדות הקלאסית 'סולמות וחבלים', שיספק שעות של הנאה לכל המשפחה! המשחק תורם רבות להתפתחות הילד, משפר את כושר הריכוז והזיכרון המספרי, ומחזק את התפיסה החזותית-מרחבית.\n\nכללי המשחק פשוטים: כל שחקן מטיל קובייה ומתקדם על הלוח. אם תגיעו למשבצת עם סולם, תטפסו במהירות למעלה ותתקרבו לניצחון. אך אם תנחתו על משבצת עם חבל, תיאלצו לרדת למטה. המנצח הוא הראשון שיגיע למשבצת הסיום.\n\nאיכות החומרים: המשחק עשוי מקרטון איכותי ועמיד ומבטיח הנאה לאורך זמן.",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784722405791-lxyyq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/svlmvt-vchblym-avlym-bsvlmvt-vgvlshym-bchblym-ad-shmntschym-xtsixm",
+      "categories": [
+        "משחקי חברה"
+      ],
+      "updated_at": "2026-07-22T12:14:32.740Z"
+    },
     {
       "id": "4b9570ee-3b0d-44c2-9566-afde9df50283",
       "slug": "avlm-4-hmshchkym-tewgg8",
