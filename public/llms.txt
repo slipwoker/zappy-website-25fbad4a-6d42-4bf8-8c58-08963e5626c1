@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 293** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 294** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### טיפול נמרץ
+https://parktoys.co.il/product/typvl-nmrts-sjly2v
+- Price: 129.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: על המשחק יש רופא בבית? סם מרגיש לא טוב! תוכלו לנתח אותו כדי שמצבו ישתפר ומהר ? בחרו קלף כדי לראות איזו בעיה רפואית מצחיקה עליכם לרפא הפעם, כדי לטפל בבעיה "נתחו" בזהירות והיזהרו מהזמזם.. מינימום משתתפים: 1, מקסימום משתתפים: אין מי המנצח המנתח אשר הרוויח את הכום הגבוה ביותר בסוף המשחק מה בקופסה לוח משחק מפלסטיק ומלקחיים, 12 בעיות רפואיות מצחיקות מפלסטיק כולל גומיה ושקית אחסון, 12 קלפים מקרטון, הוראות משחק
+- Image: https://parktoys.co.il/assets/product-1784723482908-5ralp.webp
 
 ### מונפול סופר בנקאות אלקטרונית - קודקוד
 https://parktoys.co.il/product/mvnpvl-svpr-bnkavt-alktrvnyt-kvdkvd-afsqyw
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/kvs-lhknt-brd-shl-styts-illz8k
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: כוס להכנת ברד הכנה מהירה וקלה במיוחד
 - Image: https://parktoys.co.il/assets/product-enhanced-1783421240309-7nno7g.webp
-
-### כוס להכנת ברד של צעצוע של סיפור
-https://parktoys.co.il/product/kvs-lhknt-brd-shl-tsatsva-shl-sypvr-cq9h0d
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: כוס להכנת ברד הכנה מהירה וקלה במיוחד
-- Image: https://parktoys.co.il/assets/product-enhanced-1783421002700-zltc89.webp
 
 ---
 

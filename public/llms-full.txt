@@ -5721,6 +5721,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### טיפול נמרץ
+URL: https://parktoys.co.il/product/typvl-nmrts-sjly2v
+Price: 129.00 ILS
+Availability: In stock
+
+---
+
 ### מונפול סופר בנקאות אלקטרונית - קודקוד
 URL: https://parktoys.co.il/product/mvnpvl-svpr-bnkavt-alktrvnyt-kvdkvd-afsqyw
 Price: 259.00 ILS

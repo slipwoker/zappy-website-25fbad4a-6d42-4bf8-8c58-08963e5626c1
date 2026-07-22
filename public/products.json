@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T12:29:30.712Z",
+  "generated_at": "2026-07-22T12:33:05.315Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 293,
+  "count": 294,
   "products": [
+    {
+      "id": "03599478-6bfe-4ded-9b31-55cd047f8dd3",
+      "slug": "typvl-nmrts-sjly2v",
+      "name": "טיפול נמרץ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "על המשחק\nיש רופא בבית? \n\nסם מרגיש לא טוב!\n\nתוכלו לנתח אותו כדי שמצבו ישתפר ומהר ?\n\nבחרו קלף כדי לראות איזו בעיה רפואית מצחיקה עליכם לרפא הפעם, כדי לטפל בבעיה \"נתחו\" בזהירות והיזהרו מהזמזם..\n\n \n\nמינימום משתתפים: 1,  מקסימום משתתפים: אין\n\n\nמי המנצח\n\nהמנתח אשר הרוויח את הכום הגבוה ביותר בסוף המשחק\n\n \n\nמה בקופסה\n\nלוח משחק מפלסטיק ומלקחיים, 12 בעיות רפואיות מצחיקות מפלסטיק כולל גומיה ושקית אחסון, 12 קלפים מקרטון, הוראות משחק",
+      "sku": null,
+      "brand": null,
+      "price": 129,
+      "base_price": 129,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784723482908-5ralp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/typvl-nmrts-sjly2v",
+      "categories": [
+        "משחקי חברה"
+      ],
+      "updated_at": "2026-07-22T12:32:33.347Z"
+    },
     {
       "id": "c00adef2-6503-4701-b097-08c450a1510c",
       "slug": "mvnpvl-svpr-bnkavt-alktrvnyt-kvdkvd-afsqyw",
