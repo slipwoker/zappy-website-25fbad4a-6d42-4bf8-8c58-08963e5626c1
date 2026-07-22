@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 264** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 265** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חפרפרת בסרט – נקמת הפטישים דובר עברית
+https://parktoys.co.il/product/chprprt-bsrt-nkmt-hptyshym-dvbr-abryt-1j6l5l
+- Price: 149.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: חפרפרות ופטישים - משחק מגניב שלא ישאיר אתכם אדישים. החפרפרת מציצה מתוך האדמה - מהרו להכות בה בפטיש! משחק מלהיב ומלא משפטים משעשעים ובדיחות, ומה שבטוח - את הסרט הזה החפרפרת לא תשכח לעולם… עשרות משפטים מצחיקים \ שני מצבי עוצמת שמע \ מהירויות שונות למשחק . קבלו ניקוד לפי התוצאות שלכם
+- Image: https://parktoys.co.il/assets/product-enhanced-1784709776549-5dpq6u.webp
 
 ### פעלולון בעלי חיים
 https://parktoys.co.il/product/palvlvn-baly-chyym-iy0k3f
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/shvlchn-kdvrgl-byty-mkby-tl-abyb-s8l8pe
 - Availability: In stock
 - Description: שולחן הכדורגל תוכנן במיוחד למשחק זוגי נוח על גבי שולחן או משטח ישר. הוא כולל משטח משחק ירוק עם סימוני מגרש, שחקנים צבעוניים המותקנים על מוטות פלדה עמידים, וידיות אחיזה ארגונומיות לשליטה מרבית ומהירות תגובה. מבנה השולחן יציב וכולל לוח תוצאות ידני מעל כל שער, כדי שתוכלו לעקוב אחרי כל גול בדרך לניצחון. הערכה מגיעה עם אביזרים משלימים המבטיחים חוויית משחק שלמה מהרגע הראשון. מפרט טכני עיצובים זמינים: מכבי תל אביב (צהוב-כחול), מכבי חיפה (ירוק-לבן), בית"ר ירושלים (צהוב-שחור). מידות השולחן: אורך כ-55-57
 - Image: https://parktoys.co.il/assets/product-1783279027754-7mcbdl.webp
-
-### שולחן כדורגל ביתי של מכבי חיפה
-https://parktoys.co.il/product/shvlchn-kdvrgl-byty-shl-mkby-chyph-db3ee6
-- Price: 99.00 ILS (sale, was 150.00 ILS)
-- Availability: In stock
-- Category: מוצרי ספורט
-- Description: שולחן הכדורגל תוכנן במיוחד למשחק זוגי נוח על גבי שולחן או משטח ישר. הוא כולל משטח משחק ירוק עם סימוני מגרש, שחקנים צבעוניים המותקנים על מוטות פלדה עמידים, וידיות אחיזה ארגונומיות לשליטה מרבית ומהירות תגובה. מבנה השולחן יציב וכולל לוח תוצאות ידני מעל כל שער, כדי שתוכלו לעקוב אחרי כל גול בדרך לניצחון. הערכה מגיעה עם אביזרים משלימים המבטיחים חוויית משחק שלמה מהרגע הראשון. מפרט טכני עיצובים זמינים: מכבי תל אביב (צהוב-כחול), מכבי חיפה (ירוק-לבן), בית"ר ירושלים (צהוב-שחור). מידות השולחן: אורך כ-55-57
-- Image: https://parktoys.co.il/assets/product-1783278687034-3g7n56.webp
 
 ---
 
