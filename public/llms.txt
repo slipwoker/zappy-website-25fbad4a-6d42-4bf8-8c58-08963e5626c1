@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 279** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### קשת התפתחות
-https://parktoys.co.il/product/ksht-htptchvt-igrxoz
+https://parktoys.co.il/product/ksht-htptchvt-0giyiy
 - Price: 90.00 ILS
 - Availability: In stock
 - Category: מוצרי תינוקות 

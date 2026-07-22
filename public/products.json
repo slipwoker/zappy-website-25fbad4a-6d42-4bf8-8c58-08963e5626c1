@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T11:01:41.971Z",
+  "generated_at": "2026-07-22T11:02:38.383Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 279,
   "products": [
     {
       "id": "e3e7b6c3-3ffe-45f7-8637-c53bb67c5082",
-      "slug": "ksht-htptchvt-igrxoz",
+      "slug": "ksht-htptchvt-0giyiy",
       "name": "קשת התפתחות",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/ksht-htptchvt-igrxoz",
+      "url": "https://parktoys.co.il/product/ksht-htptchvt-0giyiy",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T11:01:10.200Z"
+      "updated_at": "2026-07-22T11:01:55.155Z"
     },
     {
       "id": "93483718-e8e2-4ce7-81d8-a98ac12e0363",
