@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T11:14:05.631Z",
+  "generated_at": "2026-07-22T11:22:37.838Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 282,
+  "count": 283,
   "products": [
+    {
+      "id": "13b51472-5f52-4fc5-ab05-6092dd212824",
+      "slug": "byyby-dryybr-mbyt-bizi-top-acyjrg",
+      "name": "בייבי דרייבר מבית Bizi Top",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בייבי דרייבר מבית Bizi Top\nהגה פעילות אינטראקטיבי ואורקולי לתינוק, מתחבר בקלות בעזרת טבעות למשענת הרכב.\nבעל מראה, שלל איורים, ידית העברת הילוכים, צלילים ואורות וכמובן צופר.",
+      "sku": null,
+      "brand": null,
+      "price": 89,
+      "base_price": 89,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784719294201-e488dj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/byyby-dryybr-mbyt-bizi-top-acyjrg",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T11:22:05.887Z"
+    },
     {
       "id": "629d0be7-eb7c-4f9a-a058-6a21488e3a26",
       "slug": "byyby-mvbyyl-mvsykly-nyyd-wqxsgk",

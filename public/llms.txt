@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 282** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 283** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בייבי דרייבר מבית Bizi Top
+https://parktoys.co.il/product/byyby-dryybr-mbyt-bizi-top-acyjrg
+- Price: 89.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: בייבי דרייבר מבית Bizi Top הגה פעילות אינטראקטיבי ואורקולי לתינוק, מתחבר בקלות בעזרת טבעות למשענת הרכב. בעל מראה, שלל איורים, ידית העברת הילוכים, צלילים ואורות וכמובן צופר.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784719294201-e488dj.webp
 
 ### בייבי מובייל מוסיקלי נייד
 https://parktoys.co.il/product/byyby-mvbyyl-mvsykly-nyyd-wqxsgk
@@ -1624,14 +1632,6 @@ https://parktoys.co.il/product/ksdh-btychvt-lvl-jnxu5m
 - Category: גלגלים
 - Description: קסדת בטיחות לול שמרו על הבטיחות של ילדיכם בסטייל עם קסדת הבטיחות לילדים של בית הבובות של גבי. הקסדה הקשיחה מעוצבת עם הדמות האהובה מסדרת לולוומשלבת הגנה מירבית, נוחות מקסימלית ואוורור אופטימלי בזכות פתחי האוורור המובנים. מתאימה לגיל 3 ומעלה, לרכיבה על אופניים, קורקינט, סקייטבורד ועוד - לשעות של נסיעה בטוחה ומהנה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783410301386-8eu0y8g.webp
-
-### קסדת בטיחות בית הבובות של גבי 
-https://parktoys.co.il/product/ksdt-btychvt-byt-hbvbvt-shl-gby-019rp4
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: קסדת בטיחות בית הבובות של גבי שמרו על הבטיחות של ילדיכם בסטייל עם קסדת הבטיחות לילדים של בית הבובות של גבי. הקסדה הקשיחה מעוצבת עם הדמות האהובה מסדרת בית הבובות של גבי ומשלבת הגנה מירבית, נוחות מקסימלית ואוורור אופטימלי בזכות פתחי האוורור המובנים. מתאימה לגיל 3 ומעלה, לרכיבה על אופניים, קורקינט, סקייטבורד ועוד - לשעות של נסיעה בטוחה ומהנה.
-- Image: https://parktoys.co.il/assets/product-1783410014331-dkp0m.webp
 
 ---
 
