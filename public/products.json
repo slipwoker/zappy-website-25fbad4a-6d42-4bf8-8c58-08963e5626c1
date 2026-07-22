@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T09:07:46.577Z",
+  "generated_at": "2026-07-22T09:11:37.508Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 270,
+  "count": 271,
   "products": [
+    {
+      "id": "2491eefc-ad32-40bc-ab85-2243c231ce49",
+      "slug": "glvbvs-hchyvt-hksvm-ebwxbi",
+      "name": "גלובוס החיות הקסום",
+      "name_translations": {},
+      "description": "",
+      "short_description": "גלובוס החיות הקסום אינטראקטיבי ! מסביב לעולם -7 יבשות מופלאות 7 יבשות 7 שירי ילדים עשרות משפטים לימודיים קלידים וחלקים נשלפים מתאים לגילאי 18 חודשים ומעלה",
+      "sku": null,
+      "brand": null,
+      "price": 149,
+      "base_price": 149,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784711306299-hn3fgq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/glvbvs-hchyvt-hksvm-ebwxbi",
+      "categories": [],
+      "updated_at": "2026-07-22T09:11:05.886Z"
+    },
     {
       "id": "d63d59e6-2f17-46ee-91a1-35e6eb43f9e8",
       "slug": "hgh-hhptavt-dvbr-abryt-ad3gqn",

@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 270** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 271** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### גלובוס החיות הקסום
+https://parktoys.co.il/product/glvbvs-hchyvt-hksvm-ebwxbi
+- Price: 149.00 ILS
+- Availability: In stock
+- Description: גלובוס החיות הקסום אינטראקטיבי ! מסביב לעולם -7 יבשות מופלאות 7 יבשות 7 שירי ילדים עשרות משפטים לימודיים קלידים וחלקים נשלפים מתאים לגילאי 18 חודשים ומעלה
+- Image: https://parktoys.co.il/assets/product-1784711306299-hn3fgq.webp
 
 ### הגה ההפתעות – דובר עברית
 https://parktoys.co.il/product/hgh-hhptavt-dvbr-abryt-ad3gqn
@@ -1624,14 +1631,6 @@ https://parktoys.co.il/product/shlyshyyh-damplyng-nydv-17bi7o
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: שלישייה דאמפלינג נידו מדהימים הטרנד הכי חזק
 - Image: https://parktoys.co.il/assets/product-enhanced-1783334721758-f9f8zn.webp
-
-### קורקינט 3 גלגלים הפוך באיור LOL
-https://parktoys.co.il/product/kvrkynt-3-glglym-hpvk-bayvr-lol-9ffr8j
-- Price: 150.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: קורקינט 3 גלגלים הפוך- באיור LOL כולל גלגלים איכותיים ובלמים חזקים. משקל נשיאה מקסימלי- 50 ק"ג, גובה מקסימלי – 0.91 ס"מ. גובה מינימלי של ידית הקורקינט- 71 ס"מ , גובה מקסימלי- 80 ס"מ לגילאי 3 שנים ומעלה. התמונה להמחשה בלבד, עשויה להציג מוצרי השלמה שאינם מגיעים במוצר הבסיס.
-- Image: https://parktoys.co.il/assets/product-1783334006364-q5hrvm.webp
 
 ---
 
