@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 255** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 256** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### המקרר הראשון שלי – דובר עברית
+https://parktoys.co.il/product/hmkrr-hrashvn-shly-dvbr-abryt-sgw31h
+- Price: 199.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: מוצר מהפך! חובה בכל מטבח! מקרר רגיל יש בכל בית - אבל המקרר הראשון שלי אינו מקרר רגיל… גם הפעולה הכי פשוטה כמו הוצאת ביצים או סידור פירות במגרה הופכת לחוויה מפתיעה ומוזיקלית, עם שירים ומשפטים משעשעים בעברית. המקרר מגיע עם שלל אביזרים - פירות, ירקות, מוצרי חלב ומזווה, כוננית מדפים ואפילו מכונת קרח בילט אין - פלא שאבא ואמא מקנאים? גיל 3+
+- Image: https://parktoys.co.il/assets/product-enhanced-1784706793190-f9ghjq.webp
 
 ### הטאבלט הראשון שלי
 https://parktoys.co.il/product/htablt-hrashvn-shly-70j007
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/nydv-abtych-ank-238tt7
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: נידו אבטיח ענק וכיפי למגע
 - Image: https://parktoys.co.il/assets/product-enhanced-1782832104672-p4kvx.webp
-
-### תות נידו ענק 
-https://parktoys.co.il/product/tvt-nydv-ank-l7c9zx
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: תות נידו ענק ונעים בטירוף
-- Image: https://parktoys.co.il/assets/product-enhanced-1782831655019-0y81e.webp
 
 ---
 
