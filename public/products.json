@@ -1,10 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T11:22:37.838Z",
+  "generated_at": "2026-07-22T11:24:22.632Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 283,
+  "count": 284,
   "products": [
+    {
+      "id": "a15bd3ba-c740-4e60-9f4b-d430ba58e4e8",
+      "slug": "6971608442643-xo26bi",
+      "name": "6971608442643",
+      "name_translations": {
+        "en": "6971608442643",
+        "he": "6971608442643"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/6971608442643-xo26bi",
+      "categories": [],
+      "updated_at": "2026-07-22T11:23:47.234Z"
+    },
     {
       "id": "13b51472-5f52-4fc5-ab05-6092dd212824",
       "slug": "byyby-dryybr-mbyt-bizi-top-acyjrg",

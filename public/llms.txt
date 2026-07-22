@@ -76,7 +76,12 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 283** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 284** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### 6971608442643
+https://parktoys.co.il/product/6971608442643-xo26bi
+- Price: 0.00 ILS
+- Availability: In stock
 
 ### בייבי דרייבר מבית Bizi Top
 https://parktoys.co.il/product/byyby-dryybr-mbyt-bizi-top-acyjrg
@@ -1624,14 +1629,6 @@ https://parktoys.co.il/product/ksdt-yldym-mavtsbt-am-mngnvn-htamh-vptchy-ayvvrvr
 - Category: גלגלים
 - Description: קסדת בטיחות מעוצבת לילדים מבית Grow Kids קסדת הילדים המעוצבת היא לא רק אמצעי בטיחות חיוני, אלא גם אביזר אופנתי ומלא סטייל שיעודד את ילדכם לחבוש אותה בכל רכיבה. היא משלבת הגנה מקסימלית עם עיצוב ייחודי שיהפוך את ילדכם למלך הפארק! תכונות עיקריות: עיצוב חדשני וכיפי: הקסדה מעוצבת בצורת מושכת את העין. העיצוב המקורי הופך את חבישת הקסדה לחוויה מהנה ומלהיבה. הגנה אולטימטיבית: בחלקה הפנימי של הקסדה שכבת EPS דחוסה מוקצפת בצפיפות גבוהה למניעת זעזועים שתספק הגנה מקסימלית לראש הילד במקרה של נפילה או חבטה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783410842967-sgz60i.webp
-
-### קסדה בטיחות לול 
-https://parktoys.co.il/product/ksdh-btychvt-lvl-jnxu5m
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: קסדת בטיחות לול שמרו על הבטיחות של ילדיכם בסטייל עם קסדת הבטיחות לילדים של בית הבובות של גבי. הקסדה הקשיחה מעוצבת עם הדמות האהובה מסדרת לולוומשלבת הגנה מירבית, נוחות מקסימלית ואוורור אופטימלי בזכות פתחי האוורור המובנים. מתאימה לגיל 3 ומעלה, לרכיבה על אופניים, קורקינט, סקייטבורד ועוד - לשעות של נסיעה בטוחה ומהנה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1783410301386-8eu0y8g.webp
 
 ---
 
