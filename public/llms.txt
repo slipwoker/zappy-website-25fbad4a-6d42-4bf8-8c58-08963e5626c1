@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 248** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 249** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### הסמארטפון הראשון שלי
+https://parktoys.co.il/product/hsmartpvn-hrashvn-shly-1qttk5
+- Price: 79.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: ילדות וילדים, מיד! להדליק את הנייד! עם הסמארטפון הראשון שלי, לכם ההורים לא יהיה אכפת שהילדים כל היום במסך… זהו טלפון דובר עברית ראשון מסוגו שבעזרת מוזיקה ושירים הופך את הלימוד לחווית משחק כיפית וקלילה. בין הנושאים הנלמדים: אותיות, מספרים, צורות, מוזיקה, חשבון, שעון, מזג אוויר ועוד ועוד. כי היום עושים הכל בטלפון… קיים בצבע שחור
+- Image: https://parktoys.co.il/assets/product-1784704934475-9iqy5m.webp
 
 ### מילון הצלילים הראשון שלי
 https://parktoys.co.il/product/mylvn-htslylym-hrashvn-shly-g2wrbd
@@ -1625,14 +1633,6 @@ https://parktoys.co.il/product/chmah-nydv-hgdvlh-55ouep
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: חמאה נידו מטורפת נעימה בטירוף
 - Image: https://parktoys.co.il/assets/product-1782830359778-qq6x2.webp
-
-### רחפן מתקפל עם מצלמה ו – WIFI לצילום חוויתי – IPOP
-https://parktoys.co.il/product/rchpn-mtkpl-am-mtslmh-v-wifi-ltsylvm-chvvyty-ipop-x8g8ge
-- Price: 119.00 ILS (sale, was 249.00 ILS)
-- Availability: In stock
-- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
-- Description: 🚁📸 רחפן WIFI מתקפל – מצלמים מהשמיים בקלות! ✨ חוויית טיסה וצילום מתקדמת הכירו את הרחפן המתקפל עם חיבור WIFI – פתרון מושלם לצילום מהאוויר ושליטה נוחה דרך השלט. הרחפן מאפשר להקליט רגעים מיוחדים וליהנות
-- Image: https://parktoys.co.il/assets/product-enhanced-1782760470670-09oqiw.webp
 
 ---
 

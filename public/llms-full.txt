@@ -5721,6 +5721,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### הסמארטפון הראשון שלי
+URL: https://parktoys.co.il/product/hsmartpvn-hrashvn-shly-1qttk5
+Price: 79.00 ILS
+Availability: In stock
+
+---
+
 ### מילון הצלילים הראשון שלי
 URL: https://parktoys.co.il/product/mylvn-htslylym-hrashvn-shly-g2wrbd
 Price: 119.00 ILS
