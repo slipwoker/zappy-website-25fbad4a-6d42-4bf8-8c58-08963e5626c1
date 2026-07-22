@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 281** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 282** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בייבי מובייל מוסיקלי נייד
+https://parktoys.co.il/product/byyby-mvbyyl-mvsykly-nyyd-wqxsgk
+- Price: 140.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: מובייל נייד עם נעימות מרגיעות ודמויות צבעוניות, לתלייה על סל־קל, עגלה או כיסא בטיחות. מתאים במיוחד לגיל הרך ומעודד גירוי חושי, דמיון והנאה בתנועה. יתרונות המוצר: • מובייל אלקטרוני עם שלל מנגינות מתחלפות • נתלה בקלות על עגלה, סל-קל, מושב בטיחות ועוד • מעודד פיתוח שמיעה, ראייה ותנועה • מפתח קואורדינציה ודמיון בגיל הרך • מספק חוויה חושית מרגיעה ומהנה
+- Image: https://parktoys.co.il/assets/product-enhanced-1784718775531-do319a.webp
 
 ### האוטובוס החכם - אוטובוס מיון צורות
 https://parktoys.co.il/product/havtvbvs-hchkm-avtvbvs-myvn-tsvrvt-jgvhdz
@@ -1624,14 +1632,6 @@ https://parktoys.co.il/product/ksdt-btychvt-byt-hbvbvt-shl-gby-019rp4
 - Category: גלגלים
 - Description: קסדת בטיחות בית הבובות של גבי שמרו על הבטיחות של ילדיכם בסטייל עם קסדת הבטיחות לילדים של בית הבובות של גבי. הקסדה הקשיחה מעוצבת עם הדמות האהובה מסדרת בית הבובות של גבי ומשלבת הגנה מירבית, נוחות מקסימלית ואוורור אופטימלי בזכות פתחי האוורור המובנים. מתאימה לגיל 3 ומעלה, לרכיבה על אופניים, קורקינט, סקייטבורד ועוד - לשעות של נסיעה בטוחה ומהנה.
 - Image: https://parktoys.co.il/assets/product-1783410014331-dkp0m.webp
-
-### ביטסי סקווישי Punirunes חיית מחמד דיגיטלית אינטראקטיבית מבית Spin Master
-https://parktoys.co.il/product/bytsy-skvvyshy-punirunes-chyyt-mchmd-dygytlyt-ayntraktybyt-mbyt-spin-master-f3t9ip
-- Price: 119.00 ILS (sale, was 150.00 ILS)
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: טפלו וטפחו בהנאה חיות מחמד דיגיטליות שניתן לגעת בהן ובנו עולם משלכם מלא בדמויות חמודות וקסומות! מתאים מגיל 5 ומעלה.הכירו את חיות המחמד הדיגיטליות - ה-Punirunes! טפלו וטפחו בהנאה חיות מחמד דיגיטליות שניתן לגעת בהן ובנו עולם משלכם מלא בדמויות חמודות וקסומות! הניחו אצבע בתוך הצעצוע Punirunes וגלו כפתור רך המגיב למגע. תצוגת LED צבעונית תראה את תנועותיכם על המסך, ממש כאילו אתם נוגעים בדמות ה-Punirunes! לחצו על הכפתור וצפו כיצד הדמות מגיבה
-- Image: https://parktoys.co.il/assets/product-1783360807755-gx2cp.webp
 
 ---
 

@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T11:07:48.629Z",
+  "generated_at": "2026-07-22T11:13:54.621Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 281,
+  "count": 282,
   "products": [
+    {
+      "id": "629d0be7-eb7c-4f9a-a058-6a21488e3a26",
+      "slug": "byyby-mvbyyl-mvsykly-nyyd-wqxsgk",
+      "name": "בייבי מובייל מוסיקלי נייד",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מובייל נייד עם נעימות מרגיעות ודמויות צבעוניות, לתלייה על סל־קל, עגלה או כיסא בטיחות. מתאים במיוחד לגיל הרך ומעודד גירוי חושי, דמיון והנאה בתנועה.\nיתרונות המוצר:\n • מובייל אלקטרוני עם שלל מנגינות מתחלפות\n • נתלה בקלות על עגלה, סל-קל, מושב בטיחות ועוד\n • מעודד פיתוח שמיעה, ראייה ותנועה\n • מפתח קואורדינציה ודמיון בגיל הרך\n • מספק חוויה חושית מרגיעה ומהנה",
+      "sku": null,
+      "brand": null,
+      "price": 140,
+      "base_price": 140,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784718775531-do319a.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/byyby-mvbyyl-mvsykly-nyyd-wqxsgk",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T11:13:33.642Z"
+    },
     {
       "id": "faa70100-9082-496c-b6a7-54b623de375a",
       "slug": "havtvbvs-hchkm-avtvbvs-myvn-tsvrvt-jgvhdz",
