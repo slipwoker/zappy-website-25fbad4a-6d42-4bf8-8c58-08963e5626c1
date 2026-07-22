@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 269** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 270** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### הגה ההפתעות – דובר עברית
+https://parktoys.co.il/product/hgh-hhptavt-dvbr-abryt-ad3gqn
+- Price: 139.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: מתניעים, נוסעים, ולומדים מגוון נושאים. ממש כמו ההגה באוטו של אבא ואמא, אבל הרבה יותר משעשע ולימודי… צאו עם הגה ההפתעות לנסיעה מלאה בתכנים ובחוויות משעשעות - משפטים וצלילים מעולם המכוניות, משחקי היכרות עם בעלי חיים, צורות, צבעים, פירות ועוד, שירים בעברית, אורות וצלילים. נסיעה טובה, מהנה ובטוחה לכולם! הגה אינטראקטיבי דובר עברית!! 5 שירים קלאסיים 6 נושאי לימוד 2 עוצמות קול 5 שירים בעברית אורות וצלילים
+- Image: https://parktoys.co.il/assets/product-1784711151027-5t14kc.webp
 
 ### פעלולון חיות – הצפרדע
 https://parktoys.co.il/product/palvlvn-chyvt-htsprda-cbjlpt
@@ -1624,14 +1632,6 @@ https://parktoys.co.il/product/kvrkynt-3-glglym-hpvk-bayvr-lol-9ffr8j
 - Category: גלגלים
 - Description: קורקינט 3 גלגלים הפוך- באיור LOL כולל גלגלים איכותיים ובלמים חזקים. משקל נשיאה מקסימלי- 50 ק"ג, גובה מקסימלי – 0.91 ס"מ. גובה מינימלי של ידית הקורקינט- 71 ס"מ , גובה מקסימלי- 80 ס"מ לגילאי 3 שנים ומעלה. התמונה להמחשה בלבד, עשויה להציג מוצרי השלמה שאינם מגיעים במוצר הבסיס.
 - Image: https://parktoys.co.il/assets/product-1783334006364-q5hrvm.webp
-
-### נידו מרשמלו ענק לצביעה
-https://parktoys.co.il/product/nydv-mrshmlv-ank-ltsbyah-14t4iz
-- Price: 40.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: הכירו את Puffy Mallows – חיות המרשמלו המתוקות והנעימות למגע, שמשלבות בין בובה רכה לבין פעילות יצירה צבעונית! כל חיה מגיעה עם משטח מיוחד שניתן לצביעה ולמחיקה, כך שהילדים יכולים לעצב אותה שוב ושוב לפי הדמיון והיצירתיות שלהם. הערכה כוללת חיית Puffy Mallows רכה + טושים מיוחדים לצביעה, ומאפשרת חוויית משחק אינטראקטיבית, מרגיעה ומהנה במיוחד. למה הילדים מתאהבים ב-Puffy Mallows? ✔ בובה רכה ונעימה למגע ✔ צביעה, מחיקה וצביעה מחדש – בלי סוף ✔ מעודד יצירתיות, דמיון והתפתחות מוטורית ✔ פעילות מושלמת
-- Image: https://parktoys.co.il/assets/product-enhanced-1783332438820-ufuntq.webp
 
 ---
 

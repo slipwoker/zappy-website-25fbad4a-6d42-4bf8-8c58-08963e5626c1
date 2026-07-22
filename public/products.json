@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T09:00:23.322Z",
+  "generated_at": "2026-07-22T09:07:46.577Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 269,
+  "count": 270,
   "products": [
+    {
+      "id": "d63d59e6-2f17-46ee-91a1-35e6eb43f9e8",
+      "slug": "hgh-hhptavt-dvbr-abryt-ad3gqn",
+      "name": "הגה ההפתעות – דובר עברית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מתניעים, נוסעים, ולומדים מגוון נושאים. ממש כמו ההגה באוטו של אבא ואמא, אבל הרבה יותר משעשע ולימודי… צאו עם הגה ההפתעות לנסיעה מלאה בתכנים ובחוויות משעשעות - משפטים וצלילים מעולם המכוניות, משחקי היכרות עם בעלי חיים, צורות, צבעים, פירות ועוד, שירים בעברית, אורות וצלילים. נסיעה טובה, מהנה ובטוחה לכולם! הגה אינטראקטיבי דובר עברית!! 5 שירים קלאסיים 6 נושאי לימוד 2 עוצמות קול 5 שירים בעברית אורות וצלילים  ",
+      "sku": null,
+      "brand": null,
+      "price": 139,
+      "base_price": 139,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784711151027-5t14kc.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/hgh-hhptavt-dvbr-abryt-ad3gqn",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T09:07:14.386Z"
+    },
     {
       "id": "9e18e499-217b-41a8-8761-f8b5de091190",
       "slug": "palvlvn-chyvt-htsprda-cbjlpt",
