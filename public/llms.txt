@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 296** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### היגיון מהיר 
-https://parktoys.co.il/product/hygyvn-mhyr-jdqtzf
+https://parktoys.co.il/product/hygyvn-mhyr-yxp4qw
 - Price: 99.00 ILS
 - Availability: In stock
 - Category: משחקי חברה
