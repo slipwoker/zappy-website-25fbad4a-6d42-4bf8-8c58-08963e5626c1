@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 256** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 257** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### טרקטור חיות חווה – דובר עברית
+https://parktoys.co.il/product/trktvr-chyvt-chvvh-dvbr-abryt-o01zeo
+- Price: 179.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: אצלנו בחווה לומדים בחדווה! הנה מגיע הטרקטור והוא לא מגיע לבד… בעקבותיו מגיעה גם עגלה ובה חיות חווה חביבות ועליזות! איזו נסיעה משעשעת - מלאה באורות וצלילים, קולות של בעלי חיים ושירים ומשפטים בעברית. 6 שירים ועשרות משפטים משעשעים ולימודיים בעברית ! משחקים ולומדים: הכרת בעלי חיים הכרת צבעים הכרת כמות ומספר עידוד זחילה גיל 12M+
+- Image: https://parktoys.co.il/assets/product-1784706964003-1ujfqi.webp
 
 ### המקרר הראשון שלי – דובר עברית
 https://parktoys.co.il/product/hmkrr-hrashvn-shly-dvbr-abryt-sgw31h
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/shlt-gyymyng-nydv-gdvl-sc33wu
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: שלט גיימינג נידו גדול נעים וכיפי למגע
 - Image: https://parktoys.co.il/assets/product-1782832198066-slr4tm.webp
-
-### נידו אבטיח ענק
-https://parktoys.co.il/product/nydv-abtych-ank-238tt7
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: נידו אבטיח ענק וכיפי למגע
-- Image: https://parktoys.co.il/assets/product-enhanced-1782832104672-p4kvx.webp
 
 ---
 

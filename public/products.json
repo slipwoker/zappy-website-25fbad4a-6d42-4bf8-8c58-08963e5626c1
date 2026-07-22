@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T07:54:38.087Z",
+  "generated_at": "2026-07-22T07:59:03.985Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 256,
+  "count": 257,
   "products": [
+    {
+      "id": "10127d2b-f2c3-49d8-a94e-5d29924e0baa",
+      "slug": "trktvr-chyvt-chvvh-dvbr-abryt-o01zeo",
+      "name": "טרקטור חיות חווה – דובר עברית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אצלנו בחווה לומדים בחדווה! הנה מגיע הטרקטור והוא לא מגיע לבד… בעקבותיו מגיעה גם עגלה ובה חיות חווה חביבות ועליזות! איזו נסיעה משעשעת - מלאה באורות וצלילים, קולות של בעלי חיים ושירים ומשפטים בעברית. 6 שירים ועשרות משפטים משעשעים ולימודיים בעברית ! משחקים ולומדים: הכרת בעלי חיים הכרת צבעים הכרת כמות ומספר עידוד זחילה גיל 12M+",
+      "sku": null,
+      "brand": null,
+      "price": 179,
+      "base_price": 179,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784706964003-1ujfqi.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/trktvr-chyvt-chvvh-dvbr-abryt-o01zeo",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T07:58:31.918Z"
+    },
     {
       "id": "d0743b68-7d80-45d9-95f9-6fc887e1c189",
       "slug": "hmkrr-hrashvn-shly-dvbr-abryt-sgw31h",
