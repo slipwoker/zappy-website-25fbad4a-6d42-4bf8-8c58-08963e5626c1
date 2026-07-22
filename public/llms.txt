@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 268** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 269** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### פעלולון חיות – הצפרדע
+https://parktoys.co.il/product/palvlvn-chyvt-htsprda-cbjlpt
+- Price: 89.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: האריה שואג, הציפור מצייצת, והצפרדע שבפעלולון - קורצת! פעלולון מדליק לקטנטנים, עם חרוזים וצורות בשלל צבעים וטקסטורות ומשפטים משעשעים בעברית. מגיל 6 חודשים
+- Image: https://parktoys.co.il/assets/product-1784710680147-64lih.webp
 
 ### גלגל האנגלית
 https://parktoys.co.il/product/glgl-hanglyt-9wgevb
@@ -1624,14 +1632,6 @@ https://parktoys.co.il/product/nydv-mrshmlv-ank-ltsbyah-14t4iz
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: הכירו את Puffy Mallows – חיות המרשמלו המתוקות והנעימות למגע, שמשלבות בין בובה רכה לבין פעילות יצירה צבעונית! כל חיה מגיעה עם משטח מיוחד שניתן לצביעה ולמחיקה, כך שהילדים יכולים לעצב אותה שוב ושוב לפי הדמיון והיצירתיות שלהם. הערכה כוללת חיית Puffy Mallows רכה + טושים מיוחדים לצביעה, ומאפשרת חוויית משחק אינטראקטיבית, מרגיעה ומהנה במיוחד. למה הילדים מתאהבים ב-Puffy Mallows? ✔ בובה רכה ונעימה למגע ✔ צביעה, מחיקה וצביעה מחדש – בלי סוף ✔ מעודד יצירתיות, דמיון והתפתחות מוטורית ✔ פעילות מושלמת
 - Image: https://parktoys.co.il/assets/product-enhanced-1783332438820-ufuntq.webp
-
-### קורקינט עם 3 גלגלים לילדים מבית Viper - סופרמן
-https://parktoys.co.il/product/kvrkynt-am-3-glglym-lyldym-mbyt-viper-svprmn-sqil49
-- Price: 150.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: • קורקינט בעיצוב מדליק בהשראת גיבור העל האהוב, סופרמן, מבטיח שעות של כיף והנאה. • שלושה גלגלים עשויים סיליקון איכותי ובלם אחורי. • מוט מתכוונן להתאמה אישית עד לגובה של 80 ס"מ. • קל ונוח לנשיאה ומתאים לשימוש בבית ובחוץ. • תורם לפיתוח שיווי משקל וכישורים מוטוריים. מפרט טכני • משקל נשיאה מקסימלי: 50 ק"ג • גובה ידית מתכווננת: 71-80 ס"מ • גובה הקורקינט: 91 ס"מ
-- Image: https://parktoys.co.il/assets/product-1783329606574-su8hrq.webp
 
 ---
 
