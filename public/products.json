@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T08:10:37.362Z",
+  "generated_at": "2026-07-22T08:12:32.556Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 260,
+  "count": 261,
   "products": [
+    {
+      "id": "f0568903-fedb-4093-8788-bcf64a6528d7",
+      "slug": "chyvt-kvptsvt-dvbr-abryt-plqeoi",
+      "name": "חיות קופצות דובר עברית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חיות קופצות בהפתעה - שעות של כיף והנאה! מה הפיל, ההיפופוטם, האריה והקוף הכי אוהבים לעשות? לשיר, לדבר וכמובן - לקפוץ! צעצוע חוויתי ומשעשע שלא מפסיק להפתיע. 6m+",
+      "sku": null,
+      "brand": null,
+      "price": 119,
+      "base_price": 119,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784707869972-hu2pks8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chyvt-kvptsvt-dvbr-abryt-plqeoi",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T08:12:00.787Z"
+    },
     {
       "id": "9b94f319-3924-4d4f-b646-123b12267328",
       "slug": "tsvrvt-vhptavt-myvn-tsvrvt-dvbr-abryt-7muy4u",
