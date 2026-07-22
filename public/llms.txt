@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 264** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### פעלולון בעלי חיים
-https://parktoys.co.il/product/palvlvn-baly-chyym-9st2ah
+https://parktoys.co.il/product/palvlvn-baly-chyym-iy0k3f
 - Price: 129.00 ILS
 - Availability: In stock
 - Category: מוצרי תינוקות 
