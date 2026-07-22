@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T15:13:35.130Z",
+  "generated_at": "2026-07-22T15:17:22.852Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 304,
+  "count": 305,
   "products": [
+    {
+      "id": "aaae3abb-6b59-4dfa-b13c-ba8f2fa608c3",
+      "slug": "mshchk-zykrvn-womepk",
+      "name": "משחק זיכרון",
+      "name_translations": {},
+      "description": "",
+      "short_description": "משחק חשיבה לפיתוח הזכרון ויכולת ההתאמה החזותית.\nמחזק את מיומנות תיאום קשר עין-יד, מרחיב את אוצר המילים ומקנה מושגים כללים.\nהמשחק מכיל כרטיסים איכותיים עם תמונות צבעוניות מעולם הילדים.",
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784733399406-jmr9p9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mshchk-zykrvn-womepk",
+      "categories": [
+        "משחקי חברה"
+      ],
+      "updated_at": "2026-07-22T15:16:50.686Z"
+    },
     {
       "id": "4c9390f0-0877-4e82-b6e9-dfa5f1ad859f",
       "slug": "avtyvt-mtaymym-vmylym-mrkybym-bqzlfq",
