@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 263** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 264** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### פעלולון בעלי חיים
+https://parktoys.co.il/product/palvlvn-baly-chyym-9st2ah
+- Price: 129.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: עם קופיף, פרה, נמר ודוב קואלה - לשחק וללמוד זה כיף לאללה! פעלולון מלא הפתעות, משחקי שאלות ותשובות, אורות, צלילים ותכנים לימודיים ומשעשעים בעברית - לוחצים ולומדים תוך כדי משחק על אותיות, מספרים, צבעים, צורות, בעלי חיים ועוד.פעלולון בעלי חיים משחקים, מתפתחים ולומדים
+- Image: https://parktoys.co.il/assets/product-1784709094929-14t4i.webp
 
 ### מגדל הטבעות המדבר שלי
 https://parktoys.co.il/product/mgdl-htbavt-hmdbr-shly-ny07w7
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/shvlchn-kdvrgl-byty-shl-mkby-chyph-db3ee6
 - Category: מוצרי ספורט
 - Description: שולחן הכדורגל תוכנן במיוחד למשחק זוגי נוח על גבי שולחן או משטח ישר. הוא כולל משטח משחק ירוק עם סימוני מגרש, שחקנים צבעוניים המותקנים על מוטות פלדה עמידים, וידיות אחיזה ארגונומיות לשליטה מרבית ומהירות תגובה. מבנה השולחן יציב וכולל לוח תוצאות ידני מעל כל שער, כדי שתוכלו לעקוב אחרי כל גול בדרך לניצחון. הערכה מגיעה עם אביזרים משלימים המבטיחים חוויית משחק שלמה מהרגע הראשון. מפרט טכני עיצובים זמינים: מכבי תל אביב (צהוב-כחול), מכבי חיפה (ירוק-לבן), בית"ר ירושלים (צהוב-שחור). מידות השולחן: אורך כ-55-57
 - Image: https://parktoys.co.il/assets/product-1783278687034-3g7n56.webp
-
-### שולחן כדורגל ביתר ירושלים
-https://parktoys.co.il/product/shvlchn-kdvrgl-bytr-yrvshlym-n5oxfp
-- Price: 99.00 ILS
-- Availability: In stock
-- Category: מוצרי ספורט
-- Description: הביאו את האקטיביות וההתרגשות של המגרש אליכם הביתה עם שולחן כדורגל איכותי ומעוצב. השולחן מאפשר לילדים ולמבוגרים כאחד ליהנות ממשחקים תחרותיים ומהנים, כשהוא מעוטר בסמלים ובצבעים של קבוצות הכדורגל המובילות בישראל. תיאור המוצר שולחן הכדורגל תוכנן במיוחד למשחק זוגי נוח על גבי שולחן או משטח ישר. הוא כולל משטח משחק ירוק עם סימוני מגרש, שחקנים צבעוניים המותקנים על מוטות פלדה עמידים, וידיות אחיזה ארגונומיות לשליטה מרבית ומהירות תגובה. מבנה השולחן יציב וכולל לוח תוצאות ידני מעל כל שער, כדי שתוכלו לעקוב אח
-- Image: https://parktoys.co.il/assets/product-1783278599988-zrnxw5.webp
 
 ---
 
