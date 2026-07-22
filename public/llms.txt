@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 252** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 253** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לפטופ 50 פעולות
+https://parktoys.co.il/product/lptvp-50-pavlvt-uqzpaj
+- Price: 249.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: איזה לפטופ משוכלל - כל אחד מרגיש מנכ"ל! כיף ללמוד עם לפטופ חמישים פעולות - הכרת אותיות ואיות מילים בעברית, משחקי חשיבה וזיכרון, חשבון, מספרים, הקלדה עיוורת ועוד ועוד. חמישים פעילויות חינוכיות תוך כדי משחק עצמאי מהנה וחוויתי.
+- Image: https://parktoys.co.il/assets/product-1784706052623-oh504b.webp
 
 ### ספר המילים הראשון שלי
 https://parktoys.co.il/product/spr-hmylym-hrashvn-shly-g68pt5
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/skvvshy-nydv-shtyh-am-prtsvp-gdvl-mtaz0b
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: גדול נעים וכיפי למגע
 - Image: https://parktoys.co.il/assets/product-enhanced-1782831114199-opcf46i.webp
-
-### דונאטס נידו גדול
-https://parktoys.co.il/product/dvnats-nydv-gdvl-633k1g
-- Price: 39.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: דונאטס נידו גדול ונעים למגע
-- Image: https://parktoys.co.il/assets/product-enhanced-1782830847747-sxw5io.webp
 
 ---
 
