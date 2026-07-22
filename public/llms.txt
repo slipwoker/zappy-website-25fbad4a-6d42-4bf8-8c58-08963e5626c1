@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 250** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 251** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לילה טוב לולי – דוברת עברית
+https://parktoys.co.il/product/lylh-tvb-lvly-dvbrt-abryt-818g3u
+- Price: 89.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: אפרוח חמוד וצהוב מאחל לכולם לילה טוב כשלולי האפרוח האהוב מחכה בחדר - כל ילד ישמח לקפוץ למיטה וללכת לישון. עם שיר לילה , מנגינות נעימות ותצוגת אורות רכים, לולי יהפוך את הרגעים שלפני השינה לחוויה קסומה ומרגיעה.
+- Image: https://parktoys.co.il/assets/product-1784705537277-ndwjq.webp
 
 ### בימבו – מעודד זחילה ומלמד
 https://parktoys.co.il/product/bymbv-mavdd-zchylh-vmlmd-k5vuas
@@ -1624,14 +1632,6 @@ https://parktoys.co.il/product/damplyng-ban-o30yij
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: דאמפלינג עם 2 באנים נידו
 - Image: https://parktoys.co.il/assets/product-enhanced-1782830715172-9ql1i7.webp
-
-### פלפל נידו 
-https://parktoys.co.il/product/plpl-nydv-7w6uze
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: פלפל נידו נעים וכיפי
-- Image: https://parktoys.co.il/assets/product-enhanced-1782830594143-i2jty.webp
 
 ---
 
