@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 288** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### המירוץ לארמון
-https://parktoys.co.il/product/hmyrvts-larmvn-z9prqf
+https://parktoys.co.il/product/hmyrvts-larmvn-anlpr2
 - Price: 50.00 ILS
 - Availability: In stock
 - Category: משחקי חברה

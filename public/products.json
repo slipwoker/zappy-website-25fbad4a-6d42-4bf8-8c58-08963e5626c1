@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T11:48:46.117Z",
+  "generated_at": "2026-07-22T12:00:59.440Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 288,
   "products": [
     {
       "id": "987e6ca0-98c6-4352-8af5-0da10b3ccff5",
-      "slug": "hmyrvts-larmvn-z9prqf",
+      "slug": "hmyrvts-larmvn-anlpr2",
       "name": "המירוץ לארמון",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/hmyrvts-larmvn-z9prqf",
+      "url": "https://parktoys.co.il/product/hmyrvts-larmvn-anlpr2",
       "categories": [
         "משחקי חברה"
       ],
-      "updated_at": "2026-07-22T11:48:08.367Z"
+      "updated_at": "2026-07-22T12:00:27.425Z"
     },
     {
       "id": "0e38e705-5147-4270-9c0f-432932ea86c3",
