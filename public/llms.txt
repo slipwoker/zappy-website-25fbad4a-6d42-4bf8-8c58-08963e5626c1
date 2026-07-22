@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 299** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 300** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מה עובר עליך?
+https://parktoys.co.il/product/mh-avbr-alyk-b80x27
+- Price: 100.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: מה עובר עליך הוא משחק תחרותי, מלהיב ומשעשע לכל גיל. המשימות בו מלהיבות את הדמיון, מעודדות יצירתיות ותורמות לפיתוח אינטליגנציה ותקשורת רגשית. קצב ההתקדמות שלכם במרוץ תלוי ביכולתכם להביע רגשות בקול ובתנועה, וביכולתכם לקלוט ולהבין רגשות של אחרים. כי זה לא חשוב מה עושים, חשוב איך מרגישים!
+- Image: https://parktoys.co.il/assets/product-enhanced-1784726137478-rzi17c.webp
 
 ### אוניברסיטה לגן 1 
 https://parktoys.co.il/product/avnybrsyth-lgn-1-jc2sz8
@@ -1626,13 +1634,6 @@ https://parktoys.co.il/product/kpsvlh-bvbt-styts-mbyt-just-play-disney-h9m5yb
 - Availability: In stock
 - Description: גלו עולם של הפתעות עם קפסולת ההפתעה הענקית של סטיץ'! הקפסולה המעוצבת בצורת ראשו של סטיץ' כוללת 8 הפתעות שונות באווירה טרופית – מבובת פלאש חמודה ודמויות קטנות ועד אביזרים, מדבקות ופוסטר צבעוני. מעבר להפתעות שבתוכה, הקפסולה עצמה משמשת כמארז אחסון מעוצב שניתן להציג בחדר. שעות של משחק, דמיון והנאה מחכות לחובבי דיסני וסטיץ'.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783431345166-uibd4i.webp
-
-### בית הבובות של גבי - בית בובות בדרכים
-https://parktoys.co.il/product/byt-hbvbvt-shl-gby-byt-bvbvt-bdrkym-e14lnn
-- Price: 120.00 ILS
-- Availability: In stock
-- Description: הביאו הביתה את ההתרגשות של בית הבובות של גבי, עם בית הבובות בדרכים! הבית מתנשא לגובה 30 ס"מ וניתן להשתמש בו לאחסון הדמויות שיש לכם באוסף! לבית יש דלת חצי-שקופה והוא מגיע עם דמות משחק של גבי ושני דפי מדבקה מלאים ברהיטי בית מקסימים וחבריה החתולים.
-- Image: https://parktoys.co.il/assets/product-enhanced-1783425344655-61v2w4.webp
 
 ---
 
