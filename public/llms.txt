@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 266** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 267** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### הבית החכם- קופסת פעילות
+https://parktoys.co.il/product/hbyt-hchkm-kvpst-paylvt-iyxiwd
+- Price: 149.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: גג אדום וחלונות - לשחק, ללמוד ולהנות! טוק טוק טוק, מי שם? ברוכים הבאים לבית החכם שלנו, הבית שכל פעוט ישמח לגור בו! כאן משחקים במגוון פעילויות מהנות התורמות לפיתוח החושי - מיון והשחלת צורות, סיבוב גלגלי שיניים, הנעת חרוזים ועוד. הבית החכם- מתפתחים-משחקים-לומדים! קופסת פעילות איכותית וצבעונית מגוון רחב של הפעלות לפיתוח חושי התינוק: מיון והשחלת צורות גלגלי שיניים סיבוב כדור משחק חרוזים סיבוב גלגלת מחוג פתיחת דלת
+- Image: https://parktoys.co.il/assets/product-1784710017147-mn2535.webp
 
 ### כדור התנועה
 https://parktoys.co.il/product/kdvr-htnvah-bx47oj
@@ -1624,14 +1632,6 @@ https://parktoys.co.il/product/avznyvt-bvltvt-shl-mkby-tl-abyb-nmwnp0
 - Category: מוצרי ספורט
 - Description: אוזניות קשת אלחוטיות נטענות כולל מיקרופון. מתאים לשיחות, שמיעת מוזיקה.
 - Image: https://parktoys.co.il/assets/product-1783279518747-u278ul.webp
-
-### אוזניות בלוטוס של מכבי חיפה
-https://parktoys.co.il/product/avznyvt-blvtvs-shl-mkby-chyph-sov22e
-- Price: 99.00 ILS
-- Availability: In stock
-- Category: מוצרי ספורט
-- Description: אוזניות קשת אלחוטיות נטענות כולל מיקרופון. מתאים לשיחות, שמיעת מוזיקה.
-- Image: https://parktoys.co.il/assets/product-1783279392791-jvm8g.webp
 
 ---
 

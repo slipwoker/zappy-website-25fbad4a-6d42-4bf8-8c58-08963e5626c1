@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T08:45:29.848Z",
+  "generated_at": "2026-07-22T08:49:33.594Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 266,
+  "count": 267,
   "products": [
+    {
+      "id": "4a973838-07af-44c6-94da-d6614c7eaa3a",
+      "slug": "hbyt-hchkm-kvpst-paylvt-iyxiwd",
+      "name": "הבית החכם- קופסת פעילות",
+      "name_translations": {},
+      "description": "",
+      "short_description": "גג אדום וחלונות - לשחק, ללמוד ולהנות! טוק טוק טוק, מי שם? ברוכים הבאים לבית החכם שלנו, הבית שכל פעוט ישמח לגור בו! כאן משחקים במגוון פעילויות מהנות התורמות לפיתוח החושי - מיון והשחלת צורות, סיבוב גלגלי שיניים, הנעת חרוזים ועוד. הבית החכם- מתפתחים-משחקים-לומדים! קופסת פעילות איכותית וצבעונית מגוון רחב של הפעלות לפיתוח חושי התינוק:\nמיון והשחלת צורות\nגלגלי שיניים\nסיבוב כדור\nמשחק חרוזים\nסיבוב גלגלת\nמחוג פתיחת דלת",
+      "sku": null,
+      "brand": null,
+      "price": 149,
+      "base_price": 149,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784710017147-mn2535.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/hbyt-hchkm-kvpst-paylvt-iyxiwd",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T08:49:01.813Z"
+    },
     {
       "id": "c4e1ce1a-4659-4929-97f2-49f8f0fb1543",
       "slug": "kdvr-htnvah-bx47oj",
