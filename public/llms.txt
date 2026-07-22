@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 272** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 273** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### משחק זיכרון וזריזות 2 ב 1 גדול – דובר עברית
+https://parktoys.co.il/product/mshchk-zykrvn-vzryzvt-2-b-1-gdvl-dvbr-abryt-erzxrj
+- Price: 79.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: משחקים ומשפרים את הזיכרון והזריזות גרסה חדשה ומשודרגת! לשיפור הזריזות וקואורדינציה שיפר היכולות הקוגניטיביות מעל 30 שלבי משחק אלופי הזיכרון: מסתכלים, זוכרים וחוזרים על המהלכים לפי הסדר! בכל שלב יתווסף לרצף מהלך נוסף, זכרו את רצף המהלכים וחזרו אחריהם. אלופי הזריזות: יש ללחוץ במהירות על הלחצנים הנדלקים. כולל תצוגה דיגיטלית של השלב במשחק. מופעל באמצעות סוללות 2*AA מגיל 3+
+- Image: https://parktoys.co.il/assets/product-1784712906006-cjtic.webp
 
 ### הטאבלט החכם שלי
 https://parktoys.co.il/product/htablt-hchkm-shly-zcm99v
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/nydv-artyk-skvvyshy-gly-rmxgjx
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: סקווישי גל בצורת ארטיק של חברת נידו
 - Image: https://parktoys.co.il/assets/product-enhanced-1783338878465-42ph7.webp
-
-### שלישייה דאמפלינג אורביז
-https://parktoys.co.il/product/shlyshyyh-damplyng-avrbyz-gcii1h
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: שליישיה דאמפלינג אורביז נעים בטירוף
-- Image: https://parktoys.co.il/assets/product-enhanced-1783335127073-s2mwbj.webp
 
 ---
 
