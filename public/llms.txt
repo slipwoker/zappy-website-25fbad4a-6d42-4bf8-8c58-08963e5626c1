@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 258** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 259** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קוביית הפעלות – דוברת עברית
+https://parktoys.co.il/product/kvbyyt-hpalvt-dvbrt-abryt-49u632
+- Price: 149.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: קובייה שהיא חוויה. למה לחשוב מחוץ לקופסה אם אפשר לחשוב מחוץ לקובייה… קוביית ההפעלות שלנו אטרקטיבית ומעוררת מחשבה מבחוץ, מבפנים ומכל הכיוונים! בכל צד מצדדיה מתגלה פעילות - חרוזים, התאמת צורות, האזנה למוזיקה ועוד, המפתחת את כישורי המוטוריקה העדינה, החושים והחשיבה. גיל 18M+
+- Image: https://parktoys.co.il/assets/product-1784707515072-mtznin.webp
 
 ### טאבלט לומדים עם קופיקו
 https://parktoys.co.il/product/tablt-lvmdym-am-kvpykv-xxoj5a
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/skvvyshy-nydv-tyrs-mtdkij
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: סקווישי נידו תירס נעים כיפי ומרגיע
 - Image: https://parktoys.co.il/assets/product-enhanced-1782832564335-0hlag.webp
-
-### סקווישי נידו לימון ענק
-https://parktoys.co.il/product/skvvyshy-nydv-lymvn-ank-e32y71
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: נידו לימון ענק נעים וכיפי למגע
-- Image: https://parktoys.co.il/assets/product-enhanced-1782832414256-n84hka.webp
 
 ---
 
