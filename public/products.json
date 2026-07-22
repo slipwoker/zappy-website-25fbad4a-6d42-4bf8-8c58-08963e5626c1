@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T07:45:42.082Z",
+  "generated_at": "2026-07-22T07:48:16.328Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 254,
+  "count": 255,
   "products": [
+    {
+      "id": "5827e6df-bffa-425d-bd8d-d3bd96f8343f",
+      "slug": "htablt-hrashvn-shly-70j007",
+      "name": "הטאבלט הראשון שלי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "גם \"ללמוד\" יכול להיות כיף מאד. ילדים, הדליקו את הטאבלט ואמרו שלום לפרופסור דוב חכם, שיודע ה-מון דברים מעניינים. יחד איתו תשחקו, תשירו ותלמדו בדרך חוויתית ומשעשעת נושאים רבים ומגוונים כגון - חשבון, צורות, כלי נגינה, אותיות, מוזיקה, קריאת שעון ובעלי חיים. יהיה כיף!",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784706406970-h3k9w.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/htablt-hrashvn-shly-70j007",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T07:47:44.408Z"
+    },
     {
       "id": "4e457458-09de-4e5e-a70c-d01473b58731",
       "slug": "mvltymdyh-tsatsvay-htptchvt-tablt-40-mylym-rashvnvt-wjg8cd",

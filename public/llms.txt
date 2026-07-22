@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 254** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 255** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### הטאבלט הראשון שלי
+https://parktoys.co.il/product/htablt-hrashvn-shly-70j007
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: גם "ללמוד" יכול להיות כיף מאד. ילדים, הדליקו את הטאבלט ואמרו שלום לפרופסור דוב חכם, שיודע ה-מון דברים מעניינים. יחד איתו תשחקו, תשירו ותלמדו בדרך חוויתית ומשעשעת נושאים רבים ומגוונים כגון - חשבון, צורות, כלי נגינה, אותיות, מוזיקה, קריאת שעון ובעלי חיים. יהיה כיף!
+- Image: https://parktoys.co.il/assets/product-enhanced-1784706406970-h3k9w.webp
 
 ###   מולטימדיה צעצועי התפתחות טאבלט 40 מילים ראשונות
 https://parktoys.co.il/product/mvltymdyh-tsatsvay-htptchvt-tablt-40-mylym-rashvnvt-wjg8cd
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/tvt-nydv-ank-l7c9zx
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: תות נידו ענק ונעים בטירוף
 - Image: https://parktoys.co.il/assets/product-enhanced-1782831655019-0y81e.webp
-
-### פנדה נידו  ענק
-https://parktoys.co.il/product/pndh-nydv-ank-orb9u7
-- Price: 39.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: פנדה נידו נדיר במיוחד בלעדי רק אצלנו
-- Image: https://parktoys.co.il/assets/product-enhanced-1782831305765-ajau2w.webp
 
 ---
 
