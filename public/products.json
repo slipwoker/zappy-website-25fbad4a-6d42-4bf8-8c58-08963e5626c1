@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T07:59:03.985Z",
+  "generated_at": "2026-07-22T08:04:07.999Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 257,
+  "count": 258,
   "products": [
+    {
+      "id": "d500283d-a270-408b-8587-b0e7c147b47d",
+      "slug": "tablt-lvmdym-am-kvpykv-xxoj5a",
+      "name": "טאבלט לומדים עם קופיקו",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קופיקו השובב - מורה שכל תלמיד יאהב! מי אם לא קופיקו מבין שהכי כיף ללמוד דרך משחק - עם טאבלט קופיקו תלמדו נושאים כמו אותיות, ספרות, מילים בעברית ובאנגלית, והכל בדרך מהנה וחוויתית. לוחצים על הכפתורים ובהתאם למספר הלחיצות - מאזינים למידע מעניין, עונים לשאלות, שומעים שירים וחדים חדות. ללמוד זה כיף - תשאלו את קופיקו! לומדים עם קופיקו לוחצים על אות או ספרה שלוש פעמים לחיצה ראשונה - לומדים אות או ספרה לחיצה שניה - מקבלים מידע לחיצה שלישית- לומדים אנגלית לחצן תווים - שומעים שירים לחצן סימן שאלה - חדים ח",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784707271620-b766ac.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/tablt-lvmdym-am-kvpykv-xxoj5a",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T08:03:36.086Z"
+    },
     {
       "id": "10127d2b-f2c3-49d8-a94e-5d29924e0baa",
       "slug": "trktvr-chyvt-chvvh-dvbr-abryt-o01zeo",
