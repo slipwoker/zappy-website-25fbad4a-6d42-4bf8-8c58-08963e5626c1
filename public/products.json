@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T15:06:48.285Z",
+  "generated_at": "2026-07-22T15:13:35.130Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 303,
+  "count": 304,
   "products": [
+    {
+      "id": "4c9390f0-0877-4e82-b6e9-dfa5f1ad859f",
+      "slug": "avtyvt-mtaymym-vmylym-mrkybym-bqzlfq",
+      "name": " אותיות מתאימים ומילים מרכיבים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "משחק להכרת האותיות ולפיתוח מיומנויות בהרכבת מילים.\nהמשחק מפתח את הזיכרון החזותי, מחזק את יכולת זיהוי הצלילים וכושר הריכוז.\n\nבמשחק 18 לוחות. בכל לוח מופיע ציור מעולם הילדים ומתחתיו כתובה המילה בחלוקה לאותיות\nעל המשתתף לזהות את התמונה, לחלק את המילה לצלילים והבהרות, לאתר את האותיות הנכונות ולהניחן על גבי הלוח במקום המתאים.",
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784733171654-5f87jf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/avtyvt-mtaymym-vmylym-mrkybym-bqzlfq",
+      "categories": [
+        "משחקי חברה"
+      ],
+      "updated_at": "2026-07-22T15:13:03.196Z"
+    },
     {
       "id": "26b8dd72-db52-4b2a-9508-119296b75b13",
       "slug": "avnybrsyth-lgn-3-7m61qz",
