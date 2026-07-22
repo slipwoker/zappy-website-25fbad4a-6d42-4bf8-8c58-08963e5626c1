@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 277** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 278** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קשת פעילות חיות וחיוכים
+https://parktoys.co.il/product/ksht-paylvt-chyvt-vchyvkym-jbxwwf
+- Price: 139.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: חיות וחיוכים והקטנים שמחים! קשת פעילות צבעונית ומאירת עיניים המתחברת בקלות לעגלה, לטרמפולינה ולסל-קל, עם שלוש דמויות חייכניות ושמש מראה, המזמינות להושיט יד ולגעת בהן, למשש, למשוך ולהניע מצד לצד. מסייעת להתפתחות באמצעות הפעלות צבעים ודמויות כוללת צעצועים בעלי הפעלות מגוונות לפיתוח חושים והיכולות המוטוריות של התינוק.
+- Image: https://parktoys.co.il/assets/product-1784714685778-cvwlu.webp
 
 ### התנור הראשון שלי דובר עברית
 https://parktoys.co.il/product/htnvr-hrashvn-shly-dvbr-abryt-tuigcf
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/kvrkynt-palvlym-g11-mbyt-grow-pro-ryhs1j
 - Category: גלגלים
 - Description: קורקינט פעלולים G11 מבית Grow Pro הכירו את Grow Pro G11, קורקינט פעלולים חצי מקצועי שנבנה עבור רוכבים שרוצים להתקדם בעולם הרכיבה האתגרית וליהנות מביצועים גבוהים בסקייטפארק וברחוב. זהו לא עוד קורקינט רגיל, אלא כלי רכיבה אקסטרים אמיתי, המתוכנן להתמודד עם עומסים של קפיצות, נחיתות ותרגילים דינמיים, תוך שמירה על יציבות, שליטה ובטיחות. המבנה העמיד, ההנדסה המתקדמת והעיצוב המוזהב והבולט מעניקים לו שילוב מנצח של כוח, נוחות וסטייל. Grow Pro G11 מתאים לרוכבים שמחפשים קורקינט איכותי, מרשים ומוכן לאתגר הבא,
 - Image: https://parktoys.co.il/assets/product-enhanced-1783354571875-nlzn1t.webp
-
-### קורקינט GROW PRO G10
-https://parktoys.co.il/product/kvrkynt-grow-pro-g10-hfdu33
-- Price: 899.91 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: הכירו את קורקינט הפעלולים G10 של Grow Pro – שילוב מושלם של עיצוב יוקרתי, איכות הנדסית וביצועים מדויקים 🎯 ה-G10 נבנה במיוחד עבור רוכבים צעירים ובני נוער שאוהבים להרגיש את האקשן – עם מבנה חזק מאלומיניום 6061 תעופתי, מראה שמושך מבטים בכל סקייטפארק, ושליטה מושלמת גם בתרגילי פריסטייל מתקדמים. זה לא עוד קורקינט. קיים במגוון צבעים לפי המלאי בחנות
-- Image: https://parktoys.co.il/assets/product-enhanced-1783342060903-1ysrz.webp
 
 ---
 

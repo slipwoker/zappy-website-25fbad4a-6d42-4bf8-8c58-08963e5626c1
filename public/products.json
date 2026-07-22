@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T10:03:10.508Z",
+  "generated_at": "2026-07-22T10:05:42.280Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 277,
+  "count": 278,
   "products": [
+    {
+      "id": "93483718-e8e2-4ce7-81d8-a98ac12e0363",
+      "slug": "ksht-paylvt-chyvt-vchyvkym-jbxwwf",
+      "name": "קשת פעילות חיות וחיוכים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חיות וחיוכים והקטנים שמחים! קשת פעילות צבעונית ומאירת עיניים המתחברת בקלות לעגלה, לטרמפולינה ולסל-קל, עם שלוש דמויות חייכניות ושמש מראה, המזמינות להושיט יד ולגעת בהן, למשש, למשוך ולהניע מצד לצד. מסייעת להתפתחות באמצעות הפעלות צבעים ודמויות כוללת צעצועים בעלי הפעלות מגוונות לפיתוח חושים והיכולות המוטוריות של התינוק.",
+      "sku": null,
+      "brand": null,
+      "price": 139,
+      "base_price": 139,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784714685778-cvwlu.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/ksht-paylvt-chyvt-vchyvkym-jbxwwf",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T10:05:10.300Z"
+    },
     {
       "id": "bbcc04f2-35b6-4dc8-9008-ef2b937c9050",
       "slug": "htnvr-hrashvn-shly-dvbr-abryt-tuigcf",
