@@ -5722,7 +5722,7 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 ## Product Catalog
 
 ### אוניברסיטה לגן 1 
-URL: https://parktoys.co.il/product/avnybrsyth-lgn-1-201ui5
+URL: https://parktoys.co.il/product/avnybrsyth-lgn-1-kzxl7w
 Price: 50.00 ILS
 Availability: In stock
 

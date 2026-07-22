@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T13:08:50.201Z",
+  "generated_at": "2026-07-22T13:14:09.333Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 299,
   "products": [
     {
       "id": "bea67124-05ec-4abe-9f5a-c4b71dd29d2c",
-      "slug": "avnybrsyth-lgn-1-201ui5",
+      "slug": "avnybrsyth-lgn-1-kzxl7w",
       "name": "אוניברסיטה לגן 1 ",
       "name_translations": {},
       "description": "",
@@ -19,15 +19,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://parktoys.co.il/assets/product-1784725667328-ctelu.webp"
+        "https://parktoys.co.il/assets/product-enhanced-1784725772163-qvnksn.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/avnybrsyth-lgn-1-201ui5",
+      "url": "https://parktoys.co.il/product/avnybrsyth-lgn-1-kzxl7w",
       "categories": [
         "משחקי חברה"
       ],
-      "updated_at": "2026-07-22T13:08:18.620Z"
+      "updated_at": "2026-07-22T13:13:37.776Z"
     },
     {
       "id": "610cc902-8594-49e8-a9fe-de1888bae401",
