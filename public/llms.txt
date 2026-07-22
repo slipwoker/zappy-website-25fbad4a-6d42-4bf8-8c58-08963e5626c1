@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 295** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 296** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### היגיון מהיר 
+https://parktoys.co.il/product/hygyvn-mhyr-jdqtzf
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: משחק פיתוח יכולת תיכנון מהלכים לצעירים
+- Image: https://parktoys.co.il/assets/product-1784723848585-x98f4.webp
 
 ### טיסה 501
 https://parktoys.co.il/product/tysh-501-z8gqy1
@@ -1622,13 +1630,6 @@ https://parktoys.co.il/product/kryy-byyby-kvny-tsad-rashvn-hbvbh-shbvkh-cftxr7
 - Availability: In stock
 - Description: קריי בייבי קוני צעד ראשון הולכת ובוכה בובת קריי בייבי קוני בגודל 30 ס"מ עם 10 צלילים ותגובות וגם הולכת! בובת קריי בייבי קוני צעד ראשון – עזרו לה לעשות את צעדיה הראשונים, קחו את ידיה והובילו אותה קדימה כדי ללמד אותה ללכת. בזמן שאתם הולכים, הבובה תשמיע צלילי תינוק עליזים. לקוני יש רגליים עם מפרקים והיא יכולה לשבת! בנוסף, היא בוכה דמעות עם אורות הדרגתיים כשהיא לא עם המוצץ שלה. שימו לה את המצץ והיא תפסיק לבכות והמוצץ ידלק גם כן! דרושות 2 סוללות AAA (אינן כלולות)
 - Image: https://parktoys.co.il/assets/product-1783422472983-ymyub.webp
-
-### קריי ביבי משנה צבע
-https://parktoys.co.il/product/kryy-byby-mshnh-tsba-nvhtun
-- Price: 129.00 ILS
-- Availability: In stock
-- Description: הכירו את הבובה הכי מתוקה, מנצנצת וקסומה שיש! בובת הגליטר בייביז בעלת אישיות מלבבת שבאה לידי ביטוי בעיניים המהממות שלה. בחולצה שהיא לובשת, בבקבוקים שלה ובמוצץ. תהיו מוכנים לגלות גם 3 הפתעות קסומות של שינוי צבע! בכל פעם שתרחצו את הבובה במים קרים כקרח השיער שלה ישנה את צבעו. בנוסף גם בקבוק השמפו וגם בקבוק האוכל של הבובה ישנו את צבעם שוב ושוב כאשר תמלאו אותם במי קרח. הדגם של בובת הגליטר בייביז כולל: בובה, חולצה וחיתול מנצנץ הניתנים להסרה, מוצץ, בקבוק שמפו ובקבוק אוכל. האכילו אותה עם הבקבוק, ה
-- Image: https://parktoys.co.il/assets/product-1783421568481-l214h.webp
 
 ---
 

@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T12:35:11.800Z",
+  "generated_at": "2026-07-22T12:38:31.845Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 295,
+  "count": 296,
   "products": [
+    {
+      "id": "1438dcc7-0bab-49ed-9cc1-8b97364bf314",
+      "slug": "hygyvn-mhyr-jdqtzf",
+      "name": "היגיון מהיר ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "משחק פיתוח יכולת תיכנון מהלכים לצעירים",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784723848585-x98f4.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/hygyvn-mhyr-jdqtzf",
+      "categories": [
+        "משחקי חברה"
+      ],
+      "updated_at": "2026-07-22T12:37:59.743Z"
+    },
     {
       "id": "710688b8-1675-4086-9e51-0124d062275b",
       "slug": "tysh-501-z8gqy1",
