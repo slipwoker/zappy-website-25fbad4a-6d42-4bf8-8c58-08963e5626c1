@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 262** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 263** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מגדל הטבעות המדבר שלי
+https://parktoys.co.il/product/mgdl-htbavt-hmdbr-shly-ny07w7
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: טבעות משחילים, מקשיבים למוזיקה ולומדים מילים. עם מגדל הטבעות שלנו, פעולת ההשחלה היא חגיגה שלמה - משחילים את הטבעות על פי הסדר, מאזינים לשירים, וגם לקטעים מוזיקליים המשלבים למידת מילים. חוויה לימודית מהנה וצבעונית לפעוטות! משוב חיובי בהשחלת טבעת! דובר עברית! 2 שירים מקוריים בעברית: שיר המספרים שיר בעלי חיים 5 קטעים מוזיקליים המלמדים מילים ראשונות בעברית: בוקר טוב כלב חתול כדור אבא אמא 2 עוצמות קול לחצני אור נדלקים
+- Image: https://parktoys.co.il/assets/product-1784708377483-t7j8s.webp
 
 ### הך פטיש קסילופון
 https://parktoys.co.il/product/hk-ptysh-ksylvpvn-guho6n
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/shvlchn-kdvrgl-bytr-yrvshlym-n5oxfp
 - Category: מוצרי ספורט
 - Description: הביאו את האקטיביות וההתרגשות של המגרש אליכם הביתה עם שולחן כדורגל איכותי ומעוצב. השולחן מאפשר לילדים ולמבוגרים כאחד ליהנות ממשחקים תחרותיים ומהנים, כשהוא מעוטר בסמלים ובצבעים של קבוצות הכדורגל המובילות בישראל. תיאור המוצר שולחן הכדורגל תוכנן במיוחד למשחק זוגי נוח על גבי שולחן או משטח ישר. הוא כולל משטח משחק ירוק עם סימוני מגרש, שחקנים צבעוניים המותקנים על מוטות פלדה עמידים, וידיות אחיזה ארגונומיות לשליטה מרבית ומהירות תגובה. מבנה השולחן יציב וכולל לוח תוצאות ידני מעל כל שער, כדי שתוכלו לעקוב אח
 - Image: https://parktoys.co.il/assets/product-1783278599988-zrnxw5.webp
-
-### שולחן הוקי אוויר מעץ מבית I-POP
-https://parktoys.co.il/product/shvlchn-hvky-avvyr-mats-mbyt-i-pop-m2yz5a
-- Price: 89.00 ILS
-- Availability: In stock
-- Category: מוצרי ספורט
-- Description: שולחן ההוקי מעץ מוסיף התרגשות ותחרותיות לכל בית ומאפשר ליהנות ממשחק הוקי אוויר ממש כמו במתחמי משחק מקצועיים - רק בגרסה קומפקטית ונוחה לשימוש. המשטח החלק מאפשר לדסקיות להחליק במהירות ובסיס חזק למשחק אנרגטי ומהנה. הסט כולל שתי דסקיות ושני שחקנים, כך שניתן להתחיל לשחק מיד עם פתיחת האריזה. זהו משחק שמפתח זריזות, תיאום עין־יד וחשיבה מהירה, ומתאים לילדים, בני נוער ומבוגרים שרוצים להוסיף קצת תחרות וכיף לשעות הפנאי.
-- Image: https://parktoys.co.il/assets/product-1783262511095-sh0jjs.webp
 
 ---
 

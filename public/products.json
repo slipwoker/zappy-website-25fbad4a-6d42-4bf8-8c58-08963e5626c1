@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T08:14:35.454Z",
+  "generated_at": "2026-07-22T08:21:55.536Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 262,
+  "count": 263,
   "products": [
+    {
+      "id": "ac86c33a-bbb8-4acf-8e09-b9ae06a3970a",
+      "slug": "mgdl-htbavt-hmdbr-shly-ny07w7",
+      "name": "מגדל הטבעות המדבר שלי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "טבעות משחילים, מקשיבים למוזיקה ולומדים מילים. עם מגדל הטבעות שלנו, פעולת ההשחלה היא חגיגה שלמה - משחילים את הטבעות על פי הסדר, מאזינים לשירים, וגם לקטעים מוזיקליים המשלבים למידת מילים. חוויה לימודית מהנה וצבעונית לפעוטות!  \nמשוב חיובי בהשחלת טבעת! דובר עברית!   2 שירים מקוריים בעברית: שיר המספרים שיר בעלי חיים   5 קטעים מוזיקליים המלמדים מילים ראשונות בעברית: בוקר טוב כלב חתול כדור אבא אמא   2 עוצמות קול לחצני אור נדלקים  ",
+      "sku": null,
+      "brand": null,
+      "price": 119,
+      "base_price": 119,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784708377483-t7j8s.webp",
+        "https://parktoys.co.il/assets/product-1784708420329-f41z6.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mgdl-htbavt-hmdbr-shly-ny07w7",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T08:21:23.736Z"
+    },
     {
       "id": "5b23b9a0-a2bb-40c1-aa19-7d2bb76a9d4f",
       "slug": "hk-ptysh-ksylvpvn-guho6n",
