@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T12:43:18.283Z",
+  "generated_at": "2026-07-22T12:45:00.947Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 296,
+  "count": 297,
   "products": [
+    {
+      "id": "aa5032f0-bf3e-4af3-ba27-943e99cfe232",
+      "slug": "hlvtv-hrashvn-shly-ouj6wz",
+      "name": "הלוטו הראשון שלי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הלוטו הראשון שלי מבית ישראטויס – משחק לוטו לפיתוח יכולת ההתאמה החזותית, כושר הריכוז ויכולת הזיהוי והמיון.",
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784724256108-iur6y.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/hlvtv-hrashvn-shly-ouj6wz",
+      "categories": [
+        "משחקי חברה"
+      ],
+      "updated_at": "2026-07-22T12:44:28.185Z"
+    },
     {
       "id": "1438dcc7-0bab-49ed-9cc1-8b97364bf314",
       "slug": "hygyvn-mhyr-yxp4qw",

@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 296** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 297** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### הלוטו הראשון שלי
+https://parktoys.co.il/product/hlvtv-hrashvn-shly-ouj6wz
+- Price: 60.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: הלוטו הראשון שלי מבית ישראטויס – משחק לוטו לפיתוח יכולת ההתאמה החזותית, כושר הריכוז ויכולת הזיהוי והמיון.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784724256108-iur6y.webp
 
 ### היגיון מהיר 
 https://parktoys.co.il/product/hygyvn-mhyr-yxp4qw
@@ -1623,13 +1631,6 @@ https://parktoys.co.il/product/kryy-byybyz-kvkbym-sydny-cry-babies-k4we2s
 - Availability: In stock
 - Description: קריי בייביז חדש סדרת כוכבים Cry Babies – הבובה החדשה שמטריפה את הבנות קריי בייבי בוכה עם דמעות אמיתיות! עיניי כוכבים נדלקות ומאירות. (נדרש להוסיף מים לדמעות). הוציאו את המוצץ והיא תתחיל לבכות עד שתקבלו בחזרה. הבובה פועלת עם סוללות 1.5X2AAA מגילאי 3 ומעלה.
 - Image: https://parktoys.co.il/assets/product-1783422895972-jsv51m.webp
-
-### קריי בייבי קוני צעד ראשון – הבובה שבוכה
-https://parktoys.co.il/product/kryy-byyby-kvny-tsad-rashvn-hbvbh-shbvkh-cftxr7
-- Price: 199.00 ILS
-- Availability: In stock
-- Description: קריי בייבי קוני צעד ראשון הולכת ובוכה בובת קריי בייבי קוני בגודל 30 ס"מ עם 10 צלילים ותגובות וגם הולכת! בובת קריי בייבי קוני צעד ראשון – עזרו לה לעשות את צעדיה הראשונים, קחו את ידיה והובילו אותה קדימה כדי ללמד אותה ללכת. בזמן שאתם הולכים, הבובה תשמיע צלילי תינוק עליזים. לקוני יש רגליים עם מפרקים והיא יכולה לשבת! בנוסף, היא בוכה דמעות עם אורות הדרגתיים כשהיא לא עם המוצץ שלה. שימו לה את המצץ והיא תפסיק לבכות והמוצץ ידלק גם כן! דרושות 2 סוללות AAA (אינן כלולות)
-- Image: https://parktoys.co.il/assets/product-1783422472983-ymyub.webp
 
 ---
 
