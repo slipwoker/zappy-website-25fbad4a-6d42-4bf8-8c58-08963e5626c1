@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 291** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 292** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מונופול קלאסי 2023
+https://parktoys.co.il/product/mvnvpvl-klasy-2023-454vz1
+- Price: 139.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: משחק העסקים המוכר והכיפי – מונופול מבית קודקוד! רוכשים נדל"ן ומבצעים עסקאות במשחק העסקים הקלאסי והאהוב ביותר בעולם! בואו לבנות בתים ומלונות, להשתתף במכירות פומביות ולנצל את כל ההזדמנויות במרוץ לעושר הנכסף. ההצלחה שלכם תלוי בבחירות שתעשו, אבל גם קצת במזל… המשתתף האחרון שלא פשט את הרגל הוא המנצח! מתאים ל- 2-6 משתתפים, מומלץ לגילאי 8 ומעלה. מק"ט 1756 התמונה להמחשה בלבד, עשויה להציג מוצרי השלמה שאינם מגיעים במוצר הבסיס. זוזו בין הערים באמצעות הטלת קוביות עם דמויות בשלל צורות, קנו רחובות, השיג
+- Image: https://parktoys.co.il/assets/product-1784722698063-1wm83f.webp
 
 ### סולמות וחבלים - עולים בסולמות וגולשים בחבלים עד שמנצחים
 https://parktoys.co.il/product/svlmvt-vchblym-avlym-bsvlmvt-vgvlshym-bchblym-ad-shmntschym-xtsixm
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/ksdh-byysyk-lbn-grow-mydh-m-gyl-5-10-cqc92i
 - Category: גלגלים
 - Description: קסדת GROW Basic – בטיחות מקסימלית, סטייל בלתי מתפשר עם מחפשים את השילוב המושלם בין הגנה קשוחה למראה אופנתי? קסדת החצי של GROW היא הבחירה האידיאלית לדור הצעיר של הרוכבים – בין אם הם על אופניים, קורקינט, סקטבורד או רולרבליידס. הגנה היקפית מוגברת: מבנה ה"קערה" הייחודי מעניק כיסוי רחב ומצוין גם לחלק האחורי של הראש (העורף) והרקות – לביטחון מלא בכל רכיבה. הקסדה עשויה ממעטפת PC חזקה במיוחד ו‑EPS מוקצף בצפיפות גבוהה – לבלימת זעזועים מושלמת. נוחות ואוורור: פתחי אוורור אסטרטגיים בחלק ה
 - Image: https://parktoys.co.il/assets/product-enhanced-1783418606495-yizx94.webp
-
-### קסדה בייסיק שחור Grow מידה S (גיל 3-6)
-https://parktoys.co.il/product/ksdh-byysyk-shchvr-grow-mydh-s-gyl-3-6-3uv6tp
-- Price: 70.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: קסדת GROW Basic – בטיחות מקסימלית, סטייל בלתי מתפשר עם תאורת LED אחורית! מחפשים את השילוב המושלם בין הגנה קשוחה למראה אופנתי? קסדת החצי של GROW היא הבחירה האידיאלית לדור הצעיר של הרוכבים – בין אם הם על אופניים, קורקינט, סקטבורד או רולרבליידס. הגנה היקפית מוגברת: מבנה ה'קערה' הייחודי מעניק כיסוי רחב ומצוין גם לחלק האחורי של הראש (העורף) והרקות – לביטחון מלא בכל רכיבה. הקסדה עשויה ממעטפת PC חזקה במיוחד ו־EPS מוקצף בצפיפות גבוהה – לבלימת זעזועים מושלמת. נוחות ואוורור: פתחי אוורור אסטרטגיים בחלק
-- Image: https://parktoys.co.il/assets/product-enhanced-1783418113405-0x4xbk.webp
 
 ---
 

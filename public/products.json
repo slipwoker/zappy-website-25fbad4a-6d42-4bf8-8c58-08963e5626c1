@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T12:15:04.626Z",
+  "generated_at": "2026-07-22T12:19:53.313Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 291,
+  "count": 292,
   "products": [
+    {
+      "id": "17230503-9a78-4b86-a802-d56a027d75ef",
+      "slug": "mvnvpvl-klasy-2023-454vz1",
+      "name": "מונופול קלאסי 2023",
+      "name_translations": {},
+      "description": "",
+      "short_description": "משחק העסקים המוכר והכיפי – מונופול מבית קודקוד!\n\nרוכשים נדל\"ן ומבצעים עסקאות במשחק העסקים הקלאסי והאהוב ביותר בעולם!\n\nבואו לבנות בתים ומלונות, להשתתף במכירות פומביות ולנצל את כל ההזדמנויות במרוץ לעושר הנכסף.\n\nההצלחה שלכם תלוי בבחירות שתעשו, אבל גם קצת במזל… המשתתף האחרון שלא פשט את הרגל הוא המנצח!\n\nמתאים ל- 2-6 משתתפים, מומלץ לגילאי 8 ומעלה.\n\nמק\"ט 1756\n\nהתמונה להמחשה בלבד, עשויה להציג מוצרי השלמה שאינם מגיעים במוצר הבסיס.\n\nזוזו בין הערים באמצעות הטלת קוביות עם דמויות בשלל צורות, קנו רחובות, השיג",
+      "sku": null,
+      "brand": null,
+      "price": 139,
+      "base_price": 139,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784722698063-1wm83f.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mvnvpvl-klasy-2023-454vz1",
+      "categories": [
+        "משחקי חברה"
+      ],
+      "updated_at": "2026-07-22T12:19:21.524Z"
+    },
     {
       "id": "f59fc912-2b57-4964-ab09-e5cb270d5fdc",
       "slug": "svlmvt-vchblym-avlym-bsvlmvt-vgvlshym-bchblym-ad-shmntschym-xtsixm",
