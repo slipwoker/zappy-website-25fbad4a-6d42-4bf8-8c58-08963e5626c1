@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 267** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 268** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### גלגל האנגלית
+https://parktoys.co.il/product/glgl-hanglyt-9wgevb
+- Price: 149.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: הפתעה בכל לחיצה וסיבוב: לימוד מילים, אותיות, חיות, קולות, צלילים ומנגינות. 26 מילים בסיסיות באנגלית ● הקראה ותרגול של מילים חידות ושאלות בשפה האנגלית ● שירים ומנגינות קלאסיות לגירוי קוגניטיבי ● מוצר זה מופעל באמצעות 3 סוללות AA מתאים מגיל 18 חודשים ומעלה 2 עוצמות קול
+- Image: https://parktoys.co.il/assets/product-1784710379240-k5eeau.webp
 
 ### הבית החכם- קופסת פעילות
 https://parktoys.co.il/product/hbyt-hchkm-kvpst-paylvt-iyxiwd
@@ -1624,14 +1632,6 @@ https://parktoys.co.il/product/kvrkynt-am-3-glglym-lyldym-mbyt-viper-svprmn-sqil
 - Category: גלגלים
 - Description: • קורקינט בעיצוב מדליק בהשראת גיבור העל האהוב, סופרמן, מבטיח שעות של כיף והנאה. • שלושה גלגלים עשויים סיליקון איכותי ובלם אחורי. • מוט מתכוונן להתאמה אישית עד לגובה של 80 ס"מ. • קל ונוח לנשיאה ומתאים לשימוש בבית ובחוץ. • תורם לפיתוח שיווי משקל וכישורים מוטוריים. מפרט טכני • משקל נשיאה מקסימלי: 50 ק"ג • גובה ידית מתכווננת: 71-80 ס"מ • גובה הקורקינט: 91 ס"מ
 - Image: https://parktoys.co.il/assets/product-1783329606574-su8hrq.webp
-
-### אוזניות בולטות של מכבי תל אביב
-https://parktoys.co.il/product/avznyvt-bvltvt-shl-mkby-tl-abyb-nmwnp0
-- Price: 99.00 ILS
-- Availability: In stock
-- Category: מוצרי ספורט
-- Description: אוזניות קשת אלחוטיות נטענות כולל מיקרופון. מתאים לשיחות, שמיעת מוזיקה.
-- Image: https://parktoys.co.il/assets/product-1783279518747-u278ul.webp
 
 ---
 
