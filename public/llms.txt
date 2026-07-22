@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 265** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 266** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### כדור התנועה
+https://parktoys.co.il/product/kdvr-htnvah-bx47oj
+- Price: 129.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: כדור התפתחות מוזיקלי - לשחק בו זה כיף לא נורמאלי! זורקים, תופסים, מגלגלים, מסובבים ולומדים מגוון נושאים מגניבים - בעלי חיים, מספרים וצורות, בליווי צלילים ושירים בעברית. מעודד זחילה ומשחק באמצעות תנועה, קולות ושירים 2 רמות קול
+- Image: https://parktoys.co.il/assets/product-enhanced-1784709865721-14dbk9.webp
 
 ### חפרפרת בסרט – נקמת הפטישים דובר עברית
 https://parktoys.co.il/product/chprprt-bsrt-nkmt-hptyshym-dvbr-abryt-1j6l5l
@@ -1624,13 +1632,6 @@ https://parktoys.co.il/product/avznyvt-blvtvs-shl-mkby-chyph-sov22e
 - Category: מוצרי ספורט
 - Description: אוזניות קשת אלחוטיות נטענות כולל מיקרופון. מתאים לשיחות, שמיעת מוזיקה.
 - Image: https://parktoys.co.il/assets/product-1783279392791-jvm8g.webp
-
-### שולחן כדורגל ביתי מכבי תל אביב
-https://parktoys.co.il/product/shvlchn-kdvrgl-byty-mkby-tl-abyb-s8l8pe
-- Price: 99.00 ILS (sale, was 150.00 ILS)
-- Availability: In stock
-- Description: שולחן הכדורגל תוכנן במיוחד למשחק זוגי נוח על גבי שולחן או משטח ישר. הוא כולל משטח משחק ירוק עם סימוני מגרש, שחקנים צבעוניים המותקנים על מוטות פלדה עמידים, וידיות אחיזה ארגונומיות לשליטה מרבית ומהירות תגובה. מבנה השולחן יציב וכולל לוח תוצאות ידני מעל כל שער, כדי שתוכלו לעקוב אחרי כל גול בדרך לניצחון. הערכה מגיעה עם אביזרים משלימים המבטיחים חוויית משחק שלמה מהרגע הראשון. מפרט טכני עיצובים זמינים: מכבי תל אביב (צהוב-כחול), מכבי חיפה (ירוק-לבן), בית"ר ירושלים (צהוב-שחור). מידות השולחן: אורך כ-55-57
-- Image: https://parktoys.co.il/assets/product-1783279027754-7mcbdl.webp
 
 ---
 
