@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T07:33:28.492Z",
+  "generated_at": "2026-07-22T07:38:18.751Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 251,
+  "count": 252,
   "products": [
+    {
+      "id": "3ca66804-740c-41ad-b7c3-9356c51cff92",
+      "slug": "spr-hmylym-hrashvn-shly-g68pt5",
+      "name": "ספר המילים הראשון שלי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קל ללחוץ ולדפדף וללמוד מילים בכיף. ספר אינטראקטיבי ייחודי ומרתק הטומן בחובו מגוון עצום של תוכן לימודי המוגש בדרך אטרקטיבית שפונה לכל החושים. בכל עמוד מתגלים נושאים חדשים - צורות, צבעים, בעלי חיים, חלקי גוף ועוד, לצד מילים, מנגינות והפתעות. 3 מצבי פעולה גילאי 12 חודשים+   ",
+      "sku": null,
+      "brand": null,
+      "price": 120,
+      "base_price": 120,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784705714180-9ayjm5.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/spr-hmylym-hrashvn-shly-g68pt5",
+      "categories": [],
+      "updated_at": "2026-07-22T07:37:46.861Z"
+    },
     {
       "id": "504dd65a-ffcf-496e-9f2f-9a12f8336b46",
       "slug": "lylh-tvb-lvly-dvbrt-abryt-818g3u",

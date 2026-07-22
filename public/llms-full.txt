@@ -5721,6 +5721,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### ספר המילים הראשון שלי
+URL: https://parktoys.co.il/product/spr-hmylym-hrashvn-shly-g68pt5
+Price: 120.00 ILS
+Availability: In stock
+
+---
+
 ### לילה טוב לולי – דוברת עברית
 URL: https://parktoys.co.il/product/lylh-tvb-lvly-dvbrt-abryt-818g3u
 Price: 89.00 ILS

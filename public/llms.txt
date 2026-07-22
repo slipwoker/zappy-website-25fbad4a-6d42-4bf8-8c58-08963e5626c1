@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 251** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 252** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ספר המילים הראשון שלי
+https://parktoys.co.il/product/spr-hmylym-hrashvn-shly-g68pt5
+- Price: 120.00 ILS
+- Availability: In stock
+- Description: קל ללחוץ ולדפדף וללמוד מילים בכיף. ספר אינטראקטיבי ייחודי ומרתק הטומן בחובו מגוון עצום של תוכן לימודי המוגש בדרך אטרקטיבית שפונה לכל החושים. בכל עמוד מתגלים נושאים חדשים - צורות, צבעים, בעלי חיים, חלקי גוף ועוד, לצד מילים, מנגינות והפתעות. 3 מצבי פעולה גילאי 12 חודשים+
+- Image: https://parktoys.co.il/assets/product-1784705714180-9ayjm5.webp
 
 ### לילה טוב לולי – דוברת עברית
 https://parktoys.co.il/product/lylh-tvb-lvly-dvbrt-abryt-818g3u
@@ -1624,14 +1631,6 @@ https://parktoys.co.il/product/dvnats-nydv-gdvl-633k1g
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: דונאטס נידו גדול ונעים למגע
 - Image: https://parktoys.co.il/assets/product-enhanced-1782830847747-sxw5io.webp
-
-### דאמפלינג באן
-https://parktoys.co.il/product/damplyng-ban-o30yij
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: דאמפלינג עם 2 באנים נידו
-- Image: https://parktoys.co.il/assets/product-enhanced-1782830715172-9ql1i7.webp
 
 ---
 
