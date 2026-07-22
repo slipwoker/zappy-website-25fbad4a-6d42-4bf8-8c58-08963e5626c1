@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T11:05:14.618Z",
+  "generated_at": "2026-07-22T11:07:48.629Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 280,
+  "count": 281,
   "products": [
+    {
+      "id": "faa70100-9082-496c-b6a7-54b623de375a",
+      "slug": "havtvbvs-hchkm-avtvbvs-myvn-tsvrvt-jgvhdz",
+      "name": "האוטובוס החכם - אוטובוס מיון צורות",
+      "name_translations": {},
+      "description": "",
+      "short_description": "משחקים ולומדים!\n\nצורות\nצבעים\nבעלי חיים\n\nשני מצבי פעולה:\n\nצורות וצבעים\nבעלי חיים\n\nשלושה שירים מקוריים בעברית:\n\nשיר הזברה\nשיר האריה\nשיר הגירפה\n\nמצב מעודד זחילה עם ליווי של 15 המנגינות שירים ישראלים קלאסיים – האוטובוס נוסע!",
+      "sku": null,
+      "brand": null,
+      "price": 140,
+      "base_price": 140,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784718417638-slmlep.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/havtvbvs-hchkm-avtvbvs-myvn-tsvrvt-jgvhdz",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T11:07:16.258Z"
+    },
     {
       "id": "6de3262a-1266-4bd8-b2b4-3b7f6a269cb6",
       "slug": "hlykvn-paylvt-rsmnzh",

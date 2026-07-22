@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 280** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 281** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### האוטובוס החכם - אוטובוס מיון צורות
+https://parktoys.co.il/product/havtvbvs-hchkm-avtvbvs-myvn-tsvrvt-jgvhdz
+- Price: 140.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: משחקים ולומדים! צורות צבעים בעלי חיים שני מצבי פעולה: צורות וצבעים בעלי חיים שלושה שירים מקוריים בעברית: שיר הזברה שיר האריה שיר הגירפה מצב מעודד זחילה עם ליווי של 15 המנגינות שירים ישראלים קלאסיים – האוטובוס נוסע!
+- Image: https://parktoys.co.il/assets/product-enhanced-1784718417638-slmlep.webp
 
 ### הליכון פעילות
 https://parktoys.co.il/product/hlykvn-paylvt-rsmnzh
@@ -1624,14 +1632,6 @@ https://parktoys.co.il/product/bytsy-skvvyshy-punirunes-chyyt-mchmd-dygytlyt-ayn
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: טפלו וטפחו בהנאה חיות מחמד דיגיטליות שניתן לגעת בהן ובנו עולם משלכם מלא בדמויות חמודות וקסומות! מתאים מגיל 5 ומעלה.הכירו את חיות המחמד הדיגיטליות - ה-Punirunes! טפלו וטפחו בהנאה חיות מחמד דיגיטליות שניתן לגעת בהן ובנו עולם משלכם מלא בדמויות חמודות וקסומות! הניחו אצבע בתוך הצעצוע Punirunes וגלו כפתור רך המגיב למגע. תצוגת LED צבעונית תראה את תנועותיכם על המסך, ממש כאילו אתם נוגעים בדמות ה-Punirunes! לחצו על הכפתור וצפו כיצד הדמות מגיבה
 - Image: https://parktoys.co.il/assets/product-1783360807755-gx2cp.webp
-
-### קסדת בטיחות סוניק פריים
-https://parktoys.co.il/product/ksdt-btychvt-svnyk-pryym-zrqhym
-- Price: 59.99 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: קסדת בטיחות לילדים בעיצוב סוניק פריים לרכיבה בטיחותית מידות ראש 48-52 ס"מ
-- Image: https://parktoys.co.il/assets/product-enhanced-1783355957852-dwgtss.webp
 
 ---
 
