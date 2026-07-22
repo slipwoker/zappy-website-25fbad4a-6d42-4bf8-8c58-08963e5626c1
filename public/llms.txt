@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 247** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 248** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מילון הצלילים הראשון שלי
+https://parktoys.co.il/product/mylvn-htslylym-hrashvn-shly-g2wrbd
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: מיאו, מו, הב-הב-הב - משחק שכל פעוט יאהב. בין דפי המילון מחכים לכם מגוון קולות, אורות, צלילים ולמעלה ממאה משפטים בעברית במגוון נושאים - בעלי חיים, כלי תחבורה, כלי נגינה, צורות וצבעים, חפצים וגוף האדם. חוויה לימודית צבעונית, מוזיקלית ומשעשעת שעובדת על כל החושים. 20 מנגינות משעשעות ומעל 100 משפטים לימודיים במגוון נושאים כגון: "אבא שלי לקח אותי לטיול ברכבת!" "שלום! אני הוא הכלב! אני מאוד אוהב לאכול עצמות!" "יש לי עפיפון כתום וצורתו היא מעוין!"
+- Image: https://parktoys.co.il/assets/product-1784704581794-xz7kpe.webp
 
 ### תכשיטי אותיות – חרוזים XL
 https://parktoys.co.il/product/tkshyty-avtyvt-chrvzym-xl-0evj74
@@ -1625,13 +1633,6 @@ https://parktoys.co.il/product/rchpn-mtkpl-am-mtslmh-v-wifi-ltsylvm-chvvyty-ipop
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
 - Description: 🚁📸 רחפן WIFI מתקפל – מצלמים מהשמיים בקלות! ✨ חוויית טיסה וצילום מתקדמת הכירו את הרחפן המתקפל עם חיבור WIFI – פתרון מושלם לצילום מהאוויר ושליטה נוחה דרך השלט. הרחפן מאפשר להקליט רגעים מיוחדים וליהנות
 - Image: https://parktoys.co.il/assets/product-enhanced-1782760470670-09oqiw.webp
-
-### ריינבוקורן ענק לבן - חד קרן
-https://parktoys.co.il/product/ryynbvkvrn-ank-lbn-chd-krn-brcas7
-- Price: 199.00 ILS
-- Availability: In stock
-- Description: הצל את החד קרן שלך! כולל 1 בובת חד קרן 1ביצת חד קרן 1 Reveal 'n' Heal Heart 3 ביצי Boo-Boocorns 3 קאקי 1 סרט לראש 1 שרביט ריפוי קסם 1 סליים קסום Rainbocorns כרטיס להבריא 1 דוח בדיקת גוף ו-2x מדבקת רנטגן השתמש בדוח הבריאות, במדבקות רנטגן, במטה הקסמים ובמזרקי ריפוי כדי להציל את ה-Rainbocorn שלך יש שלושה ד"ר בו-בוקורן לאסוף ולעזור לך להציל את ריינבווויל השתמש במדריך האספנים כדי למצוא את כל החברים בעלי הקטיפה הגרועה שזקוקים לחיסכון מידות: 29.2L x 26W x 35H ס"מ
-- Image: https://parktoys.co.il/assets/product-enhanced-1782760228682-i7z7n9.webp
 
 ---
 

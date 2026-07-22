@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T07:11:09.507Z",
+  "generated_at": "2026-07-22T07:20:36.443Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 247,
+  "count": 248,
   "products": [
+    {
+      "id": "ad8c642e-3a4d-4827-9797-2caf6dec8d24",
+      "slug": "mylvn-htslylym-hrashvn-shly-g2wrbd",
+      "name": "מילון הצלילים הראשון שלי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מיאו, מו, הב-הב-הב - משחק שכל פעוט יאהב. בין דפי המילון מחכים לכם מגוון קולות, אורות, צלילים ולמעלה ממאה משפטים בעברית במגוון נושאים - בעלי חיים, כלי תחבורה, כלי נגינה, צורות וצבעים, חפצים וגוף האדם. חוויה לימודית צבעונית, מוזיקלית ומשעשעת שעובדת על כל החושים. 20 מנגינות משעשעות ומעל 100 משפטים לימודיים במגוון נושאים כגון: \"אבא שלי לקח אותי לטיול ברכבת!\" \"שלום! אני הוא הכלב! אני מאוד אוהב לאכול עצמות!\" \"יש לי עפיפון כתום וצורתו היא מעוין!\"",
+      "sku": null,
+      "brand": null,
+      "price": 119,
+      "base_price": 119,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784704581794-xz7kpe.webp",
+        "https://parktoys.co.il/assets/product-1784704792671-11gp74.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mylvn-htslylym-hrashvn-shly-g2wrbd",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T07:20:04.711Z"
+    },
     {
       "id": "ae683d8a-84d6-455e-ab2b-6a4e526bb6a9",
       "slug": "tkshyty-avtyvt-chrvzym-xl-0evj74",
