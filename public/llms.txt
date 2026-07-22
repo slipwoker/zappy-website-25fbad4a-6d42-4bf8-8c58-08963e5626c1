@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 276** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 277** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### התנור הראשון שלי דובר עברית
+https://parktoys.co.il/product/htnvr-hrashvn-shly-dvbr-abryt-tuigcf
+- Price: 189.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: אופים צעירים - חממו את התנורים! מריחים את ניחוח המאפים המשגע הזה? הוא מגיע מהתנור הראשון שלי כמובן, התנור שהופך כל אופה חובב לשף קונדיטור! עם אורות וצלילים, מגוון אביזרי אפיה מקצועיים, שעון דיגיטלי, מדבקות, איורים ועובדות מרתקות על מקורות המזון, התנור הראשון שלי הוא צעצוע חובה לכל הילדים שמתעניינים בבישול ואוהבים אוכל טעים ומזין! חוויה קולינרית מיניאטורית דובר עברית! 25 חלקים 2 מגשים, סכין כף ומזלג שעון דיגיטלי מעודד סבלנות ותחושת זמן עובדות מעניינות על מקורות המזון ומרכיביו שני מצבי ווליום לשלי
+- Image: https://parktoys.co.il/assets/product-1784714533945-kqgwr.webp
 
 ### מובייל ציפורים נייד
 https://parktoys.co.il/product/mvbyyl-tsypvrym-nyyd-dgk4yd
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/kvrkynt-grow-pro-g10-hfdu33
 - Category: גלגלים
 - Description: הכירו את קורקינט הפעלולים G10 של Grow Pro – שילוב מושלם של עיצוב יוקרתי, איכות הנדסית וביצועים מדויקים 🎯 ה-G10 נבנה במיוחד עבור רוכבים צעירים ובני נוער שאוהבים להרגיש את האקשן – עם מבנה חזק מאלומיניום 6061 תעופתי, מראה שמושך מבטים בכל סקייטפארק, ושליטה מושלמת גם בתרגילי פריסטייל מתקדמים. זה לא עוד קורקינט. קיים במגוון צבעים לפי המלאי בחנות
 - Image: https://parktoys.co.il/assets/product-enhanced-1783342060903-1ysrz.webp
-
-### רולר בליידס חד קרן
-https://parktoys.co.il/product/rvlr-blyyds-chd-krn-so3uc2
-- Price: 170.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: תנו לילדים שלכם להתחיל את הרפתקת הרכיבה הראשונה שלהם עם רולר בליידס בעיצוב חד-קרן מהפנט! שילוב מושלם של פנטזיה, בטיחות ונוחות – עם צבעים מתוקים, נצנצים ותחושת קסם אמיתית בכל סיבוב גלגל.
-- Image: https://parktoys.co.il/assets/product-enhanced-1783340438491-o51qm5.webp
 
 ---
 
