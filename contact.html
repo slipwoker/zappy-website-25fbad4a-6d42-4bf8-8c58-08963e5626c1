@@ -780,7 +780,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "25fbad4a-6d42-4bf8-8c58-08963e5626c1";window.ZAPPY_API_BASE = "https://api.zappy5.com"</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "25fbad4a-6d42-4bf8-8c58-08963e5626c1";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -1617,16 +1617,16 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </div>
 </section>
 
-<section class="contact-cta-section" data-layout-spec="צור קשר ושאלות נפוצות-cta">
+<section class="contact-cta-section" data-layout-spec="צור קשר ושאלות נפוצות-cta" id="contact-cta-section">
   <div class="contact-cta-container">
     <div class="contact-cta-content">
       <h2 class="contact-cta-title">צריכים עזרה בבחירת הצעצוע המושלם?</h2>
       <p class="contact-cta-description">אנחנו בפארק הצעצועים כאן כדי לעזור לך למצוא את המתנה האידיאלית לכל גיל, אירוע או תחום עניין. צוות המומחים שלנו ישמח להמליץ על הטרנדים הכי חמים, להתאים מוצרים לפי טווח גילאים, ולהבטיח שתצאו עם חיוך ענק והמתנה הכי שווה שיש.</p>
-      <a href="#contact-form" class="contact-cta-button">
+      <p class="zappy-editable"><a href="052-7343842 " class="contact-cta-button" data-native-element="true" data-element-id="btn-1784734305927-kv12kph4x" data-element-type="button" style="outline: none; border-color: var(--primary-color, var(--primary, #8B0000)) !important; color: rgb(255, 255, 255) !important; background-color: var(--primary-color, var(--primary, #8B0000)) !important; background-image: none !important;">
         <span>דברו איתנו עכשיו</span>
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" data-element-type="icon" data-icon-type="svg"><path d="M15 18l-6-6 6-6"/></svg>
       </a>
-    </div>
+    </p></div>
   </div>
 </section>
   </main>
