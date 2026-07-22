@@ -1,10 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T09:52:46.835Z",
+  "generated_at": "2026-07-22T09:57:57.997Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 274,
+  "count": 275,
   "products": [
+    {
+      "id": "003392a3-a8da-44c4-99ca-03992cf7dea7",
+      "slug": "mvbyyl-laglh-chyvt-vchyvkym-73iohs",
+      "name": "מובייל לעגלה – חיות וחיוכים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מחברים לעגלה וכל טיול הופך נפלא! הכירו את המלווים החדשים שלכם לטיולים בעגלה - כלב, שועל, שמש וענן - ארבעה חברים חמודים וחייכנים! הם מסתובבים באיטיות, שרים שירי ערש בעברית, משמיעים מנגינות מרגיעות, ומשמחים ומרגיעים כל פעוט. מסקרן את התינוק בצבעים ומנגינות נעימות זרוע מתכווננת לחיבור קל ומהיר 2 מצבי הפעלה: מסתובב/ מסתובב ומנגן",
+      "sku": null,
+      "brand": null,
+      "price": 169,
+      "base_price": 169,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784714000613-95ud6f.webp",
+        "https://parktoys.co.il/assets/product-1784714038556-744zo.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mvbyyl-laglh-chyvt-vchyvkym-73iohs",
+      "categories": [],
+      "updated_at": "2026-07-22T09:57:24.778Z"
+    },
     {
       "id": "22b42daa-cad3-49d9-952c-0898d302900e",
       "slug": "rapr-hbrvvz-mavdd-zchylh-dvbr-abryt-sn10im",

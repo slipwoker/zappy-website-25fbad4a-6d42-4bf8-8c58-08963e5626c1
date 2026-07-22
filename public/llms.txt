@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 274** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 275** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מובייל לעגלה – חיות וחיוכים
+https://parktoys.co.il/product/mvbyyl-laglh-chyvt-vchyvkym-73iohs
+- Price: 169.00 ILS
+- Availability: In stock
+- Description: מחברים לעגלה וכל טיול הופך נפלא! הכירו את המלווים החדשים שלכם לטיולים בעגלה - כלב, שועל, שמש וענן - ארבעה חברים חמודים וחייכנים! הם מסתובבים באיטיות, שרים שירי ערש בעברית, משמיעים מנגינות מרגיעות, ומשמחים ומרגיעים כל פעוט. מסקרן את התינוק בצבעים ומנגינות נעימות זרוע מתכווננת לחיבור קל ומהיר 2 מצבי הפעלה: מסתובב/ מסתובב ומנגן
+- Image: https://parktoys.co.il/assets/product-1784714000613-95ud6f.webp
 
 ### ראפר הברווז – מעודד זחילה דובר עברית
 https://parktoys.co.il/product/rapr-hbrvvz-mavdd-zchylh-dvbr-abryt-sn10im
@@ -1624,13 +1631,6 @@ https://parktoys.co.il/product/kvmbv-skyytym-vrvlr-blyyds-grow-tsba-kchvl-8s69zh
 - Category: גלגלים
 - Description: החליקו בנוחות ובסטייל עם רולרבליידס משולב עם סקייטים מבית Grow! דגם 2 ב-1 משלב בין חוויית ההחלקה של רולרבליידס לבין היציבות של סקייטים, ומציע פתרון נהדר גם לילדים שלומדים להחליק וגם למנוסים שרוצים לגוון בפעילות. בזכות מנגנון מעבר פשוט ומהיר, הנעל האוורירית והתמיכה הארגונומית לרגל, כל החלקה הופכת למהנה ובטוחה יותר. פתרון מעולה לפעילות ספורטיבית, פיתוח שיווי משקל וקואורדינציה, והכל בעיצוב צבעוני וייחודי.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783339841556-xzglif.webp
-
-### נידו גלידה סקווישי גל
-https://parktoys.co.il/product/nydv-glydh-skvvyshy-gl-qydxs7
-- Price: 15.00 ILS
-- Availability: In stock
-- Description: סקווישי גל בצורת גלידה של חברת נידו
-- Image: https://parktoys.co.il/assets/product-enhanced-1783339033043-b64u1w.webp
 
 ---
 
