@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T12:49:11.317Z",
+  "generated_at": "2026-07-22T13:08:50.201Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 298,
+  "count": 299,
   "products": [
+    {
+      "id": "bea67124-05ec-4abe-9f5a-c4b71dd29d2c",
+      "slug": "avnybrsyth-lgn-1-201ui5",
+      "name": "אוניברסיטה לגן 1 ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכת הכנה לגן חובה לפיתוח החשיבה ולהעשרת הידע!\n\nהמשחק הראשון בסדרת אוניברסיטה לגן כולל 9 משחקים שונים של התאמה ביניהם.\n\nהתאמות צורות וצבעים, קטן-בינוני-גדול, צללים, שייכות עצמים ועוד.\n\nמשחק מעולה להכנה לגן חובה, הכולל בתוכו גם כיף גדול לקטנטנים.",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784725667328-ctelu.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/avnybrsyth-lgn-1-201ui5",
+      "categories": [
+        "משחקי חברה"
+      ],
+      "updated_at": "2026-07-22T13:08:18.620Z"
+    },
     {
       "id": "610cc902-8594-49e8-a9fe-de1888bae401",
       "slug": "mshchk-htamvt-lymvdy-hmktsva-shly-vsok91",

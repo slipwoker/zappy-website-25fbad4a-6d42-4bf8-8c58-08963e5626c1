@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 298** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 299** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### אוניברסיטה לגן 1 
+https://parktoys.co.il/product/avnybrsyth-lgn-1-201ui5
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: ערכת הכנה לגן חובה לפיתוח החשיבה ולהעשרת הידע! המשחק הראשון בסדרת אוניברסיטה לגן כולל 9 משחקים שונים של התאמה ביניהם. התאמות צורות וצבעים, קטן-בינוני-גדול, צללים, שייכות עצמים ועוד. משחק מעולה להכנה לגן חובה, הכולל בתוכו גם כיף גדול לקטנטנים.
+- Image: https://parktoys.co.il/assets/product-1784725667328-ctelu.webp
 
 ### משחק התאמות לימודי - המקצוע שלי
 https://parktoys.co.il/product/mshchk-htamvt-lymvdy-hmktsva-shly-vsok91
@@ -1625,13 +1633,6 @@ https://parktoys.co.il/product/byt-hbvbvt-shl-gby-byt-bvbvt-bdrkym-e14lnn
 - Availability: In stock
 - Description: הביאו הביתה את ההתרגשות של בית הבובות של גבי, עם בית הבובות בדרכים! הבית מתנשא לגובה 30 ס"מ וניתן להשתמש בו לאחסון הדמויות שיש לכם באוסף! לבית יש דלת חצי-שקופה והוא מגיע עם דמות משחק של גבי ושני דפי מדבקה מלאים ברהיטי בית מקסימים וחבריה החתולים.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783425344655-61v2w4.webp
-
-### פטס אלייב גורי קקי - Zuru
-https://parktoys.co.il/product/pts-alyyb-gvry-kky-zuru-isguv4
-- Price: 150.00 ILS
-- Availability: In stock
-- Description: טס אלייב גורי קקי - מבית זורו Zuru pets alive pooping puppies המתנה המושלמת לאוהבי חיות קטנות ומשעשעות! פטס אלייב גורי קקי הוא צעצוע אינטראקטיבי שיהפוך כל משחק לחוויה מצחיקה ומלאת חיים. מה זה פטס אלייב גורי קקי? זהו גור כלבים חמוד ומתוק שמגיב להאכלה ולמשחק, ובסיום הוא עושה "קקי" ממשי שמעניק לילדים תחושת אחריות וטיפול בחיית מחמד אמיתית, אבל בלי הבלגן האמיתי!
-- Image: https://parktoys.co.il/assets/product-1783424331271-5sqdwi.webp
 
 ---
 

@@ -5721,6 +5721,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### אוניברסיטה לגן 1 
+URL: https://parktoys.co.il/product/avnybrsyth-lgn-1-201ui5
+Price: 50.00 ILS
+Availability: In stock
+
+---
+
 ### משחק התאמות לימודי - המקצוע שלי
 URL: https://parktoys.co.il/product/mshchk-htamvt-lymvdy-hmktsva-shly-vsok91
 Price: 50.00 ILS
