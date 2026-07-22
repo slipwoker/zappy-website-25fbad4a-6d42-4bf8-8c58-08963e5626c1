@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T11:28:13.252Z",
+  "generated_at": "2026-07-22T11:31:42.890Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 284,
+  "count": 285,
   "products": [
+    {
+      "id": "aa7b0a25-c39e-40da-9a9a-21599a4be5f1",
+      "slug": "marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-12-18-chvdshym-8rlo51",
+      "name": "מארז צעצועי התפתחות מעץ מבית Polar B - לגילאי 12-18 חודשים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מארז צעצועי התפתחות מעץ מבית Polar B, אוסף של צעצועי עץ איכותיים ומעוצבים בקפידה, שנוצרו במיוחד כדי ללוות את ילדכם בשלבי ההתפתחות החשובים ביותר. המארז מעודד למידה דרך משחק, מפתח חשיבה, מוטוריקה ויצירתיות, ומשלב הנאה, דמיון והתפתחות בכל רגע של משחק. עשוי עץ טבעי וצבעים בטוחים - מתנה מושלמת לילדים סקרנים שאוהבים לגלות, ללמוד",
+      "sku": null,
+      "brand": null,
+      "price": 200,
+      "base_price": 200,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784719847542-4g7gvd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-12-18-chvdshym-8rlo51",
+      "categories": [],
+      "updated_at": "2026-07-22T11:31:10.948Z"
+    },
     {
       "id": "a15bd3ba-c740-4e60-9f4b-d430ba58e4e8",
       "slug": "marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-18-24-chvdshym-0kyzv2",

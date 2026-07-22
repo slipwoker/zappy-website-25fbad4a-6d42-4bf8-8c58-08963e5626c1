@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 284** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 285** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מארז צעצועי התפתחות מעץ מבית Polar B - לגילאי 12-18 חודשים
+https://parktoys.co.il/product/marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-12-18-chvdshym-8rlo51
+- Price: 200.00 ILS
+- Availability: In stock
+- Description: מארז צעצועי התפתחות מעץ מבית Polar B, אוסף של צעצועי עץ איכותיים ומעוצבים בקפידה, שנוצרו במיוחד כדי ללוות את ילדכם בשלבי ההתפתחות החשובים ביותר. המארז מעודד למידה דרך משחק, מפתח חשיבה, מוטוריקה ויצירתיות, ומשלב הנאה, דמיון והתפתחות בכל רגע של משחק. עשוי עץ טבעי וצבעים בטוחים - מתנה מושלמת לילדים סקרנים שאוהבים לגלות, ללמוד
+- Image: https://parktoys.co.il/assets/product-enhanced-1784719847542-4g7gvd.webp
 
 ### מארז צעצועי התפתחות מעץ מבית Polar B - לגילאי 18-24 חודשים
 https://parktoys.co.il/product/marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-18-24-chvdshym-0kyzv2
@@ -1624,14 +1631,6 @@ https://parktoys.co.il/product/ksdh-lyldym-dgm-unicorn-mbyt-grow-mydh-m-tsba-sgv
 - Category: גלגלים
 - Description: קסדה לילדים דגם Unicorn מבית Grow מחפשים קסדה שתגן על הילד שלכם מבלי להתפשר על עיצוב ואיכות? הקסדות המעוצבות של Grow הן בדיוק מה שאתם צריכים! הקסדה עשויה חומר PC איכותי עם ציפוי מגן UV, המבטיח עמידות גבוהה ושמירה על מראה הקסדה לאורך זמן. כוללת מנגנון התאמה חכם לגודל הראש (מתאימה לקוטר ראש של 54-58 ס"מ) ועד 11 פתחי אוורור המספקים זרימת אוויר מצוינת. בחלקה הפנימי יש ריפוד ספוגים רך ונעים, לשימוש נוח גם לאורך זמן. הקסדה קלה במיוחד - עד 255 גרם, עומדת בתקני הבטיחות המחמירים ביותר ומתאימה לילדים מגיל
 - Image: https://parktoys.co.il/assets/product-enhanced-1783411120522-j6qje7.webp
-
-### קסדת ילדים מעוצבת עם מנגנון התאמה, ופתחי איוורור לגיל 3 ומעלה - דינוזאור ירוק
-https://parktoys.co.il/product/ksdt-yldym-mavtsbt-am-mngnvn-htamh-vptchy-ayvvrvr-lgyl-3-vmalh-dynvzavr-yrvk-mhx2pf
-- Price: 120.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: קסדת בטיחות מעוצבת לילדים מבית Grow Kids קסדת הילדים המעוצבת היא לא רק אמצעי בטיחות חיוני, אלא גם אביזר אופנתי ומלא סטייל שיעודד את ילדכם לחבוש אותה בכל רכיבה. היא משלבת הגנה מקסימלית עם עיצוב ייחודי שיהפוך את ילדכם למלך הפארק! תכונות עיקריות: עיצוב חדשני וכיפי: הקסדה מעוצבת בצורת מושכת את העין. העיצוב המקורי הופך את חבישת הקסדה לחוויה מהנה ומלהיבה. הגנה אולטימטיבית: בחלקה הפנימי של הקסדה שכבת EPS דחוסה מוקצפת בצפיפות גבוהה למניעת זעזועים שתספק הגנה מקסימלית לראש הילד במקרה של נפילה או חבטה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1783410842967-sgz60i.webp
 
 ---
 
