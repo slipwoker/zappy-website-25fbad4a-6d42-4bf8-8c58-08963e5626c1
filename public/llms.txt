@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 249** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### הסמארטפון הראשון שלי
-https://parktoys.co.il/product/hsmartpvn-hrashvn-shly-1qttk5
+https://parktoys.co.il/product/hsmartpvn-hrashvn-shly-x5lthf
 - Price: 79.00 ILS
 - Availability: In stock
 - Category: מוצרי תינוקות 
