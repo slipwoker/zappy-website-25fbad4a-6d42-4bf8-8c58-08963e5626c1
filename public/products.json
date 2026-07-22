@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T12:19:53.313Z",
+  "generated_at": "2026-07-22T12:29:30.712Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 292,
+  "count": 293,
   "products": [
+    {
+      "id": "c00adef2-6503-4701-b097-08c450a1510c",
+      "slug": "mvnpvl-svpr-bnkavt-alktrvnyt-kvdkvd-afsqyw",
+      "name": "מונפול סופר בנקאות אלקטרונית - קודקוד",
+      "name_translations": {},
+      "description": "",
+      "short_description": "על המשחק\nגירסה חדשה לאחד המשחקים הפופולריים ביותר בעולם, שמטרתו לצבור נכסים רבים ככל שאפשר ולא לפשוט את הרגל.\nצעדו על גבי הלוח, קנו נכסים, גבו דמי שכירות - וקבלו על כך הטבות!\nהמשחק מסתיים כשכל הנכסים נרכשו.\nהמשתתף שצבר הכי הרבה כסף הוא המנצח!\nפיתוח מיומנויות\nמפתח מיומנויות חזותיות, מפתח מוטוריקה עדינה, מפתח חשיבה.\nמינימום משתתפים: 2\nמקסימום משתתפים: 4",
+      "sku": null,
+      "brand": null,
+      "price": 259,
+      "base_price": 259,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784723112857-h0vh1.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mvnpvl-svpr-bnkavt-alktrvnyt-kvdkvd-afsqyw",
+      "categories": [
+        "משחקי חברה"
+      ],
+      "updated_at": "2026-07-22T12:28:58.740Z"
+    },
     {
       "id": "17230503-9a78-4b86-a802-d56a027d75ef",
       "slug": "mvnvpvl-klasy-2023-454vz1",

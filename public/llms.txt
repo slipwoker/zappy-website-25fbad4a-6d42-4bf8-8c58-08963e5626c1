@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 292** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 293** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מונפול סופר בנקאות אלקטרונית - קודקוד
+https://parktoys.co.il/product/mvnpvl-svpr-bnkavt-alktrvnyt-kvdkvd-afsqyw
+- Price: 259.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: על המשחק גירסה חדשה לאחד המשחקים הפופולריים ביותר בעולם, שמטרתו לצבור נכסים רבים ככל שאפשר ולא לפשוט את הרגל. צעדו על גבי הלוח, קנו נכסים, גבו דמי שכירות - וקבלו על כך הטבות! המשחק מסתיים כשכל הנכסים נרכשו. המשתתף שצבר הכי הרבה כסף הוא המנצח! פיתוח מיומנויות מפתח מיומנויות חזותיות, מפתח מוטוריקה עדינה, מפתח חשיבה. מינימום משתתפים: 2 מקסימום משתתפים: 4
+- Image: https://parktoys.co.il/assets/product-enhanced-1784723112857-h0vh1.webp
 
 ### מונופול קלאסי 2023
 https://parktoys.co.il/product/mvnvpvl-klasy-2023-454vz1
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/kvs-lhknt-brd-shl-tsatsva-shl-sypvr-cq9h0d
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: כוס להכנת ברד הכנה מהירה וקלה במיוחד
 - Image: https://parktoys.co.il/assets/product-enhanced-1783421002700-zltc89.webp
-
-### קסדה בייסיק לבן Grow מידה M (גיל 5-10)
-https://parktoys.co.il/product/ksdh-byysyk-lbn-grow-mydh-m-gyl-5-10-cqc92i
-- Price: 70.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: קסדת GROW Basic – בטיחות מקסימלית, סטייל בלתי מתפשר עם מחפשים את השילוב המושלם בין הגנה קשוחה למראה אופנתי? קסדת החצי של GROW היא הבחירה האידיאלית לדור הצעיר של הרוכבים – בין אם הם על אופניים, קורקינט, סקטבורד או רולרבליידס. הגנה היקפית מוגברת: מבנה ה"קערה" הייחודי מעניק כיסוי רחב ומצוין גם לחלק האחורי של הראש (העורף) והרקות – לביטחון מלא בכל רכיבה. הקסדה עשויה ממעטפת PC חזקה במיוחד ו‑EPS מוקצף בצפיפות גבוהה – לבלימת זעזועים מושלמת. נוחות ואוורור: פתחי אוורור אסטרטגיים בחלק ה
-- Image: https://parktoys.co.il/assets/product-enhanced-1783418606495-yizx94.webp
 
 ---
 
