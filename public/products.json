@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T09:42:52.185Z",
+  "generated_at": "2026-07-22T09:52:46.835Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 273,
+  "count": 274,
   "products": [
+    {
+      "id": "22b42daa-cad3-49d9-952c-0898d302900e",
+      "slug": "rapr-hbrvvz-mavdd-zchylh-dvbr-abryt-sn10im",
+      "name": "ראפר הברווז – מעודד זחילה דובר עברית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ברווז המעודד זחילה וריקוד הכי מדליק שיש כל הבית ירקוד ללא הפסקה לקצב מוזיקלי היפ הופ עם ראפר הברווז! 2 עוצמות קול אורות , תנועה מוזיקה מדליקה מופעל באמצעות 3 סוללות AA גיל 18+M",
+      "sku": null,
+      "brand": null,
+      "price": 119,
+      "base_price": 119,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784713616145-2z88v.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/rapr-hbrvvz-mavdd-zchylh-dvbr-abryt-sn10im",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T09:52:15.181Z"
+    },
     {
       "id": "6107b50f-9e96-484f-8459-9aa61c716cf9",
       "slug": "mshchk-zykrvn-vzryzvt-2-b-1-gdvl-dvbr-abryt-erzxrj",

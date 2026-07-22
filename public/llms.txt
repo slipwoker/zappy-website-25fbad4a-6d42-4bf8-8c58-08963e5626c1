@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 273** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 274** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ראפר הברווז – מעודד זחילה דובר עברית
+https://parktoys.co.il/product/rapr-hbrvvz-mavdd-zchylh-dvbr-abryt-sn10im
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: ברווז המעודד זחילה וריקוד הכי מדליק שיש כל הבית ירקוד ללא הפסקה לקצב מוזיקלי היפ הופ עם ראפר הברווז! 2 עוצמות קול אורות , תנועה מוזיקה מדליקה מופעל באמצעות 3 סוללות AA גיל 18+M
+- Image: https://parktoys.co.il/assets/product-enhanced-1784713616145-2z88v.webp
 
 ### משחק זיכרון וזריזות 2 ב 1 גדול – דובר עברית
 https://parktoys.co.il/product/mshchk-zykrvn-vzryzvt-2-b-1-gdvl-dvbr-abryt-erzxrj
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/nydv-glydh-skvvyshy-gl-qydxs7
 - Availability: In stock
 - Description: סקווישי גל בצורת גלידה של חברת נידו
 - Image: https://parktoys.co.il/assets/product-enhanced-1783339033043-b64u1w.webp
-
-### נידו ארטיק סקווישי גלי
-https://parktoys.co.il/product/nydv-artyk-skvvyshy-gly-rmxgjx
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: סקווישי גל בצורת ארטיק של חברת נידו
-- Image: https://parktoys.co.il/assets/product-enhanced-1783338878465-42ph7.webp
 
 ---
 
