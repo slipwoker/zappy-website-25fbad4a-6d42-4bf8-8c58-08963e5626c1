@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T09:57:57.997Z",
+  "generated_at": "2026-07-22T10:01:13.443Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 275,
+  "count": 276,
   "products": [
+    {
+      "id": "59ac2d86-f376-4ac2-963b-a56c6edcc1f8",
+      "slug": "mvbyyl-tsypvrym-nyyd-dgk4yd",
+      "name": "מובייל ציפורים נייד",
+      "name_translations": {},
+      "description": "",
+      "short_description": "למיטה, לעגלה או לתיק מחברים - ונהנים מציוץ הציפורים! מובייל ציפורים צבעוניות הניתן לחיבור בשלושה אופנים שונים ומשמיע נעימות מרגיעות עם אפשרות לנגינה רצופה של 30 דקות. חברו אותו למיטה, לעגלה, למושב המכונית או לתיק ותנו לציפורים החמודות לעשות את שלהן… 10 מנגינות ערש מרגיעות מסתובבת 360 מעלות גירוי ויזואלי באמצעות דמויות וצבעים 3 אפשרויות חיבור קלות ונוחות 30 דקות נגינה מגיל לידה",
+      "sku": null,
+      "brand": null,
+      "price": 159,
+      "base_price": 159,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784714399720-mdqwt4.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mvbyyl-tsypvrym-nyyd-dgk4yd",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T10:00:41.586Z"
+    },
     {
       "id": "003392a3-a8da-44c4-99ca-03992cf7dea7",
       "slug": "mvbyyl-laglh-chyvt-vchyvkym-73iohs",

@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 275** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 276** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מובייל ציפורים נייד
+https://parktoys.co.il/product/mvbyyl-tsypvrym-nyyd-dgk4yd
+- Price: 159.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: למיטה, לעגלה או לתיק מחברים - ונהנים מציוץ הציפורים! מובייל ציפורים צבעוניות הניתן לחיבור בשלושה אופנים שונים ומשמיע נעימות מרגיעות עם אפשרות לנגינה רצופה של 30 דקות. חברו אותו למיטה, לעגלה, למושב המכונית או לתיק ותנו לציפורים החמודות לעשות את שלהן… 10 מנגינות ערש מרגיעות מסתובבת 360 מעלות גירוי ויזואלי באמצעות דמויות וצבעים 3 אפשרויות חיבור קלות ונוחות 30 דקות נגינה מגיל לידה
+- Image: https://parktoys.co.il/assets/product-1784714399720-mdqwt4.webp
 
 ### מובייל לעגלה – חיות וחיוכים
 https://parktoys.co.il/product/mvbyyl-laglh-chyvt-vchyvkym-73iohs
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/rvlr-blyyds-chd-krn-so3uc2
 - Category: גלגלים
 - Description: תנו לילדים שלכם להתחיל את הרפתקת הרכיבה הראשונה שלהם עם רולר בליידס בעיצוב חד-קרן מהפנט! שילוב מושלם של פנטזיה, בטיחות ונוחות – עם צבעים מתוקים, נצנצים ותחושת קסם אמיתית בכל סיבוב גלגל.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783340438491-o51qm5.webp
-
-### קומבו סקייטים ורולר בליידס Grow - צבע כחול 
-https://parktoys.co.il/product/kvmbv-skyytym-vrvlr-blyyds-grow-tsba-kchvl-8s69zh
-- Price: 220.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: החליקו בנוחות ובסטייל עם רולרבליידס משולב עם סקייטים מבית Grow! דגם 2 ב-1 משלב בין חוויית ההחלקה של רולרבליידס לבין היציבות של סקייטים, ומציע פתרון נהדר גם לילדים שלומדים להחליק וגם למנוסים שרוצים לגוון בפעילות. בזכות מנגנון מעבר פשוט ומהיר, הנעל האוורירית והתמיכה הארגונומית לרגל, כל החלקה הופכת למהנה ובטוחה יותר. פתרון מעולה לפעילות ספורטיבית, פיתוח שיווי משקל וקואורדינציה, והכל בעיצוב צבעוני וייחודי.
-- Image: https://parktoys.co.il/assets/product-enhanced-1783339841556-xzglif.webp
 
 ---
 
