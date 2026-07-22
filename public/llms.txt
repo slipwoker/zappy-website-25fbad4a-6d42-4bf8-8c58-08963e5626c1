@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 300** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 301** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### משחק זיכרון 48 כרטיסים – מפרץ הרפתקאות
+https://parktoys.co.il/product/mshchk-zykrvn-48-krtysym-mprts-hrptkavt-d29pvj
+- Price: 60.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: משחק זיכרון עם תמונות מבית מפרץ ההרפתקאות משחק חשיבה לפיתוח הזיכרון ויכולת ההתאמה החזותית מחזק את מיומנות תיאום קשר עין-יד ומפתח את יכולת התאמת פריטים לכמות המשחק מכיל כרטיסים איכותיים עם תמונות צבעוניות מהסדרה מפרץ ההרפתקאות
+- Image: https://parktoys.co.il/assets/product-enhanced-1784728607859-tprexz.webp
 
 ### מה עובר עליך?
 https://parktoys.co.il/product/mh-avbr-alyk-b80x27
@@ -1627,13 +1635,6 @@ https://parktoys.co.il/product/pazl-tmvnh-tlt-mymdyt-100-chlkym-mbyt-prime3d-bat
 - Availability: In stock
 - Description: פאזל תלת מימד 100 חלקים מבית Prime3D קחו את חוויית ההרכבה לשלב הבא עם פאזלים תלת-ממדיים מרהיבים שמפתיעים כל פעם מחדש. Prime 3D, היצרן והמפיץ הגדול בעולם של פאזלים תלת-ממדיים, מציג פאזלים חדשניים ההופכים כל תמונה מוכרת לסצנה תלת-ממדית עוצרת נשימה - דמויות אהובות, חיות פרא, עולמות טבע וחלל, כולם קמים לתחייה אל מול העיניים. הרכבת הפאזל הופכת לא רק למשחק, אלא להרפתקה סוחפת, חווייתית ומאתגרת לכל גיל. זה הזמן ליהנות מזמן איכות של שקט וריכוז, פיתוח סבלנות, חשיבה ותכנון קדימה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783434464003-ouy06.webp
-
-### קפסולה בובת סטיץ' מבית Just Play Disney
-https://parktoys.co.il/product/kpsvlh-bvbt-styts-mbyt-just-play-disney-h9m5yb
-- Price: 200.00 ILS
-- Availability: In stock
-- Description: גלו עולם של הפתעות עם קפסולת ההפתעה הענקית של סטיץ'! הקפסולה המעוצבת בצורת ראשו של סטיץ' כוללת 8 הפתעות שונות באווירה טרופית – מבובת פלאש חמודה ודמויות קטנות ועד אביזרים, מדבקות ופוסטר צבעוני. מעבר להפתעות שבתוכה, הקפסולה עצמה משמשת כמארז אחסון מעוצב שניתן להציג בחדר. שעות של משחק, דמיון והנאה מחכות לחובבי דיסני וסטיץ'.
-- Image: https://parktoys.co.il/assets/product-enhanced-1783431345166-uibd4i.webp
 
 ---
 
