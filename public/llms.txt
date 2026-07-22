@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 301** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 302** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### הצבע הראשון שלי
+https://parktoys.co.il/product/htsba-hrashvn-shly-wdm7kq
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: הכירו את 'הצבע הראשון שלי', משחק התאמה מקסים המלמד ילדים לזהות ולהבחין בין צבעים שונים. המשחק, המיועד לפיתוח כושר ההתבוננות ויכולת ההתאמה, כולל 24 כרטיסים היוצרים 12 זוגות צבעוניים. כל זוג מורכב מכרטיס צבע וכרטיס תמונה תואם, כמו לימון צהוב או תות אדום. דרך המשחק, ילדיכם ילמדו 12 צבעים בסיסיים וייהנו משתי אפשרויות משחק מרתקות: משחק התאמות קלאסי או משחק זיכרון תחרותי לכל המשפחה. זוהי דרך נהדרת לשלב למידה והנאה ולפתח את הזיכרון החזותי.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784730794870-y6qt6e.webp
 
 ### משחק זיכרון 48 כרטיסים – מפרץ הרפתקאות
 https://parktoys.co.il/product/mshchk-zykrvn-48-krtysym-mprts-hrptkavt-d29pvj
@@ -1628,13 +1636,6 @@ https://parktoys.co.il/product/pazl-tmvnh-tlt-mymdyt-200-chlkym-mbyt-prime3d-spy
 - Availability: In stock
 - Description: פאזלים מבית Prime 3D מביאים את התמונות לחיים עם אפקט תלת-ממד מרהיב שמרגש ילדים ומבוגרים בכל הגילאים. הרכבת הפאזל הופכת לחוויה סוחפת, צבעונית ובלתי נשכחת - מושלם לכל מי שאוהב יצירתיות, אתגר ודמיון!
 - Image: https://parktoys.co.il/assets/product-enhanced-1783436031903-9eii6.webp
-
-### פאזל תמונה תלת מימדית 100 חלקים מבית Prime3D - באטמן
-https://parktoys.co.il/product/pazl-tmvnh-tlt-mymdyt-100-chlkym-mbyt-prime3d-batmn-g9vmz2
-- Price: 70.00 ILS
-- Availability: In stock
-- Description: פאזל תלת מימד 100 חלקים מבית Prime3D קחו את חוויית ההרכבה לשלב הבא עם פאזלים תלת-ממדיים מרהיבים שמפתיעים כל פעם מחדש. Prime 3D, היצרן והמפיץ הגדול בעולם של פאזלים תלת-ממדיים, מציג פאזלים חדשניים ההופכים כל תמונה מוכרת לסצנה תלת-ממדית עוצרת נשימה - דמויות אהובות, חיות פרא, עולמות טבע וחלל, כולם קמים לתחייה אל מול העיניים. הרכבת הפאזל הופכת לא רק למשחק, אלא להרפתקה סוחפת, חווייתית ומאתגרת לכל גיל. זה הזמן ליהנות מזמן איכות של שקט וריכוז, פיתוח סבלנות, חשיבה ותכנון קדימה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1783434464003-ouy06.webp
 
 ---
 
