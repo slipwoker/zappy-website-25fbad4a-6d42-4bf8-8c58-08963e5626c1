@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 303** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### אוניברסיטה לגן 3
-https://parktoys.co.il/product/avnybrsyth-lgn-3-e3prkl
+https://parktoys.co.il/product/avnybrsyth-lgn-3-7m61qz
 - Price: 50.00 ILS
 - Availability: In stock
 - Category: משחקי חברה
