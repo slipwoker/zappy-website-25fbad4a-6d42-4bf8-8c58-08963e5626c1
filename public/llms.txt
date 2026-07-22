@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 279** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 280** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### הליכון פעילות
+https://parktoys.co.il/product/hlykvn-paylvt-rsmnzh
+- Price: 120.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: הליכון פעילות צבעוני ומהנה המסייע לתינוק בשלבי ההתפתחות הראשונים ומשלב משחק, למידה ותנועה. ההליכון כולל מגוון פעילויות אינטראקטיביות, גלגלי שיניים מסתובבים, כפתורים, מוזיקה ואפקטים מהנים שיעסיקו את הקטנטנים לאורך זמן. תיאור ועיצוב העיצוב היציב והידית הנוחה מסייעים לעידוד הליכה ראשונית בצורה בטוחה ומהנה. תכונות מסייע בפיתוח יציבות ושיווי משקל גלגלי שיניים מסתובבים אורות, מוזיקה וצלילים כפתורים ומשחקי פעילות מעודד מוטוריקה עדינה וקואורדינציה ידית אחיזה נוחה לתינוק מתאים למשחק וללמידה מגיל צעיר
+- Image: https://parktoys.co.il/assets/product-enhanced-1784718266815-en3r0m.webp
 
 ### קשת התפתחות
 https://parktoys.co.il/product/ksht-htptchvt-0giyiy
@@ -1624,13 +1632,6 @@ https://parktoys.co.il/product/ksdt-btychvt-svnyk-pryym-zrqhym
 - Category: גלגלים
 - Description: קסדת בטיחות לילדים בעיצוב סוניק פריים לרכיבה בטיחותית מידות ראש 48-52 ס"מ
 - Image: https://parktoys.co.il/assets/product-enhanced-1783355957852-dwgtss.webp
-
-### קסדה לילדים מפרץ ההרפתקאות
-https://parktoys.co.il/product/ksdh-lyldym-mprts-hhrptkavt-x2k578
-- Price: 60.00 ILS
-- Availability: In stock
-- Description: קסדת בטיחות לילדים עם דמויות של מפרץ ההרפתקאות לרכיבה בטיחותית.מידות ראש 48-52ס"מ
-- Image: https://parktoys.co.il/assets/product-enhanced-1783354945815-a8ujyj.webp
 
 ---
 

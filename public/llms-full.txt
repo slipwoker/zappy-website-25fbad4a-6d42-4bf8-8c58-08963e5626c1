@@ -5721,6 +5721,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### הליכון פעילות
+URL: https://parktoys.co.il/product/hlykvn-paylvt-rsmnzh
+Price: 120.00 ILS
+Availability: In stock
+
+---
+
 ### קשת התפתחות
 URL: https://parktoys.co.il/product/ksht-htptchvt-0giyiy
 Price: 90.00 ILS

@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T11:02:38.383Z",
+  "generated_at": "2026-07-22T11:05:03.075Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 279,
+  "count": 280,
   "products": [
+    {
+      "id": "6de3262a-1266-4bd8-b2b4-3b7f6a269cb6",
+      "slug": "hlykvn-paylvt-rsmnzh",
+      "name": "הליכון פעילות",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הליכון פעילות צבעוני ומהנה המסייע לתינוק בשלבי ההתפתחות הראשונים ומשלב משחק, למידה ותנועה. ההליכון כולל מגוון פעילויות אינטראקטיביות, גלגלי שיניים מסתובבים, כפתורים, מוזיקה ואפקטים מהנים שיעסיקו את הקטנטנים לאורך זמן.\n\nתיאור ועיצוב\nהעיצוב היציב והידית הנוחה מסייעים לעידוד הליכה ראשונית בצורה בטוחה ומהנה.\n\nתכונות\n\nמסייע בפיתוח יציבות ושיווי משקל\nגלגלי שיניים מסתובבים\nאורות, מוזיקה וצלילים\nכפתורים ומשחקי פעילות\nמעודד מוטוריקה עדינה וקואורדינציה\nידית אחיזה נוחה לתינוק\nמתאים למשחק וללמידה מגיל צעיר",
+      "sku": null,
+      "brand": null,
+      "price": 120,
+      "base_price": 120,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784718266815-en3r0m.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/hlykvn-paylvt-rsmnzh",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T11:04:42.990Z"
+    },
     {
       "id": "e3e7b6c3-3ffe-45f7-8637-c53bb67c5082",
       "slug": "ksht-htptchvt-0giyiy",
