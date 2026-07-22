@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 289** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 290** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### עולם 4 המשחקים
+https://parktoys.co.il/product/avlm-4-hmshchkym-tewgg8
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: ולם המשחקים – ארבעה משחקים בקופסא אחת! משחקים התורמים לפיתוח כושר הריכוז והזיכרון המספרי והקניית מיומנויות חברתיות חוויה והנאה לכל המשפחה!
+- Image: https://parktoys.co.il/assets/product-1784722127683-q8vel9.webp
 
 ### ארץ עיר 
 https://parktoys.co.il/product/arts-ayr-n4us76
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/mgyny-brkyym-vmrpkym-spyydrmn-spin-royal-mydh-m-k
 - Category: גלגלים
 - Description: סט מגן מעוצב בהשראת ספיידרמן – הבחירה המושלמת לילדים שאוהבים אקשן, תנועה וספורט. כולל מגני ברכיים ומרפקים במידה M, עם התאמה מושלמת לילדים בגילאי 3+ הרוכבים על רולר בליידס, אופניים, קורקינט או סקייטבורד. יתרונות המוצר כולל 4 מגנים – 2 לברכיים ו-2 למרפקים עיצוב מקורי עם הדמות האהובה ספיידרמן ריפוד פנימי נעים ורצועות סקוץ' רחבות אריזת רשת עם שרוך – לנשיאה קלה וסידור נוח תיאור טכני גילאי 3+ מידה M כולל 4 מגנים (2 ברכיים + 2 מרפקים) מגיע באריזת רשת עם שרוך
 - Image: https://parktoys.co.il/assets/product-enhanced-1783416424949-o2fatj.webp
-
-### מגיני ברכיים ומרפקים פרוזן SPIN ROYAL מידה M
-https://parktoys.co.il/product/mgyny-brkyym-vmrpkym-prvzn-spin-royal-mydh-m-wao111
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: מגיני ברכיים ומרפקים SPIN ROYAL Frozen מציעים הגנה מושלמת בזמן משחק או פעילות ספורטיבית. המיגינים מגיעים במידה M ומעוצבים במיוחד כדי להבטיח נוחות וביטחון. עם העיצוב הייחודי של דמויות מהאגדות, הילדים שלכם יהנו מגן ברכיים ומרפקים שגם מבטיח בטיחות וגם משלים את המראה המהמם שלהם. מושלם לפעילויות ספורטיביות, טיולים או סתם לשעות המשחקים בבית. אחריות: 12 חודשי אחריות ע"י היבואן הרשמי – למעט שבר ורטיבות, בהתאם לתנאי האחריות.
-- Image: https://parktoys.co.il/assets/product-enhanced-1783416077706-hcel36.webp
 
 ---
 
