@@ -1,32 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T11:24:22.632Z",
+  "generated_at": "2026-07-22T11:27:16.120Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 284,
   "products": [
     {
       "id": "a15bd3ba-c740-4e60-9f4b-d430ba58e4e8",
-      "slug": "6971608442643-xo26bi",
-      "name": "6971608442643",
+      "slug": "marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-18-24-chvdshym-6fe3dk",
+      "name": "מארז צעצועי התפתחות מעץ מבית Polar B - לגילאי 18-24 חודשים",
       "name_translations": {
         "en": "6971608442643",
         "he": "6971608442643"
       },
       "description": "",
-      "short_description": null,
+      "short_description": "מארז צעצועי התפתחות מעץ מבית Polar B, אוסף של צעצועי עץ איכותיים ומעוצבים בקפידה, שנוצרו במיוחד כדי ללוות את ילדכם בשלבי ההתפתחות החשובים ביותר. המארז מעודד למידה דרך משחק, מפתח חשיבה, מוטוריקה ויצירתיות, ומשלב הנאה, דמיון והתפתחות בכל רגע של משחק. עשוי עץ טבעי וצבעים בטוחים - מתנה מושלמת לילדים סקרנים שאוהבים לגלות, ללמוד וליצור.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 200,
+      "base_price": 200,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784719568076-3p0std.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/6971608442643-xo26bi",
-      "categories": [],
-      "updated_at": "2026-07-22T11:23:47.234Z"
+      "url": "https://parktoys.co.il/product/marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-18-24-chvdshym-6fe3dk",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T11:26:44.223Z"
     },
     {
       "id": "13b51472-5f52-4fc5-ab05-6092dd212824",
