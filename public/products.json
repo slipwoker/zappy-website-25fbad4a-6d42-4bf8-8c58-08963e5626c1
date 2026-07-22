@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T10:35:21.852Z",
+  "generated_at": "2026-07-22T11:01:41.971Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 278,
+  "count": 279,
   "products": [
+    {
+      "id": "e3e7b6c3-3ffe-45f7-8637-c53bb67c5082",
+      "slug": "ksht-htptchvt-igrxoz",
+      "name": "קשת התפתחות",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קשת פעילות צבעונית ורכה הכוללת צעצועים תלויים, רעשנים ודמויות מתוקות לעידוד משחק, סקרנות ופיתוח החושים מגיל לידה. מתאימה לחיבור לעגלה, סלקל, מיטת תינוק ולול.\n\nהקשת כוללת דמויות בד רכות, רעשנים, מרקמים שונים וטבעות משחק שיעסיקו את התינוק לאורך זמן ויעודדו תנועת ידיים, תפיסה וקואורדינציה.",
+      "sku": null,
+      "brand": null,
+      "price": 90,
+      "base_price": 90,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784718059794-3605wb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/ksht-htptchvt-igrxoz",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T11:01:10.200Z"
+    },
     {
       "id": "93483718-e8e2-4ce7-81d8-a98ac12e0363",
       "slug": "ksht-paylvt-chyvt-vchyvkym-jbxwwf",

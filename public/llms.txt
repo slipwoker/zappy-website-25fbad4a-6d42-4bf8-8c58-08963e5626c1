@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 278** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 279** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קשת התפתחות
+https://parktoys.co.il/product/ksht-htptchvt-igrxoz
+- Price: 90.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: קשת פעילות צבעונית ורכה הכוללת צעצועים תלויים, רעשנים ודמויות מתוקות לעידוד משחק, סקרנות ופיתוח החושים מגיל לידה. מתאימה לחיבור לעגלה, סלקל, מיטת תינוק ולול. הקשת כוללת דמויות בד רכות, רעשנים, מרקמים שונים וטבעות משחק שיעסיקו את התינוק לאורך זמן ויעודדו תנועת ידיים, תפיסה וקואורדינציה.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784718059794-3605wb.webp
 
 ### קשת פעילות חיות וחיוכים
 https://parktoys.co.il/product/ksht-paylvt-chyvt-vchyvkym-jbxwwf
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/ksdh-lyldym-mprts-hhrptkavt-x2k578
 - Availability: In stock
 - Description: קסדת בטיחות לילדים עם דמויות של מפרץ ההרפתקאות לרכיבה בטיחותית.מידות ראש 48-52ס"מ
 - Image: https://parktoys.co.il/assets/product-enhanced-1783354945815-a8ujyj.webp
-
-### קורקינט פעלולים G11 מבית Grow Pro
-https://parktoys.co.il/product/kvrkynt-palvlym-g11-mbyt-grow-pro-ryhs1j
-- Price: 999.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: קורקינט פעלולים G11 מבית Grow Pro הכירו את Grow Pro G11, קורקינט פעלולים חצי מקצועי שנבנה עבור רוכבים שרוצים להתקדם בעולם הרכיבה האתגרית וליהנות מביצועים גבוהים בסקייטפארק וברחוב. זהו לא עוד קורקינט רגיל, אלא כלי רכיבה אקסטרים אמיתי, המתוכנן להתמודד עם עומסים של קפיצות, נחיתות ותרגילים דינמיים, תוך שמירה על יציבות, שליטה ובטיחות. המבנה העמיד, ההנדסה המתקדמת והעיצוב המוזהב והבולט מעניקים לו שילוב מנצח של כוח, נוחות וסטייל. Grow Pro G11 מתאים לרוכבים שמחפשים קורקינט איכותי, מרשים ומוכן לאתגר הבא,
-- Image: https://parktoys.co.il/assets/product-enhanced-1783354571875-nlzn1t.webp
 
 ---
 
