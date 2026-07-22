@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 288** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 289** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ארץ עיר 
+https://parktoys.co.il/product/arts-ayr-n4us76
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: צאו למסע מרתק של ידע ומהירות מחשבה עם המשחק הקלאסי 'ארץ עיר'! המשחק מפתח את הריכוז והידע האישי בנושאים נרחבים, מחדד את הזיכרון ומחזק את מיומנות שליפת המידע. המטרה פשוטה ומהנה: זורקים קובייה, מתקדמים על הלוח לנושא כמו ארץ, עיר, בעלי חיים או מקצוע, מסובבים את מחוג האותיות ומוצאים מילה מתאימה. הראשון שיודע את התשובה הנכונה מניח אסימון! יתרונות המשחק: המשחק תורם לשיפור התפיסה החזותית וקשר עין-יד, ומבטיח חוויה משפחתית מהנה, מאתגרת ומרחיבת אופקים. האם תהיו הראשונים להניח את כל האסימונים שלכם על הלוח
+- Image: https://parktoys.co.il/assets/product-1784721895055-3ntt49.webp
 
 ### המירוץ לארמון
 https://parktoys.co.il/product/hmyrvts-larmvn-anlpr2
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/mgyny-brkyym-vmrpkym-prvzn-spin-royal-mydh-m-wao1
 - Category: גלגלים
 - Description: מגיני ברכיים ומרפקים SPIN ROYAL Frozen מציעים הגנה מושלמת בזמן משחק או פעילות ספורטיבית. המיגינים מגיעים במידה M ומעוצבים במיוחד כדי להבטיח נוחות וביטחון. עם העיצוב הייחודי של דמויות מהאגדות, הילדים שלכם יהנו מגן ברכיים ומרפקים שגם מבטיח בטיחות וגם משלים את המראה המהמם שלהם. מושלם לפעילויות ספורטיביות, טיולים או סתם לשעות המשחקים בבית. אחריות: 12 חודשי אחריות ע"י היבואן הרשמי – למעט שבר ורטיבות, בהתאם לתנאי האחריות.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783416077706-hcel36.webp
-
-### מגיני ברכיים ומרפקים סטיצ' SPIN ROYAL מידה M
-https://parktoys.co.il/product/mgyny-brkyym-vmrpkym-styts-spin-royal-mydh-m-eangry
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: גידול בטוח ובסטייל עם מגיני ברכיים ומרפקים SPIN ROYAL STITCH מידה M מגיני ברכיים ומרפקים אלו מציעים הגנה מושלמת בזמן פעילות גופנית. עם עיצוב ייחודי ומרשים, הם מתאימים לא רק לספורטאים אלא גם לכל מי שמעוניין להרגיש בטוח ונוח. המידות המדויקות מבטיחות התאמה מושלמת לגוף, והחומרים האיכותיים מאפשרים נוחות וגמישות במהלך השימוש. בחרו במגיני הברכיים והמרפקים SPIN ROYAL STITCH ותיהנו מהגנה שאין לה תחליף! אחריות: 12 חודשי אחריות ע"י היבואן הרשמי – למעט שבר ורטיבות, בהתאם לתנאי האחריות.
-- Image: https://parktoys.co.il/assets/product-enhanced-1783415466959-cbl3vh.webp
 
 ---
 

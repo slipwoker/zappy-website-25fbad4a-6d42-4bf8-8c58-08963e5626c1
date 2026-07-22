@@ -5721,6 +5721,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### ארץ עיר 
+URL: https://parktoys.co.il/product/arts-ayr-n4us76
+Price: 50.00 ILS
+Availability: In stock
+
+---
+
 ### המירוץ לארמון
 URL: https://parktoys.co.il/product/hmyrvts-larmvn-anlpr2
 Price: 50.00 ILS
