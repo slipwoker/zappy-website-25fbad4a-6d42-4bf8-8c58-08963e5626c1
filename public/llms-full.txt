@@ -5721,6 +5721,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### צוללות
+URL: https://parktoys.co.il/product/tsvllvt-kq1neo
+Price: 50.00 ILS
+Availability: In stock
+
+---
+
 ### בובה אינטראקטיבית בצורת דב קוטב תינוק Club Petz 
 URL: https://parktoys.co.il/product/bvbh-ayntraktybyt-btsvrt-db-kvtb-tynvk-club-petz-knzaoc
 Price: 150.00 ILS

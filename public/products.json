@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T11:38:23.343Z",
+  "generated_at": "2026-07-22T11:44:22.860Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 286,
+  "count": 287,
   "products": [
+    {
+      "id": "0e38e705-5147-4270-9c0f-432932ea86c3",
+      "slug": "tsvllvt-kq1neo",
+      "name": "צוללות",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הכנה לקרב ימי\nהתכוננו לקרב ימי מותח עם משחק הצוללות הקלאסי! זהו משחק אסטרטגיה, חשיבה ומזל שבו כל שחקן מנסה להטביע את צי הצוללות של היריב.\n\nאסטרטגיה וחוכמה\nמקמו את הצוללות שלכם בחוכמה על לוח המשחק, ונסו לחשוף את מיקום צוללות היריב. המשחק מסייע לפתח חשיבה טקטית, מעודד הסקת מסקנות וחיזוק יכולת ההבחנה.\n\nמתח והתרגשות\nכל תור הוא הזדמנות לפגוע במטרה או להחטיא, מה שמוסיף מתח והתרגשות למשחק. זהו אתגר מושלם שנועד לחדד את כושר הריכוז.\n\nמנצח הקרב\nהמנצח הוא השחקן הראשון שמצליח להטביע את כל צי היריב",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784720619939-fo1ooz.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/tsvllvt-kq1neo",
+      "categories": [],
+      "updated_at": "2026-07-22T11:43:51.140Z"
+    },
     {
       "id": "2a5251ad-9ed1-4986-a052-354896b6ff06",
       "slug": "bvbh-ayntraktybyt-btsvrt-db-kvtb-tynvk-club-petz-knzaoc",

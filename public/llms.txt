@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 286** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 287** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### צוללות
+https://parktoys.co.il/product/tsvllvt-kq1neo
+- Price: 50.00 ILS
+- Availability: In stock
+- Description: הכנה לקרב ימי התכוננו לקרב ימי מותח עם משחק הצוללות הקלאסי! זהו משחק אסטרטגיה, חשיבה ומזל שבו כל שחקן מנסה להטביע את צי הצוללות של היריב. אסטרטגיה וחוכמה מקמו את הצוללות שלכם בחוכמה על לוח המשחק, ונסו לחשוף את מיקום צוללות היריב. המשחק מסייע לפתח חשיבה טקטית, מעודד הסקת מסקנות וחיזוק יכולת ההבחנה. מתח והתרגשות כל תור הוא הזדמנות לפגוע במטרה או להחטיא, מה שמוסיף מתח והתרגשות למשחק. זהו אתגר מושלם שנועד לחדד את כושר הריכוז. מנצח הקרב המנצח הוא השחקן הראשון שמצליח להטביע את כל צי היריב
+- Image: https://parktoys.co.il/assets/product-enhanced-1784720619939-fo1ooz.webp
 
 ### בובה אינטראקטיבית בצורת דב קוטב תינוק Club Petz 
 https://parktoys.co.il/product/bvbh-ayntraktybyt-btsvrt-db-kvtb-tynvk-club-petz-knzaoc
@@ -1622,14 +1629,6 @@ https://parktoys.co.il/product/kvrkynt-mprts-hhrptkavt-ychydt-hchylvts-mk3nh0
 - Category: גלגלים
 - Description: קורקינט 3 גלגלים לילדים – דגם יחידת חילוץ העניקו לילדים חוויית רכיבה מהנה ובטוחה עם קורקינט 3 גלגלים בעיצוב צבעוני של יחידת החילוץ האהובה. הקורקינט תוכנן במיוחד לילדים צעירים ומסייע בפיתוח שיווי משקל, קואורדינציה וביטחון עצמי תוך כדי משחק ופעילות.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783412245236-q4foa.webp
-
-### קסדת ילדים מעוצבת עם מנגנון התאמה, ופתחי איוורור לגיל 5 ומעלה - כריש אפור
-https://parktoys.co.il/product/ksdt-yldym-mavtsbt-am-mngnvn-htamh-vptchy-ayvvrvr-lgyl-5-vmalh-krysh-apvr-3lnfhq
-- Price: 120.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: קסדת בטיחות מעוצבת לילדים מבית Grow Kids קסדת הילדים המעוצבת היא לא רק אמצעי בטיחות חיוני, אלא גם אביזר אופנתי ומלא סטייל שיעודד את ילדכם לחבוש אותה בכל רכיבה. היא משלבת הגנה מקסימלית עם עיצוב ייחודי שיהפוך את ילדכם למלך הפארק! תכונות עיקריות: עיצוב חדשני וכיפי: הקסדה מעוצבת בצורת מושכת את העין. העיצוב המקורי הופך את חבישת הקסדה לחוויה מהנה ומלהיבה. הגנה אולטימטיבית: בחלקה הפנימי של הקסדה שכבת EPS דחוסה מוקצפת בצפיפות גבוהה למניעת זעזועים שתספק הגנה מקסימלית לראש הילד במקרה של נפילה או חבטה. או
-- Image: https://parktoys.co.il/assets/product-1783411290929-bspiz.webp
 
 ---
 
