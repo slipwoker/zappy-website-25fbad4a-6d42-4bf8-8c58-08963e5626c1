@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T07:41:47.186Z",
+  "generated_at": "2026-07-22T07:45:42.082Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 253,
+  "count": 254,
   "products": [
+    {
+      "id": "4e457458-09de-4e5e-a70c-d01473b58731",
+      "slug": "mvltymdyh-tsatsvay-htptchvt-tablt-40-mylym-rashvnvt-wjg8cd",
+      "name": "  מולטימדיה צעצועי התפתחות טאבלט 40 מילים ראשונות",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הילדים במסכים, וההורים? ממש תומכים! היש דרך מדליקה ועכשווית מזו לתרגל את כישורי המוטוריקה העדינה, ההקשבה וההתבוננות, וללמוד נושאים כמו אותיות, מספרים, צורות וצבעים? הטאבלט הראשון מסוגו בעברית כולל גם 120 משפטים בעברית וחמישה שירי ילדים מקוריים, ומבטיח שעות ארוכות של גילוי, הנאה ולמידה עצמאית וחוויתית. גיל 18 חודשים+",
+      "sku": null,
+      "brand": null,
+      "price": 90,
+      "base_price": 90,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784706258733-v2ieth.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mvltymdyh-tsatsvay-htptchvt-tablt-40-mylym-rashvnvt-wjg8cd",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T07:45:10.540Z"
+    },
     {
       "id": "c6bc9f54-48be-47c4-b057-df1f0b3a9d91",
       "slug": "lptvp-50-pavlvt-uqzpaj",

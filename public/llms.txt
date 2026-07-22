@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 253** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 254** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+###   מולטימדיה צעצועי התפתחות טאבלט 40 מילים ראשונות
+https://parktoys.co.il/product/mvltymdyh-tsatsvay-htptchvt-tablt-40-mylym-rashvnvt-wjg8cd
+- Price: 90.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: הילדים במסכים, וההורים? ממש תומכים! היש דרך מדליקה ועכשווית מזו לתרגל את כישורי המוטוריקה העדינה, ההקשבה וההתבוננות, וללמוד נושאים כמו אותיות, מספרים, צורות וצבעים? הטאבלט הראשון מסוגו בעברית כולל גם 120 משפטים בעברית וחמישה שירי ילדים מקוריים, ומבטיח שעות ארוכות של גילוי, הנאה ולמידה עצמאית וחוויתית. גיל 18 חודשים+
+- Image: https://parktoys.co.il/assets/product-1784706258733-v2ieth.webp
 
 ### לפטופ 50 פעולות
 https://parktoys.co.il/product/lptvp-50-pavlvt-uqzpaj
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/pndh-nydv-ank-orb9u7
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: פנדה נידו נדיר במיוחד בלעדי רק אצלנו
 - Image: https://parktoys.co.il/assets/product-enhanced-1782831305765-ajau2w.webp
-
-### סקוושי נידו שתיה עם פרצוף גדול 
-https://parktoys.co.il/product/skvvshy-nydv-shtyh-am-prtsvp-gdvl-mtaz0b
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: גדול נעים וכיפי למגע
-- Image: https://parktoys.co.il/assets/product-enhanced-1782831114199-opcf46i.webp
 
 ---
 
