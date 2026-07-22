@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 259** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 260** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### צורות והפתעות – מיון צורות דובר עברית
+https://parktoys.co.il/product/tsvrvt-vhptavt-myvn-tsvrvt-dvbr-abryt-7muy4u
+- Price: 129.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: שש צורות והפתעות - בצרורות! לא תאמינו כמה הפתעות מסתתרות בלוח הפעילות שלנו - מתאימים שש צורות בשישה צבעים למקומותיהן המתאימים ועל הדרך ממששים טקסטורות מסקרנות, מרשרשים בחרוזים, מגלגלים כדור, מביטים במראה, מקשיבים לשירים מוכרים בעברית ועוד. חוויית לימוד מהנה וצבעונית התורמת לפיתוח המוטוריקה העדינה והיכולות הקוגניטיביות. לגילאי 12 חודשים +
+- Image: https://parktoys.co.il/assets/product-1784707718430-unto57.webp
 
 ### קוביית הפעלות – דוברת עברית
 https://parktoys.co.il/product/kvbyyt-hpalvt-dvbrt-abryt-49u632
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/skvvyshy-nydv-brvvz-tsbavny-ank-d8hgbl
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: ברווז נידו צבעוני ענק כיפי נעים ומרגיע
 - Image: https://parktoys.co.il/assets/product-1782832694649-98zsil.webp
-
-### סקווישי נידו תירס 
-https://parktoys.co.il/product/skvvyshy-nydv-tyrs-mtdkij
-- Price: 25.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: סקווישי נידו תירס נעים כיפי ומרגיע
-- Image: https://parktoys.co.il/assets/product-enhanced-1782832564335-0hlag.webp
 
 ---
 

@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T08:06:56.870Z",
+  "generated_at": "2026-07-22T08:10:37.362Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 259,
+  "count": 260,
   "products": [
+    {
+      "id": "9b94f319-3924-4d4f-b646-123b12267328",
+      "slug": "tsvrvt-vhptavt-myvn-tsvrvt-dvbr-abryt-7muy4u",
+      "name": "צורות והפתעות – מיון צורות דובר עברית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "שש צורות והפתעות - בצרורות! לא תאמינו כמה הפתעות מסתתרות בלוח הפעילות שלנו - מתאימים שש צורות בשישה צבעים למקומותיהן המתאימים ועל הדרך ממששים טקסטורות מסקרנות, מרשרשים בחרוזים, מגלגלים כדור, מביטים במראה, מקשיבים לשירים מוכרים בעברית ועוד. חוויית לימוד מהנה וצבעונית התורמת לפיתוח המוטוריקה העדינה והיכולות הקוגניטיביות. לגילאי 12 חודשים +",
+      "sku": null,
+      "brand": null,
+      "price": 129,
+      "base_price": 129,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784707718430-unto57.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/tsvrvt-vhptavt-myvn-tsvrvt-dvbr-abryt-7muy4u",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T08:10:05.410Z"
+    },
     {
       "id": "42649383-d1b2-4113-be25-c57d0f70977a",
       "slug": "kvbyyt-hpalvt-dvbrt-abryt-49u632",
