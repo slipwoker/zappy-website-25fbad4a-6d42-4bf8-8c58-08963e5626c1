@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T14:34:44.948Z",
+  "generated_at": "2026-07-22T14:57:33.873Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 302,
+  "count": 303,
   "products": [
+    {
+      "id": "26b8dd72-db52-4b2a-9508-119296b75b13",
+      "slug": "avnybrsyth-lgn-3-e3prkl",
+      "name": "אוניברסיטה לגן 3",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכת הכנה לגן חובה המכינה את ילדכם ומפתחת כישורי למידה, חשיבה, חשבון ויצירתיות.\n\nהמשחק מכיל 9 לוחות משחק ו108 כרטיסי משחק בעלי ביקורת עצמית.\n\nכל לוח עוסק בנושא אחר ויש לו כרטיסים מתאימים.\n\nעל הילדים להתאים את הכרטיסים למיקומם בלוח.\nעל הילדים להתאים בין תמונת המשולש לתמונה של תמרור בצורת משולש להתאים בין עיגול לכדור וכן הלאה.",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784732221145-ddmty.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/avnybrsyth-lgn-3-e3prkl",
+      "categories": [
+        "משחקי חברה"
+      ],
+      "updated_at": "2026-07-22T14:57:23.715Z"
+    },
     {
       "id": "184190d5-78cf-4ee5-a872-5b9f18b17b11",
       "slug": "htsba-hrashvn-shly-wdm7kq",

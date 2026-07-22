@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 302** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 303** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### אוניברסיטה לגן 3
+https://parktoys.co.il/product/avnybrsyth-lgn-3-e3prkl
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: ערכת הכנה לגן חובה המכינה את ילדכם ומפתחת כישורי למידה, חשיבה, חשבון ויצירתיות. המשחק מכיל 9 לוחות משחק ו108 כרטיסי משחק בעלי ביקורת עצמית. כל לוח עוסק בנושא אחר ויש לו כרטיסים מתאימים. על הילדים להתאים את הכרטיסים למיקומם בלוח. על הילדים להתאים בין תמונת המשולש לתמונה של תמרור בצורת משולש להתאים בין עיגול לכדור וכן הלאה.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784732221145-ddmty.webp
 
 ### הצבע הראשון שלי
 https://parktoys.co.il/product/htsba-hrashvn-shly-wdm7kq
@@ -1629,13 +1637,6 @@ https://parktoys.co.il/product/pazl-rtsph-tmvnh-tlt-mymdyt-100-chlkym-mbyt-prime
 - Availability: In stock
 - Description: פאזלים מבית Prime 3D מביאים את התמונות לחיים עם אפקט תלת-ממד מרהיב שמרגש ילדים ומבוגרים בכל הגילאים. הרכבת הפאזל הופכת לחוויה סוחפת, צבעונית ובלתי נשכחת - מושלם לכל מי שאוהב יצירתיות, אתגר ודמיון!
 - Image: https://parktoys.co.il/assets/product-1783492213084-hpgrfp.webp
-
-### פאזל תמונה תלת מימדית 200 חלקים מבית Prime3D - ספיידרמן
-https://parktoys.co.il/product/pazl-tmvnh-tlt-mymdyt-200-chlkym-mbyt-prime3d-spyydrmn-qbg0fh
-- Price: 70.00 ILS
-- Availability: In stock
-- Description: פאזלים מבית Prime 3D מביאים את התמונות לחיים עם אפקט תלת-ממד מרהיב שמרגש ילדים ומבוגרים בכל הגילאים. הרכבת הפאזל הופכת לחוויה סוחפת, צבעונית ובלתי נשכחת - מושלם לכל מי שאוהב יצירתיות, אתגר ודמיון!
-- Image: https://parktoys.co.il/assets/product-enhanced-1783436031903-9eii6.webp
 
 ---
 
