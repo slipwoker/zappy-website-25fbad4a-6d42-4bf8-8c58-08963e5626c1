@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T12:45:00.947Z",
+  "generated_at": "2026-07-22T12:49:11.317Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 297,
+  "count": 298,
   "products": [
+    {
+      "id": "610cc902-8594-49e8-a9fe-de1888bae401",
+      "slug": "mshchk-htamvt-lymvdy-hmktsva-shly-vsok91",
+      "name": "משחק התאמות לימודי - המקצוע שלי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "המקצוע שלי\nמשחק ללימוד שמות בעלי המקצוע והכלים המשמשים אותם בעבודתם.\nמשחק לפיתוח כושר ההתבוננות בתמונה ויכולת ההתאמה ופיתוח הזיכרון החזותי.\nהמשחק מרחיב אופקים ומעשיר את אוצר המילים של הילד.\n\nתוכן המשחק\nבמשחק 24 כרטיסים המרכיבים 12 זוגות של בעלי מקצוע והכלים המשמשים אותם.\nבכרטיס אחד מופיעה תמונה של בעל המקצוע ובכרטיס השני מופיעות תמונות של הכלים בהם עליו להשתמש במהלך עבודתו, לדוגמה: בכרטיס אחד מופיעה תמונה של רופא ובכרטיס השני מופיעה תמונה עם מזרק, סטטוסקופ ואמבולנס.",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784724487800-7qosd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mshchk-htamvt-lymvdy-hmktsva-shly-vsok91",
+      "categories": [
+        "משחקי חברה"
+      ],
+      "updated_at": "2026-07-22T12:48:39.378Z"
+    },
     {
       "id": "aa5032f0-bf3e-4af3-ba27-943e99cfe232",
       "slug": "hlvtv-hrashvn-shly-ouj6wz",
