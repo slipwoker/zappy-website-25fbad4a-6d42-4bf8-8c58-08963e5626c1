@@ -13169,6 +13169,31 @@ html[dir="rtl"] [data-layout-spec="בית-hero"] > img.hero-fade-img:first-child
 /* zappy-self-heal */
 html body .deals-section .deals-grid { display: grid !important; }
 
+
+.featured-products-section .product-grid.featured-grid {
+  display: grid !important;
+  grid-template-columns: repeat(2, 1fr) !important;
+  gap: 24px !important;
+}
+
+.featured-categories-section .category-blocks {
+  display: grid !important;
+  grid-template-columns: repeat(2, 1fr) !important;
+  gap: 24px !important;
+}
+
+@media (max-width: 640px) {
+.featured-products-section .product-grid.featured-grid,
+  .featured-categories-section .category-blocks {
+  grid-template-columns: 1fr !important;
+}
+}
+/* zappy-self-heal */
+.featured-categories-section .category-blocks { display: grid !important; }
+
+/* zappy-self-heal */
+html body .featured-categories-section .category-blocks { display: grid !important; }
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
@@ -13249,6 +13274,24 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 /* ZAPPY_PRODUCT_BREADCRUMB_MOBILE_HIDE_CSS_V1 */
 @media (max-width: 768px) {
   .product-breadcrumb { display: none !important; }
+}
+
+
+/* ZAPPY_SHARE_BAR_LAYOUT_ENSURE_V1
+   Blog / article share bars must stay a horizontal chip row. AI cosmetic CSS
+   and leaked mobile rules historically set flex-direction:column globally and
+   left <br> clusters between the label and icons. */
+.social-share-bar,
+[class*="__share-bar"] {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
+  align-items: center !important;
+  gap: 12px !important;
+}
+.social-share-bar > br,
+[class*="__share-bar"] > br {
+  display: none !important;
 }
 
 
