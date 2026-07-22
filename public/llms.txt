@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 249** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 250** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בימבו – מעודד זחילה ומלמד
+https://parktoys.co.il/product/bymbv-mavdd-zchylh-vmlmd-k5vuas
+- Price: 120.00 ILS
+- Availability: In stock
+- Description: הנה בימבו - ווואוו כמה דברים שעושים בו! אין פעוט שלא ישמח לזחול בעקבותיו של בימבו - יצור חמוד וידידותי המדבר עברית ומעודד זחילה ולמידה. עם בימבו לומדים להכיר צורות, צבעים, בעלי חיים, כלי נגינה וכלי תחבורה, עונים על שאלות המותאמות לגיל הרך, והכל בליווית מנגינות קלאסיות נעימות. לבימבו שתי עוצמות קול חוויה אור קולית לימודית בשפה העברית מנגנון תנועה וסיבוב ועקיפת מכשולים מתאים לילדים מגיל 6 חודשים 3 סוללות AA
+- Image: https://parktoys.co.il/assets/product-enhanced-1784705341519-bmj6jv.webp
 
 ### הסמארטפון הראשון שלי
 https://parktoys.co.il/product/hsmartpvn-hrashvn-shly-x5lthf
@@ -1625,14 +1632,6 @@ https://parktoys.co.il/product/plpl-nydv-7w6uze
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: פלפל נידו נעים וכיפי
 - Image: https://parktoys.co.il/assets/product-enhanced-1782830594143-i2jty.webp
-
-### חמאה נידו הגדולה
-https://parktoys.co.il/product/chmah-nydv-hgdvlh-55ouep
-- Price: 39.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: חמאה נידו מטורפת נעימה בטירוף
-- Image: https://parktoys.co.il/assets/product-1782830359778-qq6x2.webp
 
 ---
 
