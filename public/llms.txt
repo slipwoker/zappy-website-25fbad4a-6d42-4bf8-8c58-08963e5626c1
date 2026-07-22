@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 271** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 272** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### הטאבלט החכם שלי
+https://parktoys.co.il/product/htablt-hchkm-shly-zcm99v
+- Price: 95.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: טאבלט אינטראקטיבי ללמידה חווייתית המשלב משחקים, שירים ותכנים חינוכיים. מתאים לילדים מגיל שנה ומעלה. מעל 150 פעילויות שונות: משחקים, שירים ומשימות אינטראקטיביות. לימוד אותיות הא’-ב’, מספרים, צבעים וצורות. זיהוי קולות של חיות וצלילים מגוונים. משחקי שאלות ותשובות לפיתוח חשיבה. רגלית מובנית לנוחות שימוש. משחק דובר עברית עוזר בפיתוח מוטוריקה עדינה, זיכרון ויכולת ריכוז פרטים טכניים: גיל שימוש: 12 חודשים ומעלה. הפעלה באמצעות 3 סוללות AAA
+- Image: https://parktoys.co.il/assets/product-1784711573460-n2h8lb.webp
 
 ### גלובוס החיות הקסום
 https://parktoys.co.il/product/glvbvs-hchyvt-hksvm-ebwxbi
@@ -1623,14 +1631,6 @@ https://parktoys.co.il/product/shlyshyyh-damplyng-avrbyz-gcii1h
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: שליישיה דאמפלינג אורביז נעים בטירוף
 - Image: https://parktoys.co.il/assets/product-enhanced-1783335127073-s2mwbj.webp
-
-### שלישייה דאמפלינג נידו 
-https://parktoys.co.il/product/shlyshyyh-damplyng-nydv-17bi7o
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: שלישייה דאמפלינג נידו מדהימים הטרנד הכי חזק
-- Image: https://parktoys.co.il/assets/product-enhanced-1783334721758-f9f8zn.webp
 
 ---
 

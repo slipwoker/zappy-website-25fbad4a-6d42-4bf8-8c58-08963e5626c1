@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T09:11:37.508Z",
+  "generated_at": "2026-07-22T09:15:03.714Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 271,
+  "count": 272,
   "products": [
+    {
+      "id": "1796b4d0-6b73-484c-9116-c1992c71ce0b",
+      "slug": "htablt-hchkm-shly-zcm99v",
+      "name": "הטאבלט החכם שלי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "טאבלט אינטראקטיבי ללמידה חווייתית המשלב משחקים, שירים ותכנים חינוכיים. מתאים לילדים מגיל שנה ומעלה.\nמעל 150 פעילויות שונות: משחקים, שירים ומשימות אינטראקטיביות.\nלימוד אותיות הא’-ב’, מספרים, צבעים וצורות.\nזיהוי קולות של חיות וצלילים מגוונים.\nמשחקי שאלות ותשובות לפיתוח חשיבה.\nרגלית מובנית לנוחות שימוש.\nמשחק דובר עברית\nעוזר בפיתוח מוטוריקה עדינה, זיכרון ויכולת ריכוז\nפרטים טכניים:\nגיל שימוש: 12 חודשים ומעלה.\nהפעלה באמצעות 3 סוללות AAA",
+      "sku": null,
+      "brand": null,
+      "price": 95,
+      "base_price": 95,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784711573460-n2h8lb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/htablt-hchkm-shly-zcm99v",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-22T09:14:31.737Z"
+    },
     {
       "id": "2491eefc-ad32-40bc-ab85-2243c231ce49",
       "slug": "glvbvs-hchyvt-hksvm-ebwxbi",
