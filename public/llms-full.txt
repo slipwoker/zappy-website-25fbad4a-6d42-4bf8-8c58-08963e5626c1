@@ -5721,6 +5721,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### המירוץ לארמון
+URL: https://parktoys.co.il/product/hmyrvts-larmvn-z9prqf
+Price: 50.00 ILS
+Availability: In stock
+
+---
+
 ### צוללות
 URL: https://parktoys.co.il/product/tsvllvt-kq1neo
 Price: 50.00 ILS

@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 287** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 288** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### המירוץ לארמון
+https://parktoys.co.il/product/hmyrvts-larmvn-z9prqf
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: מירוץ לארמון משחק לפיתוח יכולת מילוי הוראות ולפיתוח המיומנויות החברתיות. המשחק תורם לשיפור התפיסה החזותית מרחבית ולחיזוק קשר עין-יד. המשחק מכיל לוח, 4 כלי משחק וקובייה. כהכנה למשחק הרכיבו את לוח המשחק והניחו אותו על גבי משטח יציב.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784720878678-hk907s.webp
 
 ### צוללות
 https://parktoys.co.il/product/tsvllvt-kq1neo
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/mgyny-brkyym-vmrpkym-styts-spin-royal-mydh-m-eang
 - Category: גלגלים
 - Description: גידול בטוח ובסטייל עם מגיני ברכיים ומרפקים SPIN ROYAL STITCH מידה M מגיני ברכיים ומרפקים אלו מציעים הגנה מושלמת בזמן פעילות גופנית. עם עיצוב ייחודי ומרשים, הם מתאימים לא רק לספורטאים אלא גם לכל מי שמעוניין להרגיש בטוח ונוח. המידות המדויקות מבטיחות התאמה מושלמת לגוף, והחומרים האיכותיים מאפשרים נוחות וגמישות במהלך השימוש. בחרו במגיני הברכיים והמרפקים SPIN ROYAL STITCH ותיהנו מהגנה שאין לה תחליף! אחריות: 12 חודשי אחריות ע"י היבואן הרשמי – למעט שבר ורטיבות, בהתאם לתנאי האחריות.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783415466959-cbl3vh.webp
-
-### קורקינט מפרץ ההרפתקאות - יחידת החילוץ
-https://parktoys.co.il/product/kvrkynt-mprts-hhrptkavt-ychydt-hchylvts-mk3nh0
-- Price: 170.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: קורקינט 3 גלגלים לילדים – דגם יחידת חילוץ העניקו לילדים חוויית רכיבה מהנה ובטוחה עם קורקינט 3 גלגלים בעיצוב צבעוני של יחידת החילוץ האהובה. הקורקינט תוכנן במיוחד לילדים צעירים ומסייע בפיתוח שיווי משקל, קואורדינציה וביטחון עצמי תוך כדי משחק ופעילות.
-- Image: https://parktoys.co.il/assets/product-enhanced-1783412245236-q4foa.webp
 
 ---
 

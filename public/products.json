@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T11:44:22.860Z",
+  "generated_at": "2026-07-22T11:48:46.117Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 287,
+  "count": 288,
   "products": [
+    {
+      "id": "987e6ca0-98c6-4352-8af5-0da10b3ccff5",
+      "slug": "hmyrvts-larmvn-z9prqf",
+      "name": "המירוץ לארמון",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מירוץ לארמון \n\nמשחק לפיתוח יכולת מילוי הוראות ולפיתוח המיומנויות החברתיות.\n\nהמשחק תורם לשיפור התפיסה החזותית מרחבית ולחיזוק קשר עין-יד.\n\nהמשחק מכיל לוח, 4 כלי משחק וקובייה.\n\nכהכנה למשחק הרכיבו את לוח המשחק והניחו אותו על גבי משטח יציב.",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784720878678-hk907s.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/hmyrvts-larmvn-z9prqf",
+      "categories": [
+        "משחקי חברה"
+      ],
+      "updated_at": "2026-07-22T11:48:08.367Z"
+    },
     {
       "id": "0e38e705-5147-4270-9c0f-432932ea86c3",
       "slug": "tsvllvt-kq1neo",
