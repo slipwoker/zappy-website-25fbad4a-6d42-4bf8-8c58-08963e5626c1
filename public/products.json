@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T12:33:05.315Z",
+  "generated_at": "2026-07-22T12:35:11.800Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 294,
+  "count": 295,
   "products": [
+    {
+      "id": "710688b8-1675-4086-9e51-0124d062275b",
+      "slug": "tysh-501-z8gqy1",
+      "name": "טיסה 501",
+      "name_translations": {},
+      "description": "<p><strong>על המשחק</strong></p><p>חלמתם פעם לטוס מעל רכסי הרים קסומים או נהרות סוערים?</p><p>חלמתם פעם לבקר בערים אקזוטיות השומרות על תרבויותיהן העתיקות?</p><p>חלמתם פעם לטייל בערים הרוחשות סכנה והרפתקאות?</p><p>לא צריך יותר לחלום!</p><p>הדקו את החגורות! טיסה 501 של קודקוד ממריאה לחוויה בלתי נשכחת!</p><p>מתכננים נתיבי טיסה ונשמעים להוראות מגדל הפיקוח!</p><p>ויש הפתעות! רוח גבית - מקצרת את הטיסה, דלק סילוני חדיש - מאיץ אותה ותדלוק אווירי מאפשר להמשיך ללא נחיתות ביניים!</p><p>תודה שטסתם בטיסה 501 של קודקוד, וחברת התעופה הלאומית של ישראל, נתראה בטיסה הבאה!</p><p><strong>מינימום משתתפים:</strong> 2</p><p><strong>מקסימום משתתפים:</strong> 6</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 119,
+      "base_price": 119,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784723645149-83qhs.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/tysh-501-z8gqy1",
+      "categories": [
+        "משחקי חברה"
+      ],
+      "updated_at": "2026-07-22T12:34:39.967Z"
+    },
     {
       "id": "03599478-6bfe-4ded-9b31-55cd047f8dd3",
       "slug": "typvl-nmrts-sjly2v",

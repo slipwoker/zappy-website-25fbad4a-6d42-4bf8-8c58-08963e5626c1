@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 294** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 295** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### טיסה 501
+https://parktoys.co.il/product/tysh-501-z8gqy1
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: על המשחק חלמתם פעם לטוס מעל רכסי הרים קסומים או נהרות סוערים? חלמתם פעם לבקר בערים אקזוטיות השומרות על תרבויותיהן העתיקות? חלמתם פעם לטייל בערים הרוחשות סכנה והרפתקאות? לא צריך יותר לחלום! הדקו את החגורות! טיסה 501 של קודקוד ממריאה לחוויה בלתי נשכחת! מתכננים נתיבי טיסה ונשמעים להוראות מגדל הפיקוח! ויש הפתעות! רוח גבית - מקצרת את הטיסה, דלק סילוני חדיש - מאיץ אותה ותדלוק אווירי מאפשר להמשיך ללא נחיתות ביניים! תודה שטסתם בטיסה 501 של קודקוד, וחברת התעופה הלאומית של ישראל, נתראה בטיסה הבאה! מינימום…
+- Image: https://parktoys.co.il/assets/product-1784723645149-83qhs.webp
 
 ### טיפול נמרץ
 https://parktoys.co.il/product/typvl-nmrts-sjly2v
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/kryy-byby-mshnh-tsba-nvhtun
 - Availability: In stock
 - Description: הכירו את הבובה הכי מתוקה, מנצנצת וקסומה שיש! בובת הגליטר בייביז בעלת אישיות מלבבת שבאה לידי ביטוי בעיניים המהממות שלה. בחולצה שהיא לובשת, בבקבוקים שלה ובמוצץ. תהיו מוכנים לגלות גם 3 הפתעות קסומות של שינוי צבע! בכל פעם שתרחצו את הבובה במים קרים כקרח השיער שלה ישנה את צבעו. בנוסף גם בקבוק השמפו וגם בקבוק האוכל של הבובה ישנו את צבעם שוב ושוב כאשר תמלאו אותם במי קרח. הדגם של בובת הגליטר בייביז כולל: בובה, חולצה וחיתול מנצנץ הניתנים להסרה, מוצץ, בקבוק שמפו ובקבוק אוכל. האכילו אותה עם הבקבוק, ה
 - Image: https://parktoys.co.il/assets/product-1783421568481-l214h.webp
-
-### כוס להכנת ברד של סטיץ 
-https://parktoys.co.il/product/kvs-lhknt-brd-shl-styts-illz8k
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: כוס להכנת ברד הכנה מהירה וקלה במיוחד
-- Image: https://parktoys.co.il/assets/product-enhanced-1783421240309-7nno7g.webp
 
 ---
 
