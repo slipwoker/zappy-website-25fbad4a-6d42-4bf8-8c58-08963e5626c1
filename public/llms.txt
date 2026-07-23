@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 324** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 325** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### כדור מתנפח בעיצוב הסדרה סוניק 50 ס''מ
+https://parktoys.co.il/product/kdvr-mtnpch-baytsvb-hsdrh-svnyk-50-sm-isuqn1
+- Price: 14.99 ILS
+- Availability: In stock
+- Category: מוצרי קיץ 
+- Description: כדור ים מתנפח 50 ס''מ בעיצוב הסדרה האהובה סוניק להשלמת החוויה הקיצית של ילדכם בבריכה או בחוף הים.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784825091299-ppl6kb.webp
 
 ### מצופים בעיצוב הסדרה בית הבובות של גבי
 https://parktoys.co.il/product/mtsvpym-baytsvb-hsdrh-byt-hbvbvt-shl-gby-j7j4j6
@@ -1636,14 +1644,6 @@ https://parktoys.co.il/product/mkvnyt-spvrt-am-shlt-vzgmqs
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
 - Description: מכונית ספורט על שלט עם דלתות נפתחות.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783590083544-0kj7b.webp
-
-### רחפן יורה כדורי ג'לי כולל מצלמת K4 HD 
-https://parktoys.co.il/product/rchpn-yvrh-kdvry-gly-kvll-mtslmt-k4-hd-82udlt
-- Price: 300.00 ILS
-- Availability: In stock
-- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
-- Description: רחפן יורה כדורי ג'לי כולל מצלמת K4 HD מתכווננת רחפן יורה כדורי ג'לי עם מנועים חזקים ועצמתיים קלים לשליטה וחסכניים באנרגיה . מצלמת K4 HD מתכווננת ,מצלמת איזון אוטומטית , כולל צילום וידאו . 3 מהירויות טיסה ,טיסה יציבה ומהירה של הרחפן . בקרת טיסה אלקטרונית מתחברת לנייד בשידור בזמן אמת , צילום תמונה HD , מייצב גובה אוטומטי תכנון מסלול טיסה יורה כדורי ג'לי ( מתאים למשחק )
-- Image: https://parktoys.co.il/assets/product-enhanced-1783588610596-ohu2mi.webp
 
 ---
 
