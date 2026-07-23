@@ -79,12 +79,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 321** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### בריכה מתנפחת סוניק
-https://parktoys.co.il/product/brykh-mtnpcht-svnyk-ulu2sk
+https://parktoys.co.il/product/brykh-mtnpcht-svnyk-4al39c
 - Price: 60.00 ILS
 - Availability: In stock
 - Category: מוצרי קיץ 
 - Description: הילדים מעריצים את סוניק? עכשיו הם יכולים לקפוץ לתוך האקשן! בריכת הפעוטות של Sonic Prime מביאה את האנרגיה המטורפת של הקיפוד הכחול היישר לחצר או למרפסת שלכם.מה הופך אותה ללהיט של הקיץ?לחובבי סוניק המושבעים: איורים צבעוניים ומלאי חיים של סוניק והחברים שמוסיפים המון אופי וסטייל לסביבת המשחק.יציבות ובטיחות: מבנה של 3 טבעות מתנפחות המעניק חוזק יציבות ושמירה על צורת הבריכה גם בזמן משחק פעיל.מרווחת ומהנה: עם קוטר של 120 ס"מ ועומק של 30 ס"מ יש לקטנטנים המון מקום להשתכשך בכיף
-- Image: https://parktoys.co.il/assets/product-enhanced-1784816704662-f3moid.webp
+- Image: https://parktoys.co.il/assets/product-enhanced-1784820174564-gl2qmw.webp
 
 ### מזרון קמפינג מתנפח 22*73*191 ס"מ
 https://parktoys.co.il/product/mzrvn-kmpyng-mtnpch-2273191-sm-kpwi5b

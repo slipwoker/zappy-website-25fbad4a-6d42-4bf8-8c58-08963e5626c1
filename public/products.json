@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T14:25:57.825Z",
+  "generated_at": "2026-07-23T15:23:50.213Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 321,
   "products": [
     {
       "id": "733b0f12-df1e-42ae-9b90-3ca1763697b8",
-      "slug": "brykh-mtnpcht-svnyk-ulu2sk",
+      "slug": "brykh-mtnpcht-svnyk-4al39c",
       "name": "בריכה מתנפחת סוניק",
       "name_translations": {},
       "description": "",
@@ -19,15 +19,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1784816704662-f3moid.webp"
+        "https://parktoys.co.il/assets/product-enhanced-1784820174564-gl2qmw.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/brykh-mtnpcht-svnyk-ulu2sk",
+      "url": "https://parktoys.co.il/product/brykh-mtnpcht-svnyk-4al39c",
       "categories": [
         "מוצרי קיץ "
       ],
-      "updated_at": "2026-07-23T14:25:25.603Z"
+      "updated_at": "2026-07-23T15:23:18.267Z"
     },
     {
       "id": "34ea1594-0112-4c9d-a6cf-6a6fe778e04c",
