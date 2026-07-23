@@ -13194,6 +13194,12 @@ html body .deals-section .deals-grid { display: grid !important; }
 /* zappy-self-heal */
 html body .featured-categories-section .category-blocks { display: grid !important; }
 
+
+@media (max-width: 768px) {
+#featured-products #zappy-featured-products {
+  grid-template-columns: repeat(2, 1fr) !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
