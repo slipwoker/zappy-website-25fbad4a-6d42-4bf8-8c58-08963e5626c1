@@ -1,17 +1,17 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T09:40:21.284Z",
+  "generated_at": "2026-07-23T09:41:14.802Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 310,
   "products": [
     {
       "id": "8806ddea-1ccf-4592-9750-40351aa447fe",
-      "slug": "brykh-mtnpcht-agvlh-mprts-hrptkavt-12030-sm-jwgryu",
+      "slug": "brykh-mtnpcht-agvlh-mprts-hrptkavt-12030-sm-vuw0pt",
       "name": "בריכה מתנפחת עגולה מפרץ הרפתקאות 120/30 ס\"מ",
       "name_translations": {},
       "description": "",
-      "short_description": "בריכה מתנפחת עגולה מפרץ הרפתקאות 120/30 ס\"מ",
+      "short_description": "הלהיט שכל ילד וילדה חולמים עליו הגיע! בריכת הפעוטות הרשמית של מפרץ ההרפתקאות (Paw Patrol) תהפוך את הגינה או המרפסת שלכם למטה החילוץ הכי מרענן בשכונה. עם הדמויות האהובות - צ'ייס סקיי וחברים - כל טבילה במים הופכת להרפתקה דמיונית מלאה בכיף.למה הילדים יתאהבו בה?המותג האהוב בעולם: עיצוב צבעוני ומרהיב עם הגיבורים מהסדרה שילדים מעריצים.מבנה 3 טבעות יציב: מעניק תמיכה מקסימלית ועמידות לאורך זמן גם כשהמשחק הופך לסוער.מידות מושלמות: קוטר של 120 ס\"מ ועומק של 30 ס\"מ - השילוב האידיאלי בין מרחב משחק לבטיחות ונ",
       "sku": null,
       "brand": null,
       "price": 59,
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/brykh-mtnpcht-agvlh-mprts-hrptkavt-12030-sm-jwgryu",
+      "url": "https://parktoys.co.il/product/brykh-mtnpcht-agvlh-mprts-hrptkavt-12030-sm-vuw0pt",
       "categories": [
         "מוצרי קיץ "
       ],
-      "updated_at": "2026-07-23T09:39:49.744Z"
+      "updated_at": "2026-07-23T09:40:43.202Z"
     },
     {
       "id": "22bedae8-00ae-4431-8e9d-44245ff980c7",
