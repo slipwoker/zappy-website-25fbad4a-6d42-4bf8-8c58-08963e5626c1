@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T10:11:18.425Z",
+  "generated_at": "2026-07-23T10:12:34.960Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 313,
   "products": [
     {
       "id": "ac6b2843-9926-4347-84dc-28d90774dca9",
-      "slug": "brykt-amvdym-myny-bgvdl-122x122x30-sm-57173-intex-7o5ve1",
+      "slug": "brykt-amvdym-myny-bgvdl-122x122x30-sm-57173-intex-wm5azr",
       "name": "בריכת עמודים מיני בגודל 122X122X30 ס\"מ 57173 - Intex",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/brykt-amvdym-myny-bgvdl-122x122x30-sm-57173-intex-7o5ve1",
+      "url": "https://parktoys.co.il/product/brykt-amvdym-myny-bgvdl-122x122x30-sm-57173-intex-wm5azr",
       "categories": [
         "מוצרי קיץ "
       ],
-      "updated_at": "2026-07-23T10:10:45.592Z"
+      "updated_at": "2026-07-23T10:12:02.139Z"
     },
     {
       "id": "834abd51-492a-4271-97a4-7164eb6f739d",
