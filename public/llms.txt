@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 318** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 319** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ערסל מים שקוף של INTEX: צף בריכה מתנפח – 172.7 ס"מ x 89 ס"מ – קיבולת משקל 220 - משטח אחד, הצבע עשוי להשתנות
+https://parktoys.co.il/product/arsl-mym-shkvp-shl-intex-tsp-brykh-mtnpch-1727-sm-x-89-sm-kybvlt-mshkl-220-mshtch-achd-htsba-ashvy-lhshtnvt-cmmme4
+- Price: 80.00 ILS
+- Availability: In stock
+- Category: מוצרי קיץ 
+- Description: מזרני הערסל המתנפחים של INTEX מוסיפים נגיעה צבעונית ושמחה לכל שחייה. בין אם בים או בבריכה זהו האביזר המושלם לרגעים של רוגע והתפנקות בקיץ. העיצוב החכם מאפשר למים לזרום בעדינות דרך המשענת הגלית, כך שתוכלו להתרענן בזמן שאתם משתזפים. הצבע לפי המלאי בחנות!!
+- Image: https://parktoys.co.il/assets/product-enhanced-1784810867632-vk0xak.webp
 
 ### מזרון ים ורד אדום
 https://parktoys.co.il/product/mzrvn-ym-vrd-advm-5e6z69
@@ -1634,14 +1642,6 @@ https://parktoys.co.il/product/hlykvn-tsvadym-vmtptchym-nritnv
 - Category: מוצרי תינוקות 
 - Description: הליכון דובר עברית צועדים ומתפתחים עשרות משפטים ושירים בעברית! התאמת צורות צעצוע אינטראקטיבי נשלף! מגוון הפעלות מוטוריות! גלגלים עם ציפוי גומי ונעילה למניעת החלקה הגברת יציבות על ידי מילוי מים ברגלי ההליכון מתאים לגילאי שנה +
 - Image: https://parktoys.co.il/assets/product-1783522015027-unopn9.webp
-
-### בנקט כספת סמי הכבאי
-https://parktoys.co.il/product/bnkt-kspt-smy-hkbay-9cecdq
-- Price: 99.00 ILS
-- Availability: In stock
-- Brand: סמי הכבאי 
-- Description: כספת "סמי הכבאי" אלקטרונית היא קופת חיסכון חכמה דמוית כספת כספת קוד דיגיטלית מושכת שטרות - Gהכוללת מנגנון משיכת שטרות אוטומטי, פתח למטבעות, קוד אישי ואורות כספת סמי הכבאי +
-- Image: https://parktoys.co.il/assets/product-enhanced-1783516183172-js68mm.webp
 
 ---
 
