@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T07:33:58.136Z",
+  "generated_at": "2026-07-23T07:43:40.574Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 309,
@@ -81,7 +81,7 @@
     },
     {
       "id": "b9813c62-d9e9-4d76-b3fa-13a42df06e41",
-      "slug": "my-zh-shm-wyhz9e",
+      "slug": "my-zh-shm-myk1w6",
       "name": "מי זה שם?",
       "name_translations": {},
       "description": "",
@@ -97,15 +97,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/my-zh-shm-wyhz9e",
+      "url": "https://parktoys.co.il/product/my-zh-shm-myk1w6",
       "categories": [
         "משחקי חברה"
       ],
-      "updated_at": "2026-07-22T15:28:26.123Z"
+      "updated_at": "2026-07-23T07:42:41.862Z"
     },
     {
       "id": "aaae3abb-6b59-4dfa-b13c-ba8f2fa608c3",
-      "slug": "mshchk-zykrvn-womepk",
+      "slug": "mshchk-zykrvn-qkxtk1",
       "name": "משחק זיכרון",
       "name_translations": {},
       "description": "",
@@ -121,11 +121,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mshchk-zykrvn-womepk",
+      "url": "https://parktoys.co.il/product/mshchk-zykrvn-qkxtk1",
       "categories": [
         "משחקי חברה"
       ],
-      "updated_at": "2026-07-22T15:16:50.686Z"
+      "updated_at": "2026-07-23T07:43:08.733Z"
     },
     {
       "id": "4c9390f0-0877-4e82-b6e9-dfa5f1ad859f",
