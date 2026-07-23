@@ -2167,9 +2167,9 @@ main:not(.courses-page-main) { margin-top: 0 !important; padding-top: 0 !importa
 
 @media (max-width: 768px) {
 .footer-grid {
-  grid-template-columns: repeat(2, 1fr) !important;
-  gap: 2rem;
-}
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
 
 .footer-bottom {
     flex-direction: column;
@@ -12910,7 +12910,21 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Quicksand', sans-serif; font-weight: 700;
   }
 }
 
+/* Zappy custom logo size (desktop only — mobile stays at 110px/35px) */
+@media (min-width: 769px) {
+  .logo, img.logo, .logo img, .logo-link img, .nav-brand img {
+    max-height: none !important;
+    height: 54px !important;
+    max-width: 214px !important;
+    width: auto !important;
+    object-fit: contain !important;
+  }
+  .nav-container {
+    min-height: 84px !important;
+  }
+}
 
+/* /Zappy custom logo size */
 
 
 .index-hero-section[data-hero-type="fullscreen-scrim"] .hero-fade-img[data-hero-bg] {
@@ -13179,27 +13193,6 @@ html body .deals-section .deals-grid { display: grid !important; }
 
 /* zappy-self-heal */
 html body .featured-categories-section .category-blocks { display: grid !important; }
-
-
-@media (max-width: 768px) {
-#featured-products #zappy-featured-products {
-  grid-template-columns: repeat(2, 1fr) !important;
-}
-}
-/* Zappy custom logo size (desktop only — mobile stays at 110px/35px) */
-@media (min-width: 769px) {
-  .logo, img.logo, .logo img, .logo-link img, .nav-brand img {
-    max-height: none !important;
-    height: 52px !important;
-    max-width: 208px !important;
-    width: auto !important;
-    object-fit: contain !important;
-  }
-  .nav-container {
-    min-height: 82px !important;
-  }
-}
-/* /Zappy custom logo size */
 
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
