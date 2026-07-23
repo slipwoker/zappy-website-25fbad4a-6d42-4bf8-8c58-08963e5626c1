@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 319** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 320** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מזרון קמפינג מתנפח 22*73*191 ס"מ
+https://parktoys.co.il/product/mzrvn-kmpyng-mtnpch-2273191-sm-kpwi5b
+- Price: 80.00 ILS
+- Availability: In stock
+- Category: מוצרי קיץ 
+- Description: מזרן קמפינג מתנפח איכותי המציע את השילוב המושלם בין נוחות ביתית, עמידות גבוהה וניידות מקסימלית בתנאי שטח. המזרן מעוצב במבנה ארגונומי חכם המפזר את משקל הגוף בצורה אחידה ומבודד אותו ביעילות מהרצפה הקרה או משטח לא ישר, מה שמבטיח שינה עמוקה ונוחה בכל טיול, מחנה או אירוח ביתי. המזרן מיוצר מחומרים חזקים ועמידים במיוחד בפני שחיקה ותקרים, והוא קל מאוד לניקוי ותחזוקה. בזכות שסתום אוויר מתקדם, המזרן מאפשר ניפוח מהיר וריקון קל ופשוט בתוך דקות ספורות. בסיום השימוש הוא מתקפל לגודל קומפקטי וקל משקל,
+- Image: https://parktoys.co.il/assets/product-enhanced-1784811803150-n7j60q.webp
 
 ### ערסל מים שקוף של INTEX: צף בריכה מתנפח – 172.7 ס"מ x 89 ס"מ – קיבולת משקל 220 - משטח אחד, הצבע עשוי להשתנות
 https://parktoys.co.il/product/arsl-mym-shkvp-shl-intex-tsp-brykh-mtnpch-1727-sm-x-89-sm-kybvlt-mshkl-220-mshtch-achd-htsba-ashvy-lhshtnvt-cmmme4
@@ -1634,14 +1642,6 @@ https://parktoys.co.il/product/shvlchn-paylvt-sprk-dvbr-abryt-4j0djg
 - Category: מוצרי תינוקות 
 - Description: שולחן פעילות ספרק דובר עברית שולחן פעילות מעוצב ואיכותי, עשיר בתכנים ובהפעלות התורמות להתפתחות התינוק. מגוון הפעלות בכל פינה בעלי חיים צורות צבעים כלי תחבורה כלי נגינה מספרים 3 משחקים נשלפים השולחן בעל 2 עוצמות קול וכולל 10 שירי ילדים בעברית!
 - Image: https://parktoys.co.il/assets/product-1783522299662-c0prdi.webp
-
-### הליכון צועדים ומתפתחים
-https://parktoys.co.il/product/hlykvn-tsvadym-vmtptchym-nritnv
-- Price: 200.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות 
-- Description: הליכון דובר עברית צועדים ומתפתחים עשרות משפטים ושירים בעברית! התאמת צורות צעצוע אינטראקטיבי נשלף! מגוון הפעלות מוטוריות! גלגלים עם ציפוי גומי ונעילה למניעת החלקה הגברת יציבות על ידי מילוי מים ברגלי ההליכון מתאים לגילאי שנה +
-- Image: https://parktoys.co.il/assets/product-1783522015027-unopn9.webp
 
 ---
 

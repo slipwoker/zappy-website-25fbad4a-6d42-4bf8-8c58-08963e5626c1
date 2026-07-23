@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T12:49:34.968Z",
+  "generated_at": "2026-07-23T13:05:05.352Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 319,
+  "count": 320,
   "products": [
+    {
+      "id": "34ea1594-0112-4c9d-a6cf-6a6fe778e04c",
+      "slug": "mzrvn-kmpyng-mtnpch-2273191-sm-kpwi5b",
+      "name": "מזרון קמפינג מתנפח 22*73*191 ס\"מ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מזרן קמפינג מתנפח איכותי המציע את השילוב המושלם בין נוחות ביתית, עמידות גבוהה וניידות מקסימלית בתנאי שטח. המזרן מעוצב במבנה ארגונומי חכם המפזר את משקל הגוף בצורה אחידה ומבודד אותו ביעילות מהרצפה הקרה או משטח לא ישר, מה שמבטיח שינה עמוקה ונוחה בכל טיול, מחנה או אירוח ביתי.\nהמזרן מיוצר מחומרים חזקים ועמידים במיוחד בפני שחיקה ותקרים, והוא קל מאוד לניקוי ותחזוקה. בזכות שסתום אוויר מתקדם, המזרן מאפשר ניפוח מהיר וריקון קל ופשוט בתוך דקות ספורות. בסיום השימוש הוא מתקפל לגודל קומפקטי וקל משקל, ",
+      "sku": null,
+      "brand": null,
+      "price": 80,
+      "base_price": 80,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784811803150-n7j60q.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mzrvn-kmpyng-mtnpch-2273191-sm-kpwi5b",
+      "categories": [
+        "מוצרי קיץ "
+      ],
+      "updated_at": "2026-07-23T13:04:32.738Z"
+    },
     {
       "id": "21d1d865-8269-4683-b9a1-9ba65604fb54",
       "slug": "arsl-mym-shkvp-shl-intex-tsp-brykh-mtnpch-1727-sm-x-89-sm-kybvlt-mshkl-220-mshtch-achd-htsba-ashvy-lhshtnvt-cmmme4",
