@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T13:05:05.352Z",
+  "generated_at": "2026-07-23T14:25:57.825Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 320,
+  "count": 321,
   "products": [
+    {
+      "id": "733b0f12-df1e-42ae-9b90-3ca1763697b8",
+      "slug": "brykh-mtnpcht-svnyk-ulu2sk",
+      "name": "בריכה מתנפחת סוניק",
+      "name_translations": {},
+      "description": "",
+      "short_description": " הילדים מעריצים את סוניק? עכשיו הם יכולים לקפוץ לתוך האקשן! בריכת הפעוטות של Sonic Prime מביאה את האנרגיה המטורפת של הקיפוד הכחול היישר לחצר או למרפסת שלכם.מה הופך אותה ללהיט של הקיץ?לחובבי סוניק המושבעים: איורים צבעוניים ומלאי חיים של סוניק והחברים שמוסיפים המון אופי וסטייל לסביבת המשחק.יציבות ובטיחות: מבנה של 3 טבעות מתנפחות המעניק חוזק יציבות ושמירה על צורת הבריכה גם בזמן משחק פעיל.מרווחת ומהנה: עם קוטר של 120 ס\"מ ועומק של 30 ס\"מ יש לקטנטנים המון מקום להשתכשך בכיף",
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784816704662-f3moid.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/brykh-mtnpcht-svnyk-ulu2sk",
+      "categories": [
+        "מוצרי קיץ "
+      ],
+      "updated_at": "2026-07-23T14:25:25.603Z"
+    },
     {
       "id": "34ea1594-0112-4c9d-a6cf-6a6fe778e04c",
       "slug": "mzrvn-kmpyng-mtnpch-2273191-sm-kpwi5b",

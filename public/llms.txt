@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 320** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 321** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בריכה מתנפחת סוניק
+https://parktoys.co.il/product/brykh-mtnpcht-svnyk-ulu2sk
+- Price: 60.00 ILS
+- Availability: In stock
+- Category: מוצרי קיץ 
+- Description: הילדים מעריצים את סוניק? עכשיו הם יכולים לקפוץ לתוך האקשן! בריכת הפעוטות של Sonic Prime מביאה את האנרגיה המטורפת של הקיפוד הכחול היישר לחצר או למרפסת שלכם.מה הופך אותה ללהיט של הקיץ?לחובבי סוניק המושבעים: איורים צבעוניים ומלאי חיים של סוניק והחברים שמוסיפים המון אופי וסטייל לסביבת המשחק.יציבות ובטיחות: מבנה של 3 טבעות מתנפחות המעניק חוזק יציבות ושמירה על צורת הבריכה גם בזמן משחק פעיל.מרווחת ומהנה: עם קוטר של 120 ס"מ ועומק של 30 ס"מ יש לקטנטנים המון מקום להשתכשך בכיף
+- Image: https://parktoys.co.il/assets/product-enhanced-1784816704662-f3moid.webp
 
 ### מזרון קמפינג מתנפח 22*73*191 ס"מ
 https://parktoys.co.il/product/mzrvn-kmpyng-mtnpch-2273191-sm-kpwi5b
@@ -1634,14 +1642,6 @@ https://parktoys.co.il/product/spark-toys-hlykvn-lymvdy-dvbr-abryt-517gux
 - Category: מוצרי תינוקות 
 - Description: הליכון מעולה מבית ספארק טויס – חברת צעצועים המתמחה בצעצועים לפעוטות וילדים בגיל הרך. ההליכון הלימודי של ספארק טויס הינו צעצוע אינטראקטיבי המכיל בתוכו שלל משחקים שילוו את ילדיכם גם אחרי שילמד לרוץ… ההליכון הינו יציב ביותר ונוח ללימוד הליכה תוך כדי שהפעוט נתמך בו באחיזת הידית הרחבה והנוחה. הליכון 2 ב-1 הופך מהליכון לשולחן פעילות.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783522715307-02k0ar.webp
-
-### שולחן פעילות ספרק דובר עברית
-https://parktoys.co.il/product/shvlchn-paylvt-sprk-dvbr-abryt-4j0djg
-- Price: 199.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות 
-- Description: שולחן פעילות ספרק דובר עברית שולחן פעילות מעוצב ואיכותי, עשיר בתכנים ובהפעלות התורמות להתפתחות התינוק. מגוון הפעלות בכל פינה בעלי חיים צורות צבעים כלי תחבורה כלי נגינה מספרים 3 משחקים נשלפים השולחן בעל 2 עוצמות קול וכולל 10 שירי ילדים בעברית!
-- Image: https://parktoys.co.il/assets/product-1783522299662-c0prdi.webp
 
 ---
 
