@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T07:12:11.824Z",
+  "generated_at": "2026-07-23T07:33:58.136Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 309,
@@ -57,7 +57,7 @@
     },
     {
       "id": "c326ea76-9178-4994-a5d5-24c9880e4724",
-      "slug": "hpkym-b1jnvs",
+      "slug": "hpkym-dn045j",
       "name": "הפכים",
       "name_translations": {},
       "description": "",
@@ -73,11 +73,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/hpkym-b1jnvs",
+      "url": "https://parktoys.co.il/product/hpkym-dn045j",
       "categories": [
         "משחקי חברה"
       ],
-      "updated_at": "2026-07-22T15:37:41.429Z"
+      "updated_at": "2026-07-23T07:33:26.199Z"
     },
     {
       "id": "b9813c62-d9e9-4d76-b3fa-13a42df06e41",
