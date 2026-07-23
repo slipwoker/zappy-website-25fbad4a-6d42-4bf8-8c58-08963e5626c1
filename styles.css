@@ -13172,7 +13172,7 @@ html body .deals-section .deals-grid { display: grid !important; }
 
 .featured-products-section .product-grid.featured-grid {
   display: grid !important;
-  grid-template-columns: repeat(2, 1fr) !important;
+  grid-template-columns: 1fr;
   gap: 24px !important;
 }
 
