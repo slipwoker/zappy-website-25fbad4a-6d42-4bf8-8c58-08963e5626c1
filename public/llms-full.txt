@@ -5796,7 +5796,7 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 ## Product Catalog
 
 ### מזרון ים ורד אדום
-URL: https://parktoys.co.il/product/mzrvn-ym-vrd-advm-en85eb
+URL: https://parktoys.co.il/product/mzrvn-ym-vrd-advm-5e6z69
 Price: 60.00 ILS
 Availability: In stock
 
