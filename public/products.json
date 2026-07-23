@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T15:26:25.062Z",
+  "generated_at": "2026-07-23T16:19:00.125Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 321,
+  "count": 322,
   "products": [
+    {
+      "id": "3316b804-45bb-4594-9ef9-b9d072409dbe",
+      "slug": "kdvr-ym-mtnpch-lyldym-aytsvb-mprts-hhrptkavt-iqopkm",
+      "name": "כדור ים מתנפח לילדים - עיצוב מפרץ ההרפתקאות",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הצטרפו ליחידת החילוץ האהובה בבילוי הבא שלכם במים!\nכדור הים הצבעוני בעיצוב “מפרץ ההרפתקאות” מביא את צ’ייס, סקאי ושאר החברים מהסדרה הפופולרית ישירות לבריכה או לים.\nהכדור קל משקל, נוח לניפוח ומספק שעות של הנאה אקטיבית לילדים.",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784823494378-0wf0r.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kdvr-ym-mtnpch-lyldym-aytsvb-mprts-hhrptkavt-iqopkm",
+      "categories": [
+        "מוצרי קיץ "
+      ],
+      "updated_at": "2026-07-23T16:18:27.960Z"
+    },
     {
       "id": "733b0f12-df1e-42ae-9b90-3ca1763697b8",
       "slug": "brykh-mtnpcht-svnyk-4al39c",
