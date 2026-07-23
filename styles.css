@@ -13487,6 +13487,10 @@ html body .featured-categories-section .category-blocks { display: grid !importa
     height: 20px;
   }
 }
+
+.featured-products-section #zappy-featured-products.featured-grid {
+  grid-template-columns: 1fr !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
