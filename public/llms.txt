@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 313** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 314** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בריכת ריסוס קשת בענן Intex, בריכת ילדים מתנפחת, לגילאי שנתיים +
+https://parktoys.co.il/product/brykt-rysvs-ksht-bann-intex-brykt-yldym-mtnpcht-lgylay-shntyym-df4wje
+- Price: 200.00 ILS
+- Availability: In stock
+- Category: מוצרי קיץ 
+- Description: בריכת פעילות קשת כולל מזרקה אורן 1.47 ס"מ רוחב 1.30 ס"מ גובה 86 ס"מ מיועד לשימוש כמשחק בריכה . ניתן לחבר צינור גינה על מנת להשפריץ מים לרענון! INTEX חברת הבריכות הטובה בעולם מתאים לשימוש לילדים בגיל 2 ומעלה.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784801660092-mv7up.webp
 
 ### בריכת עמודים מיני בגודל 122X122X30 ס"מ 57173 - Intex
 https://parktoys.co.il/product/brykt-amvdym-myny-bgvdl-122x122x30-sm-57173-intex-wm5azr
@@ -1635,14 +1643,6 @@ https://parktoys.co.il/product/kvph-kspt-kvd-alktrvnyt-styts-q5cqw4
 - Brand: סטיץ
 - Description: קופת כספת דיגיטלית בעיצוב סטיץ' המהמם מהסרט לילו וסטיץ' – כוללת קוד אישי, שואבת שטרות באופן אוטומטי ומוסיפה חוויה קסומה לחיסכון! צורכת 3 סוללות AA 1.5V ,
 - Image: https://parktoys.co.il/assets/product-enhanced-1783514202498-2xlfxj.webp
-
-###   ספת סטיץ מהודרת לילדים – רכה, מעוצבת ומפנקת!
-https://parktoys.co.il/product/spt-styts-mhvdrt-lyldym-rkh-mavtsbt-vmpnkt-wx0b9o
-- Price: 299.00 ILS
-- Availability: In stock
-- Brand: סטיץ
-- Description: הכניסו את הקסם של דיסני לחדר הילדים עם ספת הישיבה המהודרת בדמותו של סטיץ' (Stitch) האהוב! הספה מושלמת כפריט עיצובי שמוסיף צבע ושמחה לחדר, ומשמשת כפינה אישית ונוחה לילדים למנוחה, קריאת ספרים או צפייה בטלוויזיה. למה הילדים (וההורים) יאהבו אותה? עיצוב אייקוני: דמותו של סטיץ' בעיצוב צבעוני ומדויק שכל ילד וילדה ישמחו לקבל. נוחות מקסימלית: ספה רכה ומרופדת המותאמת במיוחד למבנה הגוף של ילדים, המעניקה תמיכה ונוחות בזמן הישיבה. איכות ללא פשרות: עשויה מחומרים עמידים ואיכותיים שנשמרים לאורך זמן. שדרוג
-- Image: https://parktoys.co.il/assets/product-enhanced-1783513468096-411s78.webp
 
 ---
 

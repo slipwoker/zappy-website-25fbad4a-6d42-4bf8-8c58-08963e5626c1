@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T10:12:34.960Z",
+  "generated_at": "2026-07-23T10:15:04.521Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 313,
+  "count": 314,
   "products": [
+    {
+      "id": "17b9435e-7f87-4083-b4cf-c7b8e78cb4ba",
+      "slug": "brykt-rysvs-ksht-bann-intex-brykt-yldym-mtnpcht-lgylay-shntyym-df4wje",
+      "name": "בריכת ריסוס קשת בענן Intex, בריכת ילדים מתנפחת, לגילאי שנתיים +",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בריכת פעילות קשת כולל מזרקה\n\nאורן 1.47 ס\"מ רוחב 1.30 ס\"מ גובה 86 ס\"מ\n\nמיועד לשימוש כמשחק בריכה .\n\nניתן לחבר צינור גינה על מנת להשפריץ מים לרענון!\n\nINTEX חברת הבריכות הטובה בעולם\n\nמתאים לשימוש לילדים בגיל 2 ומעלה.\n",
+      "sku": null,
+      "brand": null,
+      "price": 200,
+      "base_price": 200,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784801660092-mv7up.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/brykt-rysvs-ksht-bann-intex-brykt-yldym-mtnpcht-lgylay-shntyym-df4wje",
+      "categories": [
+        "מוצרי קיץ "
+      ],
+      "updated_at": "2026-07-23T10:14:32.725Z"
+    },
     {
       "id": "ac6b2843-9926-4347-84dc-28d90774dca9",
       "slug": "brykt-amvdym-myny-bgvdl-122x122x30-sm-57173-intex-wm5azr",
