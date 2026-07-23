@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 308** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 309** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### משאית עם שלט צבי הנינגה-יורה פיצות
+https://parktoys.co.il/product/mshayt-am-shlt-tsby-hnyngh-yvrh-pytsvt-a0ew2d
+- Price: 159.00 ILS
+- Availability: In stock
+- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
+- Description: משאית עם שלט בצורה פיצה של צבי הנינגה נוסעת ויורה פיצות
+- Image: https://parktoys.co.il/assets/product-1784790434369-6jaksue.webp
 
 ### אופנוע עם שלט של צבי הנינגה 
 https://parktoys.co.il/product/avpnva-am-shlt-shl-tsby-hnyngh-dln64m
@@ -1633,14 +1641,6 @@ https://parktoys.co.il/product/pvnts-hklb-dvbr-abryt-72ho24
 - Category: מוצרי תינוקות 
 - Description: חבר על ארבע דובר עברית – פרווה רכה, לשון ורודה וסרט בבלורית. מי לא מכיר את חיית המחמד האהובה של מיקי... הכלב פונץ' הקטן והמתוק הוא חיית המחמד המושלמת. פונץ' יודע ללכת, לכשכש בזנב ואפילו לשיר ולדבר בעברית. להנאתכם – שני מצבי הפעלה. ואיך מיקי אומרת? אין כלב כמו פונץ' מפה ועד הירח!
 - Image: https://parktoys.co.il/assets/product-1783496512624-wunx4m.webp
-
-### השלט של מיקי – דובר עברית
-https://parktoys.co.il/product/hshlt-shl-myky-dvbr-abryt-a6uo1s
-- Price: 140.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות 
-- Description: מיקי בשלט רחוק שכולו שירים, שמחה וצחוק. עם השלט של מיקי רק אתם בוחרים - משפטים של מיקי או שירים! ההחלטה היא שלכם - במה תבחרו?
-- Image: https://parktoys.co.il/assets/product-1783496423885-r34vuj.webp
 
 ---
 

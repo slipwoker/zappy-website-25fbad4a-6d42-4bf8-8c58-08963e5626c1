@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T07:05:41.140Z",
+  "generated_at": "2026-07-23T07:12:11.824Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 308,
+  "count": 309,
   "products": [
+    {
+      "id": "22bedae8-00ae-4431-8e9d-44245ff980c7",
+      "slug": "mshayt-am-shlt-tsby-hnyngh-yvrh-pytsvt-a0ew2d",
+      "name": "משאית עם שלט צבי הנינגה-יורה פיצות",
+      "name_translations": {},
+      "description": "",
+      "short_description": "משאית עם שלט בצורה פיצה של צבי הנינגה נוסעת ויורה פיצות ",
+      "sku": null,
+      "brand": null,
+      "price": 159,
+      "base_price": 159,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784790434369-6jaksue.webp",
+        "https://parktoys.co.il/assets/product-1784790478206-1l1wik.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mshayt-am-shlt-tsby-hnyngh-yvrh-pytsvt-a0ew2d",
+      "categories": [
+        "צעצועי שלט/מסלולי מכוניות/מכוניות "
+      ],
+      "updated_at": "2026-07-23T07:11:39.827Z"
+    },
     {
       "id": "96e21310-6c94-4c92-a0fe-8a10d5c19db2",
       "slug": "avpnva-am-shlt-shl-tsby-hnyngh-dln64m",
