@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 322** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 323** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### זוג מצופים מתנפחים באטמן 23X15 ס"מ
+https://parktoys.co.il/product/zvg-mtsvpym-mtnpchym-batmn-23x15-sm-m84tth
+- Price: 15.00 ILS
+- Availability: In stock
+- Category: מוצרי קיץ 
+- Description: מחפשים דרך מהנה ובטוחה לקפוץ למים? זוג המצופים המתנפחים בעיצוב באטמן יעניק לילדיכם חוויית שחייה מופלאה ומלאת ביטחון! הזוג מגיע בגודל של 23×15 ס"מ, מיועד לילדים בגילאי 3–6 ובמשקל של 18–30 ק"ג. המצופים מיוצרים מחומרים עמידים ואיכותיים לשמירה על בטיחות מירבית בבריכה ובים, לצד נוחות מלאה בזמן התנועה במים. עם מראה גיבור-העל האהוב, כל רחצה הופכת לחוויה מהנה במיוחד!
+- Image: https://parktoys.co.il/assets/product-enhanced-1784824077303-reg1ght.webp
 
 ### כדור ים מתנפח לילדים - עיצוב מפרץ ההרפתקאות
 https://parktoys.co.il/product/kdvr-ym-mtnpch-lyldym-aytsvb-mprts-hhrptkavt-iqopkm
@@ -1635,13 +1643,6 @@ https://parktoys.co.il/product/mzvvdt-tyk-rvpa-lyldym-kvllt-10-abyzrymshl-rvpa-s
 - Availability: In stock
 - Description: מזוודת רופא ממש כמו של גדולים לכל קריאה הרופא שלך מוכן עם מזוודה מאובזרת: פטיש, מדחום, מזרק, מראה לפה, מראה לאוזן, משקפים ומספריים. איכות וחומרים עשוי פלסטיק איכותי למשחק במוצרים דומים למציאות. זמן משחק מלא חוויה ויצירתיות, הכרת אביזרים וענף הרפואה. זמן איכות אפשר להפוך לזמן איכות ולשחק רופא וחולה עם חברים ומשפחה. מאפיינים נוספים מגיע במזוודה רב פעמית קשיחה עם מנעול וידית נשיאה. גודל המזוודה 25 על 19 על. מתאים לגילאים מתאים לגילאי 3 ומעלה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783528986348-3t84um.webp
-
-### זוג מכשירי קשר עם מצלמות וידיאו
-https://parktoys.co.il/product/zvg-mkshyry-kshr-am-mtslmvt-vydyav-urwo95
-- Price: 199.00 ILS
-- Availability: In stock
-- Description: מכשיר תקשורת וידאו לילדים מעביר שידור וידאו ותקשורת קולית בזמן אמת — טווח פעולה עד 400 מטר. ממשק פשוט ונוח לתפעול על ידי ילדים, עם כפתורים ברורים ושימוש מידי. מתאים למשחקים בחצר, בפארק ובבית; קל לנשיאה ועיצוב ידידותי לילדים. מעודד משחקי דמיון, תקשורת ושיתוף פעולה בין ילדים בזמן פעילות חיצונית ופנימית.
-- Image: https://parktoys.co.il/assets/product-enhanced-1783528130591-q4laj.webp
 
 ---
 
