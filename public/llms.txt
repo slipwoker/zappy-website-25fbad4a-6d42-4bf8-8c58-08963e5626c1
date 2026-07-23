@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 307** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 308** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### אופנוע עם שלט של צבי הנינגה 
+https://parktoys.co.il/product/avpnva-am-shlt-shl-tsby-hnyngh-dln64m
+- Price: 159.00 ILS
+- Availability: In stock
+- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
+- Description: אופנוע עם שלט של צבי הנינגה
+- Image: https://parktoys.co.il/assets/product-1784789981318-amd2q.webp
 
 ### הפכים
 https://parktoys.co.il/product/hpkym-b1jnvs
@@ -1633,14 +1641,6 @@ https://parktoys.co.il/product/hshlt-shl-myky-dvbr-abryt-a6uo1s
 - Category: מוצרי תינוקות 
 - Description: מיקי בשלט רחוק שכולו שירים, שמחה וצחוק. עם השלט של מיקי רק אתם בוחרים - משפטים של מיקי או שירים! ההחלטה היא שלכם - במה תבחרו?
 - Image: https://parktoys.co.il/assets/product-1783496423885-r34vuj.webp
-
-### יובל המבולבל- בובה קטנה מנגנת
-https://parktoys.co.il/product/yvbl-hmbvlbl-bvbh-ktnh-mngnt-4zs4bd
-- Price: 89.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות 
-- Description: זה לחם עם ריבה? בטטה צהובה? לא! זה יובל בגודל של בובה! גם בקטן - יובל לא מפסיק להתבלבל ולצחוק - בובת יובל המבולבל תלווה אתכם לכל מקום עם מנגינות עליזות וחיוך, כי עם יובל הכל תמיד יותר מצחיק!
-- Image: https://parktoys.co.il/assets/product-enhanced-1783496158918-d7ao8s.webp
 
 ---
 
