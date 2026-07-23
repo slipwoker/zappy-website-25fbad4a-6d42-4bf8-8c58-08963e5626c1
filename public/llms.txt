@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 316** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 317** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### אינטקס מזרון כוסות עם כריתל מתנפח
+https://parktoys.co.il/product/ayntks-mzrvn-kvsvt-am-krytl-mtnpch-ju1elx
+- Price: 70.00 ILS
+- Availability: In stock
+- Category: מוצרי קיץ 
+- Description: זהו מזרן ים מתנפח Intex 18-Pocket Fashion Mat (דגם 58890) בצבע ירוק שקוף. המזרן כולל כרית ראש מובנית ו-18 שקעים ("כיסים") שמתמלאים במים כדי לקרר את הגוף בזמן הציפה. מידות המזרן הן 188 ס"מ אורך ו-71 ס"מ רוחב, והוא עשוי ויניל בעובי 0.28 מ"מ
+- Image: https://parktoys.co.il/assets/product-enhanced-1784809651977-votes.webp
 
 ### בריכת קונוס מתנפחת לילדים בקוטר 188X46 ס"מ - Intex
 https://parktoys.co.il/product/brykt-kvnvs-mtnpcht-lyldym-bkvtr-188x46-sm-intex-3wtel7
@@ -1634,14 +1642,6 @@ https://parktoys.co.il/product/kvpt-chyskvn-bnkt-kspt-svnyk-sonic-8w0fr6
 - Brand: סוניק
 - Description: כספת לילדים למדו את הילדים שלכם לחסוך כסף עוד מגיל קטן עם הכספת המגניבה הזאת שתלמד אותם לחסוך בצורה מגניבה ומהנה. הילד/ה שלכם יוכל ליצור סיסמה משלו ולהכניס שטרות ומטבעות. כספת לילדים בעלת חריצים להכנסת מטבעות או שטרות מוגנת באמצעות סיסמה מתנה מגניבה לכל ילד/ה
 - Image: https://parktoys.co.il/assets/product-enhanced-1783516009756-nbz0q.webp
-
-### כספת לילדים עם צלילים וקוד סודי - מיני מאוס
-https://parktoys.co.il/product/kspt-lyldym-am-tslylym-vkvd-svdy-myny-mavs-6iayq2
-- Price: 99.00 ILS
-- Availability: In stock
-- Brand: מיני מאוס
-- Description: כספת אלקטרונית דיסני לילדים – מיקי ומיני מאוס: לומדים לחסוך עם קוד סודי! הכירו את קופת החיסכון האלקטרונית המדליקה, המשלבת את הקסם של דיסני עם טכנולוגיה חכמה, המעודדת ילדים לפתח הרגלי חיסכון בצורה בטוחה, מהנה וחווייתית!
-- Image: https://parktoys.co.il/assets/product-enhanced-1783515215708-txh01.webp
 
 ---
 
