@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T09:50:29.683Z",
+  "generated_at": "2026-07-23T09:56:26.886Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 311,
+  "count": 312,
   "products": [
+    {
+      "id": "834abd51-492a-4271-97a4-7164eb6f739d",
+      "slug": "brykh-mtnpcht-12030-kvkvmlvn-zvddeh",
+      "name": "בריכה מתנפחת 120*30 קוקומלון",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בריכה מתנפחת צבעונית ומהנה בעיצוב הדמויות האהובות של קוקומלון, מושלמת לימי הקיץ החמים ולשעות של כיף לילדים. הבריכה כוללת 3 טבעות מתנפחות ליציבות ונוחות ומספקת חוויית משחק מרעננת בחצר, במרפסת או בגינה\n\nעשויה חומר איכותי ועמיד ומתאימה לשימוש ביתי לילדים. העיצוב הצבעוני והאהוב הופך כל יום קיץ למהנה במיוחד\n\nמידות: קוטר 120 ס״מ\n\nעומק: 30 ס״מ\n\n3 טבעות מתנפחות\n\nעיצוב: קוקומלון\n\nמתאים לילדים ולפעילויות קיץ ומשחק מים",
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784800479930-8j92o51.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/brykh-mtnpcht-12030-kvkvmlvn-zvddeh",
+      "categories": [
+        "מוצרי קיץ "
+      ],
+      "updated_at": "2026-07-23T09:55:54.701Z"
+    },
     {
       "id": "26576948-273e-432f-bec8-082be4fe00b4",
       "slug": "brykh-mtnpcht-byt-hbvbvt-shl-gby-ulvjgn",

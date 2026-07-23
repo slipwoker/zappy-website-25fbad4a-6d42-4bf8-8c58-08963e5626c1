@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 311** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 312** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בריכה מתנפחת 120*30 קוקומלון
+https://parktoys.co.il/product/brykh-mtnpcht-12030-kvkvmlvn-zvddeh
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: מוצרי קיץ 
+- Description: בריכה מתנפחת צבעונית ומהנה בעיצוב הדמויות האהובות של קוקומלון, מושלמת לימי הקיץ החמים ולשעות של כיף לילדים. הבריכה כוללת 3 טבעות מתנפחות ליציבות ונוחות ומספקת חוויית משחק מרעננת בחצר, במרפסת או בגינה עשויה חומר איכותי ועמיד ומתאימה לשימוש ביתי לילדים. העיצוב הצבעוני והאהוב הופך כל יום קיץ למהנה במיוחד מידות: קוטר 120 ס״מ עומק: 30 ס״מ 3 טבעות מתנפחות עיצוב: קוקומלון מתאים לילדים ולפעילויות קיץ ומשחק מים
+- Image: https://parktoys.co.il/assets/product-1784800479930-8j92o51.webp
 
 ###  בריכה מתנפחת בית הבובות של גבי
 https://parktoys.co.il/product/brykh-mtnpcht-byt-hbvbvt-shl-gby-ulvjgn
@@ -1634,14 +1642,6 @@ https://parktoys.co.il/product/pazl-tmvnh-tlt-mymdyt-100-chlkym-mbyt-prime3d-svp
 - Availability: In stock
 - Description: פאזלים מבית Prime 3D מביאים את התמונות לחיים עם אפקט תלת-ממד מרהיב שמרגש ילדים ומבוגרים בכל הגילאים. הרכבת הפאזל הופכת לחוויה סוחפת, צבעונית ובלתי נשכחת - מושלם לכל מי שאוהב יצירתיות, אתגר ודמיון!
 - Image: https://parktoys.co.il/assets/product-enhanced-1783501658043-1cfo74.webp
-
-### מיקרופון קריוקי מיקי
-https://parktoys.co.il/product/mykrvpvn-kryvky-myky-flxezr
-- Price: 130.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות 
-- Description: מיקרופון מיקי - מעוצב, משוכלל וטריקי! עם עיצוב מרהיב, שמונה מתוך להיטיה של כוכבת הילדים האהובה, מצב רדיו ואפשרות להקלטה, מיקרופון קריוקי מיקי מבטיח שעות ארוכות של שירה והנאה! רמקול בלוטוס, כרטיס זיכרון חיצוני, חיבור USB כולל סוללות נטענות
-- Image: https://parktoys.co.il/assets/product-1783496952658-sm94c.webp
 
 ---
 
