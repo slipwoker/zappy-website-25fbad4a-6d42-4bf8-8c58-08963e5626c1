@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T12:28:41.520Z",
+  "generated_at": "2026-07-23T12:42:13.882Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 317,
+  "count": 318,
   "products": [
+    {
+      "id": "49ae17aa-6ac4-4afc-b8cf-f162d5207aee",
+      "slug": "mzrvn-ym-vrd-advm-en85eb",
+      "name": "מזרון ים ורד אדום",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מזרון ים בצורת ורד אדום המתאים לים ולבריכה ובמיוחד למסיבות ואירועים, מסיבת רווקות / רווקים, בר מצווה, בת מצווה, ימי הולדת, הפקות ואירועי חברה.",
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1784810477335-9ws5p3.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mzrvn-ym-vrd-advm-en85eb",
+      "categories": [
+        "מוצרי קיץ "
+      ],
+      "updated_at": "2026-07-23T12:41:41.236Z"
+    },
     {
       "id": "9b284346-c470-436b-80f8-cbcb4e98c7ed",
       "slug": "ayntks-mzrvn-kvsvt-am-krytl-mtnpch-ju1elx",

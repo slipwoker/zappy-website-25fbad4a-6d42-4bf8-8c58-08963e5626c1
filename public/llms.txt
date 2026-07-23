@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 317** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 318** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מזרון ים ורד אדום
+https://parktoys.co.il/product/mzrvn-ym-vrd-advm-en85eb
+- Price: 60.00 ILS
+- Availability: In stock
+- Category: מוצרי קיץ 
+- Description: מזרון ים בצורת ורד אדום המתאים לים ולבריכה ובמיוחד למסיבות ואירועים, מסיבת רווקות / רווקים, בר מצווה, בת מצווה, ימי הולדת, הפקות ואירועי חברה.
+- Image: https://parktoys.co.il/assets/product-1784810477335-9ws5p3.webp
 
 ### אינטקס מזרון כוסות עם כריתל מתנפח
 https://parktoys.co.il/product/ayntks-mzrvn-kvsvt-am-krytl-mtnpch-ju1elx
@@ -1634,14 +1642,6 @@ https://parktoys.co.il/product/bnkt-kspt-smy-hkbay-9cecdq
 - Brand: סמי הכבאי 
 - Description: כספת "סמי הכבאי" אלקטרונית היא קופת חיסכון חכמה דמוית כספת כספת קוד דיגיטלית מושכת שטרות - Gהכוללת מנגנון משיכת שטרות אוטומטי, פתח למטבעות, קוד אישי ואורות כספת סמי הכבאי +
 - Image: https://parktoys.co.il/assets/product-enhanced-1783516183172-js68mm.webp
-
-### קופת חיסכון בנקט כספת סוניק - Sonic
-https://parktoys.co.il/product/kvpt-chyskvn-bnkt-kspt-svnyk-sonic-8w0fr6
-- Price: 99.00 ILS
-- Availability: In stock
-- Brand: סוניק
-- Description: כספת לילדים למדו את הילדים שלכם לחסוך כסף עוד מגיל קטן עם הכספת המגניבה הזאת שתלמד אותם לחסוך בצורה מגניבה ומהנה. הילד/ה שלכם יוכל ליצור סיסמה משלו ולהכניס שטרות ומטבעות. כספת לילדים בעלת חריצים להכנסת מטבעות או שטרות מוגנת באמצעות סיסמה מתנה מגניבה לכל ילד/ה
-- Image: https://parktoys.co.il/assets/product-enhanced-1783516009756-nbz0q.webp
 
 ---
 
