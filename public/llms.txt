@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 325** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 326** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מצופים בעיצוב הסדרה קוקומלון 15x23 ס''מ
+https://parktoys.co.il/product/mtsvpym-baytsvb-hsdrh-kvkvmlvn-15x23-sm-67xo68
+- Price: 15.00 ILS
+- Availability: In stock
+- Category: מוצרי קיץ 
+- Description: מצופים מתנפחים 15*23 ס''מ בעיצוב הסדרה האהובה קוקומלון להשלמת החוויה הקייצית של ילדכם בבריכה או בחוף הים.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784825514648-9zv1o.webp
 
 ### כדור מתנפח בעיצוב הסדרה סוניק 50 ס''מ
 https://parktoys.co.il/product/kdvr-mtnpch-baytsvb-hsdrh-svnyk-50-sm-isuqn1
@@ -1636,14 +1644,6 @@ https://parktoys.co.il/product/mkvnyt-4x4-kravlr-am-shlt-2wyp42
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
 - Description: מכונית שטח קראולר HST 4X4 – חוויית נהיגה ללא גבולות! מחפשים מתנה מושלמת או רכב שטח קשוח שיעבור כל מכשול? ה-Crawler מבית HST מציע שילוב מנצח של עוצמה, עמידות ועיצוב ספורטיבי ומדליק. עם הנעה כפולה ובולמי זעזועים מתקדמים, הוא מוכן לכבוש סלעים, חול ומסלולי שטח מאתגרים! מפרט טכני ומאפיינים מרכזיים: סוללה נטענת: מגיע עם סוללה פנימית ומטען USB לחסכון ומקסימום נוחות. שלט רחוק מתקדם: שלט בעיצוב אקדח (2.4GHz) לטווח רחוק ושליטה מדויקת ללא הפרעות. המכונית מגיע בצבע כחול!!
 - Image: https://parktoys.co.il/assets/product-enhanced-1783591640461-lp45wq.webp
-
-### מכונית ספורט עם שלט
-https://parktoys.co.il/product/mkvnyt-spvrt-am-shlt-vzgmqs
-- Price: 100.00 ILS
-- Availability: In stock
-- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
-- Description: מכונית ספורט על שלט עם דלתות נפתחות.
-- Image: https://parktoys.co.il/assets/product-enhanced-1783590083544-0kj7b.webp
 
 ---
 

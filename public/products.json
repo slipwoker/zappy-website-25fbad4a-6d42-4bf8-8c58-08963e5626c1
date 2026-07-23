@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T16:46:37.308Z",
+  "generated_at": "2026-07-23T16:52:37.012Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 325,
+  "count": 326,
   "products": [
+    {
+      "id": "1158c36f-5d0a-4c7f-b36b-c34ef9fb2ed0",
+      "slug": "mtsvpym-baytsvb-hsdrh-kvkvmlvn-15x23-sm-67xo68",
+      "name": "מצופים בעיצוב הסדרה קוקומלון 15x23 ס''מ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מצופים מתנפחים 15*23 ס''מ בעיצוב הסדרה האהובה קוקומלון להשלמת החוויה הקייצית של ילדכם בבריכה או בחוף הים.",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784825514648-9zv1o.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mtsvpym-baytsvb-hsdrh-kvkvmlvn-15x23-sm-67xo68",
+      "categories": [
+        "מוצרי קיץ "
+      ],
+      "updated_at": "2026-07-23T16:52:04.583Z"
+    },
     {
       "id": "79969307-3ea1-467e-ac93-26d6e55ce329",
       "slug": "kdvr-mtnpch-baytsvb-hsdrh-svnyk-50-sm-isuqn1",
