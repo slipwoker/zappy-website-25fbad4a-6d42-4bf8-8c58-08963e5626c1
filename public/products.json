@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T10:15:04.521Z",
+  "generated_at": "2026-07-23T10:23:43.579Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 314,
+  "count": 315,
   "products": [
+    {
+      "id": "40c5f06a-6982-4d88-938a-cebaf77cecdf",
+      "slug": "mzrvn-brykh-btsvrt-hmbvrgr-sl3stm",
+      "name": "מזרון בריכה בצורת המבורגר",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אי המבורגר המתנפח הזה כולל הדפסה מציאותית שתגרום לך להזיל ריר לתוך הבריכה\nמידות 144.8 ס\"מ X 142.2 ס\"מ עם מבנה ויניל מד 11\nכולל 2 ידיות חזקות\nכולל טלאי תיקון",
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784802189265-542qi.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mzrvn-brykh-btsvrt-hmbvrgr-sl3stm",
+      "categories": [
+        "מוצרי קיץ "
+      ],
+      "updated_at": "2026-07-23T10:23:41.641Z"
+    },
     {
       "id": "17b9435e-7f87-4083-b4cf-c7b8e78cb4ba",
       "slug": "brykt-rysvs-ksht-bann-intex-brykt-yldym-mtnpcht-lgylay-shntyym-df4wje",

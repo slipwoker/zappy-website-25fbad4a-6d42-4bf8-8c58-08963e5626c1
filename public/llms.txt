@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 314** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 315** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מזרון בריכה בצורת המבורגר
+https://parktoys.co.il/product/mzrvn-brykh-btsvrt-hmbvrgr-sl3stm
+- Price: 60.00 ILS
+- Availability: In stock
+- Category: מוצרי קיץ 
+- Description: אי המבורגר המתנפח הזה כולל הדפסה מציאותית שתגרום לך להזיל ריר לתוך הבריכה מידות 144.8 ס"מ X 142.2 ס"מ עם מבנה ויניל מד 11 כולל 2 ידיות חזקות כולל טלאי תיקון
+- Image: https://parktoys.co.il/assets/product-enhanced-1784802189265-542qi.webp
 
 ### בריכת ריסוס קשת בענן Intex, בריכת ילדים מתנפחת, לגילאי שנתיים +
 https://parktoys.co.il/product/brykt-rysvs-ksht-bann-intex-brykt-yldym-mtnpcht-lgylay-shntyym-df4wje
@@ -1634,15 +1642,6 @@ https://parktoys.co.il/product/kspt-alktrvnyt-am-kvd-shl-byt-hbvbvt-shl-gby-v8mg
 - Brand: בית הבובות של גבי 
 - Description: כספת אלקטרונית בית הבובות של גביו לומדים לחסוך עם קוד סודי! הכירו את קופת החיסכון האלקטרונית המדליקה, המשלבת את הקסם של דיסני עם טכנולוגיה חכמה, המעודדת ילדים לפתח הרגלי חיסכון בצורה בטוחה, מהנה וחווייתית! מוצר זה, בעיצוב גבי האהוב מעניק לילדים הרגשה של “כספת של גדולים” לשמירה על דמי הכיס שלהם. קופת חיסכון אלקטרונית עם קוד סודי: נעילה בטוחה: פתיחת הכספת מתבצעת באמצעות הקשת קוד סודי דיגיטלי (4 ספרות), שניתן לתכנת ולשנות בכל עת. חוויה אינטראקטיבית: הכספת משמיעה צלילים ואפקטים ק
 - Image: https://parktoys.co.il/assets/product-enhanced-1783514472136-jrncrg.webp
-
-### קופה כספת קוד אלקטרונית סטיץ'
-https://parktoys.co.il/product/kvph-kspt-kvd-alktrvnyt-styts-q5cqw4
-- Price: 99.00 ILS
-- Availability: In stock
-- SKU: 7290119853519
-- Brand: סטיץ
-- Description: קופת כספת דיגיטלית בעיצוב סטיץ' המהמם מהסרט לילו וסטיץ' – כוללת קוד אישי, שואבת שטרות באופן אוטומטי ומוסיפה חוויה קסומה לחיסכון! צורכת 3 סוללות AA 1.5V ,
-- Image: https://parktoys.co.il/assets/product-enhanced-1783514202498-2xlfxj.webp
 
 ---
 
