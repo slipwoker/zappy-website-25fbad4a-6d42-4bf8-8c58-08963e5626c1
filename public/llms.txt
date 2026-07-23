@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 309** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 310** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בריכה מתנפחת עגולה מפרץ הרפתקאות 120/30 ס"מ
+https://parktoys.co.il/product/brykh-mtnpcht-agvlh-mprts-hrptkavt-12030-sm-jwgryu
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: מוצרי קיץ 
+- Description: בריכה מתנפחת עגולה מפרץ הרפתקאות 120/30 ס"מ
+- Image: https://parktoys.co.il/assets/product-enhanced-1784799542533-fov4z.webp
 
 ### משאית עם שלט צבי הנינגה-יורה פיצות
 https://parktoys.co.il/product/mshayt-am-shlt-tsby-hnyngh-yvrh-pytsvt-a0ew2d
@@ -1633,14 +1641,6 @@ https://parktoys.co.il/product/pazl-tmvnh-tlt-mymdyt-200-chlkym-mbyt-prime3d-sty
 - Availability: In stock
 - Description: פאזלים מבית Prime 3D מביאים את התמונות לחיים עם אפקט תלת-ממד מרהיב שמרגש ילדים ומבוגרים בכל הגילאים. הרכבת הפאזל הופכת לחוויה סוחפת, צבעונית ובלתי נשכחת - מושלם לכל מי שאוהב יצירתיות, אתגר ודמיון!
 - Image: https://parktoys.co.il/assets/product-1783496710145-scb2w.webp
-
-### פונץ' הכלב – דובר עברית
-https://parktoys.co.il/product/pvnts-hklb-dvbr-abryt-72ho24
-- Price: 130.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות 
-- Description: חבר על ארבע דובר עברית – פרווה רכה, לשון ורודה וסרט בבלורית. מי לא מכיר את חיית המחמד האהובה של מיקי... הכלב פונץ' הקטן והמתוק הוא חיית המחמד המושלמת. פונץ' יודע ללכת, לכשכש בזנב ואפילו לשיר ולדבר בעברית. להנאתכם – שני מצבי הפעלה. ואיך מיקי אומרת? אין כלב כמו פונץ' מפה ועד הירח!
-- Image: https://parktoys.co.il/assets/product-1783496512624-wunx4m.webp
 
 ---
 

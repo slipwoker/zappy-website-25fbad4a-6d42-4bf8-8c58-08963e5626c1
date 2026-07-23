@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T09:36:44.364Z",
+  "generated_at": "2026-07-23T09:40:21.284Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 309,
+  "count": 310,
   "products": [
+    {
+      "id": "8806ddea-1ccf-4592-9750-40351aa447fe",
+      "slug": "brykh-mtnpcht-agvlh-mprts-hrptkavt-12030-sm-jwgryu",
+      "name": "בריכה מתנפחת עגולה מפרץ הרפתקאות 120/30 ס\"מ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בריכה מתנפחת עגולה מפרץ הרפתקאות 120/30 ס\"מ",
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784799542533-fov4z.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/brykh-mtnpcht-agvlh-mprts-hrptkavt-12030-sm-jwgryu",
+      "categories": [
+        "מוצרי קיץ "
+      ],
+      "updated_at": "2026-07-23T09:39:49.744Z"
+    },
     {
       "id": "22bedae8-00ae-4431-8e9d-44245ff980c7",
       "slug": "mshayt-am-shlt-tsby-hnyngh-yvrh-pytsvt-a0ew2d",
