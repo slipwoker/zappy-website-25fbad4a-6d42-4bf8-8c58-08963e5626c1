@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 312** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 313** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בריכת עמודים מיני בגודל 122X122X30 ס"מ 57173 - Intex
+https://parktoys.co.il/product/brykt-amvdym-myny-bgvdl-122x122x30-sm-57173-intex-7o5ve1
+- Price: 219.99 ILS
+- Availability: In stock
+- Category: מוצרי קיץ 
+- Description: בריכת עמודים מיני בגודל 122X122X30 ס מ מבית אינטקס Intex - Column pool בריכת עמודים מיני Intex – הקטנה שמביאה הרבה שמחה! לילדים הקטנים מגיע מקום בטוח ונוח להתרענן בו – בריכת עמודים חזקה, קומפקטית וקלה לשימוש. יתרונות:✅ שלדת מתכת עמידה ליציבות גבוהה✅ יריעת PVC מחוזקת✅ קלה להרכבה, ללא צורך בכלים✅ מתאימה גם לחצרות קטנות במיוחד מה הבריכה כוללת: מסגרת מתכתית עמידה יריעת PVC איכותית פקק ריקון מובנה גודל:אורך 122 ס מ | רוחב 122 ס מ | גובה 30 ס מ | נפח מים: כ-342 ליטר שימוש:מעולה לפעוטות ולילדים צעירים,
+- Image: https://parktoys.co.il/assets/product-enhanced-1784801418963-wdj2q.webp
 
 ### בריכה מתנפחת 120*30 קוקומלון
 https://parktoys.co.il/product/brykh-mtnpcht-12030-kvkvmlvn-zvddeh
@@ -1635,13 +1643,6 @@ https://parktoys.co.il/product/spt-styts-mhvdrt-lyldym-rkh-mavtsbt-vmpnkt-wx0b9o
 - Brand: סטיץ
 - Description: הכניסו את הקסם של דיסני לחדר הילדים עם ספת הישיבה המהודרת בדמותו של סטיץ' (Stitch) האהוב! הספה מושלמת כפריט עיצובי שמוסיף צבע ושמחה לחדר, ומשמשת כפינה אישית ונוחה לילדים למנוחה, קריאת ספרים או צפייה בטלוויזיה. למה הילדים (וההורים) יאהבו אותה? עיצוב אייקוני: דמותו של סטיץ' בעיצוב צבעוני ומדויק שכל ילד וילדה ישמחו לקבל. נוחות מקסימלית: ספה רכה ומרופדת המותאמת במיוחד למבנה הגוף של ילדים, המעניקה תמיכה ונוחות בזמן הישיבה. איכות ללא פשרות: עשויה מחומרים עמידים ואיכותיים שנשמרים לאורך זמן. שדרוג
 - Image: https://parktoys.co.il/assets/product-enhanced-1783513468096-411s78.webp
-
-### פאזל תמונה תלת מימדית 100 חלקים מבית Prime3D - סופרמן
-https://parktoys.co.il/product/pazl-tmvnh-tlt-mymdyt-100-chlkym-mbyt-prime3d-svprmn-4xrcws
-- Price: 70.00 ILS
-- Availability: In stock
-- Description: פאזלים מבית Prime 3D מביאים את התמונות לחיים עם אפקט תלת-ממד מרהיב שמרגש ילדים ומבוגרים בכל הגילאים. הרכבת הפאזל הופכת לחוויה סוחפת, צבעונית ובלתי נשכחת - מושלם לכל מי שאוהב יצירתיות, אתגר ודמיון!
-- Image: https://parktoys.co.il/assets/product-enhanced-1783501658043-1cfo74.webp
 
 ---
 

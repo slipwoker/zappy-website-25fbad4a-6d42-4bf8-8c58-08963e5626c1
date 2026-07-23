@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T09:56:26.886Z",
+  "generated_at": "2026-07-23T10:11:18.425Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 312,
+  "count": 313,
   "products": [
+    {
+      "id": "ac6b2843-9926-4347-84dc-28d90774dca9",
+      "slug": "brykt-amvdym-myny-bgvdl-122x122x30-sm-57173-intex-7o5ve1",
+      "name": "בריכת עמודים מיני בגודל 122X122X30 ס\"מ 57173 - Intex",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בריכת עמודים מיני בגודל 122X122X30 ס מ מבית אינטקס Intex - Column pool בריכת עמודים מיני Intex – הקטנה שמביאה הרבה שמחה! לילדים הקטנים מגיע מקום בטוח ונוח להתרענן בו – בריכת עמודים חזקה, קומפקטית וקלה לשימוש.\nיתרונות:✅ שלדת מתכת עמידה ליציבות גבוהה✅ יריעת PVC מחוזקת✅ קלה להרכבה, ללא צורך בכלים✅ מתאימה גם לחצרות קטנות במיוחד מה הבריכה כוללת: מסגרת מתכתית עמידה יריעת PVC איכותית פקק ריקון מובנה גודל:אורך 122 ס מ | רוחב 122 ס מ | גובה 30 ס מ | נפח מים: כ-342 ליטר שימוש:מעולה לפעוטות ולילדים צעירים,",
+      "sku": null,
+      "brand": null,
+      "price": 219.99,
+      "base_price": 219.99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1784801418963-wdj2q.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/brykt-amvdym-myny-bgvdl-122x122x30-sm-57173-intex-7o5ve1",
+      "categories": [
+        "מוצרי קיץ "
+      ],
+      "updated_at": "2026-07-23T10:10:45.592Z"
+    },
     {
       "id": "834abd51-492a-4271-97a4-7164eb6f739d",
       "slug": "brykh-mtnpcht-12030-kvkvmlvn-zvddeh",
