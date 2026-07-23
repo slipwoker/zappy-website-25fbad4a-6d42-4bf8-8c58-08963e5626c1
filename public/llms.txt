@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 323** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 324** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מצופים בעיצוב הסדרה בית הבובות של גבי
+https://parktoys.co.il/product/mtsvpym-baytsvb-hsdrh-byt-hbvbvt-shl-gby-j7j4j6
+- Price: 15.00 ILS
+- Availability: In stock
+- Category: מוצרי קיץ 
+- Description: מצופים מתנפחים 15*23 ס''מ בעיצוב הסדרה האהובה בית הבובות של גבי להשלמת החוויה הקייצית של ילדכם בבריכה או בחוף הים.
+- Image: https://parktoys.co.il/assets/product-enhanced-1784824912006-aog7z2.webp
 
 ### זוג מצופים מתנפחים באטמן 23X15 ס"מ
 https://parktoys.co.il/product/zvg-mtsvpym-mtnpchym-batmn-23x15-sm-m84tth
@@ -1636,13 +1644,6 @@ https://parktoys.co.il/product/rchpn-yvrh-kdvry-gly-kvll-mtslmt-k4-hd-82udlt
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
 - Description: רחפן יורה כדורי ג'לי כולל מצלמת K4 HD מתכווננת רחפן יורה כדורי ג'לי עם מנועים חזקים ועצמתיים קלים לשליטה וחסכניים באנרגיה . מצלמת K4 HD מתכווננת ,מצלמת איזון אוטומטית , כולל צילום וידאו . 3 מהירויות טיסה ,טיסה יציבה ומהירה של הרחפן . בקרת טיסה אלקטרונית מתחברת לנייד בשידור בזמן אמת , צילום תמונה HD , מייצב גובה אוטומטי תכנון מסלול טיסה יורה כדורי ג'לי ( מתאים למשחק )
 - Image: https://parktoys.co.il/assets/product-enhanced-1783588610596-ohu2mi.webp
-
-### מזוודת / תיק רופא לילדים כוללת 10 אביזריםשל רופא - סטיץ'
-https://parktoys.co.il/product/mzvvdt-tyk-rvpa-lyldym-kvllt-10-abyzrymshl-rvpa-styts-wtv4xu
-- Price: 69.00 ILS
-- Availability: In stock
-- Description: מזוודת רופא ממש כמו של גדולים לכל קריאה הרופא שלך מוכן עם מזוודה מאובזרת: פטיש, מדחום, מזרק, מראה לפה, מראה לאוזן, משקפים ומספריים. איכות וחומרים עשוי פלסטיק איכותי למשחק במוצרים דומים למציאות. זמן משחק מלא חוויה ויצירתיות, הכרת אביזרים וענף הרפואה. זמן איכות אפשר להפוך לזמן איכות ולשחק רופא וחולה עם חברים ומשפחה. מאפיינים נוספים מגיע במזוודה רב פעמית קשיחה עם מנעול וידית נשיאה. גודל המזוודה 25 על 19 על. מתאים לגילאים מתאים לגילאי 3 ומעלה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1783528986348-3t84um.webp
 
 ---
 
