@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 315** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 316** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בריכת קונוס מתנפחת לילדים בקוטר 188X46 ס"מ - Intex
+https://parktoys.co.il/product/brykt-kvnvs-mtnpcht-lyldym-bkvtr-188x46-sm-intex-3wtel7
+- Price: 120.00 ILS
+- Availability: In stock
+- Category: מוצרי קיץ 
+- Description: בריכת קונוס מתנפחת לילדים בקוטר 188X46 ס מ מבית אינטקס Intex - Inflatable cone pool for children בריכת קונוס מתנפחת לילדים – יותר מקום, יותר כיף עם Intex! הכניסו צבע, מים והמון חיוכים לחצר הביתית עם בריכת קונוס רחבה, חזקה ומתאימה במיוחד לקטנטנים. יתרונות:✅ עיצוב עגול וקלאסי שמתאים לפעוטות✅ 3 טבעות אוויר רחבות לחיזוק✅ חומר PVC עמיד✅ מתנפחת ומתנקזת בקלות מה הבריכה כוללת: שלוש טבעות עבות שסתומי אוויר בטיחותיים ערכת תיקון כלולה גודל:קוטר 188 ס מ | גובה 46 ס מ | נפח מים: כ-666 ליטר
+- Image: https://parktoys.co.il/assets/product-enhanced-1784804330495-q9gjy.webp
 
 ### מזרון בריכה בצורת המבורגר
 https://parktoys.co.il/product/mzrvn-brykh-btsvrt-hmbvrgr-sl3stm
@@ -1634,14 +1642,6 @@ https://parktoys.co.il/product/kspt-lyldym-am-tslylym-vkvd-svdy-myny-mavs-6iayq2
 - Brand: מיני מאוס
 - Description: כספת אלקטרונית דיסני לילדים – מיקי ומיני מאוס: לומדים לחסוך עם קוד סודי! הכירו את קופת החיסכון האלקטרונית המדליקה, המשלבת את הקסם של דיסני עם טכנולוגיה חכמה, המעודדת ילדים לפתח הרגלי חיסכון בצורה בטוחה, מהנה וחווייתית!
 - Image: https://parktoys.co.il/assets/product-enhanced-1783515215708-txh01.webp
-
-### כספת אלקטרונית עם קוד של בית הבובות של גבי
-https://parktoys.co.il/product/kspt-alktrvnyt-am-kvd-shl-byt-hbvbvt-shl-gby-v8mg4m
-- Price: 99.00 ILS
-- Availability: In stock
-- Brand: בית הבובות של גבי 
-- Description: כספת אלקטרונית בית הבובות של גביו לומדים לחסוך עם קוד סודי! הכירו את קופת החיסכון האלקטרונית המדליקה, המשלבת את הקסם של דיסני עם טכנולוגיה חכמה, המעודדת ילדים לפתח הרגלי חיסכון בצורה בטוחה, מהנה וחווייתית! מוצר זה, בעיצוב גבי האהוב מעניק לילדים הרגשה של “כספת של גדולים” לשמירה על דמי הכיס שלהם. קופת חיסכון אלקטרונית עם קוד סודי: נעילה בטוחה: פתיחת הכספת מתבצעת באמצעות הקשת קוד סודי דיגיטלי (4 ספרות), שניתן לתכנת ולשנות בכל עת. חוויה אינטראקטיבית: הכספת משמיעה צלילים ואפקטים ק
-- Image: https://parktoys.co.il/assets/product-enhanced-1783514472136-jrncrg.webp
 
 ---
 
