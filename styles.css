@@ -13509,12 +13509,13 @@ html body .featured-categories-section .category-blocks { display: grid !importa
 }
 
 .featured-products-section .product-card .price {
-  color: var(--background-color, var(--background, var(--bg-light, #1F2937))) !important;
-  font-weight: 800 !important;
+  color: #1F2937;
+  font-weight: 800;
   background: #FEF3C7;
-  padding: 6px 12px;
+  padding: 8px 14px;
   border-radius: 8px;
   display: inline-block;
+  font-size: 18px;
 }
 
 .featured-products-section .product-card .original-price {
