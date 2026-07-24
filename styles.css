@@ -13574,6 +13574,8 @@ html body .featured-categories-section .category-blocks { display: grid !importa
 .products-section .product-card .original-price {
   color: var(--background-color, var(--background, var(--bg-light, #1F2937))) !important;
 }
+/* Batch: הפוך מחירי מוצרים לברורים - צבע כהה ובולט */
+.product-card .price { color: #1F2937 !important; font-size: 22px !important; font-weight: 900 !important; } .product-card .price .original-price { color: #6B7280 !important; font-size: 16px !important; }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
