@@ -13540,6 +13540,12 @@ html body .featured-categories-section .category-blocks { display: grid !importa
   text-decoration: line-through;
   margin-right: 6px;
 }
+
+.featured-products-section .product-card-footer .price {
+  font-size: 24px;
+  font-weight: 800;
+  color: var(--primary-color, var(--primary, #2563EB));
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
