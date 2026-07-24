@@ -13491,6 +13491,38 @@ html body .featured-categories-section .category-blocks { display: grid !importa
 .featured-products-section #zappy-featured-products.featured-grid {
   grid-template-columns: repeat(2, 1fr) !important;
 }
+
+.products-section .product-card .price {
+  color: var(--background-color, var(--background, var(--bg-light, #1F2937))) !important;
+  font-weight: 800 !important;
+  background: #FEF3C7;
+  padding: 6px 12px;
+  border-radius: 8px;
+  display: inline-block;
+}
+
+.products-section .product-card .original-price {
+  color: #9CA3AF !important;
+  font-size: 14px !important;
+  text-decoration: line-through;
+  margin-right: 6px;
+}
+
+.featured-products-section .product-card .price {
+  color: var(--background-color, var(--background, var(--bg-light, #1F2937))) !important;
+  font-weight: 800 !important;
+  background: #FEF3C7;
+  padding: 6px 12px;
+  border-radius: 8px;
+  display: inline-block;
+}
+
+.featured-products-section .product-card .original-price {
+  color: #9CA3AF !important;
+  font-size: 14px !important;
+  text-decoration: line-through;
+  margin-right: 6px;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
