@@ -13489,7 +13489,7 @@ html body .featured-categories-section .category-blocks { display: grid !importa
 }
 
 .featured-products-section #zappy-featured-products.featured-grid {
-  grid-template-columns: 1fr !important;
+  grid-template-columns: repeat(2, 1fr) !important;
 }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
