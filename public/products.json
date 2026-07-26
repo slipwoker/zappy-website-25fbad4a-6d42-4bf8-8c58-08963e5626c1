@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-26T13:17:32.787Z",
+  "generated_at": "2026-07-26T16:09:40.914Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 326,
+  "count": 327,
   "products": [
+    {
+      "id": "a983c00a-5338-48cd-b699-065461722a0f",
+      "slug": "pets-alive-bvbt-arnbt-ama-10-kvlvt-vtslylym-vgvrym-bhptah-zuru-wwyd8t",
+      "name": "  Pets Alive בובת ארנבת אמא 10 קולות וצלילים וגורים בהפתעה ZURU",
+      "name_translations": {},
+      "description": "<p>תכונות עיקריות:</p><p>ארנבת אמא אינטראקטיבית ופרוותית.</p><p>משמיעה למעלה מ-10 צלילים וקולות חמודים.</p><p>כוללת תינוקות ארנב בהפתעה המסתתרים במארז.</p><p>כוללת כלוב נשיאה מעוצב לנשיאה נוחה לכל מקום.</p><p>מגיעה עם אביזרי משחק הכוללים גזר להאכלת האמא ובקבוק לתינוקות.</p><p>מפתח חשיבה יצירתית, דמיון ומשחק תפקידים.</p><p>מתאים לגילאי 3 ומעלה.</p><p>מופעל ע\"י 3 סוללות AAA – לא כלולות</p>",
+      "short_description": "ארנבת אמא ותינוקות בהפתעה מסדרת Pets Alive של ZURU מציעה חוויית משחק מתוקה, אינטראקטיבית ומלאת הפתעות.\nהערכה כוללת ארנבת אמא אינטראקטיבית, פרוותית ורכה, לצד כלוב נשיאה מעוצב.\nהאמא מתעוררת לחיים עם למעלה מ-10 קולות וצלילים חמודים, ומגיעה עם אביזר גזר למשחק האכלה מהנה.\nהכיף הגדול מגיע עם גילוי התינוקות: בתוך הערכה מסתתרים תינוקות ארנב קטנים בהפתעה (כמות התינוקות משתנה בין ערכה לערכה – בין 2, 3, 4 ואפילו 5 תינוקות!), כולל אפשרות לגלות תינוקות נדירים במיוחד. הערכה כוללת גם אביזרי טיפול קטנים כמו בקב",
+      "sku": null,
+      "brand": null,
+      "price": 129,
+      "base_price": 149,
+      "sale_price": 129,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785082120799-h330d.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/pets-alive-bvbt-arnbt-ama-10-kvlvt-vtslylym-vgvrym-bhptah-zuru-wwyd8t",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-07-26T16:09:04.037Z"
+    },
     {
       "id": "1158c36f-5d0a-4c7f-b36b-c34ef9fb2ed0",
       "slug": "mtsvpym-baytsvb-hsdrh-kvkvmlvn-15x23-sm-67xo68",
