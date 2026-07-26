@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 332** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 333** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### סליים מארט - שקית וופל
+https://parktoys.co.il/product/slyym-mart-shkyt-vvpl-zbqh7s
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: סליים מארט - שקית וופל, חוויית הסליים הרך החדשה והחדשנית שמאפשרת לילדים ולילדים להכין יצירות משלהם בסגנון אוכל ריאליסטיות במיוחד! אפשר לעצב, לשלב ולקשט את תרכובת הסליים ולעצב כך שייראה כמו אוכל אמיתי! אבל אל תתבלבלו – זה לא למאכל!!! רכות, כיף חושי, נימתח בקלות, לאחר שהכנתם את המאכל שאתם אוהבים –מחצו אותו... והכייף לא יפסיק
+- Image: https://parktoys.co.il/assets/product-enhanced-1785084992396-hpeu5s.webp
 
 ### סליים מארט - שקית עוגת גבינה ותותים
 https://parktoys.co.il/product/slyym-mart-shkyt-avgt-gbynh-vtvtym-4c3bu7
@@ -1639,14 +1647,6 @@ https://parktoys.co.il/product/chnyvn-palvlym-hvt-vvyls-uu6ict
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
 - Description: הוט ווילס עיר חניון פעלולים מבית הוט ווילס Hot Wheels stunt garage קחו את חוויית המכוניות המדהימה שלכם לגבהים חדשים עם הוט ווילס - חניון פעלולים עירוני! ערכת משחק מהנה ומרגשת שמספקת שעות של הרפתקאות, מהירות ואקשן. מאפיינים עיקריים: חניון רב-קומות: ערכו תמרונים בחניון בעל מספר קומות וסדרו עד 20 רכבי הוט ווילס! מעלית רכבים אוטומטית: העלו את המכוניות לקומות העליונות בקלות בעזרת מעלית מיוחדת. מסלולי פעלולים: פרקו את המכוניות במסלול הפעלולים ושחררו אותן לזינוק במהירות שיא! אפשרויות משחק מגוונות: שי
 - Image: https://parktoys.co.il/assets/product-enhanced-1783945527271-anuvf6.webp
-
-### סקווישי בננה גדול
-https://parktoys.co.il/product/skvvyshy-bnnh-gdvl-tavnnn
-- Price: 40.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: סקווישי גדול נידו בצרות בננה
-- Image: https://parktoys.co.il/assets/product-enhanced-1783945281601-bzhd7b.webp
 
 ---
 

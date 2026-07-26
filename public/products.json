@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-26T16:55:34.270Z",
+  "generated_at": "2026-07-26T17:00:57.734Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 332,
+  "count": 333,
   "products": [
+    {
+      "id": "50b4ec6d-5a9e-400c-ab14-e42c01ea0b28",
+      "slug": "slyym-mart-shkyt-vvpl-zbqh7s",
+      "name": "סליים מארט - שקית וופל",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סליים מארט - שקית וופל, חוויית הסליים הרך החדשה והחדשנית שמאפשרת לילדים ולילדים להכין יצירות משלהם בסגנון אוכל ריאליסטיות במיוחד!\nאפשר לעצב, לשלב ולקשט את תרכובת הסליים ולעצב כך שייראה כמו אוכל אמיתי! אבל אל תתבלבלו – זה לא למאכל!!!\nרכות, כיף חושי, נימתח בקלות,\nלאחר שהכנתם את המאכל שאתם אוהבים –מחצו אותו... והכייף לא יפסיק",
+      "sku": null,
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785084992396-hpeu5s.webp",
+        "https://parktoys.co.il/assets/product-1785084977651-hq6si.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/slyym-mart-shkyt-vvpl-zbqh7s",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-07-26T17:00:20.526Z"
+    },
     {
       "id": "7eb547e9-8429-4a33-b013-4a0938665040",
       "slug": "slyym-mart-shkyt-avgt-gbynh-vtvtym-4c3bu7",
