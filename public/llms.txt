@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 329** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 330** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### סט מחבטי פיקלבול עם רשת – ערכה מלאה למשחק בכל מקום
+https://parktoys.co.il/product/st-mchbty-pyklbvl-am-rsht-arkh-mlah-lmshchk-bkl-mkvm-t4ijhp
+- Price: 149.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: הכניסו את הכיף והאקשן לחצר, לגינה, לפארק או לחוף הים עם ערכת הפיקלבול המלאה! הערכה כוללת את כל מה שצריך כדי להתחיל לשחק תוך דקות ומתאימה לילדים, בני נוער ומבוגרים. מה כוללת הערכה? ✅ 2 מחבטי פיקלבול איכותיים ✅ 2 כדורי פיקלבול ✅ רשת משחק באורך כ-3 מטר (118 אינץ') ✅ סטנד ורגליים לייצוב הרשת יתרונות המוצר: ידיות אחיזה נוחות עם ציפוי ספוג. הרכבה פשוטה ומהירה ללא צורך בכלים מיוחדים. רשת יציבה עם בסיסים חזקים למשחק בטוח. מתאים למשחק בחצר, בגינה, בפארק ובשטחים פתוחים. דרך מצוינת לפעילות ספורטיבית מהנה ל
+- Image: https://parktoys.co.il/assets/product-1785083271529-wmll8m.webp
 
 ### קפיברה אמא ותינוקות בהפתעה - קפיברה רובוטית הולכת עם קולות ותינוקות -Pets Alive Mommy Capybara and Baby Surprise מבית ZURU
 https://parktoys.co.il/product/kpybrh-ama-vtynvkvt-bhptah-kpybrh-rvbvtyt-hvlkt-am-kvlvt-vtynvkvt-pets-alive-mommy-capybara-and-baby-surprise-mbyt-zuru-gunz7q
@@ -1638,13 +1646,6 @@ https://parktoys.co.il/product/spyydy-vchbrym-st-5-dmvyvt-9-sm-pdkhco
 - Availability: In stock
 - Description: מארז 5 דמויות מארוול בגודל 9 ס"מ ספיידי, איירון מן, הפנתר השחור, מיילס מורלס וגוסט ספיידר.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783944606724-7l49em.webp
-
-### ספיידי דמות עם אופנוע איירון מן
-https://parktoys.co.il/product/spyydy-dmvt-am-avpnva-ayyrvn-mn-toegd5
-- Price: 60.00 ILS
-- Availability: In stock
-- Description: ספיידי עם אופנוע מדהים של איירון מן! דמות פעולה עם אופנוע בעיצוב מרשים, מושלמת לילדים שאוהבים גיבורי על. אידיאלי לאוסף גיבורים או כמתנה מיוחדת לחובבי מארוול.
-- Image: https://parktoys.co.il/assets/product-enhanced-1783933963809-q1h5zs.webp
 
 ---
 
