@@ -13857,6 +13857,24 @@ html body .featured-categories-section .category-blocks { display: grid !importa
   font-size: 0.95rem !important;
 }
 }
+
+@media (max-width: 768px) {
+.featured-products-section {
+  padding: 40px 8px !important;
+}
+
+.featured-products-section .container {
+  padding: 0 8px !important;
+}
+
+.featured-products-section .product-grid.featured-grid {
+  gap: 8px !important;
+}
+
+.featured-products-section #zappy-featured-products.featured-grid {
+  grid-template-columns: repeat(2, 1fr) !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
