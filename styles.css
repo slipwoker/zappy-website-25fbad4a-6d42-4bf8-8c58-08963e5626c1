@@ -13624,6 +13624,25 @@ html body .featured-categories-section .category-blocks { display: grid !importa
 .featured-products-section .product-card-footer .price {
   color: #E11D48 !important;
 }
+
+@media (max-width: 768px) {
+.featured-products-section .product-card .price {
+  font-size: 1.3em !important;
+  font-weight: 800 !important;
+  color: #E11D48 !important;
+  background: rgba(225, 29, 72, 0.1) !important;
+  padding: 6px 14px !important;
+  border-radius: 999px !important;
+  display: inline-block !important;
+  letter-spacing: 0.02em !important;
+}
+
+.featured-products-section .product-card:hover .price {
+  background: rgba(225, 29, 72, 0.18) !important;
+  transform: scale(1.05) !important;
+  transition: all 0.2s ease !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
