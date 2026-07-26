@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 331** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 332** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### סליים מארט - שקית עוגת גבינה ותותים
+https://parktoys.co.il/product/slyym-mart-shkyt-avgt-gbynh-vtvtym-4c3bu7
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: סליים מארט - שקית עוגת גבינה ותותים, חוויית הסליים הרך החדשה והחדשנית שמאפשרת לילדים ולילדים להכין יצירות משלהם בסגנון אוכל ריאליסטיות במיוחד! אפשר לעצב, לשלב ולקשט את תרכובת הסליים ולעצב כך שייראה כמו אוכל אמיתי! אבל אל תתבלבלו – זה לא למאכל!!! רכות, כיף חושי, נימתח בקלות, לאחר שהכנתם את המאכל שאתם אוהבים –מחצו אותו... והכייף לא יפסיק
+- Image: https://parktoys.co.il/assets/product-enhanced-1785084828284-rlcgr.webp
 
 ### סט בייסבול לילדים עם משגר כדורים – חוויית משחק ספורטיבית ומהנה
 https://parktoys.co.il/product/st-byysbvl-lyldym-am-mshgr-kdvrym-chvvyyt-mshchk-spvrtybyt-vmhnh-p7fp7y
@@ -1639,14 +1647,6 @@ https://parktoys.co.il/product/skvvyshy-bnnh-gdvl-tavnnn
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: סקווישי גדול נידו בצרות בננה
 - Image: https://parktoys.co.il/assets/product-enhanced-1783945281601-bzhd7b.webp
-
-### מסלול לשטיפת מכוניות כולל רכב
-https://parktoys.co.il/product/mslvl-lshtypt-mkvnyvt-kvll-rkb-gsc65g
-- Price: 229.00 ILS
-- Availability: In stock
-- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
-- Description: מסלול לשטיפת מכוניות כולל רכב מבית Hot Wheels סט משחק מרהיב הכולל מסלול עם שטיפת מכוניות מיוחדת ההופכת כל נסיעה לחוויה מרגשת! רכב משנה צבעים! – טבלו את הרכב במים קרים או חמים וצפו איך צבעו משתנה באורח קסם. מערכת מסלול דינמית! – מסלול מפותל עם מנהרה מסתובבת, מים זורמים ואלמנטים מרגשים נוספים. מתאים לגילאי 3+ משתתפים: 1+
-- Image: https://parktoys.co.il/assets/product-enhanced-1783944959160-et263h.webp
 
 ---
 
