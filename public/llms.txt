@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 330** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 331** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### סט בייסבול לילדים עם משגר כדורים – חוויית משחק ספורטיבית ומהנה
+https://parktoys.co.il/product/st-byysbvl-lyldym-am-mshgr-kdvrym-chvvyyt-mshchk-spvrtybyt-vmhnh-p7fp7y
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: הכירו את סט הבייסבול המושלם לילדים – דרך נהדרת לפתח קואורדינציה, דיוק וביטחון עצמי תוך כדי משחק פעיל ומהנה. הסט כולל מחבט קל משקל, משגר כדורים עם דוושת הפעלה ו-3 כדורי משחק, כך שכל ילד יכול להרגיש כמו שחקן בייסבול אמיתי. המשגר מרים את הכדור באופן אוטומטי בלחיצה על הדוושה, מה שמאפשר לילדים להתאמן גם לבד ולשפר את יכולת החבטה שלהם בצורה מהנה ובטוחה. יתרונות המוצר: ⚾ משגר כדורים עם דוושת הפעלה קלה לשימוש. 🏏 מחבט קל ונוח לאחיזה. 🎯 מסייע בפיתוח קואורדינציה, ריכוז ומוטוריקה. 👦 מתאים למשחק יחיד או עם
+- Image: https://parktoys.co.il/assets/product-1785083608826-resn2d.webp
 
 ### סט מחבטי פיקלבול עם רשת – ערכה מלאה למשחק בכל מקום
 https://parktoys.co.il/product/st-mchbty-pyklbvl-am-rsht-arkh-mlah-lmshchk-bkl-mkvm-t4ijhp
@@ -1639,13 +1647,6 @@ https://parktoys.co.il/product/mslvl-lshtypt-mkvnyvt-kvll-rkb-gsc65g
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
 - Description: מסלול לשטיפת מכוניות כולל רכב מבית Hot Wheels סט משחק מרהיב הכולל מסלול עם שטיפת מכוניות מיוחדת ההופכת כל נסיעה לחוויה מרגשת! רכב משנה צבעים! – טבלו את הרכב במים קרים או חמים וצפו איך צבעו משתנה באורח קסם. מערכת מסלול דינמית! – מסלול מפותל עם מנהרה מסתובבת, מים זורמים ואלמנטים מרגשים נוספים. מתאים לגילאי 3+ משתתפים: 1+
 - Image: https://parktoys.co.il/assets/product-enhanced-1783944959160-et263h.webp
-
-### ספיידי וחברים – סט 5 דמויות 9 ס”מ
-https://parktoys.co.il/product/spyydy-vchbrym-st-5-dmvyvt-9-sm-pdkhco
-- Price: 89.00 ILS
-- Availability: In stock
-- Description: מארז 5 דמויות מארוול בגודל 9 ס"מ ספיידי, איירון מן, הפנתר השחור, מיילס מורלס וגוסט ספיידר.
-- Image: https://parktoys.co.il/assets/product-enhanced-1783944606724-7l49em.webp
 
 ---
 
