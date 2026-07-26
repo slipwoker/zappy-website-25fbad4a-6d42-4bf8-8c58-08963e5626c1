@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 328** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 329** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קפיברה אמא ותינוקות בהפתעה - קפיברה רובוטית הולכת עם קולות ותינוקות -Pets Alive Mommy Capybara and Baby Surprise מבית ZURU
+https://parktoys.co.il/product/kpybrh-ama-vtynvkvt-bhptah-kpybrh-rvbvtyt-hvlkt-am-kvlvt-vtynvkvt-pets-alive-mommy-capybara-and-baby-surprise-mbyt-zuru-gunz7q
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: קפיברה אמא ותינוקות בהפתעה Pets Alive Mommy Capybara and Baby Surprise מבית ZURU היא צעצוע אינטראקטיבי מתוק, מצחיק ומלא הפתעה לילדים שאוהבים חיות, בובות פרווה, תינוקות קטנים ומשחקי דמיון פותחים את האריזה ומגלים הפתעה מרגשת: האם מצאתם 2 או 3 תינוקות קפיברה חמודים שמתחבאים בפנים? אמא קפיברה הולכת באמת באמצעות מנגנון תנועה המופעל בסוללות, משמיעה קולות חמודים, מכוסה בפרווה נעימה למגע, והתינוקות הקטנים יכולים להתחבר אליה וליצור רכבת משפחתית מתוקה שהולכת אחריה בזמן שהיא מתקדמת. כך הילדים מקבלים חוויי
+- Image: https://parktoys.co.il/assets/product-enhanced-1785082722301-ia3p7i.webp
 
 ### אמא פילה ופילונים בהפתעה Pets Alive מבית Zuru
 https://parktoys.co.il/product/ama-pylh-vpylvnym-bhptah-pets-alive-mbyt-zuru-n9piwl
@@ -1637,13 +1645,6 @@ https://parktoys.co.il/product/spyydy-dmvt-am-avpnva-ayyrvn-mn-toegd5
 - Availability: In stock
 - Description: ספיידי עם אופנוע מדהים של איירון מן! דמות פעולה עם אופנוע בעיצוב מרשים, מושלמת לילדים שאוהבים גיבורי על. אידיאלי לאוסף גיבורים או כמתנה מיוחדת לחובבי מארוול.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783933963809-q1h5zs.webp
-
-### בובת ספיידרמן אין דרך הביתה 3 ב-1 מבית Hasbro Marvel
-https://parktoys.co.il/product/bvbt-spyydrmn-ayn-drk-hbyth-3-b-1-mbyt-hasbro-marvel-frw2nq
-- Price: 99.00 ILS
-- Availability: In stock
-- Description: ילדים יוכלו לדמיין הרפתקאות מדהימות עם הדמות של ספיידרמן! ספיידרמן מגיע עם אביזרים המאפשרים להחליף מראה כדי להילחם ברוע ולהביס נבלים בכל מקום! הוא מעוצב בהשראת הסרט לפרטי פרטים, ומגיע עם מפרקים המאפשרים להזיז את הידיים והרגליים שלו. • כולל אביזרים • דמות מעוצבת לפרטי פרטים בהשראת הסרט • מפרקים המאפשרים להזיז את הידיים והרגליים שלו
-- Image: https://parktoys.co.il/assets/product-enhanced-1783933339650-83uycs.webp
 
 ---
 
