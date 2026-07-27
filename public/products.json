@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-27T11:37:30.199Z",
+  "generated_at": "2026-07-27T11:39:56.989Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 335,
+  "count": 336,
   "products": [
+    {
+      "id": "25c735f8-ed2e-4e3a-a11d-523a3cf0d30c",
+      "slug": "bvbh-gdvlh-yvbl-hmbvlbl-mngnt-waheyo",
+      "name": "בובה גדולה יובל המבולבל מנגנת",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בובת יובל המבולבל מדברת ושרה 40 ס\"מ\n\n8 שירים של יובל\n\n10משפטים של יובל\n\n2 עוצמות קול\n\nלחצן כוכב נדלק",
+      "sku": null,
+      "brand": null,
+      "price": 149,
+      "base_price": 149,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785152322020-5jmzq8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/bvbh-gdvlh-yvbl-hmbvlbl-mngnt-waheyo",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-27T11:39:21.509Z"
+    },
     {
       "id": "996d109b-516a-48d7-bd96-4fe4742c3705",
       "slug": "avhl-kdvrym-lyldym-am-100-kdvrym-tsbavnyym-t4jplh",

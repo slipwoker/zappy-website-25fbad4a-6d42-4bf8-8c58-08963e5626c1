@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 335** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 336** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בובה גדולה יובל המבולבל מנגנת
+https://parktoys.co.il/product/bvbh-gdvlh-yvbl-hmbvlbl-mngnt-waheyo
+- Price: 149.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: בובת יובל המבולבל מדברת ושרה 40 ס"מ 8 שירים של יובל 10משפטים של יובל 2 עוצמות קול לחצן כוכב נדלק
+- Image: https://parktoys.co.il/assets/product-1785152322020-5jmzq8.webp
 
 ### אוהל כדורים לילדים עם 100 כדורים צבעוניים 
 https://parktoys.co.il/product/avhl-kdvrym-lyldym-am-100-kdvrym-tsbavnyym-t4jplh
@@ -1639,14 +1647,6 @@ https://parktoys.co.il/product/msvk-am-shlt-sky-king-q3bk7x
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
 - Description: מסוק גדול עם שלט רחוק. הצבע מגע לפי המלאי בחנות
 - Image: https://parktoys.co.il/assets/product-enhanced-1783946376126-zu2wym.webp
-
-### הוט ווילס מסלול מכוניות המבורגריה – HOT WHELLS
-https://parktoys.co.il/product/hvt-vvyls-mslvl-mkvnyvt-hmbvrgryh-hot-whells-ua7bsm
-- Price: 129.00 ILS
-- Availability: In stock
-- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
-- Description: מסלול מכוניות בצורת המבורגר בואו להיכנס לחנות המבורגרים לפני שאתם יוצאים לדרכים! אבל היזהרו מאויבים המסוכנים שמחכים לכם במסלול המכוניות בצורת המבורגר. מסובבים את השלט והלוגו ומכוניות מתגלגלות אוטומטית, בדוק את הפריט ואת השער בצורית מרית הניתן להזזה. סט זה מגיע עם מכונית אחת ומתחבר לסטים אחרים. מגילאי 4 ומעלה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1783945968459-qmf2cq.webp
 
 ---
 
