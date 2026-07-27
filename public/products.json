@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-27T11:52:36.706Z",
+  "generated_at": "2026-07-27T11:54:21.819Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 338,
+  "count": 339,
   "products": [
+    {
+      "id": "5fe4ee18-03e3-4816-b898-3443d613b067",
+      "slug": "lvly-bvbh-ayntraktybyt-gdvlh-15vq7u",
+      "name": "לולי – בובה אינטראקטיבית גדולה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "רק בקע מהביצה והופ! - מהמסך יצא! לולי האפרוח האהוב מערוץ הטלויזיה ילווה אתכם בכל שעות היממה - במצב יום תוכלו להאזין למגוון תכני משחק והתפתחות בעברית, ובמצב לילה - לתכנים מרגיעים שירדימו אתכם בנעימים. בובת לולי מופעלת באמצעות חיישן תנועה ולחצן בטן. 2 מצבי פעולה: מצב יום / לילה",
+      "sku": null,
+      "brand": null,
+      "price": 149,
+      "base_price": 149,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785153199810-f4je.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lvly-bvbh-ayntraktybyt-gdvlh-15vq7u",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-27T11:53:44.205Z"
+    },
     {
       "id": "98ff0362-31ad-4f52-bf84-e5be6e5998db",
       "slug": "bvbt-kvpykv-mdbrt-vshrh-babryt-chglcg",

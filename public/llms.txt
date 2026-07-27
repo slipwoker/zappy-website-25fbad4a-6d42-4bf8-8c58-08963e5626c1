@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 338** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 339** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לולי – בובה אינטראקטיבית גדולה
+https://parktoys.co.il/product/lvly-bvbh-ayntraktybyt-gdvlh-15vq7u
+- Price: 149.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: רק בקע מהביצה והופ! - מהמסך יצא! לולי האפרוח האהוב מערוץ הטלויזיה ילווה אתכם בכל שעות היממה - במצב יום תוכלו להאזין למגוון תכני משחק והתפתחות בעברית, ובמצב לילה - לתכנים מרגיעים שירדימו אתכם בנעימים. בובת לולי מופעלת באמצעות חיישן תנועה ולחצן בטן. 2 מצבי פעולה: מצב יום / לילה
+- Image: https://parktoys.co.il/assets/product-1785153199810-f4je.webp
 
 ### בובת קופיקו מדברת ושרה בעברית
 https://parktoys.co.il/product/bvbt-kvpykv-mdbrt-vshrh-babryt-chglcg
@@ -1639,14 +1647,6 @@ https://parktoys.co.il/product/bvbt-hank-hyrvk-30-sm-txdfle
 - Availability: In stock
 - Description: בובת הענק הירוק 30 ס"מ מסדרת הנוקמים מבית הסברו. דמות הענק הירוק מסדרת הנוקמים במהדורת גיבורי הטיטאן מבית הסברו כוללת ארטיקולציה בסיסית ובקנה מידה המתנשא לגובה של 30 ס"מ, כך שילדים יכולים לשחק ולדמיין קרבות בגודל ענק ישירות מהקופסא! אספו דמויות נוספות מסדרת גיבורי הטיטאן לעוד אקשן מרהיב מבית מארוול! (נמכרות בנפרד) לגילאי 4 ומעלה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783948582391-pjljwq.webp
-
-### סקווישי מוח
-https://parktoys.co.il/product/skvvyshy-mvch-w3pke8
-- Price: 40.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: סקווישי גדול נידו בצורת מוח
-- Image: https://parktoys.co.il/assets/product-enhanced-1783947137537-ruvf4.webp
 
 ---
 
