@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-27T11:46:36.010Z",
+  "generated_at": "2026-07-27T11:52:36.706Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 338,
@@ -31,7 +31,7 @@
     },
     {
       "id": "6b231c88-2c46-46fd-98b7-0d4d19f50526",
-      "slug": "bvbt-myky-ayntraktybyt-zs4nqm",
+      "slug": "bvbt-myky-ayntraktybyt-vdecl0",
       "name": "בובת מיקי אינטראקטיבית",
       "name_translations": {},
       "description": "",
@@ -43,15 +43,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1785152648960-96tz0u.webp"
+        "https://parktoys.co.il/assets/product-1785152982285-p54got.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/bvbt-myky-ayntraktybyt-zs4nqm",
+      "url": "https://parktoys.co.il/product/bvbt-myky-ayntraktybyt-vdecl0",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-27T11:44:45.407Z"
+      "updated_at": "2026-07-27T11:52:00.781Z"
     },
     {
       "id": "25c735f8-ed2e-4e3a-a11d-523a3cf0d30c",
