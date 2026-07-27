@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 334** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 335** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### אוהל כדורים לילדים עם 100 כדורים צבעוניים 
+https://parktoys.co.il/product/avhl-kdvrym-lyldym-am-100-kdvrym-tsbavnyym-t4jplh
+- Price: 99.00 ILS (sale, was 149.00 ILS)
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: אוהל כדורים לילדים עם 100 כדורים צבעוניים מבית Diamant Toys העניקו לילדים חוויית משחק צבעונית, פעילה ומלאת דמיון עם אוהל כדורים לילדים. האוהל יוצר עבור הילדים מרחב משחק אישי, נעים ומהנה, שבו הם יכולים לזחול, לשחק, להתחבא, לקפוץ בין כדורים וליהנות משעות של פעילות עצמאית או משותפת עם חברים ובני משפחה. הייחוד של המוצר הוא בשילוב בין אוהל משחק לבין בריכת כדורים צבעונית, המעניקה לילדים חוויה חושית, תנועתית ומשעשעת במיוחד. המשחק בכדורים מסייע בפיתוח מוטוריקה, קואורדינציה, זיהוי צבעים ותחושת מרחב, תוך
+- Image: https://parktoys.co.il/assets/product-1785152143029-7tp9np.webp
 
 ### סליים מארט - שקית טארט פירות
 https://parktoys.co.il/product/slyym-mart-shkyt-tart-pyrvt-9b61bh
@@ -1639,14 +1647,6 @@ https://parktoys.co.il/product/hvt-vvyls-mslvl-mkvnyvt-hmbvrgryh-hot-whells-ua7b
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
 - Description: מסלול מכוניות בצורת המבורגר בואו להיכנס לחנות המבורגרים לפני שאתם יוצאים לדרכים! אבל היזהרו מאויבים המסוכנים שמחכים לכם במסלול המכוניות בצורת המבורגר. מסובבים את השלט והלוגו ומכוניות מתגלגלות אוטומטית, בדוק את הפריט ואת השער בצורית מרית הניתן להזזה. סט זה מגיע עם מכונית אחת ומתחבר לסטים אחרים. מגילאי 4 ומעלה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783945968459-qmf2cq.webp
-
-### דמפלינג ענק
-https://parktoys.co.il/product/dmplyng-ank-ccmlfs
-- Price: 150.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: דמפלינג נידו ענק. שימו לב המוצר מגיע ללא הדמפלינג הרגיל, המוצר שם רק כדי להמחיש כמה המוצר ענקי
-- Image: https://parktoys.co.il/assets/product-enhanced-1783945679053-40sgop.webp
 
 ---
 

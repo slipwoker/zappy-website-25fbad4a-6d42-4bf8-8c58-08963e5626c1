@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-27T11:32:38.872Z",
+  "generated_at": "2026-07-27T11:37:30.199Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 334,
+  "count": 335,
   "products": [
+    {
+      "id": "996d109b-516a-48d7-bd96-4fe4742c3705",
+      "slug": "avhl-kdvrym-lyldym-am-100-kdvrym-tsbavnyym-t4jplh",
+      "name": "אוהל כדורים לילדים עם 100 כדורים צבעוניים ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אוהל כדורים לילדים עם 100 כדורים צבעוניים מבית Diamant Toys\nהעניקו לילדים חוויית משחק צבעונית, פעילה ומלאת דמיון עם אוהל כדורים לילדים. האוהל יוצר עבור הילדים מרחב משחק אישי, נעים ומהנה, שבו הם יכולים לזחול, לשחק, להתחבא, לקפוץ בין כדורים וליהנות משעות של פעילות עצמאית או משותפת עם חברים ובני משפחה. הייחוד של המוצר הוא בשילוב בין אוהל משחק לבין בריכת כדורים צבעונית, המעניקה לילדים חוויה חושית, תנועתית ומשעשעת במיוחד. המשחק בכדורים מסייע בפיתוח מוטוריקה, קואורדינציה, זיהוי צבעים ותחושת מרחב, תוך ",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 149,
+      "sale_price": 99,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785152143029-7tp9np.webp",
+        "https://parktoys.co.il/assets/product-1785152159792-jrk376.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/avhl-kdvrym-lyldym-am-100-kdvrym-tsbavnyym-t4jplh",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-07-27T11:36:38.236Z"
+    },
     {
       "id": "f639a744-68fd-4189-93b8-d1bbe367760f",
       "slug": "slyym-mart-shkyt-tart-pyrvt-9b61bh",
