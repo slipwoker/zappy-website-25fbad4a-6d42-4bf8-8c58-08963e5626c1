@@ -4,7 +4,18 @@
     <title>פארק הצעצועים</title>
     <link>https://parktoys.co.il</link>
     <description>Product feed for פארק הצעצועים</description>
-    <lastBuildDate>Mon, 27 Jul 2026 09:50:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 09:52:58 GMT</lastBuildDate>
+    <item>
+      <g:id>902b3a6c-2331-4598-8823-6fa35218f831</g:id>
+      <g:title>טסט של זאפי </g:title>
+      <g:description>טסט של זאפי</g:description>
+      <g:link>https://parktoys.co.il/product/tst-shl-zapy-ngalfs</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
     <item>
       <g:id>f639a744-68fd-4189-93b8-d1bbe367760f</g:id>
       <g:title>סליים מארט - שקית טארט פירות</g:title>

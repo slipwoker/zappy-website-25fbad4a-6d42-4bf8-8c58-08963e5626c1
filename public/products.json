@@ -1,10 +1,30 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-27T09:50:22.410Z",
+  "generated_at": "2026-07-27T09:52:58.301Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 334,
+  "count": 335,
   "products": [
+    {
+      "id": "902b3a6c-2331-4598-8823-6fa35218f831",
+      "slug": "tst-shl-zapy-ngalfs",
+      "name": "טסט של זאפי ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 1,
+      "base_price": 1,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/tst-shl-zapy-ngalfs",
+      "categories": [],
+      "updated_at": "2026-07-27T09:52:35.470Z"
+    },
     {
       "id": "f639a744-68fd-4189-93b8-d1bbe367760f",
       "slug": "slyym-mart-shkyt-tart-pyrvt-9b61bh",
