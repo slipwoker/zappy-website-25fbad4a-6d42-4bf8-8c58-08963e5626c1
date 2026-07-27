@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-27T09:02:19.576Z",
+  "generated_at": "2026-07-27T09:50:22.410Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 334,
@@ -7507,7 +7507,7 @@
     },
     {
       "id": "99f3489b-b912-4fe3-b923-1fdf86d85bdd",
-      "slug": "skvtr-lktntnym-little-tikes-033sjw",
+      "slug": "skvtr-lktntnym-little-tikes-qpav6f",
       "name": "סקוטר לקטנטנים-little tikes",
       "name_translations": {},
       "description": "",
@@ -7524,11 +7524,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/skvtr-lktntnym-little-tikes-033sjw",
+      "url": "https://parktoys.co.il/product/skvtr-lktntnym-little-tikes-qpav6f",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-06-29T11:34:52.217Z"
+      "updated_at": "2026-07-27T09:49:47.748Z"
     },
     {
       "id": "8ef49deb-0d5d-4cb7-995f-e9c029ce7e91",
