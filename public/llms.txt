@@ -76,12 +76,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 335** (showing first 200; full catalog at https://parktoys.co.il/products.json)
-
-### טסט של זאפי 
-https://parktoys.co.il/product/tst-shl-zapy-ngalfs
-- Price: 1.00 ILS
-- Availability: In stock
+**Total active products: 334** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### סליים מארט - שקית טארט פירות
 https://parktoys.co.il/product/slyym-mart-shkyt-tart-pyrvt-9b61bh
@@ -1644,6 +1639,14 @@ https://parktoys.co.il/product/hvt-vvyls-mslvl-mkvnyvt-hmbvrgryh-hot-whells-ua7b
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
 - Description: מסלול מכוניות בצורת המבורגר בואו להיכנס לחנות המבורגרים לפני שאתם יוצאים לדרכים! אבל היזהרו מאויבים המסוכנים שמחכים לכם במסלול המכוניות בצורת המבורגר. מסובבים את השלט והלוגו ומכוניות מתגלגלות אוטומטית, בדוק את הפריט ואת השער בצורית מרית הניתן להזזה. סט זה מגיע עם מכונית אחת ומתחבר לסטים אחרים. מגילאי 4 ומעלה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1783945968459-qmf2cq.webp
+
+### דמפלינג ענק
+https://parktoys.co.il/product/dmplyng-ank-ccmlfs
+- Price: 150.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: דמפלינג נידו ענק. שימו לב המוצר מגיע ללא הדמפלינג הרגיל, המוצר שם רק כדי להמחיש כמה המוצר ענקי
+- Image: https://parktoys.co.il/assets/product-enhanced-1783945679053-40sgop.webp
 
 ---
 

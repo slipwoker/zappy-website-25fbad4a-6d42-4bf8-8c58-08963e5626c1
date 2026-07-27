@@ -5795,13 +5795,6 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
-### טסט של זאפי 
-URL: https://parktoys.co.il/product/tst-shl-zapy-ngalfs
-Price: 1.00 ILS
-Availability: In stock
-
----
-
 ### סליים מארט - שקית טארט פירות
 URL: https://parktoys.co.il/product/slyym-mart-shkyt-tart-pyrvt-9b61bh
 Price: 49.00 ILS
