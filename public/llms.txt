@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 336** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 337** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בובת מיקי אינטראקטיבית
+https://parktoys.co.il/product/bvbt-myky-ayntraktybyt-zs4nqm
+- Price: 149.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: בובת מיקי אינטראקטיבית Spark Toys בובת מיקי דוברת עברית,יפה ואיכותית, עשירה בתכנים האהובים של מיקי! הבובה שרה שירים ואומרת מגוון משפטים. הבובה מיקי שואלת: מה נשמע? מה נשמי? מה נשמיקי?
+- Image: https://parktoys.co.il/assets/product-enhanced-1785152648960-96tz0u.webp
 
 ### בובה גדולה יובל המבולבל מנגנת
 https://parktoys.co.il/product/bvbh-gdvlh-yvbl-hmbvlbl-mngnt-waheyo
@@ -1639,14 +1647,6 @@ https://parktoys.co.il/product/skvvshy-tyrs-ank-nydv-ank-r3h8yy
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: סקוושי תירס ענק נידו ענק
 - Image: https://parktoys.co.il/assets/product-enhanced-1783946832889-a4we7.webp
-
-### מסוק עם שלט SKY KING
-https://parktoys.co.il/product/msvk-am-shlt-sky-king-q3bk7x
-- Price: 200.00 ILS
-- Availability: In stock
-- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
-- Description: מסוק גדול עם שלט רחוק. הצבע מגע לפי המלאי בחנות
-- Image: https://parktoys.co.il/assets/product-enhanced-1783946376126-zu2wym.webp
 
 ---
 
