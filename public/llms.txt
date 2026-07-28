@@ -79,11 +79,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 340** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### מצלמה מדפיסה לילדים -ורוד בלבד
-https://parktoys.co.il/product/mtslmh-mdpysh-lyldym-vrvd-blbd-cjhqgm
+https://parktoys.co.il/product/mtslmh-mdpysh-lyldym-vrvd-blbd-8b0kfi
 - Price: 130.00 ILS
 - Availability: In stock
 - Description: מצלמת ילדים מדפיסה שחור לבן -זיפאין ליין טויס מצלמה ייחודית שמתאימה לילדים וכוללת תכונות שהופכות את חווית הצילום
-- Image: https://parktoys.co.il/assets/product-1785227865384-saol78.webp
+- Image: https://parktoys.co.il/assets/product-enhanced-1785228226173-s9n51.webp
 
 ### לולי – בובה אינטראקטיבית גדולה
 https://parktoys.co.il/product/lvly-bvbh-ayntraktybyt-gdvlh-15vq7u
