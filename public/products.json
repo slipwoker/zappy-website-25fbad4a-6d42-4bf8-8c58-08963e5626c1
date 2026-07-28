@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-28T08:34:02.444Z",
+  "generated_at": "2026-07-28T08:40:16.222Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 339,
+  "count": 340,
   "products": [
+    {
+      "id": "fa2d41bc-ac4c-4040-bb5b-e26ea1af8908",
+      "slug": "mtslmh-mdpysh-lyldym-vrvd-blbd-gbvwkt",
+      "name": "מצלמה מדפיסה לילדים -ורוד בלבד",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מצלמת ילדים מדפיסה שחור לבן -זיפאין ליין טויס\nמצלמה ייחודית שמתאימה לילדים וכוללת תכונות שהופכות את חווית הצילום",
+      "sku": null,
+      "brand": null,
+      "price": 130,
+      "base_price": 130,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785227865384-saol78.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mtslmh-mdpysh-lyldym-vrvd-blbd-gbvwkt",
+      "categories": [],
+      "updated_at": "2026-07-28T08:39:43.494Z"
+    },
     {
       "id": "5fe4ee18-03e3-4816-b898-3443d613b067",
       "slug": "lvly-bvbh-ayntraktybyt-gdvlh-15vq7u",

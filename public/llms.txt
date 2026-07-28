@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 339** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 340** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מצלמה מדפיסה לילדים -ורוד בלבד
+https://parktoys.co.il/product/mtslmh-mdpysh-lyldym-vrvd-blbd-gbvwkt
+- Price: 130.00 ILS
+- Availability: In stock
+- Description: מצלמת ילדים מדפיסה שחור לבן -זיפאין ליין טויס מצלמה ייחודית שמתאימה לילדים וכוללת תכונות שהופכות את חווית הצילום
+- Image: https://parktoys.co.il/assets/product-1785227865384-saol78.webp
 
 ### לולי – בובה אינטראקטיבית גדולה
 https://parktoys.co.il/product/lvly-bvbh-ayntraktybyt-gdvlh-15vq7u
@@ -1640,13 +1647,6 @@ https://parktoys.co.il/product/dmvt-pavlh-ayyrvn-mn-28-sm-am-ydyym-vrglyym-zzvt-
 - Availability: In stock
 - Description: דמות איירון מן מסרטי מארוול עם ראש, ידיים ורגליים זזות כולל ציוד רחיפה. דמות פעולה מדליקה של איירון מןר מסדרת הקומיקס של מארוול עם מתקן ריחוף מתחבר לגב בהתקנה מהירה וקלה. דמות משחק אידאלית למשחקי דמיון עשירים לילדים חובבי קומיקס של מארוול או לאספנים חובבים. גובה הדמות כ-28 ס"מ. מתאים מגילאי 4 ומעלה. מוצר בייבוא מקביל.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784024186417-skxl2.webp
-
-### בובת הענק הירוק 30 ס"מ 
-https://parktoys.co.il/product/bvbt-hank-hyrvk-30-sm-txdfle
-- Price: 60.00 ILS
-- Availability: In stock
-- Description: בובת הענק הירוק 30 ס"מ מסדרת הנוקמים מבית הסברו. דמות הענק הירוק מסדרת הנוקמים במהדורת גיבורי הטיטאן מבית הסברו כוללת ארטיקולציה בסיסית ובקנה מידה המתנשא לגובה של 30 ס"מ, כך שילדים יכולים לשחק ולדמיין קרבות בגודל ענק ישירות מהקופסא! אספו דמויות נוספות מסדרת גיבורי הטיטאן לעוד אקשן מרהיב מבית מארוול! (נמכרות בנפרד) לגילאי 4 ומעלה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1783948582391-pjljwq.webp
 
 ---
 
