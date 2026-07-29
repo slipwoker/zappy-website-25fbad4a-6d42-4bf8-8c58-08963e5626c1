@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-29T16:01:32.367Z",
+  "generated_at": "2026-07-29T16:09:47.562Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 354,
+  "count": 355,
   "products": [
+    {
+      "id": "b07be44e-f00f-46e2-83c2-455e28a0687e",
+      "slug": "lgv-nynggv-rvbvt-hkrb-shl-zayyn-71827-lego-58t8ru",
+      "name": "לגו נינג'גו רובוט הקרב של זאיין 71827 | Lego",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכת משחק דמיון של לגו NINJAGO לילדים – חליפת הקרב של זיין מאפשרת לילדים מגיל 6 ומעלה לשחזר סצנות מרתקות מעונה 3 של סדרת הטלוויזיה NINJAGO: Dragons Rising.\nמכונת משחק מתכווננת – חליפת הקרב של זיין כוללת ידיים, רגליים וזרועות מתכווננות, גוף עליון שמסתובב ב-360 מעלות, תא פתיחה להצבת דמות ו-2 חרבות גדולות.\n3 דמויות קטנות מסדרת NINJAGO – הערכה כוללת את זיין, וויילדפייר ודיריקס, מאסטר הלהקות, שיאפשרו לילדים לשחזר קרבות מלאי אקשן.\nאביזרי נשק – לכל דמות קטנה יש נשק משלה: לזיין יש 2 שוריקנים, לוויילדפיי",
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785341325107-bmbkbm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-nynggv-rvbvt-hkrb-shl-zayyn-71827-lego-58t8ru",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-07-29T16:09:12.048Z"
+    },
     {
       "id": "3289dd61-69a1-403c-bee4-e2c3db9a9310",
       "slug": "lgv-nynggv-rvbvt-ysvdvt-hash-shl-kay-71808-w5ogv3",

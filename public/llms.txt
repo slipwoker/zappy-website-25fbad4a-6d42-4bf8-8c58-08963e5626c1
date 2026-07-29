@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 354** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 355** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו נינג'גו רובוט הקרב של זאיין 71827 | Lego
+https://parktoys.co.il/product/lgv-nynggv-rvbvt-hkrb-shl-zayyn-71827-lego-58t8ru
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: ערכת משחק דמיון של לגו NINJAGO לילדים – חליפת הקרב של זיין מאפשרת לילדים מגיל 6 ומעלה לשחזר סצנות מרתקות מעונה 3 של סדרת הטלוויזיה NINJAGO: Dragons Rising. מכונת משחק מתכווננת – חליפת הקרב של זיין כוללת ידיים, רגליים וזרועות מתכווננות, גוף עליון שמסתובב ב-360 מעלות, תא פתיחה להצבת דמות ו-2 חרבות גדולות. 3 דמויות קטנות מסדרת NINJAGO – הערכה כוללת את זיין, וויילדפייר ודיריקס, מאסטר הלהקות, שיאפשרו לילדים לשחזר קרבות מלאי אקשן. אביזרי נשק – לכל דמות קטנה יש נשק משלה: לזיין יש 2 שוריקנים, לוויילדפיי
+- Image: https://parktoys.co.il/assets/product-1785341325107-bmbkbm.webp
 
 ### לגו נינגגו רובוט יסודות האש של קאי 71808
 https://parktoys.co.il/product/lgv-nynggv-rvbvt-ysvdvt-hash-shl-kay-71808-w5ogv3
@@ -1656,13 +1664,6 @@ https://parktoys.co.il/product/skvvyshy-gbynh-nydv-ankyt-bx0o11
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: סקווישי גבינה נידו ענקית ונעימה
 - Image: https://parktoys.co.il/assets/product-enhanced-1784129587963-1nh0ak.webp
-
-### מפרץ ההרפתקאות ערכת משחק רכב הצלה
-https://parktoys.co.il/product/mprts-hhrptkavt-arkt-mshchk-rkb-htslh-mwxbkm
-- Price: 350.00 ILS
-- Availability: In stock
-- Description: צאו למשימות חילוץ מרגשות ומלאות אקשן עם רכב ההצלה של צוות מפרץ ההרפתקאות! הסט כולל את הדמות של ריידר, הטרקטורון שלו ורכב הצלה הכולל דלתות משתנות, משגר כפול ואפקטים קוליים מרתקים לחוויה סוחפת. לגיל 3 ומעלה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784047633166-plg12s.webp
 
 ---
 
