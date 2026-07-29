@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-29T16:09:47.562Z",
+  "generated_at": "2026-07-29T16:31:53.290Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 355,
+  "count": 356,
   "products": [
+    {
+      "id": "0eef8bb3-fa8e-4411-a8c7-7a6cdccf801d",
+      "slug": "lgv-nynggv-avpnva-hmyrvts-shl-kay-71838-lego-knq7o7",
+      "name": "לגו נינג'גו אופנוע המירוץ של קאי 71838 | Lego",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הסט \"מירוץ האופנועים המהיר של קאי\" מבית לגו נינג’גו מאפשר לבנים ולבנות מגיל 6 ומעלה לשחזר סצנות מרוץ מסעירות מתוך עונה 3 של סדרת הטלוויזיה NINJAGO: Dragons Rising.\n\nהסט כולל שני אופנועים נינג’ה עם גלגלים נעים:\n\nאופנוע המירוץ של קאי – מעוטר בשני פגיונות\n\nאופנוע שדים של סייר הדרקונים הרפאים – מלא באקשן ואווירה אפלה\n\nבנוסף תמצאו בסט 2 דמויות מיני-פיגור:\n\nקאי – מצויד בלהב שקוף ייחודי ובשתי חרבות קטאנה מוזהבות\n\nסייר דרקונים רפאים – מגיע עם חרב לקרבות בין טוב לרע\n\nהילדים יכולים ליהנות ממשחק דמיון לבד ",
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785342612898-c8eq4d.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-nynggv-avpnva-hmyrvts-shl-kay-71838-lego-knq7o7",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-07-29T16:31:19.166Z"
+    },
     {
       "id": "b07be44e-f00f-46e2-83c2-455e28a0687e",
       "slug": "lgv-nynggv-rvbvt-hkrb-shl-zayyn-71827-lego-58t8ru",

@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 355** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 356** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו נינג'גו אופנוע המירוץ של קאי 71838 | Lego
+https://parktoys.co.il/product/lgv-nynggv-avpnva-hmyrvts-shl-kay-71838-lego-knq7o7
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: הסט "מירוץ האופנועים המהיר של קאי" מבית לגו נינג’גו מאפשר לבנים ולבנות מגיל 6 ומעלה לשחזר סצנות מרוץ מסעירות מתוך עונה 3 של סדרת הטלוויזיה NINJAGO: Dragons Rising. הסט כולל שני אופנועים נינג’ה עם גלגלים נעים: אופנוע המירוץ של קאי – מעוטר בשני פגיונות אופנוע שדים של סייר הדרקונים הרפאים – מלא באקשן ואווירה אפלה בנוסף תמצאו בסט 2 דמויות מיני-פיגור: קאי – מצויד בלהב שקוף ייחודי ובשתי חרבות קטאנה מוזהבות סייר דרקונים רפאים – מגיע עם חרב לקרבות בין טוב לרע הילדים יכולים ליהנות ממשחק דמיון לבד
+- Image: https://parktoys.co.il/assets/product-1785342612898-c8eq4d.webp
 
 ### לגו נינג'גו רובוט הקרב של זאיין 71827 | Lego
 https://parktoys.co.il/product/lgv-nynggv-rvbvt-hkrb-shl-zayyn-71827-lego-58t8ru
@@ -1656,14 +1664,6 @@ https://parktoys.co.il/product/skvvyshy-hmbvrgr-nydv-anky-w15ekn
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: המבורגר נידו ענקי נעים וכיפי למגע
 - Image: https://parktoys.co.il/assets/product-1784129792962-ahsk1.webp
-
-### סקווישי גבינה נידו ענקית
-https://parktoys.co.il/product/skvvyshy-gbynh-nydv-ankyt-bx0o11
-- Price: 40.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: סקווישי גבינה נידו ענקית ונעימה
-- Image: https://parktoys.co.il/assets/product-enhanced-1784129587963-1nh0ak.webp
 
 ---
 
