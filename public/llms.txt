@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 345** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 346** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+###  Lego לגו סיטי משאית רכב שטח 60447
+https://parktoys.co.il/product/lego-lgv-syty-mshayt-rkb-shtch-60447-dy0hej
+- Price: 99.00 ILS (sale, was 149.00 ILS)
+- Availability: In stock
+- Category: לגו-lego
+- Description: צאו להרפתקאות אפיות עם רכב שטח 4×4 לנסיעה בהרים של LEGO® City! טפסו על מדרונות תלולים וסעו בזהירות מעל תעלות.
+- Image: https://parktoys.co.il/assets/product-1785335949289-dpgu06.webp
 
 ###  לגו סיטי תחנת עצירה וצוות תיקונים 60443
 https://parktoys.co.il/product/lgv-syty-tchnt-atsyrh-vtsvvt-tykvnym-60443-w7148s
@@ -1647,13 +1655,6 @@ https://parktoys.co.il/product/msvk-shlt-35ch-gyro-hst-twzemm
 - Availability: In stock
 - Description: מסוק שלט 3.5 ערוצי טיסה. כולל מייצב מובנה gyrosope לטיסה יציבה. שלדת המסוק חזקה ועמידה במיוחד. מדליק אורות בעת הטיסה. כולל סוללה פנימית נטענת ומטען USB מהיר.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784026741158-ymv1oj.webp
-
-###   מטבח ענק - בית הבובות של גבי (Gabby's Dollhouse)
-https://parktoys.co.il/product/mtbch-ank-byt-hbvbvt-shl-gby-gabbys-dollhouse-rmrynz
-- Price: 249.00 ILS (sale, was 300.00 ILS)
-- Availability: In stock
-- Description: הכניסו את הקסם של הסדרה האהובה "בית הבובות של גבי" היישר אל חדר המשחקים! המטבח הענק של גבי הוא המתנה המושלמת לילדים וילדות שאוהבים לבשל, לאפות וליצור הרפתקאות דמיוניות יחד עם הדמויות המוכרות.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784025817546-vog8h.webp
 
 ---
 

@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-29T14:37:29.085Z",
+  "generated_at": "2026-07-29T14:52:29.598Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 345,
+  "count": 346,
   "products": [
+    {
+      "id": "9ba0cf8b-2587-4cfe-b6bf-820d4364e37b",
+      "slug": "lego-lgv-syty-mshayt-rkb-shtch-60447-dy0hej",
+      "name": " Lego לגו סיטי משאית רכב שטח 60447",
+      "name_translations": {},
+      "description": "",
+      "short_description": "צאו להרפתקאות אפיות עם רכב שטח 4×4 לנסיעה בהרים של LEGO® City! טפסו על מדרונות תלולים וסעו בזהירות מעל תעלות.",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 149,
+      "sale_price": 99,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785335949289-dpgu06.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lego-lgv-syty-mshayt-rkb-shtch-60447-dy0hej",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-07-29T14:51:52.274Z"
+    },
     {
       "id": "a4f8a0c0-571d-4f71-9b4a-eef5415c0be3",
       "slug": "lgv-syty-tchnt-atsyrh-vtsvvt-tykvnym-60443-w7148s",
