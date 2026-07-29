@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 350** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 351** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו סיטי – רכב משטרתי להובלת אסירים 60479
+https://parktoys.co.il/product/lgv-syty-rkb-mshtrty-lhvblt-asyrym-60479-4n8oqy
+- Price: 119.00 ILS (sale, was 149.00 ILS)
+- Availability: In stock
+- Category: לגו-lego
+- Description: התכוננו להרפתקאות בריחה מרגשות עם סט הבנייה (60479) של רכב משטרתי להובלת אסירים בואן מסדרת LEGO® City לילדים בגילאי 6 ומעלה. דגם הרכב המשטרתי כולל תא נהג מפורט ותא מעצר עם מקום ל-2 נוכלים.
+- Image: https://parktoys.co.il/assets/product-1785339435846-377t27.webp
 
 ### לגו סיטי מטוס אמבולנס חירום אווירי 60465
 https://parktoys.co.il/product/lgv-syty-mtvs-ambvlns-chyrvm-avvyry-60465-l4reta
@@ -1652,13 +1660,6 @@ https://parktoys.co.il/product/brby-marz-kryyrh-rvpat-shynyym-89ynic
 - Availability: In stock
 - Description: אתם יכולים להיות רופאי שיניים עם סט רופא השיניים של ברבי! סט זה כולל ברבי ומטופלת בובת הילד המקסימה שלה עם קטעי משחק בנושא קריירה! עם כיסא הבדיקה של רופא השיניים, ברבי יכולה לבדוק את שיני המטופל שלה עם אביזרי כלי השיניים. ברבי לובשת שמלה מודפסת עם חלוק המעבדה הלבן שלה עם googles רופא השיניים שלה היא מוכנה לוודא ששיני המטופל נהדרות! סט הבובות והאביזרים הוא צעצוע נהדר לילדים בגילאי 3 ומעלה, במיוחד לאלה שאוהבים לטפח ולטפל!
 - Image: https://parktoys.co.il/assets/product-enhanced-1784046568430-tuf72.webp
-
-### ברבי – בובת ברבי סגולה כחולה ואביזרים בהפתעה
-https://parktoys.co.il/product/brby-bvbt-brby-sgvlh-kchvlh-vabyzrym-bhptah-4jelzu
-- Price: 120.00 ILS
-- Availability: In stock
-- Description: ברבי Party Unboxed היא חוויית פתיחה מלאה בהפתעות! 10 הפתעות בתוך קופסה נוצצת כולל בובה זוהרת, אקססוריז מגניבים, אפקט שינוי צבע וחיית מחמד. כל פתיחה היא מסיבה!
-- Image: https://parktoys.co.il/assets/product-enhanced-1784035386444-syqdfl.webp
 
 ---
 
