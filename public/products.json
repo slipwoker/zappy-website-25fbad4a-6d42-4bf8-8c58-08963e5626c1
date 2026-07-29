@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-29T16:31:53.290Z",
+  "generated_at": "2026-07-29T16:38:33.433Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 356,
+  "count": 357,
   "products": [
+    {
+      "id": "2f2a3e50-5765-4043-8bef-1f3e6d15473d",
+      "slug": "lgv-nyngh-gv-rvbvt-krb-spyngytsv-shl-aryn-71839-d6xa7k",
+      "name": "לגו נינג'ה גו - רובוט קרב ספינג'יטסו של ארין 71839",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אוהדי נינג'ה בגילאי 7 ומעלה יכולים לגלם דמויות וסצנות מעונה 3 של תוכנית הטלוויזיה NINJAGO® עליית הדרקונים עם הצעצוע (71839) של רובוט קרב ספינג'יטסו של ארין מסדרת LEGO ®NINJAGO®. ערכת בנייה זו לילדים כוללת את הרובוט NINJAGO עם זרועות ורגליים מתכווננות, שאפשר להטות ולסובב לקבלת תנוחות שונות, פלג גוף עליון מסתובב, חזה נפתח שאפשר להושיב בתוכו מיני-דמות ו-2 אביזרי חרב גדולים.\nבנוסף, ילדים יכולים ליצור רובוט אולטימטיבי משלהם על ידי החלפת חלקי גוף של רובוט קרב ספינג'יטסו של ארין בחלקים מרובוטים הניתנים",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 139,
+      "sale_price": 99,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785342973547-aux74.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-nyngh-gv-rvbvt-krb-spyngytsv-shl-aryn-71839-d6xa7k",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-07-29T16:37:57.671Z"
+    },
     {
       "id": "0eef8bb3-fa8e-4411-a8c7-7a6cdccf801d",
       "slug": "lgv-nynggv-avpnva-hmyrvts-shl-kay-71838-lego-knq7o7",

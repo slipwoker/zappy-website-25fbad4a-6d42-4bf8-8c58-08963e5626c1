@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 356** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 357** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו נינג'ה גו - רובוט קרב ספינג'יטסו של ארין 71839
+https://parktoys.co.il/product/lgv-nyngh-gv-rvbvt-krb-spyngytsv-shl-aryn-71839-d6xa7k
+- Price: 99.00 ILS (sale, was 139.00 ILS)
+- Availability: In stock
+- Category: לגו-lego
+- Description: אוהדי נינג'ה בגילאי 7 ומעלה יכולים לגלם דמויות וסצנות מעונה 3 של תוכנית הטלוויזיה NINJAGO® עליית הדרקונים עם הצעצוע (71839) של רובוט קרב ספינג'יטסו של ארין מסדרת LEGO ®NINJAGO®. ערכת בנייה זו לילדים כוללת את הרובוט NINJAGO עם זרועות ורגליים מתכווננות, שאפשר להטות ולסובב לקבלת תנוחות שונות, פלג גוף עליון מסתובב, חזה נפתח שאפשר להושיב בתוכו מיני-דמות ו-2 אביזרי חרב גדולים. בנוסף, ילדים יכולים ליצור רובוט אולטימטיבי משלהם על ידי החלפת חלקי גוף של רובוט קרב ספינג'יטסו של ארין בחלקים מרובוטים הניתנים
+- Image: https://parktoys.co.il/assets/product-enhanced-1785342973547-aux74.webp
 
 ### לגו נינג'גו אופנוע המירוץ של קאי 71838 | Lego
 https://parktoys.co.il/product/lgv-nynggv-avpnva-hmyrvts-shl-kay-71838-lego-knq7o7
@@ -1656,14 +1664,6 @@ https://parktoys.co.il/product/skvvyshy-kp-yd-ankyt-nydv-iqis8d
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: סקווישי נעים וכיפי למגע
 - Image: https://parktoys.co.il/assets/product-1784129965313-ula2gt.webp
-
-### סקווישי המבורגר נידו ענקי
-https://parktoys.co.il/product/skvvyshy-hmbvrgr-nydv-anky-w15ekn
-- Price: 40.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: המבורגר נידו ענקי נעים וכיפי למגע
-- Image: https://parktoys.co.il/assets/product-1784129792962-ahsk1.webp
 
 ---
 
