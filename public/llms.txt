@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 347** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 348** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו סיטי מרדף על אופנוע משטרה 60455
+https://parktoys.co.il/product/lgv-syty-mrdp-al-avpnva-mshtrh-60455-sr0va4
+- Price: 59.00 ILS (sale, was 79.00 ILS)
+- Availability: In stock
+- Category: לגו-lego
+- Description: הנוכל המבוקש גנב את הכסף מהכספומט ונוא מנסה לברוח. קחו את אופנוע המשטרה וצאו למרדף מלא אקשן. האם תאתרו את הכסף הגנוב ותצילו את המצב? מרדפי מהירות מרגשים מצפים לכם בדגמים של LEGO® City!
+- Image: https://parktoys.co.il/assets/product-1785337185485-ula1ax.webp
 
 ###   פתיחת מדיה 2 במודל Lego לגו סיטי אמבולנס לשעת חירום 60451
 https://parktoys.co.il/product/ptycht-mdyh-2-bmvdl-lego-lgv-syty-ambvlns-lshat-chyrvm-60451-od3du1
@@ -1649,13 +1657,6 @@ https://parktoys.co.il/product/bvbt-brby-am-tvspvt-shyar-vabyzry-avpnh-dkq7b7
 - Availability: In stock
 - Description: הכירו את ברבי Fun & Fancy - בובה מהממת עם שיער ארוך במיוחד עם פסים צבעוניים, שמזמינה את הילדים לעולם של עיצוב, תסרוקות ומלא סטייל. הבובה מגיעה עם 10 אביזרי אופנה ועיצוב שיער כולל סיכת קשת עם תוספת שיער צבעונית, קשת אוזני חתול, גומיות, סיכות שיער ועוד.. ברבי לבושה בשמלה צבעונית עם הדפס חתולים עם סרטים גדולים, ומגיעה גם עם לוק שני נוצץ - שמלה מטאלית כסופה ונעלי עקב סגולות לשינוי מראה מהיר. עצבו תסרוקות מדליקות, קלעו צמות, הוסיפו תוספות שיער וצאו לדרך עם לוקים זוהרים בכל פעם מחדש! פתחו את הדמיון וצ
 - Image: https://parktoys.co.il/assets/product-enhanced-1784028184292-zsnuos.webp
-
-### ברבי רוכבת על סוס
-https://parktoys.co.il/product/brby-rvkbt-al-svs-piudox
-- Price: 100.00 ILS
-- Availability: In stock
-- Description: ברבי מגיעה לבושה בתלבושת רכיבה אופנתית הכולל ורוד בדוגמת מעוינים, מכנסיים, מגפיים וקסדת רכיבה נשלפת. הבובה מעוצבת במיוחד למשחקי רכיבה והרפתקאות. לברבי מפרקים גמישים במרפקים, בפרקי הידיים ובברכיים, המאפשרים תנועות מציאותיות יותר בזמן משחק ותנוחות שונות לרכיבה ולמשחק תפקידים. פרטים נוספים סגור Netflix בהשראת סדרת Malibu בובת ברבי תלבושת רכיבה הכוללת וסט, מכנסיים, מגפיים וקסדה נשלפת מפרקים גמישים במרפקים, בפרקי הידיים ובברכיים מתאימה למשחקי דמיון והרפתקאות בעולם הסוסים ניתן לשלב עם בובות ואב
-- Image: https://parktoys.co.il/assets/product-enhanced-1784027751990-k3h7s.webp
 
 ---
 
