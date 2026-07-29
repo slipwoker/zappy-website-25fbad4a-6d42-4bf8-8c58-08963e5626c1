@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 340** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 341** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו Marvel – קרב אייקוני: האלקבאסטר נגד הענק הירוק (76343)
+https://parktoys.co.il/product/lgv-marvel-krb-ayykvny-halkbastr-ngd-hank-hyrvk-76343-11gxw8
+- Price: 239.00 ILS (sale, was 299.00 ILS)
+- Availability: In stock
+- Category: לגו-lego
+- Description: הפיחו חיים באקשן מתוך הנוקמים: עידן אולטרון של אולפני מארוול עם סט הבנייה (76343) קרב אֶפִּי: האלקבאסטר נגד הענק הירוק מסדרת LEGO Marvel® לילדים וילדות בגילאי 9 ומעלה. סט הבנייה המדהים הזה הכולל מיני-דמויות של איירון מן והענק הירוק, פלוס שריון האלקבאסטר האייקוני שמציע לילדים אינסוף הזדמנויות למשחקי תפקידים דמיוניים ותצוגה יצירתית.
+- Image: https://parktoys.co.il/assets/product-enhanced-1785333261647-0mno4s.webp
 
 ### מצלמה מדפיסה לילדים -ורוד בלבד
 https://parktoys.co.il/product/mtslmh-mdpysh-lyldym-vrvd-blbd-8b0kfi
@@ -1640,13 +1648,6 @@ https://parktoys.co.il/product/brby-mabdh-2hcnzt
 - Availability: In stock
 - Description: ערכה מקורית של חברת ברבי בערכה מקבלים בובת ברבי שולחן ,כסא, מבחנות וציוד מעבדה כגון מבחנות בובה איכותית מגומי גמיש. ניתן להזיז את הידיים והרגליים. גודל הבובה כ-30 ס"מ.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784024324643-jax3y9.webp
-
-### דמות פעולה איירון מן 28 ס"מ עם ידיים ורגליים זזות ומתקן ריחוף מתחבר
-https://parktoys.co.il/product/dmvt-pavlh-ayyrvn-mn-28-sm-am-ydyym-vrglyym-zzvt-vmtkn-rychvp-mtchbr-5vp596
-- Price: 99.00 ILS
-- Availability: In stock
-- Description: דמות איירון מן מסרטי מארוול עם ראש, ידיים ורגליים זזות כולל ציוד רחיפה. דמות פעולה מדליקה של איירון מןר מסדרת הקומיקס של מארוול עם מתקן ריחוף מתחבר לגב בהתקנה מהירה וקלה. דמות משחק אידאלית למשחקי דמיון עשירים לילדים חובבי קומיקס של מארוול או לאספנים חובבים. גובה הדמות כ-28 ס"מ. מתאים מגילאי 4 ומעלה. מוצר בייבוא מקביל.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784024186417-skxl2.webp
 
 ---
 
