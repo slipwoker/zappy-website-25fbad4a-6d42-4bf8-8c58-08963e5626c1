@@ -76,7 +76,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 343** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 344** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415
+https://parktoys.co.il/product/lgv-syty-mrdp-mkvnyt-mshtrh-vmkvnyt-al-60415-0jgdf5
+- Price: 99.00 ILS (sale, was 149.00 ILS)
+- Availability: In stock
+- Category: לגו-lego
+- SKU: 5702017583679
+- Description: לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415 לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415 היכונו לכיף והתרגשות במהירות גבוהה עם ערכת משחק מכונית משטרה לילדים מגיל 6 ומעלה. ערכת 'מרדף מכונית משטרה ומכונית-על' (60415) מסדרת LEGO® City כוללת מיירט משטרתי מגניב ורכב מילוט, בתו
+- Image: https://parktoys.co.il/assets/product-1785335227865-pj3vpj.webp
 
 ###  לגו סוניק ציקלון נגד מטל סוניק 77002
 https://parktoys.co.il/product/lgv-svnyk-tsyklvn-ngd-mtl-svnyk-77002-hh5cwz
@@ -1643,13 +1652,6 @@ https://parktoys.co.il/product/mtbch-mpvar-avrvt-vtslylym-styts-stitch-9eiwl3
 - Availability: In stock
 - Description: הכניסו את הקסם של סטיץ' למטבח של הילדים! מטבח משחק מרהיב ומעוצב בהשראת הדמות האהובה מסרטי "לילו וסטיץ'", המעניק חוויית משחק אינטראקטיבית, עשירה ומלאת דמיון. מה בחבילה? עיצוב צבעוני ומדליק: המטבח מעוטר באיורים של סטיץ' ובצבעי התכלת והכחול המזוהים איתו. אפקטים של אורות וצלילים: להעצמת חוויית הבישול, המטבח כולל פונקציות קוליות ואורות המדמים עבודה במטבח אמיתי. אביזרים נלווים: הערכה כוללת מגוון כלי מטבח ואביזרים המאפשרים לילדים להתחיל "לבשל" מיד (כלי אוכל, סירים, אביזרי הגשה ועוד).
 - Image: https://parktoys.co.il/assets/product-enhanced-1784025475405-jgrxmf.webp
-
-###  עגלת בובה מיני מאוס 3 ב-1 דיסני
-https://parktoys.co.il/product/aglt-bvbh-myny-mavs-3-b-1-dysny-78mv8u
-- Price: 249.00 ILS (sale, was 299.00 ILS)
-- Availability: In stock
-- Description: עגלת בובה מיני מאוס 3 ב- 1 דיסני • עגלת בובה איכותית. • מנגנון בטיחות כפול למניעת התקפלות העגלה. • קלה לפתיחה/קיפול. • סל קל נשלף לנשיאת הבובה. מידות העגלה: רוחב: 36.5 ס"מ, גובה 58 ס"מ עומק 45 ס"מ. מידות אריזה רוחב 37 ס"מ, אורך 52 ס"מ, עומק 16 ס"מ. עודפים – פריט זה תקין באריזה פגומה. התמונה להמחשה בלבד, עשויה להציג מוצרי השלמה שאינם מגיעים במוצר הבסיס.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784024842765-uhwnt.webp
 
 ---
 
