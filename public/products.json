@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-29T13:57:28.309Z",
+  "generated_at": "2026-07-29T14:02:28.255Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 341,
+  "count": 342,
   "products": [
+    {
+      "id": "6789f7ba-49d5-4886-9a02-f1eaa5522a63",
+      "slug": "lgv-sonic-the-hedgehog-krb-bmdvrh-shl-svnyk-77001-zc2e83",
+      "name": "לגו ™Sonic the Hedgehog – קרב במדורה של סוניק (77001)",
+      "name_translations": {},
+      "description": "",
+      "short_description": "עימות במדורה של LEGO Sonic the Hedgehog 77001 Sonic\nסט הבנייה ™LEGO® Sonic the Hedgehog מציע הרפתקה מרגשת לילדים מגיל 7 ומעלה. עם דמויות אייקוניות, משגר מהירות ואביזרי משחק ייחודיים. הילדים ייהנו משעות של יצירה, משחק ואקשן. ניתן לשלב עם סטים נוספים ולהעצים את הכיף!\nערכת בנייה זו כוללת מבנה מדורה, משגר כדור מהירות וכדור מהירות, לצד אביזרים כמו Chaos Emerald ושלוש טבעות זהב.\nהסט מכיל גם 4 דמויות מסוניק: מיני דמות של סוניק, רחפן רובוט מעופף מסוג G.U.N. Beetle, דמות רובוט מתכווננת מסוג G.U.N. Hunter",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 149,
+      "sale_price": 99,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785333672454-qcgbl7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-sonic-the-hedgehog-krb-bmdvrh-shl-svnyk-77001-zc2e83",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-07-29T14:01:53.882Z"
+    },
     {
       "id": "2835d017-6aa8-4897-8140-5e5285a398b8",
       "slug": "lgv-marvel-krb-ayykvny-halkbastr-ngd-hank-hyrvk-76343-11gxw8",
