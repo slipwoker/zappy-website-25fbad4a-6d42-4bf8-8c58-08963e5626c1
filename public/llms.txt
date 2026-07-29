@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 346** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 347** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+###   פתיחת מדיה 2 במודל Lego לגו סיטי אמבולנס לשעת חירום 60451
+https://parktoys.co.il/product/ptycht-mdyh-2-bmvdl-lego-lgv-syty-ambvlns-lshat-chyrvm-60451-od3du1
+- Price: 99.00 ILS (sale, was 149.00 ILS)
+- Availability: In stock
+- Category: לגו-lego
+- Description: אה-הו! גולשת הסקייטבורד שנפלה זקוקה לעזרה. הצטרפו לחובש וצאו להצלה. קפלו את לוחות הצד ופתחו את הדלתות האחוריות כדי לגשת לאלונקה ולציוד הרפואי. הרפתקאות הצלה מרגשות מחכות ב-LEGO® City!
+- Image: https://parktoys.co.il/assets/product-1785336915751-padvc7.webp
 
 ###  Lego לגו סיטי משאית רכב שטח 60447
 https://parktoys.co.il/product/lego-lgv-syty-mshayt-rkb-shtch-60447-dy0hej
@@ -1648,13 +1656,6 @@ https://parktoys.co.il/product/brby-rvkbt-al-svs-piudox
 - Availability: In stock
 - Description: ברבי מגיעה לבושה בתלבושת רכיבה אופנתית הכולל ורוד בדוגמת מעוינים, מכנסיים, מגפיים וקסדת רכיבה נשלפת. הבובה מעוצבת במיוחד למשחקי רכיבה והרפתקאות. לברבי מפרקים גמישים במרפקים, בפרקי הידיים ובברכיים, המאפשרים תנועות מציאותיות יותר בזמן משחק ותנוחות שונות לרכיבה ולמשחק תפקידים. פרטים נוספים סגור Netflix בהשראת סדרת Malibu בובת ברבי תלבושת רכיבה הכוללת וסט, מכנסיים, מגפיים וקסדה נשלפת מפרקים גמישים במרפקים, בפרקי הידיים ובברכיים מתאימה למשחקי דמיון והרפתקאות בעולם הסוסים ניתן לשלב עם בובות ואב
 - Image: https://parktoys.co.il/assets/product-enhanced-1784027751990-k3h7s.webp
-
-### מסוק שלט 3.5ch gyro HST 
-https://parktoys.co.il/product/msvk-shlt-35ch-gyro-hst-twzemm
-- Price: 130.00 ILS
-- Availability: In stock
-- Description: מסוק שלט 3.5 ערוצי טיסה. כולל מייצב מובנה gyrosope לטיסה יציבה. שלדת המסוק חזקה ועמידה במיוחד. מדליק אורות בעת הטיסה. כולל סוללה פנימית נטענת ומטען USB מהיר.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784026741158-ymv1oj.webp
 
 ---
 

@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-29T14:52:29.598Z",
+  "generated_at": "2026-07-29T14:56:09.763Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 346,
+  "count": 347,
   "products": [
+    {
+      "id": "ac4f3e46-832c-446f-a304-9bd55e522394",
+      "slug": "ptycht-mdyh-2-bmvdl-lego-lgv-syty-ambvlns-lshat-chyrvm-60451-od3du1",
+      "name": "  פתיחת מדיה 2 במודל Lego לגו סיטי אמבולנס לשעת חירום 60451",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אה-הו! גולשת הסקייטבורד שנפלה זקוקה לעזרה. הצטרפו לחובש וצאו להצלה. קפלו את לוחות הצד ופתחו את הדלתות האחוריות כדי לגשת לאלונקה ולציוד הרפואי. הרפתקאות הצלה מרגשות מחכות ב-LEGO® City!",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 149,
+      "sale_price": 99,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785336915751-padvc7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/ptycht-mdyh-2-bmvdl-lego-lgv-syty-ambvlns-lshat-chyrvm-60451-od3du1",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-07-29T14:55:33.923Z"
+    },
     {
       "id": "9ba0cf8b-2587-4cfe-b6bf-820d4364e37b",
       "slug": "lego-lgv-syty-mshayt-rkb-shtch-60447-dy0hej",
