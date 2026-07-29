@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 349** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 350** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו סיטי מטוס אמבולנס חירום אווירי 60465
+https://parktoys.co.il/product/lgv-syty-mtvs-ambvlns-chyrvm-avvyry-60465-l4reta
+- Price: 239.00 ILS (sale, was 299.00 ILS)
+- Availability: In stock
+- Category: לגו-lego
+- Description: הניחו לדמיונם של ילדים להמריא עם ערכת המשחקים (60465) של מטוס אמבולנס אווירי למקרי חירום מסדרת LEGO City® לילדים בגילאי 6 ומעלה. מטוס דו-מנועי זה השופע בפרטים מגניבים לחובבי דגמי מטוסים, כולל מדרגות עליה למטוס מתקפלות ומעבדה רפואית במטוס. הערכה כוללת גם אופנוע שלג וסצנה בשדה תעופה קטן עם שרוול רוח צעצוע, פלוס אביזרי צעצוע של עזרה ראשונה ומיני-דמויות של טייס, רופא, פרמדיק וגולש סקי למשחק במשימות חילוץ מלאות אקשן. מטוס הצעצוע של LEGO City כולל הוראות דיגיטליות ביישום LEGO Builder. כאן, ילדים יכולי
+- Image: https://parktoys.co.il/assets/product-1785338666973-um8yzn.webp
 
 ### לגו סיטי מרדף על סירת משטרה 60456
 https://parktoys.co.il/product/lgv-syty-mrdp-al-syrt-mshtrh-60456-k21564
@@ -1651,13 +1659,6 @@ https://parktoys.co.il/product/brby-bvbt-brby-sgvlh-kchvlh-vabyzrym-bhptah-4jelz
 - Availability: In stock
 - Description: ברבי Party Unboxed היא חוויית פתיחה מלאה בהפתעות! 10 הפתעות בתוך קופסה נוצצת כולל בובה זוהרת, אקססוריז מגניבים, אפקט שינוי צבע וחיית מחמד. כל פתיחה היא מסיבה!
 - Image: https://parktoys.co.il/assets/product-enhanced-1784035386444-syqdfl.webp
-
-### ברבי ביביסיטר
-https://parktoys.co.il/product/brby-bybysytr-py8rp9
-- Price: 120.00 ILS
-- Availability: In stock
-- Description: תהנו מרגעי בייביסיטר קלאסיים עם ערכת המשחקים של Barbie Skipper Babysitters Inc. הבובה הפעוטה מוכנה להתכרבל למיטתה לבושה בפיג'מה עם הדפס כוכב וקשת זוהר בחושך. המיטה הצבעונית מעוצבת עם שערים לפעוטות וכוכבים ורודים ומגיעה עם שמיכה מודפסת יפה. חתול לבן ישן הופך לחבר המושלם לפני השינה. יש גם דובי וספר סיפורים כדי להבטיח חלומות מתוקים.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784031616528-96c7ls.webp
 
 ---
 
