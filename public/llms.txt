@@ -76,7 +76,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 344** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 345** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+###  לגו סיטי תחנת עצירה וצוות תיקונים 60443
+https://parktoys.co.il/product/lgv-syty-tchnt-atsyrh-vtsvvt-tykvnym-60443-w7148s
+- Price: 149.00 ILS (sale, was 199.00 ILS)
+- Availability: In stock
+- Category: לגו-lego
+- SKU:  200-128432
+- Description: התכוננו לאקשן במהירות גבוהה בתחנת עצירה של F1® Ferrari! הזעיקו את צוות התיקונים והציעו לנהג ה-Ferrari לבצע שירות במהירות הבזק. בדקו את המנוע, החליפו צמיגים, ולאחר מכן, שגרו עצמכם מהתחנה וחזרו למרוץ להקפה שוברת שיאים
+- Image: https://parktoys.co.il/assets/product-1785335744937-hjuw1f.webp
 
 ### לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415
 https://parktoys.co.il/product/lgv-syty-mrdp-mkvnyt-mshtrh-vmkvnyt-al-60415-0jgdf5
@@ -1645,13 +1654,6 @@ https://parktoys.co.il/product/mtbch-ank-byt-hbvbvt-shl-gby-gabbys-dollhouse-rmr
 - Availability: In stock
 - Description: הכניסו את הקסם של הסדרה האהובה "בית הבובות של גבי" היישר אל חדר המשחקים! המטבח הענק של גבי הוא המתנה המושלמת לילדים וילדות שאוהבים לבשל, לאפות וליצור הרפתקאות דמיוניות יחד עם הדמויות המוכרות.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784025817546-vog8h.webp
-
-### מטבח מפואר אורות וצלילים – סטיץ' (Stitch)
-https://parktoys.co.il/product/mtbch-mpvar-avrvt-vtslylym-styts-stitch-9eiwl3
-- Price: 249.00 ILS (sale, was 300.00 ILS)
-- Availability: In stock
-- Description: הכניסו את הקסם של סטיץ' למטבח של הילדים! מטבח משחק מרהיב ומעוצב בהשראת הדמות האהובה מסרטי "לילו וסטיץ'", המעניק חוויית משחק אינטראקטיבית, עשירה ומלאת דמיון. מה בחבילה? עיצוב צבעוני ומדליק: המטבח מעוטר באיורים של סטיץ' ובצבעי התכלת והכחול המזוהים איתו. אפקטים של אורות וצלילים: להעצמת חוויית הבישול, המטבח כולל פונקציות קוליות ואורות המדמים עבודה במטבח אמיתי. אביזרים נלווים: הערכה כוללת מגוון כלי מטבח ואביזרים המאפשרים לילדים להתחיל "לבשל" מיד (כלי אוכל, סירים, אביזרי הגשה ועוד).
-- Image: https://parktoys.co.il/assets/product-enhanced-1784025475405-jgrxmf.webp
 
 ---
 
