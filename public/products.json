@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-29T15:04:15.038Z",
+  "generated_at": "2026-07-29T15:11:15.174Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 348,
+  "count": 349,
   "products": [
+    {
+      "id": "188f8a9d-a21e-4dd3-ad00-739b1ce7993e",
+      "slug": "lgv-syty-mrdp-al-syrt-mshtrh-60456-k21564",
+      "name": "לגו סיטי מרדף על סירת משטרה 60456",
+      "name_translations": {},
+      "description": "",
+      "short_description": "נוכל ערמומי שט במהירות בסירת הדוגית ומתרחק מהנמל של LEGO® City כשהוא גורר אחריו אבן אודם גנובה. הצטרפו לפעולת השוטרים על סיפון סירת המשטרה!",
+      "sku": null,
+      "brand": null,
+      "price": 149,
+      "base_price": 199,
+      "sale_price": 149,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785337766606-aaxipa.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-syty-mrdp-al-syrt-mshtrh-60456-k21564",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-07-29T15:10:37.067Z"
+    },
     {
       "id": "68926e74-80e5-4838-b4bd-14d40b7a9337",
       "slug": "lgv-syty-mrdp-al-avpnva-mshtrh-60455-sr0va4",

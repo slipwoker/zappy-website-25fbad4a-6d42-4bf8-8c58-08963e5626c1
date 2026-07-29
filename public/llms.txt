@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 348** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 349** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו סיטי מרדף על סירת משטרה 60456
+https://parktoys.co.il/product/lgv-syty-mrdp-al-syrt-mshtrh-60456-k21564
+- Price: 149.00 ILS (sale, was 199.00 ILS)
+- Availability: In stock
+- Category: לגו-lego
+- Description: נוכל ערמומי שט במהירות בסירת הדוגית ומתרחק מהנמל של LEGO® City כשהוא גורר אחריו אבן אודם גנובה. הצטרפו לפעולת השוטרים על סיפון סירת המשטרה!
+- Image: https://parktoys.co.il/assets/product-enhanced-1785337766606-aaxipa.webp
 
 ### לגו סיטי מרדף על אופנוע משטרה 60455
 https://parktoys.co.il/product/lgv-syty-mrdp-al-avpnva-mshtrh-60455-sr0va4
@@ -1650,13 +1658,6 @@ https://parktoys.co.il/product/brby-bybysytr-py8rp9
 - Availability: In stock
 - Description: תהנו מרגעי בייביסיטר קלאסיים עם ערכת המשחקים של Barbie Skipper Babysitters Inc. הבובה הפעוטה מוכנה להתכרבל למיטתה לבושה בפיג'מה עם הדפס כוכב וקשת זוהר בחושך. המיטה הצבעונית מעוצבת עם שערים לפעוטות וכוכבים ורודים ומגיעה עם שמיכה מודפסת יפה. חתול לבן ישן הופך לחבר המושלם לפני השינה. יש גם דובי וספר סיפורים כדי להבטיח חלומות מתוקים.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784031616528-96c7ls.webp
-
-### בובת ברבי עם תוספות שיער ואביזרי אופנה 
-https://parktoys.co.il/product/bvbt-brby-am-tvspvt-shyar-vabyzry-avpnh-dkq7b7
-- Price: 120.00 ILS
-- Availability: In stock
-- Description: הכירו את ברבי Fun & Fancy - בובה מהממת עם שיער ארוך במיוחד עם פסים צבעוניים, שמזמינה את הילדים לעולם של עיצוב, תסרוקות ומלא סטייל. הבובה מגיעה עם 10 אביזרי אופנה ועיצוב שיער כולל סיכת קשת עם תוספת שיער צבעונית, קשת אוזני חתול, גומיות, סיכות שיער ועוד.. ברבי לבושה בשמלה צבעונית עם הדפס חתולים עם סרטים גדולים, ומגיעה גם עם לוק שני נוצץ - שמלה מטאלית כסופה ונעלי עקב סגולות לשינוי מראה מהיר. עצבו תסרוקות מדליקות, קלעו צמות, הוסיפו תוספות שיער וצאו לדרך עם לוקים זוהרים בכל פעם מחדש! פתחו את הדמיון וצ
-- Image: https://parktoys.co.il/assets/product-enhanced-1784028184292-zsnuos.webp
 
 ---
 
