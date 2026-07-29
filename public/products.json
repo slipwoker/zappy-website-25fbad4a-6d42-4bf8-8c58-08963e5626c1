@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-29T14:02:28.255Z",
+  "generated_at": "2026-07-29T14:17:33.567Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 342,
+  "count": 343,
   "products": [
+    {
+      "id": "2c759386-0be9-493d-9d2c-9904feef0d83",
+      "slug": "lgv-svnyk-tsyklvn-ngd-mtl-svnyk-77002-hh5cwz",
+      "name": " לגו סוניק ציקלון נגד מטל סוניק 77002",
+      "name_translations": {},
+      "description": "",
+      "short_description": "עזרו לטיילס לשמור על הציקלון שלו מוכן לפעולה. שימו לב, מטאל סוניק מגיע כדי לתפוס את טיילס! קפצו לתא המפעיל של הציקלון עם טיילס ובחרו את המצב שבו תרצו להתחיל: על הקרקע או באוויר. למטאל סוניק יש יתרון מובהק של מהירות והוא מתכוון לתפוס את הציקלון. הגיע הזמן להחליף מצבים ולהביס אותו אחת ולתמיד!",
+      "sku": null,
+      "brand": null,
+      "price": 159,
+      "base_price": 199,
+      "sale_price": 159,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785334593945-eptb0i.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-svnyk-tsyklvn-ngd-mtl-svnyk-77002-hh5cwz",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-07-29T14:16:59.789Z"
+    },
     {
       "id": "6789f7ba-49d5-4886-9a02-f1eaa5522a63",
       "slug": "lgv-sonic-the-hedgehog-krb-bmdvrh-shl-svnyk-77001-zc2e83",

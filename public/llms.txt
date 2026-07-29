@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 342** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 343** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+###  לגו סוניק ציקלון נגד מטל סוניק 77002
+https://parktoys.co.il/product/lgv-svnyk-tsyklvn-ngd-mtl-svnyk-77002-hh5cwz
+- Price: 159.00 ILS (sale, was 199.00 ILS)
+- Availability: In stock
+- Category: לגו-lego
+- Description: עזרו לטיילס לשמור על הציקלון שלו מוכן לפעולה. שימו לב, מטאל סוניק מגיע כדי לתפוס את טיילס! קפצו לתא המפעיל של הציקלון עם טיילס ובחרו את המצב שבו תרצו להתחיל: על הקרקע או באוויר. למטאל סוניק יש יתרון מובהק של מהירות והוא מתכוון לתפוס את הציקלון. הגיע הזמן להחליף מצבים ולהביס אותו אחת ולתמיד!
+- Image: https://parktoys.co.il/assets/product-enhanced-1785334593945-eptb0i.webp
 
 ### לגו ™Sonic the Hedgehog – קרב במדורה של סוניק (77001)
 https://parktoys.co.il/product/lgv-sonic-the-hedgehog-krb-bmdvrh-shl-svnyk-77001-zc2e83
@@ -1642,13 +1650,6 @@ https://parktoys.co.il/product/aglt-bvbh-myny-mavs-3-b-1-dysny-78mv8u
 - Availability: In stock
 - Description: עגלת בובה מיני מאוס 3 ב- 1 דיסני • עגלת בובה איכותית. • מנגנון בטיחות כפול למניעת התקפלות העגלה. • קלה לפתיחה/קיפול. • סל קל נשלף לנשיאת הבובה. מידות העגלה: רוחב: 36.5 ס"מ, גובה 58 ס"מ עומק 45 ס"מ. מידות אריזה רוחב 37 ס"מ, אורך 52 ס"מ, עומק 16 ס"מ. עודפים – פריט זה תקין באריזה פגומה. התמונה להמחשה בלבד, עשויה להציג מוצרי השלמה שאינם מגיעים במוצר הבסיס.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784024842765-uhwnt.webp
-
-### מכונית שלט משתוללת סטאנט אורות וצלילים כולל טעינה HST
-https://parktoys.co.il/product/mkvnyt-shlt-mshtvllt-stant-avrvt-vtslylym-kvll-taynh-hst-0y5r5m
-- Price: 50.00 ILS
-- Availability: In stock
-- Description: מכונית שלט משתוללת בעלת יכולת לבצע תרגילים כמו סיבובים, קפיצים, ומהירות גבוהה, עם אורות שמדמים אפקטים של סטאנט וצלילים שמתאימים לאופי הביצועים שלה. בנוסף, המכונית כוללת אפשרות לטעינה חוזרת, מה שמאפשר להמשיך לשחק איתה מבלי להחליף סוללות. כולל USB.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784024627020-xm5p70g.webp
 
 ---
 
