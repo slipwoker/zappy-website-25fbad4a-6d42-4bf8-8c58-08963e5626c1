@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 352** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 353** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו NINJAGO מכונית המירוץ של קאי 71780
+https://parktoys.co.il/product/lgv-ninjago-mkvnyt-hmyrvts-shl-kay-71780-osjyck
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: בואו לשנות את מכונית מרוץ נינג‘ה של קאי למכונית מגניבה וצאו להרפתקאות מהירות ומרתקות בעיר נינג'ה-גו‎! שבו בתא הנהג וסעו ברכב שטח עם גלגלי ענק וספוילר-כנף בצבע זהב. עיצרו את המכונית, החליפו גלגלים ושדרגו למכונית מרוצי כבישים מהירה! תוכלו לעזור לקאי להגיע לשיא המהירות ולנצח? גילאי: 6+ / מידות: 14.1X19.1X4.6 ס"מ / ארץ ייצור: צ'כיה / מס' חלקים: 94
+- Image: https://parktoys.co.il/assets/product-enhanced-1785340244109-2re9kr.webp
 
 ### מטוס סילון נגד מכונית LEGO City 60489
 https://parktoys.co.il/product/mtvs-sylvn-ngd-mkvnyt-lego-city-60489-2h96c1
@@ -1654,13 +1662,6 @@ https://parktoys.co.il/product/arkt-mshchk-tchnt-kybvy-ash-vchylvts-mprts-hhrptk
 - Availability: In stock
 - Description: הקפיצו את צוות הכבאים למשימה נועזת! ערכת משחק רשמית מבית Spin Master המציגה את תחנת כיבוי האש והחילוץ האייקונית של מרשל מתוך “מפרץ ההרפתקאות”, בדיוק כפי שהיא מופיעה הסט כולל את מבנה המפקדה האינטראקטיבי עם דלתות מוסך נפתחות, כבאית חילוץ עם סולם מתכוונן ותותח מים, דמות של מרשל הכבאי ואביזרי להבות משחק.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784047237257-ara04l.webp
-
-### האצ’ימלס גדול – פאפיקורן מבית האצ’ימלס Hatchimals - Pufficorn
-https://parktoys.co.il/product/hatsymls-gdvl-papykvrn-mbyt-hatsymls-hatchimals-pufficorn-knherz
-- Price: 200.00 ILS
-- Availability: In stock
-- Description: הילדים יוכלו לשחק ולראות את המפלצת החמודה שלהם, הפאפיקורן, מתפתחת מביצה לחיה מלאת חיים. הראו לה חום ואהבה ולאחר זמן מה הפאפיקורן תבקע מן הביצה. למעלה ממאה תגובות שונות, סאונדים ותנועות. חוויה ייחודית שמזמינה את הילדים ללמוד על קשר ואחריות תוך כיף והתרגשות. הביצה הגדולה מעניקה הפתעה מסתורית ומלהיבה – איזו פאפיקורן תקבלו?
-- Image: https://parktoys.co.il/assets/product-enhanced-1784046365562-449dl.webp
 
 ---
 
