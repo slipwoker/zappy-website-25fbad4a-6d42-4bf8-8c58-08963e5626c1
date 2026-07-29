@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 351** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 352** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מטוס סילון נגד מכונית LEGO City 60489
+https://parktoys.co.il/product/mtvs-sylvn-ngd-mkvnyt-lego-city-60489-2h96c1
+- Price: 189.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: סט המשחק הכפול עם צעצועי כלי הרכב (60489) של מטוס סילון נגד מכונית מסדרת LEGO® City כולל מכונית-על אלגנטית ומטוס סילון על-קולי לחוויית דמיונית של מרוץ כיפי. מטוס הצעצוע כולל כנפיים משוכות לאחור, זוג סנפירים אנכיים ומייצבים. ילדים יכולים להזיז ידית כדי להפעיל את צינורות המבערים של הסילון ולפתוח את תא הנהג של מכונית-העל לקבלת גישה לחלל הפנים המפורט, הכולל מושב מרוץ. פשוט הוסיפו את המיני-דמויות של הטייס ונהג המרוצים לשעות משחק רבות של אקשן מרוץ אפי.
+- Image: https://parktoys.co.il/assets/product-1785339728523-496qup.webp
 
 ### לגו סיטי – רכב משטרתי להובלת אסירים 60479
 https://parktoys.co.il/product/lgv-syty-rkb-mshtrty-lhvblt-asyrym-60479-4n8oqy
@@ -1653,13 +1661,6 @@ https://parktoys.co.il/product/hatsymls-gdvl-papykvrn-mbyt-hatsymls-hatchimals-p
 - Availability: In stock
 - Description: הילדים יוכלו לשחק ולראות את המפלצת החמודה שלהם, הפאפיקורן, מתפתחת מביצה לחיה מלאת חיים. הראו לה חום ואהבה ולאחר זמן מה הפאפיקורן תבקע מן הביצה. למעלה ממאה תגובות שונות, סאונדים ותנועות. חוויה ייחודית שמזמינה את הילדים ללמוד על קשר ואחריות תוך כיף והתרגשות. הביצה הגדולה מעניקה הפתעה מסתורית ומלהיבה – איזו פאפיקורן תקבלו?
 - Image: https://parktoys.co.il/assets/product-enhanced-1784046365562-449dl.webp
-
-### ברבי מארז קריירה רופאת שיניים
-https://parktoys.co.il/product/brby-marz-kryyrh-rvpat-shynyym-89ynic
-- Price: 120.00 ILS
-- Availability: In stock
-- Description: אתם יכולים להיות רופאי שיניים עם סט רופא השיניים של ברבי! סט זה כולל ברבי ומטופלת בובת הילד המקסימה שלה עם קטעי משחק בנושא קריירה! עם כיסא הבדיקה של רופא השיניים, ברבי יכולה לבדוק את שיני המטופל שלה עם אביזרי כלי השיניים. ברבי לובשת שמלה מודפסת עם חלוק המעבדה הלבן שלה עם googles רופא השיניים שלה היא מוכנה לוודא ששיני המטופל נהדרות! סט הבובות והאביזרים הוא צעצוע נהדר לילדים בגילאי 3 ומעלה, במיוחד לאלה שאוהבים לטפח ולטפל!
-- Image: https://parktoys.co.il/assets/product-enhanced-1784046568430-tuf72.webp
 
 ---
 
