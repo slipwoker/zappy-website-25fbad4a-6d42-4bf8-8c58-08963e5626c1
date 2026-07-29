@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 353** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 354** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו נינגגו רובוט יסודות האש של קאי 71808
+https://parktoys.co.il/product/lgv-nynggv-rvbvt-ysvdvt-hash-shl-kay-71808-w5ogv3
+- Price: 149.00 ILS (sale, was 199.00 ILS)
+- Availability: In stock
+- Category: לגו-lego
+- Description: לדים בגיל 7+ יכולים לשחזר סיפורים מעונה 2 של ‘עליית הדרקונים’ של NINJAGO עם דגם הנינג’ה ׳רובוט יסודות האש של קאי׳ (71808). לרובוט הצעצוע יש ידיים ורגליים מתכווננות הניתנות להטיה וסיבוב לעמדות קרב דרמטיות, תא טייסים למיני-דמויות של נינג’ה ואביזר של חרב מוזהבת גדולה לקרבות משחקי תפקידים נגד רובוט הזאב. הרובוט הניתן להתאמה אישית הזה מאפשר גם לילדים להרכיב רובוט משלהם! ניתן לשלב את הרגליים, הזרועות ופלג הגוף העליון הניתנים להסרה שלו עם חלקים משני רובוטים אחרים: ׳רובוט יסודות האדמה של קול (71806) וע
+- Image: https://parktoys.co.il/assets/product-enhanced-1785340691633-silteg.webp
 
 ### לגו NINJAGO מכונית המירוץ של קאי 71780
 https://parktoys.co.il/product/lgv-ninjago-mkvnyt-hmyrvts-shl-kay-71780-osjyck
@@ -1655,13 +1663,6 @@ https://parktoys.co.il/product/mprts-hhrptkavt-arkt-mshchk-rkb-htslh-mwxbkm
 - Availability: In stock
 - Description: צאו למשימות חילוץ מרגשות ומלאות אקשן עם רכב ההצלה של צוות מפרץ ההרפתקאות! הסט כולל את הדמות של ריידר, הטרקטורון שלו ורכב הצלה הכולל דלתות משתנות, משגר כפול ואפקטים קוליים מרתקים לחוויה סוחפת. לגיל 3 ומעלה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784047633166-plg12s.webp
-
-### ערכת משחק תחנת כיבוי אש וחילוץ מפרץ ההרפתקאות – סט תחנה אינטראקטיבית, כבאית ואביזרים Paw Patrol
-https://parktoys.co.il/product/arkt-mshchk-tchnt-kybvy-ash-vchylvts-mprts-hhrptkavt-st-tchnh-ayntraktybyt-kbayt-vabyzrym-paw-patrol-cnfi4l
-- Price: 400.00 ILS
-- Availability: In stock
-- Description: הקפיצו את צוות הכבאים למשימה נועזת! ערכת משחק רשמית מבית Spin Master המציגה את תחנת כיבוי האש והחילוץ האייקונית של מרשל מתוך “מפרץ ההרפתקאות”, בדיוק כפי שהיא מופיעה הסט כולל את מבנה המפקדה האינטראקטיבי עם דלתות מוסך נפתחות, כבאית חילוץ עם סולם מתכוונן ותותח מים, דמות של מרשל הכבאי ואביזרי להבות משחק.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784047237257-ara04l.webp
 
 ---
 

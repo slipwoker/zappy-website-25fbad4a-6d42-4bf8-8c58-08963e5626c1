@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-29T15:52:12.111Z",
+  "generated_at": "2026-07-29T16:01:32.367Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 353,
+  "count": 354,
   "products": [
+    {
+      "id": "3289dd61-69a1-403c-bee4-e2c3db9a9310",
+      "slug": "lgv-nynggv-rvbvt-ysvdvt-hash-shl-kay-71808-w5ogv3",
+      "name": "לגו נינגגו רובוט יסודות האש של קאי 71808",
+      "name_translations": {},
+      "description": "",
+      "short_description": "לדים בגיל 7+ יכולים לשחזר סיפורים מעונה 2 של ‘עליית הדרקונים’ של NINJAGO עם דגם הנינג’ה ׳רובוט יסודות האש של קאי׳ (71808). לרובוט הצעצוע יש ידיים ורגליים מתכווננות הניתנות להטיה וסיבוב לעמדות קרב דרמטיות, תא טייסים למיני-דמויות של נינג’ה ואביזר של חרב מוזהבת גדולה לקרבות משחקי תפקידים נגד רובוט הזאב.\n\nהרובוט הניתן להתאמה אישית הזה מאפשר גם לילדים להרכיב רובוט משלהם! ניתן לשלב את הרגליים, הזרועות ופלג הגוף העליון הניתנים להסרה שלו עם חלקים משני רובוטים אחרים: ׳רובוט יסודות האדמה של קול (71806) וע",
+      "sku": null,
+      "brand": null,
+      "price": 149,
+      "base_price": 199,
+      "sale_price": 149,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785340691633-silteg.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-nynggv-rvbvt-ysvdvt-hash-shl-kay-71808-w5ogv3",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-07-29T16:00:56.497Z"
+    },
     {
       "id": "8abb805d-5559-4d7e-83a6-e7d365c9b289",
       "slug": "lgv-ninjago-mkvnyt-hmyrvts-shl-kay-71780-osjyck",
