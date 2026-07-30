@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 357** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 358** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו נינג'ה-גו - מארז קרב רובוט הדרקון של קאי 71851 | Lego
+https://parktoys.co.il/product/lgv-nyngh-gv-marz-krb-rvbvt-hdrkvn-shl-kay-71851-lego-wqko4b
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: בנים, בנות ומעריצי סדרת הטלוויזיה NINJAGO Dragons Rising מגיל 6 ומעלה יכולים ליהנות משעות של משחק דמיוני עם ערכת הבנייה LEGO NINJAGO חבילת קרב מכונת הדרקון של קאי (71851). ערכת המשחק כוללת מכונת דרקון עם רגליים ניתנות להזזה, כנפיים גדולות, ידיים עם טפרים וחלק גוף עליון שמסתובב 360 מעלות, וכן תא טייס להצבת מיניפיגור בפנים. ערכת נינג’ה משתלמת זו כוללת גם 3 מיניפיגור: קאי עם 2 אביזרי חרב, סורה עם 2 חרבות ומפלצת אדמה עם ידיים טפריות, ומאפשרת לילדים ליהנות משעות של הרפתקאות תוך שחזור סצנות מעונה 4 של…
+- Image: https://parktoys.co.il/assets/product-1785428962661-t8s6nk.webp
 
 ### לגו נינג'ה גו - רובוט קרב ספינג'יטסו של ארין 71839
 https://parktoys.co.il/product/lgv-nyngh-gv-rvbvt-krb-spyngytsv-shl-aryn-71839-d6xa7k
@@ -1656,14 +1664,6 @@ https://parktoys.co.il/product/skvvyshy-abtych-nydv-ank-5ba388
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: סקווישי ענק כיפי ונעים למגע
 - Image: https://parktoys.co.il/assets/product-enhanced-1784130216964-4foetra.webp
-
-### סקווישי כף יד ענקית נידו
-https://parktoys.co.il/product/skvvyshy-kp-yd-ankyt-nydv-iqis8d
-- Price: 40.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: סקווישי נעים וכיפי למגע
-- Image: https://parktoys.co.il/assets/product-1784129965313-ula2gt.webp
 
 ---
 
