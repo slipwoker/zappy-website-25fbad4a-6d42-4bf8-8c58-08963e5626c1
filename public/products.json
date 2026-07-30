@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-30T16:38:30.056Z",
+  "generated_at": "2026-07-30T16:41:14.812Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 360,
+  "count": 361,
   "products": [
+    {
+      "id": "2eccf655-3b70-4021-99f6-1c8ba278b75d",
+      "slug": "lgv-marvel-krb-ayykvny-spyydrmn-ngd-aysh-hchvl-76334-zzpx76",
+      "name": "לגו Marvel – קרב אייקוני: ספיידרמן נגד איש החול (76334)",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הסתערו לתוך האקשן עם הרפתקה הניתנת לבנייה היישר מתוך הסרט “ספיידרמן “3 של אולפני מארוול! כשאיש החול מתרומם מעל ההריסות, ספיידרמן מגיח על חבל רשת כדי להפיל אותו. אבל חכו – גם ונום נמצא כאן, עם זרועות התמנון המפחידות שלו שמוכנות למתקפה! ומה קורה אחר כך? אתם יכולים להעמיד את הדגם שופע האקשן לתצוגה בחדר שלכם או לפרק את המיני-דמויות עבור הרפתקאות גיבורי-על משלכם.",
+      "sku": null,
+      "brand": null,
+      "price": 169,
+      "base_price": 169,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785429574382-xe5rk9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-marvel-krb-ayykvny-spyydrmn-ngd-aysh-hchvl-76334-zzpx76",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-07-30T16:40:41.441Z"
+    },
     {
       "id": "32a2f128-c65c-4d07-8a25-2b3de851dc15",
       "slug": "lgv-nyngh-gv-chgygvt-15-shnh-lrkb-x-1-hnyngh-hmstar-71867-fbcy6g",

@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 360** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 361** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו Marvel – קרב אייקוני: ספיידרמן נגד איש החול (76334)
+https://parktoys.co.il/product/lgv-marvel-krb-ayykvny-spyydrmn-ngd-aysh-hchvl-76334-zzpx76
+- Price: 169.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: הסתערו לתוך האקשן עם הרפתקה הניתנת לבנייה היישר מתוך הסרט “ספיידרמן “3 של אולפני מארוול! כשאיש החול מתרומם מעל ההריסות, ספיידרמן מגיח על חבל רשת כדי להפיל אותו. אבל חכו – גם ונום נמצא כאן, עם זרועות התמנון המפחידות שלו שמוכנות למתקפה! ומה קורה אחר כך? אתם יכולים להעמיד את הדגם שופע האקשן לתצוגה בחדר שלכם או לפרק את המיני-דמויות עבור הרפתקאות גיבורי-על משלכם.
+- Image: https://parktoys.co.il/assets/product-1785429574382-xe5rk9.webp
 
 ### לגו נינג'ה גו - חגיגות 15 שנה לרכב X-1 הנינג‘ה המסתער 71867
 https://parktoys.co.il/product/lgv-nyngh-gv-chgygvt-15-shnh-lrkb-x-1-hnyngh-hmstar-71867-fbcy6g
@@ -1658,13 +1666,6 @@ https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-rabl-rsz4j3
 - Availability: In stock
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Image: https://parktoys.co.il/assets/product-enhanced-1784199097726-7ljezd.webp
-
-### מפרץ ההרפתקאות - רכב בסיסי צייס
-https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-tsyys-7ifnco
-- Price: 99.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Image: https://parktoys.co.il/assets/product-enhanced-1784198935713-v4wrft.webp
 
 ---
 
