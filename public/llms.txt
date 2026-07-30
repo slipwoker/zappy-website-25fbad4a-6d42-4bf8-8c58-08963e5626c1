@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 362** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 363** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו ספיידרמן במכונית נגד וונומייזר וולברין 76336 Lego
+https://parktoys.co.il/product/lgv-spyydrmn-bmkvnyt-ngd-vvnvmyyzr-vvlbryn-76336-lego-364y04
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: מהרו לעמוד בקצב האקשן והקרבות של גיבורי-על! דגם הבנייה של ספיידרמן במכונית נגד וונומייזד וולברין לילדים וילדות בגיל 7 ומעלה. דגם הבנייה הזה של רכב מצויד לקרב עם המיני-דמויות ספיידרמן ווונומייזד וולברין עם שעות של משחקי פעולה מרתקים. זהו המוצר הממותג הראשון של מארוול LEGO ǀ Marvel הכולל מיני-דמות של וונומייזד וולברין. אקשן קרבות בתוך המכונית ומסביבה המכונית מאובזרת עם לחצן אחורי שבאמצעותו ניתן להפעיל 2 משגרי קפיץ מהחזית. רעיון מתנה נהדר הדגם הזה משמש כרעיון נהדר למתנה לימי הולדת של גיבורות וגיבור…
+- Image: https://parktoys.co.il/assets/product-1785429817407-zlxm6a.webp
 
 ### לגו מרוול ספיידרמן נגד גוסט ריידר על אופנוע 76335 | Lego
 https://parktoys.co.il/product/lgv-mrvvl-spyydrmn-ngd-gvst-ryydr-al-avpnva-76335-lego-1hpody
@@ -1659,14 +1667,6 @@ https://parktoys.co.il/product/mprts-hrptkavt-mrshl-mkvnyt-vdmvt-lyldym-j7wvvw
 - Availability: In stock
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Image: https://parktoys.co.il/assets/product-1784236410700-5htsvo.webp
-
-### מפרץ הרפתקאות – רכב חילוץ אש ודמות ריידר
-https://parktoys.co.il/product/mprts-hrptkavt-rkb-chylvts-ash-vdmvt-ryydr-m6iog4
-- Price: 99.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: ריידר יוצא לדרך – מנהיגים את משימת החילוץ מהסלון! רכב בסיסי חילוץ אש עם ריידר מבית Spin Master
-- Image: https://parktoys.co.il/assets/product-enhanced-1784199196824-6dna2.webp
 
 ---
 
