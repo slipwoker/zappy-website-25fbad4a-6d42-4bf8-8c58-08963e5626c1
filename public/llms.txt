@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 361** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 362** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו מרוול ספיידרמן נגד גוסט ריידר על אופנוע 76335 | Lego
+https://parktoys.co.il/product/lgv-mrvvl-spyydrmn-ngd-gvst-ryydr-al-avpnva-76335-lego-1hpody
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: Brickland 0 ביתלגו מרוול ספיידרמן נגד גוסט ריידר על אופנוע 76335 | Lego המלאי אזל לגו מרוול ספיידרמן נגד גוסט ריידר על אופנוע 76335 | Lego 44.90 ₪ לגו מארוול - ספיידרמן נגד אופנוע גוסט ריידר 76335 | Lego התניעו פעולת מרדף של גיבורי-על במהירות גבוהה עם צעצוע הבנייה ספיידרמן נגד אופנוע גוסט ריידר (76335) לבנים ובנות בגילאי 6 ומעלה. אופנוע הקרב של סט LEGO מארוול ו-2 המיני-פיגורות הדינמיות של ספיידרמן וגוסט ריידר מתדלקים את משחק הדמיון של...קרא עוד אזל במלאי עדכנו אותי כשמוצר זמין יצרן: LEGO סוג מוצ…
+- Image: https://parktoys.co.il/assets/product-1785429733168-vn3xv.webp
 
 ### לגו Marvel – קרב אייקוני: ספיידרמן נגד איש החול (76334)
 https://parktoys.co.il/product/lgv-marvel-krb-ayykvny-spyydrmn-ngd-aysh-hchvl-76334-zzpx76
@@ -1659,13 +1667,6 @@ https://parktoys.co.il/product/mprts-hrptkavt-rkb-chylvts-ash-vdmvt-ryydr-m6iog4
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: ריידר יוצא לדרך – מנהיגים את משימת החילוץ מהסלון! רכב בסיסי חילוץ אש עם ריידר מבית Spin Master
 - Image: https://parktoys.co.il/assets/product-enhanced-1784199196824-6dna2.webp
-
-### מפרץ ההרפתקאות - רכב בסיסי ראבל
-https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-rabl-rsz4j3
-- Price: 99.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Image: https://parktoys.co.il/assets/product-enhanced-1784199097726-7ljezd.webp
 
 ---
 
