@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 358** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 359** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו נינג'ה-גו - מכוניתו של ג'יי שמשנה צורה לדרקון 71856 | Lego
+https://parktoys.co.il/product/lgv-nyngh-gv-mkvnytv-shl-gyy-shmshnh-tsvrh-ldrkvn-71856-lego-p12h7q
+- Price: 239.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: בנים ובנות מגיל 8 ומעלה יכולים ליהנות משעות של אקשן מהיר עם ערכת הבנייה LEGO NINJAGO המכונית המשתנה של ג’יי (71856). צעצוע מרוץ נינג’ה זה כולל רכב 2-ב-1 שניתן לשחק ולהציג בשני מצבים: מצב רגיל או מצב דרקון על ידי הפיכת החלק הקדמי, החושף טפרים מוזהבים, ראש דרקון ושוריקנים מסתובבים. ערכת ההרפתקה כוללת משגר קפיצי עם 2 חיצים, שניתן לנתק ולהציב על מבנה צדדי מכוסה צמחייה לקרבות. הערכה כוללת גם 5 מיניפיגור: ג’יי, ניה וקאי בצורת דרקון, וכן מפלצת אדמה ומנהיג נאמן לקרבות טוב נגד רע. הילדים יכולים לבנות בבי
+- Image: https://parktoys.co.il/assets/product-1785429181100-lt6xd.webp
 
 ### לגו נינג'ה-גו - מארז קרב רובוט הדרקון של קאי 71851 | Lego
 https://parktoys.co.il/product/lgv-nyngh-gv-marz-krb-rvbvt-hdrkvn-shl-kay-71851-lego-wqko4b
@@ -1656,14 +1664,6 @@ https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-rvky-63ts6u
 - Availability: In stock
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Image: https://parktoys.co.il/assets/product-enhanced-1784198623653-app1oi.webp
-
-### סקווישי אבטיח נידו ענק 
-https://parktoys.co.il/product/skvvyshy-abtych-nydv-ank-5ba388
-- Price: 40.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: סקווישי ענק כיפי ונעים למגע
-- Image: https://parktoys.co.il/assets/product-enhanced-1784130216964-4foetra.webp
 
 ---
 
