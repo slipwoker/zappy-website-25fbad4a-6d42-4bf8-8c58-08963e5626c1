@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 366** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 367** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו ONE PIECE – בקתה בכפר טחנת הרוח (75636) LEGO
+https://parktoys.co.il/product/lgv-one-piece-bkth-bkpr-tchnt-hrvch-75636-lego-3ibkud
+- Price: 149.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: עזרו למאקינו לנהל את החנות העמוסה שלה על חוף הים. שאנקס מסתכל בלוח מודעות המפרסם פרטים של “מבוקשים” על הקיר תוך כדי שטיפת הרצפה. בחוץ, לופי נתקל בפרי השטן גומו-גומו שמוחבא בין קופסאות ליד הסירה. אילו הרפתקאות פיראטים פראיות נוספות מסדרת האנימציה וואן פיס צפויות להתרחש? ההחלטה היא בידיכם!
+- Image: https://parktoys.co.il/assets/product-enhanced-1785487450773-sybj27.webp
 
 ### לגו קריאטור מעבורת חלל 31134 - Lego
 https://parktoys.co.il/product/lgv-kryatvr-mabvrt-chll-31134-lego-tv1tw7
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/dmvt-rabl-am-rkb-mpltst-glgly-hchylvts-mprts-hhrp
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: מפרץ ההרפתקאות – סיירת המשימה עם כלבי ההצלה האהובים עלינו ביבשה, באוויר וגם בים. למשימות חילוץ דחופות למי אתם קוראים?! לגורי ההצלה. דמות ראבל עם רכב החילוץ החדש של צוות החילוץ המפלצת סדרת גלגלי החילוץ! ראבל עם המדים החדשים של צוות ההצלה עם קסדה ותרמיל, הושיבו את ראבל במושב הנהג לפני המרוץ למשימת החילות העמוסה באקשן. המשאית מפלצת של ראבל מגיעה במהירות לכל משימה. בואו לשחזר את הסצנות האהובות מהסדרה! מגילאי 3 ומעלה
 - Image: https://parktoys.co.il/assets/product-1784278373688-c3t4jg.webp
-
-### דמות מרשל עם כבאית המפלצת גלגלי חילוץ – מפרץ ההרפתקאות
-https://parktoys.co.il/product/dmvt-mrshl-am-kbayt-hmpltst-glgly-chylvts-mprts-hhrptkavt-ed1s0s
-- Price: 95.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: מפרץ ההרפתקאות – סיירת המשימה עם כלבי ההצלה האהובים עלינו&nbsp; ביבשה, באוויר וגם בים. למשימות חילוץ דחופות למי אתם קוראים?! לגורי ההצלה. דמות מרשל עם הכבאית החילוץ החדש של צוות החילוץ המפלצת סדרת גלגלי החילוץ! מרשל עם המדים החדשים של צוות ההצלה עם קסדה ותרמיל, הושיבו את מרשל במושב הנהג לפני המרוץ למשימת החילות העמוסה באקשן. הכבאית של מרשל מגיעה עם משגר ושני קליעים מוכנים לשיגור, טען את הקליע לתוך המשגר ואז לחץ על הכפתור כדי לירות ולהציל את היום. בואו לשחזר את הסצנות האהובות מהסדרה! מגילאי 3 ומע…
-- Image: https://parktoys.co.il/assets/product-1784276287215-17t79.webp
 
 ---
 
