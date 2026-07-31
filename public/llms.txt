@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 365** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 366** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו קריאטור מעבורת חלל 31134 - Lego
+https://parktoys.co.il/product/lgv-kryatvr-mabvrt-chll-31134-lego-tv1tw7
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: הרפתקני חלל יכולים ליהנות מפעולה בין-גלקטית מרגשת עם מערכת המשחקים הזו של מעבורת החלל 3 ב-1 של לגו.הסט כולל צעצוע של מעבורת חלל עם צוהר פתיחה המכיל לוויין על זרוע הניתנת להרחבה. ניתן גם לנתק את הלוויין לכיף נוסף.מתנה מושלמת לאוהבי חלל.ישנן 3
+- Image: https://parktoys.co.il/assets/product-1785487153530-mnosmq.webp
 
 ### לגו סיטי ניידת משטרה 60312 - Lego
 https://parktoys.co.il/product/lgv-syty-nyydt-mshtrh-60312-lego-68ivpe
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/dmvt-mrshl-am-kbayt-hmpltst-glgly-chylvts-mprts-h
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: מפרץ ההרפתקאות – סיירת המשימה עם כלבי ההצלה האהובים עלינו&nbsp; ביבשה, באוויר וגם בים. למשימות חילוץ דחופות למי אתם קוראים?! לגורי ההצלה. דמות מרשל עם הכבאית החילוץ החדש של צוות החילוץ המפלצת סדרת גלגלי החילוץ! מרשל עם המדים החדשים של צוות ההצלה עם קסדה ותרמיל, הושיבו את מרשל במושב הנהג לפני המרוץ למשימת החילות העמוסה באקשן. הכבאית של מרשל מגיעה עם משגר ושני קליעים מוכנים לשיגור, טען את הקליע לתוך המשגר ואז לחץ על הכפתור כדי לירות ולהציל את היום. בואו לשחזר את הסצנות האהובות מהסדרה! מגילאי 3 ומע…
 - Image: https://parktoys.co.il/assets/product-1784276287215-17t79.webp
-
-### מסוק סקיי סדרת איתור והצלה מפרץ ההרפתקאות
-https://parktoys.co.il/product/msvk-skyy-sdrt-aytvr-vhtslh-mprts-hhrptkavt-ip238f
-- Price: 89.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: מסוק סקיי סדרת איתור והצלה מפרץ ההרפתקאות ביבשה, באוויר וגם בים, למשימות חילוץ דחופות למי אתם קוראים?! לגורי ההצלה. מסוק חיפוש והצלה של סקיי ! סט מלא פעולה זה כולל מסוק צעצוע בגודל 15 ס"מ ו-2 דמויות, כולל סקיי , בגובה של יותר מ-5 ס"מ במדי החיפוש וההצלה שלה, מוכנה להציל את המצב. ילדים יכולים להציב את סקיי והקנגורו במסוק , ואז למשוך אותם אחורה ולשגר קדימה לקבלת אלמנט מרגש בכל משימה. עם עיצוב מקורי של PAW Patrol, צעצוע זה נראה בדיוק כמו כלי הרכב מהסדרה, ומעורר השראה בילדים לצאת להרפתקאות משלהם.
-- Image: https://parktoys.co.il/assets/product-1784276063291-rs33flt.webp
 
 ---
 

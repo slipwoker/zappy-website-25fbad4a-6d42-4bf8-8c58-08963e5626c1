@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-31T08:37:10.318Z",
+  "generated_at": "2026-07-31T08:40:25.638Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 365,
+  "count": 366,
   "products": [
+    {
+      "id": "3d0e2e57-9143-4b83-bb14-37ae1280d41f",
+      "slug": "lgv-kryatvr-mabvrt-chll-31134-lego-tv1tw7",
+      "name": "לגו קריאטור מעבורת חלל 31134 - Lego",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הרפתקני חלל יכולים ליהנות מפעולה בין-גלקטית מרגשת עם מערכת המשחקים הזו של מעבורת החלל 3 ב-1 של לגו.הסט כולל צעצוע של מעבורת חלל עם צוהר פתיחה המכיל לוויין על זרוע הניתנת להרחבה. ניתן גם לנתק את הלוויין לכיף נוסף.מתנה מושלמת לאוהבי חלל.ישנן 3",
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785487153530-mnosmq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-kryatvr-mabvrt-chll-31134-lego-tv1tw7",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-07-31T08:39:50.399Z"
+    },
     {
       "id": "1567050e-1b83-46a8-a399-f1c830bed4d0",
       "slug": "lgv-syty-nyydt-mshtrh-60312-lego-68ivpe",
