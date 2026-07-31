@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-31T08:46:00.689Z",
+  "generated_at": "2026-07-31T08:52:25.931Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 367,
+  "count": 368,
   "products": [
+    {
+      "id": "c8c5242d-ba62-47cb-a77f-45c006fd3793",
+      "slug": "lgv-one-piece-avhl-hkrks-shl-bagy-hlytsn-75637-lego-bpggy8",
+      "name": "לגו One piece - אוהל הקרקס של באגי הליצן 75637 - Lego",
+      "name_translations": {},
+      "description": "",
+      "short_description": "לגו One piece - אוהל הקרקס של באגי הליצן 75637 מבית לגו Lego one piece buggy the clowns circus tent 75637\n\n\nההצגה מתחילה – והפעם לגמרי בגדול! הצטרפו אל לופי, זורו ונאמי בהרפתקה ססגונית ומלאת אקשן בתוך אוהל הקרקס של באגי הליצן. חוו מחדש את אחד הרגעים האייקוניים בסדרת One Piece, כשהכול צבעוני, מצחיק ומלא מתח – כי אף אחד לא יודע מה באגי מתכנן הפעם...\n\n\nיתרונות עיקריים: כולל 573 חלקים להרכבה מהנה ומאתגרת במידה הנכונה – גם לילדים וגם לאספנים. כולל 4 מיני-דמויות מקוריות: לופי, זורו, נאמי ובאגי הליצן. ",
+      "sku": null,
+      "brand": null,
+      "price": 193,
+      "base_price": 280,
+      "sale_price": 193,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-one-piece-avhl-hkrks-shl-bagy-hlytsn-75637-lego-bpggy8",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-07-31T08:51:49.621Z"
+    },
     {
       "id": "7b8593ca-9ddc-4e4c-ba2a-9843c519614b",
       "slug": "lgv-one-piece-bkth-bkpr-tchnt-hrvch-75636-lego-3ibkud",

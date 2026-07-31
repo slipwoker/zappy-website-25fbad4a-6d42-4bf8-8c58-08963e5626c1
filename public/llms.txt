@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 367** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 368** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו One piece - אוהל הקרקס של באגי הליצן 75637 - Lego
+https://parktoys.co.il/product/lgv-one-piece-avhl-hkrks-shl-bagy-hlytsn-75637-lego-bpggy8
+- Price: 193.00 ILS (sale, was 280.00 ILS)
+- Availability: In stock
+- Category: לגו-lego
+- Description: לגו One piece - אוהל הקרקס של באגי הליצן 75637 מבית לגו Lego one piece buggy the clowns circus tent 75637 ההצגה מתחילה – והפעם לגמרי בגדול! הצטרפו אל לופי, זורו ונאמי בהרפתקה ססגונית ומלאת אקשן בתוך אוהל הקרקס של באגי הליצן. חוו מחדש את אחד הרגעים האייקוניים בסדרת One Piece, כשהכול צבעוני, מצחיק ומלא מתח – כי אף אחד לא יודע מה באגי מתכנן הפעם... יתרונות עיקריים: כולל 573 חלקים להרכבה מהנה ומאתגרת במידה הנכונה – גם לילדים וגם לאספנים. כולל 4 מיני-דמויות מקוריות: לופי, זורו, נאמי ובאגי הליצן.
 
 ### לגו ONE PIECE – בקתה בכפר טחנת הרוח (75636) LEGO
 https://parktoys.co.il/product/lgv-one-piece-bkth-bkpr-tchnt-hrvch-75636-lego-3ibkud
@@ -1660,14 +1667,6 @@ https://parktoys.co.il/product/dmvt-tsyys-am-rkb-mpltst-glgly-hchylvts-mprts-hhr
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: מפרץ ההרפתקאות – סיירת המשימה עם כלבי ההצלה האהובים עלינו ביבשה, באוויר וגם בים. למשימות חילוץ דחופות למי אתם קוראים?! לגורי ההצלה. דמות צ'ייס עם רכב החילוץ החדש של צוות החילוץ המפלצת סדרת גלגלי החילוץ! צ'ייס עם המדים החדשים של צוות ההצלה עם קסדה ותרמיל, על הרכב תוכלו למצוא משגר ושני טילים שמגעים ביחד עם המכונית! הושיבו את צ'ייס במושב הנהג לפני המרוץ למשימת החילות העמוסה באקשן. המשאית מפלצת של צ'ייס מגיעה במהירות לכל משימה. בואו לשחזר את הסצנות האהובות מהסדרה! מגילאי 3 ומעלה
 - Image: https://parktoys.co.il/assets/product-1784279183809-b8ccc8.webp
-
-### דמות ראבל עם רכב מפלצת גלגלי החילוץ – מפרץ ההרפתקאות
-https://parktoys.co.il/product/dmvt-rabl-am-rkb-mpltst-glgly-hchylvts-mprts-hhrptkavt-n8fiz7
-- Price: 95.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: מפרץ ההרפתקאות – סיירת המשימה עם כלבי ההצלה האהובים עלינו ביבשה, באוויר וגם בים. למשימות חילוץ דחופות למי אתם קוראים?! לגורי ההצלה. דמות ראבל עם רכב החילוץ החדש של צוות החילוץ המפלצת סדרת גלגלי החילוץ! ראבל עם המדים החדשים של צוות ההצלה עם קסדה ותרמיל, הושיבו את ראבל במושב הנהג לפני המרוץ למשימת החילות העמוסה באקשן. המשאית מפלצת של ראבל מגיעה במהירות לכל משימה. בואו לשחזר את הסצנות האהובות מהסדרה! מגילאי 3 ומעלה
-- Image: https://parktoys.co.il/assets/product-1784278373688-c3t4jg.webp
 
 ---
 
