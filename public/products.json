@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-31T08:52:25.931Z",
+  "generated_at": "2026-07-31T08:54:30.625Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 368,
   "products": [
     {
       "id": "c8c5242d-ba62-47cb-a77f-45c006fd3793",
-      "slug": "lgv-one-piece-avhl-hkrks-shl-bagy-hlytsn-75637-lego-bpggy8",
+      "slug": "lgv-one-piece-avhl-hkrks-shl-bagy-hlytsn-75637-lego-g1vhx6",
       "name": "לגו One piece - אוהל הקרקס של באגי הליצן 75637 - Lego",
       "name_translations": {},
       "description": "",
@@ -18,14 +18,16 @@
       "base_price": 280,
       "sale_price": 193,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785488013599-t4k6sx.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/lgv-one-piece-avhl-hkrks-shl-bagy-hlytsn-75637-lego-bpggy8",
+      "url": "https://parktoys.co.il/product/lgv-one-piece-avhl-hkrks-shl-bagy-hlytsn-75637-lego-g1vhx6",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-07-31T08:51:49.621Z"
+      "updated_at": "2026-07-31T08:53:54.872Z"
     },
     {
       "id": "7b8593ca-9ddc-4e4c-ba2a-9843c519614b",
