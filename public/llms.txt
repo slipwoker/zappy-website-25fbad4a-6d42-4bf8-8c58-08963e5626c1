@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 364** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 365** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו סיטי ניידת משטרה 60312 - Lego
+https://parktoys.co.il/product/lgv-syty-nyydt-mshtrh-60312-lego-68ivpe
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: ניידת המשטרה עם החישוקים הרחבים, הפגושים המעוצבים והפנסים המגניבים משיגה את כל הנוכלים של לגו סיטי!אין להם סיכוי כשהם עוצרים להתפעל מהמכונית.הדליקו את הפנס, שימו את כובע השוטרים, עלו על המכונית וסעו לעוד מרדפים אחר הנוכלים בעיר! לגילאי 5 ומעלה 94 חלקים סדרה לגו סיטי Lego Cityמידות האריזה 14.1X15.7X4.5 ס"מP
+- Image: https://parktoys.co.il/assets/product-1785486953515-mafjqh.webp
 
 ### לגו טכני אופנוע צהוב 42225
 https://parktoys.co.il/product/lgv-tkny-avpnva-tshvb-42225-jt57g6
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/msvk-skyy-sdrt-aytvr-vhtslh-mprts-hhrptkavt-ip238
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: מסוק סקיי סדרת איתור והצלה מפרץ ההרפתקאות ביבשה, באוויר וגם בים, למשימות חילוץ דחופות למי אתם קוראים?! לגורי ההצלה. מסוק חיפוש והצלה של סקיי ! סט מלא פעולה זה כולל מסוק צעצוע בגודל 15 ס"מ ו-2 דמויות, כולל סקיי , בגובה של יותר מ-5 ס"מ במדי החיפוש וההצלה שלה, מוכנה להציל את המצב. ילדים יכולים להציב את סקיי והקנגורו במסוק , ואז למשוך אותם אחורה ולשגר קדימה לקבלת אלמנט מרגש בכל משימה. עם עיצוב מקורי של PAW Patrol, צעצוע זה נראה בדיוק כמו כלי הרכב מהסדרה, ומעורר השראה בילדים לצאת להרפתקאות משלהם.
 - Image: https://parktoys.co.il/assets/product-1784276063291-rs33flt.webp
-
-### מפרץ ההרפתקאות – רכב בסיסי חילוץ אש – זומה
-https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-chylvts-ash-zvmh-0z5m3q
-- Price: 89.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: מפרץ ההרפתקאות רכב בסיסי חילוץ אש – זומה מבית ספין מאסטר Spin master – fire rescue zuma המים סוערים, הקריאה לעזרה נשמעת – וזומה כבר בדרך! עם סירת הכיבוי הימית שלו מסדרת PAW Patrol Fire Rescue מבית Spin Master, הילדים מוזמנים להרפתקה ימית מרתקת שמלאה באקשן, דמיון ותחושת גבורה. זה הזמן להציל, לשגר ולשוט לעבר משימות חדשות ממש כמו בצוות הגיבורים של מפרץ ההרפתקאות. יתרונות עיקריים: סירת הצלה באורך כ-18 ס מ ובגובה כ-8 ס מ – בגודל מושלם לידיים קטנות ולדמיון גדול. דמות זומה בגובה כ-5 ס מ לבושה במדי כיבו
-- Image: https://parktoys.co.il/assets/product-1784275935311-tzr3wk.webp
 
 ---
 
