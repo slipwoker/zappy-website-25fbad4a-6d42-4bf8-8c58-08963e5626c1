@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-31T08:54:30.625Z",
+  "generated_at": "2026-08-01T18:59:36.768Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 368,
+  "count": 369,
   "products": [
+    {
+      "id": "f4ae68c7-192c-4237-ae15-0254ffdb352f",
+      "slug": "lgv-bvtnykh-zr-shmshy-ktn-10347-aem5lm",
+      "name": "לגו בוטניקה – זר שמשי קטן 10347",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אפשרו ליצירתיות של ילדים לפרוח עם ערכת הבנייה (10347) של זר שמשי קטנטן מסדרת LEGO Botanicals® לילדים וילדות בגילאי 9 ומעלה. הזר הפורח בגווני פסטל שמשפרים את מצב הרוח ושופע בפרטים אותנטיים ישמש אתכם כפריט עיצוב פרחים בלתי מתכלים אותם תנצרו לעד.\nמעצבי זרים מתחילים בכל הגילאים יהנו מאוד מפעילות של בניית הזר, העשיר במבחר פרחי האביב של LEGO, כולל כדורי בילי, פרחי פעמוני האביב, קני קליאופטרה, אכילאה אלף העלה, גרברה ורודה, אדמונית וצבעוני, לפני השימוש בגבעולים המתכווננים ליצירת תצוגה פרחונית בהתאמה איש",
+      "sku": null,
+      "brand": null,
+      "price": 149,
+      "base_price": 199,
+      "sale_price": 149,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785610670118-zbv47c.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-bvtnykh-zr-shmshy-ktn-10347-aem5lm",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-08-01T18:59:00.373Z"
+    },
     {
       "id": "c8c5242d-ba62-47cb-a77f-45c006fd3793",
       "slug": "lgv-one-piece-avhl-hkrks-shl-bagy-hlytsn-75637-lego-g1vhx6",

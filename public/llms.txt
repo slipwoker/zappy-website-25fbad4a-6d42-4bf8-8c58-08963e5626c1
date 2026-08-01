@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 368** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 369** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו בוטניקה – זר שמשי קטן 10347
+https://parktoys.co.il/product/lgv-bvtnykh-zr-shmshy-ktn-10347-aem5lm
+- Price: 149.00 ILS (sale, was 199.00 ILS)
+- Availability: In stock
+- Category: לגו-lego
+- Description: אפשרו ליצירתיות של ילדים לפרוח עם ערכת הבנייה (10347) של זר שמשי קטנטן מסדרת LEGO Botanicals® לילדים וילדות בגילאי 9 ומעלה. הזר הפורח בגווני פסטל שמשפרים את מצב הרוח ושופע בפרטים אותנטיים ישמש אתכם כפריט עיצוב פרחים בלתי מתכלים אותם תנצרו לעד. מעצבי זרים מתחילים בכל הגילאים יהנו מאוד מפעילות של בניית הזר, העשיר במבחר פרחי האביב של LEGO, כולל כדורי בילי, פרחי פעמוני האביב, קני קליאופטרה, אכילאה אלף העלה, גרברה ורודה, אדמונית וצבעוני, לפני השימוש בגבעולים המתכווננים ליצירת תצוגה פרחונית בהתאמה איש
+- Image: https://parktoys.co.il/assets/product-1785610670118-zbv47c.webp
 
 ### לגו One piece - אוהל הקרקס של באגי הליצן 75637 - Lego
 https://parktoys.co.il/product/lgv-one-piece-avhl-hkrks-shl-bagy-hlytsn-75637-lego-g1vhx6
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/dmvt-rvky-am-rkb-mpltst-glgly-hchylvts-mprts-hhrp
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: מפרץ ההרפתקאות – סיירת המשימה עם כלבי ההצלה האהובים עלינו ביבשה, באוויר וגם בים. למשימות חילוץ דחופות למי אתם קוראים?! לגורי ההצלה. דמות רוקי עם רכב החילוץ החדש של צוות החילוץ המפלצת סדרת גלגלי החילוץ! רוקי עם המדים החדשים של צוות ההצלה עם קסדה ותרמיל, הושיבו את רוקי במושב הנהג לפני המרוץ למשימת החילות העמוסה באקשן. המשאית מפלצת של רוקי מגיעה במהירות לכל משימה. בואו לשחזר את הסצנות האהובות מהסדרה! מגילאי 3 ומעלה
 - Image: https://parktoys.co.il/assets/product-1784279608754-93wus9.webp
-
-### דמות צ'ייס עם רכב מפלצת גלגלי החילוץ – מפרץ ההרפתקאות
-https://parktoys.co.il/product/dmvt-tsyys-am-rkb-mpltst-glgly-hchylvts-mprts-hhrptkavt-5usf6b
-- Price: 95.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: מפרץ ההרפתקאות – סיירת המשימה עם כלבי ההצלה האהובים עלינו ביבשה, באוויר וגם בים. למשימות חילוץ דחופות למי אתם קוראים?! לגורי ההצלה. דמות צ'ייס עם רכב החילוץ החדש של צוות החילוץ המפלצת סדרת גלגלי החילוץ! צ'ייס עם המדים החדשים של צוות ההצלה עם קסדה ותרמיל, על הרכב תוכלו למצוא משגר ושני טילים שמגעים ביחד עם המכונית! הושיבו את צ'ייס במושב הנהג לפני המרוץ למשימת החילות העמוסה באקשן. המשאית מפלצת של צ'ייס מגיעה במהירות לכל משימה. בואו לשחזר את הסצנות האהובות מהסדרה! מגילאי 3 ומעלה
-- Image: https://parktoys.co.il/assets/product-1784279183809-b8ccc8.webp
 
 ---
 
