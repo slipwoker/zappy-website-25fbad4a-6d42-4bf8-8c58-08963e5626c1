@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-01T18:59:36.768Z",
+  "generated_at": "2026-08-01T19:03:12.236Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 369,
+  "count": 370,
   "products": [
+    {
+      "id": "588dadad-d547-48f3-ae9a-eba4e2963ab3",
+      "slug": "lgv-spyydy-mrdp-achry-rkby-dynvzavr-spyn-valktrv-11198-rjc8tg",
+      "name": "לגו ספיידי – מרדף אחרי רכבי דינוזאור ספין ואלקטרו 11198",
+      "name_translations": {},
+      "description": "",
+      "short_description": "פנקו את המעריצים של ספיידי וחבריו המופלאים עם דמות גיבור על צעצוע הניתן להרכבה הזה. הערכה להרכבה ומשחק (11198) מרדף אחרי רכבי דינוזאור ספין ואלקטרו נועדה לפתח ביטחון יצירתי בילדים, לשפר את כישורי פתרון הבעיות ולעורר משחק דמיוני אינסופי אצל ילדים וילדות בגילאי 4 ומעלה.",
+      "sku": null,
+      "brand": null,
+      "price": 119,
+      "base_price": 119,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785610911383-3snaao.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-spyydy-mrdp-achry-rkby-dynvzavr-spyn-valktrv-11198-rjc8tg",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-08-01T19:02:39.179Z"
+    },
     {
       "id": "f4ae68c7-192c-4237-ae15-0254ffdb352f",
       "slug": "lgv-bvtnykh-zr-shmshy-ktn-10347-aem5lm",

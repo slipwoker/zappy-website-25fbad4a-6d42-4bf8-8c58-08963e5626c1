@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 369** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 370** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו ספיידי – מרדף אחרי רכבי דינוזאור ספין ואלקטרו 11198
+https://parktoys.co.il/product/lgv-spyydy-mrdp-achry-rkby-dynvzavr-spyn-valktrv-11198-rjc8tg
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: פנקו את המעריצים של ספיידי וחבריו המופלאים עם דמות גיבור על צעצוע הניתן להרכבה הזה. הערכה להרכבה ומשחק (11198) מרדף אחרי רכבי דינוזאור ספין ואלקטרו נועדה לפתח ביטחון יצירתי בילדים, לשפר את כישורי פתרון הבעיות ולעורר משחק דמיוני אינסופי אצל ילדים וילדות בגילאי 4 ומעלה.
+- Image: https://parktoys.co.il/assets/product-enhanced-1785610911383-3snaao.webp
 
 ### לגו בוטניקה – זר שמשי קטן 10347
 https://parktoys.co.il/product/lgv-bvtnykh-zr-shmshy-ktn-10347-aem5lm
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/spin-master-mprts-hhrptkavt-rkb-bsysy-ryydr-spin-
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: מפרץ ההרפתקאות - רכב בסיסי - ריידר מבית ספין מאסטר Spin Master - Ryder Rescue Atv רכב מפרץ ההרפתקאות והדמות של ריידר מהסדרה האהובה. מפתח ומעורר את הדמיון. הערכה כוללת את דמות ריידר על רכב המפרץ, מוכן לכל סוג של הרפתקה. שחקו, חקרו, והצילו עם ריידר ורכבו. המשחק מתאים לגילאי 3+ משתתפים: 1+ ברקוד מוצר: 778988507865
 - Image: https://parktoys.co.il/assets/product-1784280087467-6li79w.webp
-
-### דמות רוקי עם רכב מפלצת גלגלי החילוץ – מפרץ ההרפתקאות
-https://parktoys.co.il/product/dmvt-rvky-am-rkb-mpltst-glgly-hchylvts-mprts-hhrptkavt-mngvc0
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: מפרץ ההרפתקאות – סיירת המשימה עם כלבי ההצלה האהובים עלינו ביבשה, באוויר וגם בים. למשימות חילוץ דחופות למי אתם קוראים?! לגורי ההצלה. דמות רוקי עם רכב החילוץ החדש של צוות החילוץ המפלצת סדרת גלגלי החילוץ! רוקי עם המדים החדשים של צוות ההצלה עם קסדה ותרמיל, הושיבו את רוקי במושב הנהג לפני המרוץ למשימת החילות העמוסה באקשן. המשאית מפלצת של רוקי מגיעה במהירות לכל משימה. בואו לשחזר את הסצנות האהובות מהסדרה! מגילאי 3 ומעלה
-- Image: https://parktoys.co.il/assets/product-1784279608754-93wus9.webp
 
 ---
 
