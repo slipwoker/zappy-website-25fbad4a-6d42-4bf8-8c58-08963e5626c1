@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-01T19:03:12.236Z",
+  "generated_at": "2026-08-01T21:53:18.431Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 370,
+  "count": 371,
   "products": [
+    {
+      "id": "7e0a7d8d-2702-46b9-af2e-c69e33e6679a",
+      "slug": "lgv-marvel-spyydy-al-havpnva-ngd-ryynv-11206-40hqlo",
+      "name": "לגו Marvel – ספיידי על האופנוע נגד ריינו (11206)",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ריינו גנב אבן חן כחולה ומבריקה. קפצו על האופנוע המגניב של ספיידי וצאו לקראת האקשן. זהירות – ריינו מעיף פיצות ממשגר תנור-הפיצות שלו! לכדו את הנבל בתוך רשת עכביש ענקית, חברו אותו לחלק האחורי של האופנוע, ואז סעו במהירות עם אבן החן, רינו הסבוך ברשת ועם כמה פיצות טעימות!",
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-marvel-spyydy-al-havpnva-ngd-ryynv-11206-40hqlo",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-08-01T21:52:40.828Z"
+    },
     {
       "id": "588dadad-d547-48f3-ae9a-eba4e2963ab3",
       "slug": "lgv-spyydy-mrdp-achry-rkby-dynvzavr-spyn-valktrv-11198-rjc8tg",
