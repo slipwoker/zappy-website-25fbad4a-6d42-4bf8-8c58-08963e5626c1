@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 381** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 382** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו Minecraft® - הגן החיוור (21586)
+https://parktoys.co.il/product/lgv-minecraft-hgn-hchyvvr-21586-i5gj23
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: טוסו להרפתקה עם Mothman ההירואי! השתמשו בגרזן המכושף ובכנפי האליטרה שלכם ורחפו מסביב לביום של הגן החיוור. צאו לקרב נגד שלד וקריפר, כדי להגן על הלב החורק החבוי בתוך העץ הגדול. השחילו את הסיכה הסודית כדי להקפיצו החוצה, אבל היזהרו מהמרשרש העויין שמתגנב מאחוריכם! עם אוצר שאפשר למצוא וצלע חזיר הנצלע על המדורה, אין זמן לבזבז!
+- Image: https://parktoys.co.il/assets/product-enhanced-1785701519041-lkmgz9.webp
 
 ###  לגו קריאטור – כלבלב שובב 31382
 https://parktoys.co.il/product/lgv-kryatvr-klblb-shvbb-31382-rxvxej
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/arkt-brby-mvrh-vyldh-bbyt-hspr-am-abyzrym-sinoo5
 - Category: בובות/ברבי
 - Description: סט משחק ברבי מורה מזמין את הילדים לנהל כיתה משלהם! הערכה כוללת בובת ברבי בלוק מקצועי, בובת ילדה מתוקה (תלמידה) ומגוון אביזרי לימוד מושלמים: לוח כיתה אינטראקטיבי, כיסא קטן לתלמידה, מחשב נייד, ספר, מספרים בטיחותיים, דבק, מחברת ותיק גב. הסט מעודד משחק תפקידים יצירתי, ביטוי עצמי ופיתוח מיומנויות חברתיות דרך עולם הלמידה. מתאים לגילאי 3 ומעלה
 - Image: https://parktoys.co.il/assets/product-1784458681599-hrdf59.webp
-
-### ברבי דרים בסטיז – ברבי מליבו על גלגיליות עם אביזרי אופנה
-https://parktoys.co.il/product/brby-drym-bstyz-brby-mlybv-al-glgylyvt-am-abyzry-avpnh-n61r3a
-- Price: 119.90 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: בובת ברבי "מליבו" מסדרת Dream Besties מוכנה להחליק בסטייל על גלגיליות! הבובה הגמישה מציגה שיער בלונדיני ארוך וגלי עם סיכות צבעוניות, ולבושה בטופ אופנתי, מכנסיים קצרים וגלגיליות מדליקות. הסט מגיע עם מגוון אביזרי בטיחות וסטייל מושלמים: קסדת מגן, מגני ברכיים, תיק גב קטן, חטיף, בקבוק שתייה וטלפון נייד. מתנה מושלמת ומלאת תנועה לילדים וילדות בגילאי 4 ומעלה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784458034504-ynzgci.webp
 
 ---
 

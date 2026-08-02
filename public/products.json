@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T16:13:23.231Z",
+  "generated_at": "2026-08-02T20:13:15.760Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 381,
+  "count": 382,
   "products": [
+    {
+      "id": "dcff3211-1d4a-463b-8e8a-f25adb6488a2",
+      "slug": "lgv-minecraft-hgn-hchyvvr-21586-i5gj23",
+      "name": "לגו Minecraft® - הגן החיוור (21586)",
+      "name_translations": {},
+      "description": "",
+      "short_description": "טוסו להרפתקה עם Mothman ההירואי! השתמשו בגרזן המכושף ובכנפי האליטרה שלכם ורחפו מסביב לביום של הגן החיוור. צאו לקרב נגד שלד וקריפר, כדי להגן על הלב החורק החבוי בתוך העץ הגדול. השחילו את הסיכה הסודית כדי להקפיצו החוצה, אבל היזהרו מהמרשרש העויין שמתגנב מאחוריכם! עם אוצר שאפשר למצוא וצלע חזיר הנצלע על המדורה, אין זמן לבזבז!",
+      "sku": null,
+      "brand": null,
+      "price": 119,
+      "base_price": 119,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785701519041-lkmgz9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-minecraft-hgn-hchyvvr-21586-i5gj23",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-08-02T20:12:40.682Z"
+    },
     {
       "id": "a9871f2f-4268-4263-8937-774204e2f0aa",
       "slug": "lgv-kryatvr-klblb-shvbb-31382-rxvxej",
