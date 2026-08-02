@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 384** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 385** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### אופנוע צהוב LEGO Technic 42225 לצפייה ב
+https://parktoys.co.il/product/avpnva-tshvb-lego-technic-42225-ltspyyh-b-p26apb
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: הכירו יחד את ערכת ההרכבה המטריפה האופנוע הצהוב מסדרת LEGO Technic (דגם 42225), שתכניס אתכם ואת הילדים שלכם לנסיעה מהירה בעולם ההנדסה והמכניקה היישר בסלון הבית!
+- Image: https://parktoys.co.il/assets/product-1785702151104-ke6m8x.webp
 
 ### מצלמת רטרו 31147 LEGO Creator 3 in 1
 https://parktoys.co.il/product/mtslmt-rtrv-31147-lego-creator-3-in-1-9r1zmf
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/dmvyvt-spyydy-vavpnva-spyydrmn-spyydy-aaajmg
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: סט צעצוע זה מבית Hasbro כולל דמות פעולה של ספיידי בגובה 10 ס"מ (4 אינץ') ואופנוע מירוץ אדום תואם עם גלגלים כחולים בולטים.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784467528516-evxgn.webp
-
-### ריינבו היי - ראש בובה לעיצוב | RAINBOW HIGH
-https://parktoys.co.il/product/ryynbv-hyy-rash-bvbh-laytsvb-rainbow-high-rarmu8
-- Price: 220.00 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: ראש בובה Rainbow High 4 ב-1 – סט עיצוב שיער ואופנה מרהיב! היכנסו לעולם של יצירתיות, צבע וסטייל עם ראש הבובה Rainbow High 4 ב-1 – הסט המושלם לעיצוב שיער, איפור ודמיון אינסופי! הבובה כוללת שיער ארוך, חלק ורך שניתן לסרק, לקלוע, לצבוע ולעצב – עם עשרות אביזרים שיאפשרו לילדות (ולילדים!) להפוך למעצבי שיער מקצועיים. ♀️ 4 פעילויות בסט אחד! עיצוב שיער צביעת שיער (עם צבעים זמניים ובטוחים לשימוש) הוספת אביזרים יצירת מראות שונים שוב ושוב! כולל מגוון רחב של אביזרים: סיכות, קליפסים, מסרקים, גומיו
-- Image: https://parktoys.co.il/assets/product-enhanced-1784466573967-zpyhjd.webp
 
 ---
 
