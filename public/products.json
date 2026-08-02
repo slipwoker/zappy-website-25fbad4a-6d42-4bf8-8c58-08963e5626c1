@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:19:52.061Z",
+  "generated_at": "2026-08-02T09:24:48.012Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2624,7 +2624,7 @@
     },
     {
       "id": "ac86c33a-bbb8-4acf-8e09-b9ae06a3970a",
-      "slug": "mgdl-htbavt-hmdbr-shly-ny07w7",
+      "slug": "mgdl-htbavt-hmdbr-shly-38oc2s",
       "name": "מגדל הטבעות המדבר שלי",
       "name_translations": {},
       "description": "",
@@ -2641,15 +2641,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mgdl-htbavt-hmdbr-shly-ny07w7",
+      "url": "https://parktoys.co.il/product/mgdl-htbavt-hmdbr-shly-38oc2s",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T08:21:23.736Z"
+      "updated_at": "2026-08-02T09:24:11.985Z"
     },
     {
       "id": "5b23b9a0-a2bb-40c1-aa19-7d2bb76a9d4f",
-      "slug": "hk-ptysh-ksylvpvn-guho6n",
+      "slug": "hk-ptysh-ksylvpvn-stfejt",
       "name": "הך פטיש קסילופון",
       "name_translations": {},
       "description": "",
@@ -2665,11 +2665,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/hk-ptysh-ksylvpvn-guho6n",
+      "url": "https://parktoys.co.il/product/hk-ptysh-ksylvpvn-stfejt",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T08:13:59.592Z"
+      "updated_at": "2026-08-02T09:24:45.068Z"
     },
     {
       "id": "f0568903-fedb-4093-8788-bcf64a6528d7",
