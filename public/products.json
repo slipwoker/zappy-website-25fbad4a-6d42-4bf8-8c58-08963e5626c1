@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:15:16.958Z",
+  "generated_at": "2026-08-02T09:16:07.223Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2479,7 +2479,7 @@
     },
     {
       "id": "9e18e499-217b-41a8-8761-f8b5de091190",
-      "slug": "palvlvn-chyvt-htsprda-cbjlpt",
+      "slug": "palvlvn-chyvt-htsprda-ziu5e2",
       "name": "פעלולון חיות – הצפרדע",
       "name_translations": {},
       "description": "",
@@ -2495,11 +2495,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/palvlvn-chyvt-htsprda-cbjlpt",
+      "url": "https://parktoys.co.il/product/palvlvn-chyvt-htsprda-ziu5e2",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T08:59:51.231Z"
+      "updated_at": "2026-08-02T09:15:29.837Z"
     },
     {
       "id": "eed1c164-544a-490d-9dfd-9e0fa95d33fe",
