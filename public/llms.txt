@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 382** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 383** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מסע לפורטל הקצה התחתון לגו 21584 LEGO Minecraft
+https://parktoys.co.il/product/msa-lpvrtl-hktsh-htchtvn-lgv-21584-lego-minecraft-i23ksy
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: היכנסו לפורטל התחתון ולפורטל הסוף כדי לחקור ביומים חדשים, להשתתף בקרב לצד גיבור מגניב, להיאבק נגד אנדרמן ולפגוש הוגלין תינוק. אתם לגמרי מצוידים להרפתקאות שופעות אקשן של Minecraft® כשאתם חמושים בקשת קסומה ובשיקוי מרפא! באיזה מהפורטלים תבחרו להיכנס קודם?
+- Image: https://parktoys.co.il/assets/product-1785701641009-l7m2r.webp
 
 ### לגו Minecraft® - הגן החיוור (21586)
 https://parktoys.co.il/product/lgv-minecraft-hgn-hchyvvr-21586-i5gj23
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/arkt-ryynbv-hyy-lytls-chnvt-kynvchym-mtvkh-am-bvb
 - Category: בובות/ברבי
 - Description: ברוכים הבאים לחנות הקינוחים המתוקה של Rainbow High Littles! הסט כולל בובת "ליטלס" קטנה, חמודה וגמישה, לצד דוכן חנות קינוחים צבעוני, מעוצב ומלא בסטייל. הערכה מגיעה עם מגוון אביזרים מגרים למשחק: גביעי גלידה, כדורי גלידה להרכבה, ארטיקים, כפית הגשה ומבחר קינוחים צבעוניים. הסט מושלם למשחק תפקידים יצירתי, מפתח את הדמיון ומתאים גם כתוספת נפלאה לעולם של בובות הריינבו היי הגדולות. מתאים לגילאי 4 ומעלה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784462802837-vgeiac.webp
-
-### ערכת ברבי מורה וילדה בבית הספר עם אביזרים
-https://parktoys.co.il/product/arkt-brby-mvrh-vyldh-bbyt-hspr-am-abyzrym-sinoo5
-- Price: 119.90 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: סט משחק ברבי מורה מזמין את הילדים לנהל כיתה משלהם! הערכה כוללת בובת ברבי בלוק מקצועי, בובת ילדה מתוקה (תלמידה) ומגוון אביזרי לימוד מושלמים: לוח כיתה אינטראקטיבי, כיסא קטן לתלמידה, מחשב נייד, ספר, מספרים בטיחותיים, דבק, מחברת ותיק גב. הסט מעודד משחק תפקידים יצירתי, ביטוי עצמי ופיתוח מיומנויות חברתיות דרך עולם הלמידה. מתאים לגילאי 3 ומעלה
-- Image: https://parktoys.co.il/assets/product-1784458681599-hrdf59.webp
 
 ---
 

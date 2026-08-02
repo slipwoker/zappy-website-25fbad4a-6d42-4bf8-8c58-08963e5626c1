@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T20:13:15.760Z",
+  "generated_at": "2026-08-02T20:15:31.145Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 382,
+  "count": 383,
   "products": [
+    {
+      "id": "73667ce0-e78b-4962-b3dc-924275bd0514",
+      "slug": "msa-lpvrtl-hktsh-htchtvn-lgv-21584-lego-minecraft-i23ksy",
+      "name": "מסע לפורטל הקצה התחתון לגו 21584 LEGO Minecraft",
+      "name_translations": {},
+      "description": "",
+      "short_description": "היכנסו לפורטל התחתון ולפורטל הסוף כדי לחקור ביומים חדשים, להשתתף בקרב לצד גיבור מגניב, להיאבק נגד אנדרמן ולפגוש הוגלין תינוק. אתם לגמרי מצוידים להרפתקאות שופעות אקשן של Minecraft® כשאתם חמושים בקשת קסומה ובשיקוי מרפא! באיזה מהפורטלים תבחרו להיכנס קודם?",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785701641009-l7m2r.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/msa-lpvrtl-hktsh-htchtvn-lgv-21584-lego-minecraft-i23ksy",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-08-02T20:14:56.315Z"
+    },
     {
       "id": "dcff3211-1d4a-463b-8e8a-f25adb6488a2",
       "slug": "lgv-minecraft-hgn-hchyvvr-21586-i5gj23",
