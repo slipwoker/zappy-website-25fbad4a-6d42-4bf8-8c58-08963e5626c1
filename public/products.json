@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T11:18:51.827Z",
+  "generated_at": "2026-08-02T11:19:46.887Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 373,
@@ -5104,7 +5104,7 @@
     },
     {
       "id": "b9f4fb0d-b893-46bd-a323-d61ff9a5a158",
-      "slug": "mprts-hhrptkavt-rkb-bsysy-tsyys-7ifnco",
+      "slug": "mprts-hhrptkavt-rkb-bsysy-tsyys-862jew",
       "name": "מפרץ ההרפתקאות - רכב בסיסי צייס",
       "name_translations": {},
       "description": "",
@@ -5120,11 +5120,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-tsyys-7ifnco",
+      "url": "https://parktoys.co.il/product/mprts-hhrptkavt-rkb-bsysy-tsyys-862jew",
       "categories": [
         "צעוצעים לבנים /דמויות/מותגים"
       ],
-      "updated_at": "2026-07-16T10:50:34.036Z"
+      "updated_at": "2026-08-02T11:19:12.347Z"
     },
     {
       "id": "dc3f7b81-b24c-4d16-9db2-a3d7a38b690c",
