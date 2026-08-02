@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T08:57:21.816Z",
+  "generated_at": "2026-08-02T08:58:27.144Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2314,7 +2314,7 @@
     },
     {
       "id": "59ac2d86-f376-4ac2-963b-a56c6edcc1f8",
-      "slug": "mvbyyl-tsypvrym-nyyd-dgk4yd",
+      "slug": "mvbyyl-tsypvrym-nyyd-855jpk",
       "name": "מובייל ציפורים נייד",
       "name_translations": {},
       "description": "",
@@ -2330,11 +2330,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mvbyyl-tsypvrym-nyyd-dgk4yd",
+      "url": "https://parktoys.co.il/product/mvbyyl-tsypvrym-nyyd-855jpk",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T10:00:41.586Z"
+      "updated_at": "2026-08-02T08:57:54.331Z"
     },
     {
       "id": "003392a3-a8da-44c4-99ca-03992cf7dea7",
