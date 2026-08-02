@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T07:20:33.808Z",
+  "generated_at": "2026-08-02T07:21:39.193Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -943,7 +943,7 @@
     },
     {
       "id": "50b4ec6d-5a9e-400c-ab14-e42c01ea0b28",
-      "slug": "slyym-mart-tart-dvbdbnym-sy5mc5",
+      "slug": "slyym-mart-tart-dvbdbnym-hkq6w4",
       "name": "סליים מארט - טארט דובדבנים",
       "name_translations": {},
       "description": "",
@@ -960,11 +960,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/slyym-mart-tart-dvbdbnym-sy5mc5",
+      "url": "https://parktoys.co.il/product/slyym-mart-tart-dvbdbnym-hkq6w4",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
-      "updated_at": "2026-07-27T13:15:14.781Z"
+      "updated_at": "2026-08-02T07:21:02.166Z"
     },
     {
       "id": "7eb547e9-8429-4a33-b013-4a0938665040",
