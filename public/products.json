@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:51:58.031Z",
+  "generated_at": "2026-08-02T09:52:33.307Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -3487,7 +3487,7 @@
     },
     {
       "id": "f2ba353e-f97e-493f-8ca6-780c3cdc7721",
-      "slug": "scania-mshayt-myksr-btvn-37-sm-38p21z",
+      "slug": "scania-mshayt-myksr-btvn-37-sm-7ew45n",
       "name": "SCANIA משאית מיקסר בטון 37 ס\"מ",
       "name_translations": {},
       "description": "",
@@ -3503,11 +3503,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/scania-mshayt-myksr-btvn-37-sm-38p21z",
+      "url": "https://parktoys.co.il/product/scania-mshayt-myksr-btvn-37-sm-7ew45n",
       "categories": [
         "צעצועי שלט/מסלולי מכוניות/מכוניות "
       ],
-      "updated_at": "2026-07-21T16:23:45.831Z"
+      "updated_at": "2026-08-02T09:52:00.751Z"
     },
     {
       "id": "279279fa-6176-4b18-9ed7-e495fb2cbdd8",
