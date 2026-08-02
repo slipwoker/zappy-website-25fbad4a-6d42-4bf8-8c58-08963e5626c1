@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:49:53.037Z",
+  "generated_at": "2026-08-02T09:51:18.140Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -3439,7 +3439,7 @@
     },
     {
       "id": "d6a35898-4814-47da-bc8a-1c577a83685e",
-      "slug": "scania-mshayt-mchprvn-am-avrvt-vtslylym-hqzg28",
+      "slug": "scania-mshayt-mchprvn-am-avrvt-vtslylym-rmqwu8",
       "name": "SCANIA משאית מחפרון עם אורות וצלילים",
       "name_translations": {},
       "description": "",
@@ -3455,11 +3455,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/scania-mshayt-mchprvn-am-avrvt-vtslylym-hqzg28",
+      "url": "https://parktoys.co.il/product/scania-mshayt-mchprvn-am-avrvt-vtslylym-rmqwu8",
       "categories": [
         "צעצועי שלט/מסלולי מכוניות/מכוניות "
       ],
-      "updated_at": "2026-07-21T16:36:35.424Z"
+      "updated_at": "2026-08-02T09:50:44.114Z"
     },
     {
       "id": "d6da60b6-c4ba-46f6-b520-6e337eba0ff3",
