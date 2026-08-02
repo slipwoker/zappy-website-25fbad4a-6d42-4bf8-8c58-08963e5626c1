@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:12:57.180Z",
+  "generated_at": "2026-08-02T09:13:42.187Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2409,7 +2409,7 @@
     },
     {
       "id": "1796b4d0-6b73-484c-9116-c1992c71ce0b",
-      "slug": "htablt-hchkm-shly-zcm99v",
+      "slug": "htablt-hchkm-shly-56t0u2",
       "name": "הטאבלט החכם שלי",
       "name_translations": {},
       "description": "",
@@ -2425,11 +2425,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/htablt-hchkm-shly-zcm99v",
+      "url": "https://parktoys.co.il/product/htablt-hchkm-shly-56t0u2",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T09:14:31.737Z"
+      "updated_at": "2026-08-02T09:13:07.959Z"
     },
     {
       "id": "2491eefc-ad32-40bc-ab85-2243c231ce49",
