@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T07:54:57.074Z",
+  "generated_at": "2026-08-02T07:55:32.043Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -1259,7 +1259,7 @@
     },
     {
       "id": "34ea1594-0112-4c9d-a6cf-6a6fe778e04c",
-      "slug": "mzrvn-kmpyng-mtnpch-2273191-sm-kpwi5b",
+      "slug": "mzrvn-kmpyng-mtnpch-2273191-sm-sftu87",
       "name": "מזרון קמפינג מתנפח 22*73*191 ס\"מ",
       "name_translations": {},
       "description": "",
@@ -1275,11 +1275,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mzrvn-kmpyng-mtnpch-2273191-sm-kpwi5b",
+      "url": "https://parktoys.co.il/product/mzrvn-kmpyng-mtnpch-2273191-sm-sftu87",
       "categories": [
         "מוצרי קיץ "
       ],
-      "updated_at": "2026-07-23T13:04:32.738Z"
+      "updated_at": "2026-08-02T07:54:57.419Z"
     },
     {
       "id": "21d1d865-8269-4683-b9a1-9ba65604fb54",
