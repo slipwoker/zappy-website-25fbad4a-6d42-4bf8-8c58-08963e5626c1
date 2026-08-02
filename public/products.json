@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:40:53.108Z",
+  "generated_at": "2026-08-02T09:41:38.119Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2817,7 +2817,7 @@
     },
     {
       "id": "5827e6df-bffa-425d-bd8d-d3bd96f8343f",
-      "slug": "htablt-hrashvn-shly-70j007",
+      "slug": "htablt-hrashvn-shly-goaiv8",
       "name": "הטאבלט הראשון שלי",
       "name_translations": {},
       "description": "",
@@ -2833,11 +2833,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/htablt-hrashvn-shly-70j007",
+      "url": "https://parktoys.co.il/product/htablt-hrashvn-shly-goaiv8",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T07:47:44.408Z"
+      "updated_at": "2026-08-02T09:41:04.770Z"
     },
     {
       "id": "4e457458-09de-4e5e-a70c-d01473b58731",
