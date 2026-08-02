@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 372** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### לגו מיינקראפט קרב בנתר הלבה 21266 | Lego
-https://parktoys.co.il/product/lgv-myynkrapt-krb-bntr-hlbh-21266-lego-4fo02l
+https://parktoys.co.il/product/lgv-myynkrapt-krb-bntr-hlbh-21266-lego-d9lpup
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לגו-lego
