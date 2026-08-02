@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:43:53.504Z",
+  "generated_at": "2026-08-02T09:44:28.187Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2889,7 +2889,7 @@
     },
     {
       "id": "3ca66804-740c-41ad-b7c3-9356c51cff92",
-      "slug": "spr-hmylym-hrashvn-shly-g68pt5",
+      "slug": "spr-hmylym-hrashvn-shly-1ooscg",
       "name": "ספר המילים הראשון שלי",
       "name_translations": {},
       "description": "",
@@ -2905,9 +2905,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/spr-hmylym-hrashvn-shly-g68pt5",
+      "url": "https://parktoys.co.il/product/spr-hmylym-hrashvn-shly-1ooscg",
       "categories": [],
-      "updated_at": "2026-07-22T07:37:46.861Z"
+      "updated_at": "2026-08-02T09:43:54.987Z"
     },
     {
       "id": "504dd65a-ffcf-496e-9f2f-9a12f8336b46",
