@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T07:50:47.215Z",
+  "generated_at": "2026-08-02T07:51:26.268Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -1187,7 +1187,7 @@
     },
     {
       "id": "668eabe7-d176-4d55-8836-408d68263674",
-      "slug": "zvg-mtsvpym-mtnpchym-batmn-23x15-sm-m84tth",
+      "slug": "zvg-mtsvpym-mtnpchym-batmn-23x15-sm-ezh4kf",
       "name": "זוג מצופים מתנפחים באטמן 23X15 ס\"מ",
       "name_translations": {},
       "description": "",
@@ -1203,11 +1203,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/zvg-mtsvpym-mtnpchym-batmn-23x15-sm-m84tth",
+      "url": "https://parktoys.co.il/product/zvg-mtsvpym-mtnpchym-batmn-23x15-sm-ezh4kf",
       "categories": [
         "מוצרי קיץ "
       ],
-      "updated_at": "2026-07-23T16:34:47.482Z"
+      "updated_at": "2026-08-02T07:50:52.290Z"
     },
     {
       "id": "3316b804-45bb-4594-9ef9-b9d072409dbe",
