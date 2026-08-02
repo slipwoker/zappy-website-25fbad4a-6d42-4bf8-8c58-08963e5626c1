@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T07:56:16.839Z",
+  "generated_at": "2026-08-02T07:57:42.374Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -1307,7 +1307,7 @@
     },
     {
       "id": "49ae17aa-6ac4-4afc-b8cf-f162d5207aee",
-      "slug": "mzrvn-ym-vrd-advm-5e6z69",
+      "slug": "mzrvn-ym-vrd-advm-p42y58",
       "name": "מזרון ים ורד אדום",
       "name_translations": {},
       "description": "",
@@ -1323,11 +1323,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mzrvn-ym-vrd-advm-5e6z69",
+      "url": "https://parktoys.co.il/product/mzrvn-ym-vrd-advm-p42y58",
       "categories": [
         "מוצרי קיץ "
       ],
-      "updated_at": "2026-07-23T12:44:06.139Z"
+      "updated_at": "2026-08-02T07:57:08.408Z"
     },
     {
       "id": "9b284346-c470-436b-80f8-cbcb4e98c7ed",
