@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:17:27.338Z",
+  "generated_at": "2026-08-02T09:18:02.127Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2551,7 +2551,7 @@
     },
     {
       "id": "c4e1ce1a-4659-4929-97f2-49f8f0fb1543",
-      "slug": "kdvr-htnvah-bx47oj",
+      "slug": "kdvr-htnvah-0c3ohc",
       "name": "כדור התנועה",
       "name_translations": {},
       "description": "",
@@ -2567,11 +2567,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kdvr-htnvah-bx47oj",
+      "url": "https://parktoys.co.il/product/kdvr-htnvah-0c3ohc",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T08:44:58.082Z"
+      "updated_at": "2026-08-02T09:17:27.200Z"
     },
     {
       "id": "26e31952-52de-4307-bbf1-634ca1900ffe",
