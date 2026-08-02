@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T12:24:08.887Z",
+  "generated_at": "2026-08-02T12:26:14.013Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 375,
@@ -31,7 +31,7 @@
     },
     {
       "id": "ed1b758c-0e25-4f2d-8805-ee86499f99d8",
-      "slug": "rkb-hhtslh-shl-skyy-mprts-hhrptkavt-4i1xe5",
+      "slug": "rkb-hhtslh-shl-skyy-mprts-hhrptkavt-dn8ydj",
       "name": "רכב ההצלה של סקיי מפרץ ההרפתקאות",
       "name_translations": {},
       "description": "",
@@ -42,14 +42,16 @@
       "base_price": 95,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785673467165-tqg51m.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/rkb-hhtslh-shl-skyy-mprts-hhrptkavt-4i1xe5",
+      "url": "https://parktoys.co.il/product/rkb-hhtslh-shl-skyy-mprts-hhrptkavt-dn8ydj",
       "categories": [
         "צעוצעים לבנים /דמויות/מותגים"
       ],
-      "updated_at": "2026-08-02T11:24:50.134Z"
+      "updated_at": "2026-08-02T12:25:37.086Z"
     },
     {
       "id": "11169e8a-d89e-492b-a456-db03a74c7c2e",
