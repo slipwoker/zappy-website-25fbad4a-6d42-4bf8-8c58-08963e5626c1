@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T10:20:23.884Z",
+  "generated_at": "2026-08-02T10:20:33.706Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -3923,7 +3923,7 @@
     },
     {
       "id": "96de5471-0883-4504-9bc5-a4efdd3fe030",
-      "slug": "brby-kvlvr-rybl-shmsh-annym-fxr9vd",
+      "slug": "brby-kvlvr-rybl-shmsh-annym-p85nbn",
       "name": "ברבי קולור ריבל שמש עננים",
       "name_translations": {},
       "description": "",
@@ -3939,11 +3939,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/brby-kvlvr-rybl-shmsh-annym-fxr9vd",
+      "url": "https://parktoys.co.il/product/brby-kvlvr-rybl-shmsh-annym-p85nbn",
       "categories": [
         "בובות/ברבי"
       ],
-      "updated_at": "2026-07-21T08:10:47.685Z"
+      "updated_at": "2026-08-02T10:20:31.816Z"
     },
     {
       "id": "1a36491b-0107-4684-af3b-901023b7e079",
