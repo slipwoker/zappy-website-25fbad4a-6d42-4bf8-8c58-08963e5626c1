@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T12:52:09.715Z",
+  "generated_at": "2026-08-02T12:57:24.816Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 377,
+  "count": 378,
   "products": [
+    {
+      "id": "905e848e-a88c-4f64-8e47-abf78d80351b",
+      "slug": "lgv-gybvry-al-spyydrmn-ngd-gvst-ryydr-al-avpnva-76335-mgwmfr",
+      "name": "לגו גיבורי על ספיידרמן נגד גוסט ריידר על אופנוע 76335",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הניעו את מרדף האקשן של גיבורי-על עם צעצוע הבנייה (76335) של ספיידרמן נגד גוסט ריידר על אופנוע לילדים וילדות בגילאי 6 ומעלה. האופנוע המצוייד לקרב מסט הבנייה של LEGO ǀ Marvel® ו-2 מיני-דמויות של ספיידרמן וגוסט ריידר מתדלקים את משחקי הדמיון של ילדים. המיני-דמות של גוסט ריידר מופיעה בצורת שלד עם להבות הבוערות בידיו ובראשו. האופנוע האיקוני שלו כולל 2 צינורות פליטה בוערים ו-2 משגרי בליטות מובנים. חבל רשת של ספיידרמן נצמד לאופנוע ומציע אינסוף אפשרויות למשחקי תפקידים בזמן שהדמויות נלחמות על ומחוץ לכלי ה",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785675280546-h1u2p.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-gybvry-al-spyydrmn-ngd-gvst-ryydr-al-avpnva-76335-mgwmfr",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-08-02T12:56:50.867Z"
+    },
     {
       "id": "eedf96cb-caca-45f9-b4c8-fa8a19e1f01e",
       "slug": "lego-lgv-gybvry-al-spyydrmn-bmkvnyt-ngd-vvnvmyyzd-vvlbryn-76336-59xmf3",
