@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:48:08.363Z",
+  "generated_at": "2026-08-02T09:49:13.336Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2982,7 +2982,7 @@
     },
     {
       "id": "ad8c642e-3a4d-4827-9797-2caf6dec8d24",
-      "slug": "mylvn-htslylym-hrashvn-shly-g2wrbd",
+      "slug": "mylvn-htslylym-hrashvn-shly-bdkbui",
       "name": "מילון הצלילים הראשון שלי",
       "name_translations": {},
       "description": "",
@@ -2999,11 +2999,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mylvn-htslylym-hrashvn-shly-g2wrbd",
+      "url": "https://parktoys.co.il/product/mylvn-htslylym-hrashvn-shly-bdkbui",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T07:20:04.711Z"
+      "updated_at": "2026-08-02T09:48:36.352Z"
     },
     {
       "id": "ae683d8a-84d6-455e-ab2b-6a4e526bb6a9",
