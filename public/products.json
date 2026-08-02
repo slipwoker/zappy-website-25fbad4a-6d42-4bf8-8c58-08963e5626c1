@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T10:25:08.866Z",
+  "generated_at": "2026-08-02T10:26:03.931Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -4065,7 +4065,7 @@
     },
     {
       "id": "dcac445b-15e0-4719-a8b6-2e31aa43b08d",
-      "slug": "bvbt-brby-hmdanyt-arkt-mda-fv465m",
+      "slug": "bvbt-brby-hmdanyt-arkt-mda-ew9a4f",
       "name": "בובת ברבי המדענית ערכת מדע.",
       "name_translations": {},
       "description": "",
@@ -4081,11 +4081,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/bvbt-brby-hmdanyt-arkt-mda-fv465m",
+      "url": "https://parktoys.co.il/product/bvbt-brby-hmdanyt-arkt-mda-ew9a4f",
       "categories": [
         "בובות/ברבי"
       ],
-      "updated_at": "2026-07-21T07:02:32.261Z"
+      "updated_at": "2026-08-02T10:25:27.372Z"
     },
     {
       "id": "39cd966c-7847-4004-b442-8f0c18b0705f",
