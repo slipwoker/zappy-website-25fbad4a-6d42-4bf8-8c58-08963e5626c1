@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T07:19:49.123Z",
+  "generated_at": "2026-08-02T07:20:33.808Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -919,7 +919,7 @@
     },
     {
       "id": "f639a744-68fd-4189-93b8-d1bbe367760f",
-      "slug": "slyym-mart-avgt-yvm-hvldt-97bpmc",
+      "slug": "slyym-mart-avgt-yvm-hvldt-vxvira",
       "name": "סליים מארט -עוגת יום הולדת",
       "name_translations": {},
       "description": "",
@@ -935,11 +935,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/slyym-mart-avgt-yvm-hvldt-97bpmc",
+      "url": "https://parktoys.co.il/product/slyym-mart-avgt-yvm-hvldt-vxvira",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
-      "updated_at": "2026-07-27T13:07:21.877Z"
+      "updated_at": "2026-08-02T07:19:56.416Z"
     },
     {
       "id": "50b4ec6d-5a9e-400c-ab14-e42c01ea0b28",
