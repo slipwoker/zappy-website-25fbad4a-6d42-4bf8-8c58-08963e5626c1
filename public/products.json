@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:55:08.357Z",
+  "generated_at": "2026-08-02T09:56:18.577Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -3583,7 +3583,7 @@
     },
     {
       "id": "5383d48d-5d7d-4e83-a502-0dbcb04cdc0e",
-      "slug": "scania-mshayt-kybvy-ash-am-mnvp-avrvt-vtslylym-8fpuhe",
+      "slug": "scania-mshayt-kybvy-ash-am-mnvp-avrvt-vtslylym-nz4a52",
       "name": "SCANIA משאית כיבוי אש עם מנוף אורות וצלילים",
       "name_translations": {},
       "description": "",
@@ -3599,15 +3599,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/scania-mshayt-kybvy-ash-am-mnvp-avrvt-vtslylym-8fpuhe",
+      "url": "https://parktoys.co.il/product/scania-mshayt-kybvy-ash-am-mnvp-avrvt-vtslylym-nz4a52",
       "categories": [
         "צעצועי שלט/מסלולי מכוניות/מכוניות "
       ],
-      "updated_at": "2026-07-21T15:19:07.108Z"
+      "updated_at": "2026-08-02T09:55:15.081Z"
     },
     {
       "id": "aef35dab-2f67-40c5-9c48-090fb871f84a",
-      "slug": "arkt-btsk-chgygt-glydvt-0o0fag",
+      "slug": "arkt-btsk-chgygt-glydvt-1vhetz",
       "name": "ערכת בצק – חגיגת גלידות",
       "name_translations": {},
       "description": "",
@@ -3623,11 +3623,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/arkt-btsk-chgygt-glydvt-0o0fag",
+      "url": "https://parktoys.co.il/product/arkt-btsk-chgygt-glydvt-1vhetz",
       "categories": [
         "משחקי יצירה"
       ],
-      "updated_at": "2026-07-21T13:36:46.681Z"
+      "updated_at": "2026-08-02T09:55:45.060Z"
     },
     {
       "id": "ea0ea903-0479-4d9d-9ac1-21b0b72f6a97",
