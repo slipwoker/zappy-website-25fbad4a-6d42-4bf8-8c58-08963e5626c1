@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T07:43:29.744Z",
+  "generated_at": "2026-08-02T07:44:14.355Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -1066,7 +1066,7 @@
     },
     {
       "id": "9c99ca93-c333-4141-bc17-e48e8fe2b5cf",
-      "slug": "ama-pylh-vpylvnym-bhptah-pets-alive-mbyt-zuru-n9piwl",
+      "slug": "ama-pylh-vpylvnym-bhptah-pets-alive-mbyt-zuru-7bm20p",
       "name": "אמא פילה ופילונים בהפתעה Pets Alive מבית Zuru",
       "name_translations": {},
       "description": "<p><strong>אמא פילה ופילונים בהפתעה Pets Alive מבית Zuru</strong></p><p>משפחת הפילים של Pets Alive משלבת הפתעה, תנועה וצלילים במשחק אחד. בכל מארז מסתתרים 2, 3 או 4 פילונים, כך שרק בעת הפתיחה מגלים כמה מהם הצטרפו לאמא פילה.</p><p>אמא פילה הולכת ומשמיעה קולות של פיל, והחלקים הנעים מעניקים לה תנועה מציאותית יותר. הפילונים מתחברים זה לזה ולאמא באמצעות החדקים ויוצרים שיירה משפחתית ההולכת בעקבותיה.</p><p>הציפוי הרך והמשחק סביב גילוי הפילונים מעודדים דמיון, המצאת סיפורים, איסוף ומשחקי משפחה וטיפול בבעלי חיים.</p>",
@@ -1083,11 +1083,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/ama-pylh-vpylvnym-bhptah-pets-alive-mbyt-zuru-n9piwl",
+      "url": "https://parktoys.co.il/product/ama-pylh-vpylvnym-bhptah-pets-alive-mbyt-zuru-7bm20p",
       "categories": [
         "בובות/ברבי"
       ],
-      "updated_at": "2026-07-26T16:15:23.715Z"
+      "updated_at": "2026-08-02T07:43:40.614Z"
     },
     {
       "id": "a983c00a-5338-48cd-b699-065461722a0f",
