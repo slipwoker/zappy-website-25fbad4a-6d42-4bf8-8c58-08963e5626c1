@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T07:02:53.359Z",
+  "generated_at": "2026-08-02T07:04:23.534Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -415,7 +415,7 @@
     },
     {
       "id": "b07be44e-f00f-46e2-83c2-455e28a0687e",
-      "slug": "lgv-nynggv-rvbvt-hkrb-shl-zayyn-71827-lego-58t8ru",
+      "slug": "lgv-nynggv-rvbvt-hkrb-shl-zayyn-71827-lego-gyv92n",
       "name": "לגו נינג'גו רובוט הקרב של זאיין 71827 | Lego",
       "name_translations": {},
       "description": "",
@@ -431,11 +431,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/lgv-nynggv-rvbvt-hkrb-shl-zayyn-71827-lego-58t8ru",
+      "url": "https://parktoys.co.il/product/lgv-nynggv-rvbvt-hkrb-shl-zayyn-71827-lego-gyv92n",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-07-29T16:09:12.048Z"
+      "updated_at": "2026-08-02T07:03:46.076Z"
     },
     {
       "id": "3289dd61-69a1-403c-bee4-e2c3db9a9310",
@@ -631,7 +631,7 @@
     },
     {
       "id": "9ba0cf8b-2587-4cfe-b6bf-820d4364e37b",
-      "slug": "lego-lgv-syty-mshayt-rkb-shtch-60447-dy0hej",
+      "slug": "lego-lgv-syty-mshayt-rkb-shtch-60447-p51wh8",
       "name": " Lego לגו סיטי משאית רכב שטח 60447",
       "name_translations": {},
       "description": "",
@@ -647,11 +647,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/lego-lgv-syty-mshayt-rkb-shtch-60447-dy0hej",
+      "url": "https://parktoys.co.il/product/lego-lgv-syty-mshayt-rkb-shtch-60447-p51wh8",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-07-29T14:51:52.274Z"
+      "updated_at": "2026-08-02T07:04:22.282Z"
     },
     {
       "id": "a4f8a0c0-571d-4f71-9b4a-eef5415c0be3",
