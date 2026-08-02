@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:39:38.330Z",
+  "generated_at": "2026-08-02T09:40:18.040Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2769,7 +2769,7 @@
     },
     {
       "id": "10127d2b-f2c3-49d8-a94e-5d29924e0baa",
-      "slug": "trktvr-chyvt-chvvh-dvbr-abryt-o01zeo",
+      "slug": "trktvr-chyvt-chvvh-dvbr-abryt-hr1v0j",
       "name": "טרקטור חיות חווה – דובר עברית",
       "name_translations": {},
       "description": "",
@@ -2785,15 +2785,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/trktvr-chyvt-chvvh-dvbr-abryt-o01zeo",
+      "url": "https://parktoys.co.il/product/trktvr-chyvt-chvvh-dvbr-abryt-hr1v0j",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T07:58:31.918Z"
+      "updated_at": "2026-08-02T09:39:41.857Z"
     },
     {
       "id": "d0743b68-7d80-45d9-95f9-6fc887e1c189",
-      "slug": "hmkrr-hrashvn-shly-dvbr-abryt-sgw31h",
+      "slug": "hmkrr-hrashvn-shly-dvbr-abryt-l383pl",
       "name": "המקרר הראשון שלי – דובר עברית",
       "name_translations": {},
       "description": "",
@@ -2809,11 +2809,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/hmkrr-hrashvn-shly-dvbr-abryt-sgw31h",
+      "url": "https://parktoys.co.il/product/hmkrr-hrashvn-shly-dvbr-abryt-l383pl",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T07:54:06.112Z"
+      "updated_at": "2026-08-02T09:40:17.446Z"
     },
     {
       "id": "5827e6df-bffa-425d-bd8d-d3bd96f8343f",
