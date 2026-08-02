@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:18:02.127Z",
+  "generated_at": "2026-08-02T09:18:52.123Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2575,7 +2575,7 @@
     },
     {
       "id": "26e31952-52de-4307-bbf1-634ca1900ffe",
-      "slug": "chprprt-bsrt-nkmt-hptyshym-dvbr-abryt-1j6l5l",
+      "slug": "chprprt-bsrt-nkmt-hptyshym-dvbr-abryt-56ll6a",
       "name": "חפרפרת בסרט – נקמת הפטישים דובר עברית",
       "name_translations": {},
       "description": "",
@@ -2591,11 +2591,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chprprt-bsrt-nkmt-hptyshym-dvbr-abryt-1j6l5l",
+      "url": "https://parktoys.co.il/product/chprprt-bsrt-nkmt-hptyshym-dvbr-abryt-56ll6a",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T08:43:17.983Z"
+      "updated_at": "2026-08-02T09:18:30.715Z"
     },
     {
       "id": "adb78b3b-46ee-4c31-960c-8e989952f30a",
