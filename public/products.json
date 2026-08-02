@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T08:17:13.117Z",
+  "generated_at": "2026-08-02T08:20:38.566Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -1379,7 +1379,7 @@
     },
     {
       "id": "40c5f06a-6982-4d88-938a-cebaf77cecdf",
-      "slug": "mzrvn-brykh-btsvrt-hmbvrgr-sl3stm",
+      "slug": "mzrvn-brykh-btsvrt-hmbvrgr-6ql9dl",
       "name": "מזרון בריכה בצורת המבורגר",
       "name_translations": {},
       "description": "",
@@ -1395,11 +1395,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mzrvn-brykh-btsvrt-hmbvrgr-sl3stm",
+      "url": "https://parktoys.co.il/product/mzrvn-brykh-btsvrt-hmbvrgr-6ql9dl",
       "categories": [
         "מוצרי קיץ "
       ],
-      "updated_at": "2026-07-23T10:23:41.641Z"
+      "updated_at": "2026-08-02T08:20:02.338Z"
     },
     {
       "id": "17b9435e-7f87-4083-b4cf-c7b8e78cb4ba",
