@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:31:08.109Z",
+  "generated_at": "2026-08-02T09:38:18.131Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2721,7 +2721,7 @@
     },
     {
       "id": "42649383-d1b2-4113-be25-c57d0f70977a",
-      "slug": "kvbyyt-hpalvt-dvbrt-abryt-49u632",
+      "slug": "kvbyyt-hpalvt-dvbrt-abryt-15ojsr",
       "name": "קוביית הפעלות – דוברת עברית",
       "name_translations": {},
       "description": "",
@@ -2737,11 +2737,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kvbyyt-hpalvt-dvbrt-abryt-49u632",
+      "url": "https://parktoys.co.il/product/kvbyyt-hpalvt-dvbrt-abryt-15ojsr",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T08:06:25.274Z"
+      "updated_at": "2026-08-02T09:37:44.798Z"
     },
     {
       "id": "d500283d-a270-408b-8587-b0e7c147b47d",
