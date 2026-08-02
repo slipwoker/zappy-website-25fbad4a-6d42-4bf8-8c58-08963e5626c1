@@ -5811,6 +5811,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### לגו City - מכונית משטרה (60312)
+URL: https://parktoys.co.il/product/lgv-city-mkvnyt-mshtrh-60312-7zqm7j
+Price: 59.00 ILS
+Availability: In stock
+
+---
+
 ### מכונית מרוץ LEGO Technic 42229 Fast and Furious Mitsubishi Eclipse
 URL: https://parktoys.co.il/product/mkvnyt-mrvts-lego-technic-42229-fast-and-furious-mitsubishi-eclipse-rtsepi
 Price: 289.00 ILS

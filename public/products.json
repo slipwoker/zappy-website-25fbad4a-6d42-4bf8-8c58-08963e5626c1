@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T20:26:37.049Z",
+  "generated_at": "2026-08-02T20:28:52.313Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 386,
+  "count": 387,
   "products": [
+    {
+      "id": "8a3a5f5b-4e51-481b-8d5b-41dcb96d27e9",
+      "slug": "lgv-city-mkvnyt-mshtrh-60312-7zqm7j",
+      "name": "לגו City - מכונית משטרה (60312)",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכונית המשטרה עם החישוקים הרחבים, הפגושים המעוצבים והפנסים המגניבים משיגה את הנוכלים של LEGO® City. אין להם סיכוי כשהם עוצרים להתפעל מהמכונית. הדליקו את הפנס, שימו את כובע השוטרים, עלו על המכונית וסעו לעוד מרדפי-נוכלים בעיר!",
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785702487136-hz99y.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-city-mkvnyt-mshtrh-60312-7zqm7j",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-08-02T20:28:19.066Z"
+    },
     {
       "id": "4dbcf9d2-5917-43f2-ba1c-9a64c042d5c3",
       "slug": "mkvnyt-mrvts-lego-technic-42229-fast-and-furious-mitsubishi-eclipse-rtsepi",

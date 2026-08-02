@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 386** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 387** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו City - מכונית משטרה (60312)
+https://parktoys.co.il/product/lgv-city-mkvnyt-mshtrh-60312-7zqm7j
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: מכונית המשטרה עם החישוקים הרחבים, הפגושים המעוצבים והפנסים המגניבים משיגה את הנוכלים של LEGO® City. אין להם סיכוי כשהם עוצרים להתפעל מהמכונית. הדליקו את הפנס, שימו את כובע השוטרים, עלו על המכונית וסעו לעוד מרדפי-נוכלים בעיר!
+- Image: https://parktoys.co.il/assets/product-enhanced-1785702487136-hz99y.webp
 
 ### מכונית מרוץ LEGO Technic 42229 Fast and Furious Mitsubishi Eclipse
 https://parktoys.co.il/product/mkvnyt-mrvts-lego-technic-42229-fast-and-furious-mitsubishi-eclipse-rtsepi
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/dmvyvt-spyydy-vavpnva-ayyrvn-mn-qso1tz
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: ערכת המשחק הזו מציגה את הדמות איירון מן יחד עם האופנוע המהיר שלו, מתוך סדרת "ספיידי וחבריו המופלאים" דמות פעולה: הדמות של איירון מן בגובה של כ-10 ס"מ ובעלת מפרקים ניתנים להזזה. אופנוע צעצוע: האופנוע האדום והצהוב מעוצב בהשראת הסדרה וכולל גלגלים אמיתיים המאפשרים לילדים לדחוף אותו. גיל מומלץ: הצעצוע מתאים לילדים בגילאי 3 ומעלה
 - Image: https://parktoys.co.il/assets/product-enhanced-1784468891308-uxdllr.webp
-
-### דמויות ספיידי ואופנוע ספיידרמן (ספין)
-https://parktoys.co.il/product/dmvyvt-spyydy-vavpnva-spyydrmn-spyn-zwk7wg
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: ערכת משחק הכוללת דמות של מיילס מוראלס (ספין) בגובה של כ-10 ס"מ ואופנוע תואם. הדמות בעלת מפרקים ניתנים להזזה ומסוגלת לרכוב על האופנוע. הצעצוע מיוצר על ידי חברת Hasbro כחלק מסדרת "ספיידי וחבריו המדהימים" ומתאים לילדים מגיל 3 ומעלה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784468477857-w1pppp.webp
 
 ---
 
