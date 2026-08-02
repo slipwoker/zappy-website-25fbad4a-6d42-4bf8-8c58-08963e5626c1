@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 379** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 380** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו קריאטור קונסולת משחק רטרו 31380| Lego
+https://parktoys.co.il/product/lgv-kryatvr-kvnsvlt-mshchk-rtrv-31380-lego-x2axug
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: ילדים וחובבי משחקים בגילאי 8 ומעלה יהנו לבנות, לשחק ולהציג את LEGO® Creator 3 ב-1 – קונסולת משחק רטרו (31380) סט זה מאפשר לילדים ליצור 3 דגמי משחק שונים מאותו סט קוביות: קונסולת משחק ניידת עם 2 ג’ויסטיקים נעים, 2 כפתורים נעים ובחירה מתוך 3 קסטות משחק להכניס לתוכה. מחשב שולחני מיניאטורי הכולל מקלדת, מסך, דיסק להכניס ועמדת עכבר. מכונת משחק ארקייד עם פרטים אייקוניים ומזוהים מהקלאסיקות של משחקי הרטרו. כל דגם יכול לשמש גם כקישוט לחדר גיימרים, כאשר לא מתבצע משחק פעיל. באמצעות אפליקציית LEGO Builder, ה…
+- Image: https://parktoys.co.il/assets/product-1785677157560-xrcq4s.webp
 
 ### לגו Creator 3in1 – אוגר חמוד עם פרח (31376)
 https://parktoys.co.il/product/lgv-creator-3in1-avgr-chmvd-am-prch-31376-tr38lz
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/brby-drym-bstyz-rnh-kvkbt-hrsht-am-12-abyzrym-kh4
 - Category: בובות/ברבי
 - Description: בובת רנה מסדרת Barbie Dream Besties חולמת להנחות תוכנית אוכל וטיולים משלה! הבובה הגמישה מגיעה עם שיער שחור ארוך בעיטור גוונים סגולים מנצנצים, ולבושה בטופ סגול עם לב נוצץ, שורטס ג'ינס ומגפיים. הסט כולל 12 אביזרי אוכל ובלוגינג אופנתיים: מחשב נייד, תיק יד מעוצב כטוסט, משולש פיצה, בייגלה, שקית צ'יפס, שייק מפנק, טלפון נייד וכיסוי. מתאים לגילאי 4 ומעלה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784456880359-e47a3l.webp
-
-### ברבי דרים בסטיז – ערכת התארגנות וסטייל עם ברבי מליבו
-https://parktoys.co.il/product/brby-drym-bstyz-arkt-htargnvt-vstyyl-am-brby-mlybv-1v1p3r
-- Price: 119.89 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: הכירו את בובת הברבי החדשה מסדרת Dream Besties – ברבי "מליבו" מוכנה לערב בנות נוצץ וכיפי, והפעם הכל סובב סביב הסטייל, האיפור וההתארגנות (Glam)! הערכה הזו מעודדת ילדים וילדות לבטא את עצמם ואת היצירתיות שלהם דרך עולם האופנה, עיצוב השיער והטיפוח. בובת ברבי מליבו מסדרת Dream Besties מזמינה את הילדים לחגיגת סטייל ואיפור! הסט כולל בובה גמישה עם שיער ארוך ומעל 15 אביזרים מושלמים לערב בנות: חלוק התארגנות ומסכת עיניים, רולרים לשיער המסתירים הפתעות (כמו גיר צבעוני לשיער וקשת ענקית), שמלה נוצצת, נעלי עקב,
-- Image: https://parktoys.co.il/assets/product-enhanced-1784453820930-nju5eh.webp
 
 ---
 
