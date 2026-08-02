@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:25:17.617Z",
+  "generated_at": "2026-08-02T09:26:02.580Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2673,7 +2673,7 @@
     },
     {
       "id": "f0568903-fedb-4093-8788-bcf64a6528d7",
-      "slug": "chyvt-kvptsvt-dvbr-abryt-plqeoi",
+      "slug": "chyvt-kvptsvt-dvbr-abryt-999ilv",
       "name": "חיות קופצות דובר עברית",
       "name_translations": {},
       "description": "",
@@ -2689,11 +2689,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chyvt-kvptsvt-dvbr-abryt-plqeoi",
+      "url": "https://parktoys.co.il/product/chyvt-kvptsvt-dvbr-abryt-999ilv",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T08:12:00.787Z"
+      "updated_at": "2026-08-02T09:25:29.282Z"
     },
     {
       "id": "9b94f319-3924-4d4f-b646-123b12267328",
