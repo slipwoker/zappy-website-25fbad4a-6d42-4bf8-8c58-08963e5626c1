@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:12:11.929Z",
+  "generated_at": "2026-08-02T09:12:57.180Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2385,7 +2385,7 @@
     },
     {
       "id": "6107b50f-9e96-484f-8459-9aa61c716cf9",
-      "slug": "mshchk-zykrvn-vzryzvt-2-b-1-gdvl-dvbr-abryt-erzxrj",
+      "slug": "mshchk-zykrvn-vzryzvt-2-b-1-gdvl-dvbr-abryt-lkg70h",
       "name": "משחק זיכרון וזריזות 2 ב 1 גדול – דובר עברית",
       "name_translations": {},
       "description": "",
@@ -2401,11 +2401,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mshchk-zykrvn-vzryzvt-2-b-1-gdvl-dvbr-abryt-erzxrj",
+      "url": "https://parktoys.co.il/product/mshchk-zykrvn-vzryzvt-2-b-1-gdvl-dvbr-abryt-lkg70h",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T09:42:20.177Z"
+      "updated_at": "2026-08-02T09:12:20.832Z"
     },
     {
       "id": "1796b4d0-6b73-484c-9116-c1992c71ce0b",
