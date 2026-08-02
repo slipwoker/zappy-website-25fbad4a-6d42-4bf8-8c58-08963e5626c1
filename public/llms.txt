@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 380** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 381** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+###  לגו קריאטור – כלבלב שובב 31382
+https://parktoys.co.il/product/lgv-kryatvr-klblb-shvbb-31382-rxvxej
+- Price: 169.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: סט בנייה 3 ב-1 חיות חמודות: כלבלב שובב (31382) מסדרת LEGO Creator® מאפשר לילדים בגילאי 8 ומעלה לשחק סיפורים שופעים בחוויות כיפיות. צעצוע חיות חמוד זה לילדים וילדות מציע 3 אפשרויות בנייה שונות עם אותו סט של לבנים. ילדים יכולים לבחור האם לבנות כלב צעצוע עם ראש, אוזניים, רגליים, זנב, גבות ופה מתכווננים מאובזר עם קולר, צעצוע עצם וקערת מים. ניתן לבנות את הדגם מחדש בצורת צעצוע סנאי המחזיק בלוט עם ראש וזנב מתכווננים, או בצורת דגם של ברווז עם ראש מתכוונן על שפת בריכה מלאה בצמחים. בסיום המשחק, ניתן להציג…
+- Image: https://parktoys.co.il/assets/product-enhanced-1785677318410-oxvyvo.webp
 
 ### לגו קריאטור קונסולת משחק רטרו 31380| Lego
 https://parktoys.co.il/product/lgv-kryatvr-kvnsvlt-mshchk-rtrv-31380-lego-x2axug
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/brby-drym-bstyz-brby-mlybv-al-glgylyvt-am-abyzry-
 - Category: בובות/ברבי
 - Description: בובת ברבי "מליבו" מסדרת Dream Besties מוכנה להחליק בסטייל על גלגיליות! הבובה הגמישה מציגה שיער בלונדיני ארוך וגלי עם סיכות צבעוניות, ולבושה בטופ אופנתי, מכנסיים קצרים וגלגיליות מדליקות. הסט מגיע עם מגוון אביזרי בטיחות וסטייל מושלמים: קסדת מגן, מגני ברכיים, תיק גב קטן, חטיף, בקבוק שתייה וטלפון נייד. מתנה מושלמת ומלאת תנועה לילדים וילדות בגילאי 4 ומעלה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784458034504-ynzgci.webp
-
-### ברבי דרים בסטיז – רנה כוכבת הרשת (עם 12 אביזרים)
-https://parktoys.co.il/product/brby-drym-bstyz-rnh-kvkbt-hrsht-am-12-abyzrym-kh46ad
-- Price: 119.90 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: בובת רנה מסדרת Barbie Dream Besties חולמת להנחות תוכנית אוכל וטיולים משלה! הבובה הגמישה מגיעה עם שיער שחור ארוך בעיטור גוונים סגולים מנצנצים, ולבושה בטופ סגול עם לב נוצץ, שורטס ג'ינס ומגפיים. הסט כולל 12 אביזרי אוכל ובלוגינג אופנתיים: מחשב נייד, תיק יד מעוצב כטוסט, משולש פיצה, בייגלה, שקית צ'יפס, שייק מפנק, טלפון נייד וכיסוי. מתאים לגילאי 4 ומעלה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784456880359-e47a3l.webp
 
 ---
 
