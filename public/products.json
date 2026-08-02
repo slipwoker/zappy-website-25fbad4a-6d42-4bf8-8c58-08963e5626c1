@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T10:52:12.058Z",
+  "generated_at": "2026-08-02T11:17:21.982Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 372,
+  "count": 373,
   "products": [
+    {
+      "id": "11169e8a-d89e-492b-a456-db03a74c7c2e",
+      "slug": "rkb-hhtslh-shl-zvmh-mprts-hhrptkavt-1r5lp0",
+      "name": "רכב ההצלה של זומה מפרץ ההרפתקאות",
+      "name_translations": {},
+      "description": "",
+      "short_description": "צאו למשימות חילוץ מרגשות עם צוות מפרץ ההרפתקאות ברכבי ההצלה שלהם!\nלכל רכב יש גלגלים ענקיים עם עיצוב וסגנון אותנטיים שנראים ממש כמו הרכבים מהסדרה.\nהניחו את הדמות במושב הנהג כדי שיוכל לחלץ במהירות! כשמגיע הזמן לפעול, טענו אחד משני הקליעים לתוך משגר הקליעים ולחצו על הכפתור כדי לירות ולהפוך לגיבורי היום!\nצעצועי מפרץ ההרפתקאות מהווים מתנה נהדרת לילדים חובבי הסדרה, לעידוד משחק מלא דמיון ושיפור היכולות המוטוריות.",
+      "sku": null,
+      "brand": null,
+      "price": 95,
+      "base_price": 95,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785669344614-k93yml.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/rkb-hhtslh-shl-zvmh-mprts-hhrptkavt-1r5lp0",
+      "categories": [
+        "צעוצעים לבנים /דמויות/מותגים"
+      ],
+      "updated_at": "2026-08-02T11:16:47.740Z"
+    },
     {
       "id": "04e3e34d-69a8-4f66-9cc4-d25a34d4d73e",
       "slug": "lgv-myynkrapt-krb-bntr-hlbh-21266-lego-d9lpup",
