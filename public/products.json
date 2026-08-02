@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T20:28:52.313Z",
+  "generated_at": "2026-08-02T20:31:18.012Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 387,
+  "count": 388,
   "products": [
+    {
+      "id": "45e09ab5-86b3-4320-9fa9-35ca2e1f43b0",
+      "slug": "mshayt-hmbvrgrym-60404-lego-city-zqeox0",
+      "name": "משאית המבורגרים 60404 LEGO City",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכת לגו משאית המבורגרים מסדרת City בעלת 194 חלקים המתאימה לגיל 5 ומעלה. צרו סיפורים המבוססים על מגוון רחב של נושאים מרגשים ומרתקים מתרחישי החיים האמיתיים באמצעות משחק מעורר דמיון.",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785702603212-rg0zy9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mshayt-hmbvrgrym-60404-lego-city-zqeox0",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-08-02T20:30:40.681Z"
+    },
     {
       "id": "8a3a5f5b-4e51-481b-8d5b-41dcb96d27e9",
       "slug": "lgv-city-mkvnyt-mshtrh-60312-7zqm7j",
