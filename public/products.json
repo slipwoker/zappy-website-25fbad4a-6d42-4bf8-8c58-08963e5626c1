@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:44:28.187Z",
+  "generated_at": "2026-08-02T09:45:08.195Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2911,7 +2911,7 @@
     },
     {
       "id": "504dd65a-ffcf-496e-9f2f-9a12f8336b46",
-      "slug": "lylh-tvb-lvly-dvbrt-abryt-818g3u",
+      "slug": "lylh-tvb-lvly-dvbrt-abryt-6npki3",
       "name": "לילה טוב לולי – דוברת עברית",
       "name_translations": {},
       "description": "",
@@ -2927,11 +2927,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/lylh-tvb-lvly-dvbrt-abryt-818g3u",
+      "url": "https://parktoys.co.il/product/lylh-tvb-lvly-dvbrt-abryt-6npki3",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T07:32:56.066Z"
+      "updated_at": "2026-08-02T09:44:35.295Z"
     },
     {
       "id": "dd561fba-494d-4f58-bafc-ad8819f1db89",
