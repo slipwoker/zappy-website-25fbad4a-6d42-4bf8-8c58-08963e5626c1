@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T12:57:24.816Z",
+  "generated_at": "2026-08-02T13:24:10.496Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 378,
+  "count": 379,
   "products": [
+    {
+      "id": "73c54ee8-ac7f-4877-9ce9-a56ccf7bfa1e",
+      "slug": "lgv-creator-3in1-avgr-chmvd-am-prch-31376-tr38lz",
+      "name": "לגו Creator 3in1 – אוגר חמוד עם פרח (31376)",
+      "name_translations": {},
+      "description": "",
+      "short_description": "3 אפשרויות לבניית חיות צעצוע בסט 1\nבנו את הצעצוע 3 ב-1 של האוגר החמוד הזה מסדרת LEGO® Creator, ואז השתמשו באותן לבנים כדי לבנות אותו מחדש בצורה של קיפוד או עיט צעצוע.\n\nחוויה מהנה של משחק ובנייה\nחוויה מהנה של משחק ובנייה\nילדים בני 7 ומעלה יכולים ליהנות מבנייה שופעת בחוויות של כיף ואז לשחק סיפורים מרגשים עם 3 חיות צעצוע מתכווננות של ®LEGO.",
+      "sku": null,
+      "brand": null,
+      "price": 69.9,
+      "base_price": 69.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785676436251-hnup2r.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-creator-3in1-avgr-chmvd-am-prch-31376-tr38lz",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-08-02T13:23:34.725Z"
+    },
     {
       "id": "905e848e-a88c-4f64-8e47-abf78d80351b",
       "slug": "lgv-gybvry-al-spyydrmn-ngd-gvst-ryydr-al-avpnva-76335-mgwmfr",
