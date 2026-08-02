@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T07:16:59.273Z",
+  "generated_at": "2026-08-02T07:17:38.726Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -703,7 +703,7 @@
     },
     {
       "id": "2c759386-0be9-493d-9d2c-9904feef0d83",
-      "slug": "lgv-svnyk-tsyklvn-ngd-mtl-svnyk-77002-hh5cwz",
+      "slug": "lgv-svnyk-tsyklvn-ngd-mtl-svnyk-77002-mg235u",
       "name": " לגו סוניק ציקלון נגד מטל סוניק 77002",
       "name_translations": {},
       "description": "",
@@ -719,11 +719,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/lgv-svnyk-tsyklvn-ngd-mtl-svnyk-77002-hh5cwz",
+      "url": "https://parktoys.co.il/product/lgv-svnyk-tsyklvn-ngd-mtl-svnyk-77002-mg235u",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-07-29T14:16:59.789Z"
+      "updated_at": "2026-08-02T07:17:04.617Z"
     },
     {
       "id": "6789f7ba-49d5-4886-9a02-f1eaa5522a63",
