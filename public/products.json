@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T06:44:35.175Z",
+  "generated_at": "2026-08-02T06:48:10.536Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -583,7 +583,7 @@
     },
     {
       "id": "68926e74-80e5-4838-b4bd-14d40b7a9337",
-      "slug": "lgv-syty-mrdp-al-avpnva-mshtrh-60455-sr0va4",
+      "slug": "lgv-syty-mrdp-al-avpnva-mshtrh-60455-ngbde2",
       "name": "לגו סיטי מרדף על אופנוע משטרה 60455",
       "name_translations": {},
       "description": "",
@@ -599,11 +599,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/lgv-syty-mrdp-al-avpnva-mshtrh-60455-sr0va4",
+      "url": "https://parktoys.co.il/product/lgv-syty-mrdp-al-avpnva-mshtrh-60455-ngbde2",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-07-29T15:03:41.636Z"
+      "updated_at": "2026-08-02T06:47:35.343Z"
     },
     {
       "id": "ac4f3e46-832c-446f-a304-9bd55e522394",
