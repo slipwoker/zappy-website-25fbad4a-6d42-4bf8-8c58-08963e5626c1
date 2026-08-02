@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 383** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 384** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מצלמת רטרו 31147 LEGO Creator 3 in 1
+https://parktoys.co.il/product/mtslmt-rtrv-31147-lego-creator-3-in-1-9r1zmf
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: ערכת לגו אופנוע וינטג' מסדרת LEGO Creator 3 in 1 הכוללת 261 חלקים לגילאי 8 ומעלה. תהנו ממשחק מלא דמיון עם מצלמת הרטרו מסדרת LEGO Creator 3 in 1 וצרו דגמים שונים מאותם חלקי הלגו.
+- Image: https://parktoys.co.il/assets/product-1785702010772-vgh05j.webp
 
 ### מסע לפורטל הקצה התחתון לגו 21584 LEGO Minecraft
 https://parktoys.co.il/product/msa-lpvrtl-hktsh-htchtvn-lgv-21584-lego-minecraft-i23ksy
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/ryynbv-hyy-rash-bvbh-laytsvb-rainbow-high-rarmu8
 - Category: בובות/ברבי
 - Description: ראש בובה Rainbow High 4 ב-1 – סט עיצוב שיער ואופנה מרהיב! היכנסו לעולם של יצירתיות, צבע וסטייל עם ראש הבובה Rainbow High 4 ב-1 – הסט המושלם לעיצוב שיער, איפור ודמיון אינסופי! הבובה כוללת שיער ארוך, חלק ורך שניתן לסרק, לקלוע, לצבוע ולעצב – עם עשרות אביזרים שיאפשרו לילדות (ולילדים!) להפוך למעצבי שיער מקצועיים. ♀️ 4 פעילויות בסט אחד! עיצוב שיער צביעת שיער (עם צבעים זמניים ובטוחים לשימוש) הוספת אביזרים יצירת מראות שונים שוב ושוב! כולל מגוון רחב של אביזרים: סיכות, קליפסים, מסרקים, גומיו
 - Image: https://parktoys.co.il/assets/product-enhanced-1784466573967-zpyhjd.webp
-
-### ערכת ריינבו היי ליטלס – חנות קינוחים מתוקה עם בובה ואביזרים
-https://parktoys.co.il/product/arkt-ryynbv-hyy-lytls-chnvt-kynvchym-mtvkh-am-bvbh-vabyzrym-xyylif
-- Price: 129.89 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: ברוכים הבאים לחנות הקינוחים המתוקה של Rainbow High Littles! הסט כולל בובת "ליטלס" קטנה, חמודה וגמישה, לצד דוכן חנות קינוחים צבעוני, מעוצב ומלא בסטייל. הערכה מגיעה עם מגוון אביזרים מגרים למשחק: גביעי גלידה, כדורי גלידה להרכבה, ארטיקים, כפית הגשה ומבחר קינוחים צבעוניים. הסט מושלם למשחק תפקידים יצירתי, מפתח את הדמיון ומתאים גם כתוספת נפלאה לעולם של בובות הריינבו היי הגדולות. מתאים לגילאי 4 ומעלה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784462802837-vgeiac.webp
 
 ---
 
