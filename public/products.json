@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T07:46:24.499Z",
+  "generated_at": "2026-08-02T07:49:21.829Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -1139,7 +1139,7 @@
     },
     {
       "id": "79969307-3ea1-467e-ac93-26d6e55ce329",
-      "slug": "kdvr-mtnpch-baytsvb-hsdrh-svnyk-50-sm-isuqn1",
+      "slug": "kdvr-mtnpch-baytsvb-hsdrh-svnyk-50-sm-s23s11",
       "name": "כדור מתנפח בעיצוב הסדרה סוניק 50 ס''מ",
       "name_translations": {},
       "description": "",
@@ -1155,11 +1155,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kdvr-mtnpch-baytsvb-hsdrh-svnyk-50-sm-isuqn1",
+      "url": "https://parktoys.co.il/product/kdvr-mtnpch-baytsvb-hsdrh-svnyk-50-sm-s23s11",
       "categories": [
         "מוצרי קיץ "
       ],
-      "updated_at": "2026-07-23T16:46:05.258Z"
+      "updated_at": "2026-08-02T07:48:46.301Z"
     },
     {
       "id": "5769445b-2991-4078-9ca0-bd700d80431d",
