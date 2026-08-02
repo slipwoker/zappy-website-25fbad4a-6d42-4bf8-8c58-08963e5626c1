@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:16:07.223Z",
+  "generated_at": "2026-08-02T09:16:52.249Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2503,7 +2503,7 @@
     },
     {
       "id": "eed1c164-544a-490d-9dfd-9e0fa95d33fe",
-      "slug": "glgl-hanglyt-9wgevb",
+      "slug": "glgl-hanglyt-y7l8zg",
       "name": "גלגל האנגלית",
       "name_translations": {},
       "description": "",
@@ -2519,11 +2519,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/glgl-hanglyt-9wgevb",
+      "url": "https://parktoys.co.il/product/glgl-hanglyt-y7l8zg",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T08:54:35.663Z"
+      "updated_at": "2026-08-02T09:16:17.571Z"
     },
     {
       "id": "4a973838-07af-44c6-94da-d6614c7eaa3a",
