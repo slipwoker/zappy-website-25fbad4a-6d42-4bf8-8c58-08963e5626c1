@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T08:23:29.436Z",
+  "generated_at": "2026-08-02T08:24:36.907Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -1499,7 +1499,7 @@
     },
     {
       "id": "8806ddea-1ccf-4592-9750-40351aa447fe",
-      "slug": "brykh-mtnpcht-agvlh-mprts-hrptkavt-12030-sm-vuw0pt",
+      "slug": "brykh-mtnpcht-agvlh-mprts-hrptkavt-12030-sm-ikryru",
       "name": "בריכה מתנפחת עגולה מפרץ הרפתקאות 120/30 ס\"מ",
       "name_translations": {},
       "description": "",
@@ -1515,15 +1515,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/brykh-mtnpcht-agvlh-mprts-hrptkavt-12030-sm-vuw0pt",
+      "url": "https://parktoys.co.il/product/brykh-mtnpcht-agvlh-mprts-hrptkavt-12030-sm-ikryru",
       "categories": [
         "מוצרי קיץ "
       ],
-      "updated_at": "2026-07-23T09:40:43.202Z"
+      "updated_at": "2026-08-02T08:23:47.023Z"
     },
     {
       "id": "22bedae8-00ae-4431-8e9d-44245ff980c7",
-      "slug": "mshayt-am-shlt-tsby-hnyngh-yvrh-pytsvt-a0ew2d",
+      "slug": "mshayt-am-shlt-tsby-hnyngh-yvrh-pytsvt-qe957s",
       "name": "משאית עם שלט צבי הנינגה-יורה פיצות",
       "name_translations": {},
       "description": "",
@@ -1540,11 +1540,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mshayt-am-shlt-tsby-hnyngh-yvrh-pytsvt-a0ew2d",
+      "url": "https://parktoys.co.il/product/mshayt-am-shlt-tsby-hnyngh-yvrh-pytsvt-qe957s",
       "categories": [
         "צעצועי שלט/מסלולי מכוניות/מכוניות "
       ],
-      "updated_at": "2026-07-23T07:11:39.827Z"
+      "updated_at": "2026-08-02T08:24:17.880Z"
     },
     {
       "id": "96e21310-6c94-4c92-a0fe-8a10d5c19db2",
