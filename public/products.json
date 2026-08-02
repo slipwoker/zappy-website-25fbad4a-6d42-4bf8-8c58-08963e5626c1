@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T20:24:22.364Z",
+  "generated_at": "2026-08-02T20:26:37.049Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 385,
+  "count": 386,
   "products": [
+    {
+      "id": "4dbcf9d2-5917-43f2-ba1c-9a64c042d5c3",
+      "slug": "mkvnyt-mrvts-lego-technic-42229-fast-and-furious-mitsubishi-eclipse-rtsepi",
+      "name": "מכונית מרוץ LEGO Technic 42229 Fast and Furious Mitsubishi Eclipse",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הביאו את הריגוש של מרוצי רחוב לביתכם עם הסט של הדגם המפורט הזה לגילאי 14 ומעלה. עם הסט (42229) של מכונית Fast and Furious Mitsubishi Eclipse מסדרת LEGO® Technic, מתבגרים יכולים לבנות גרסה משלהם לרכב איקוני מהסרט מהיר ועצבני משנת 2001.",
+      "sku": null,
+      "brand": null,
+      "price": 289,
+      "base_price": 289,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785702279979-k2bjem.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mkvnyt-mrvts-lego-technic-42229-fast-and-furious-mitsubishi-eclipse-rtsepi",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-08-02T20:26:01.978Z"
+    },
     {
       "id": "5f76b01f-f409-45c0-b979-2c3842180dc8",
       "slug": "avpnva-tshvb-lego-technic-42225-ltspyyh-b-p26apb",

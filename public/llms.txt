@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 385** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 386** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מכונית מרוץ LEGO Technic 42229 Fast and Furious Mitsubishi Eclipse
+https://parktoys.co.il/product/mkvnyt-mrvts-lego-technic-42229-fast-and-furious-mitsubishi-eclipse-rtsepi
+- Price: 289.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: הביאו את הריגוש של מרוצי רחוב לביתכם עם הסט של הדגם המפורט הזה לגילאי 14 ומעלה. עם הסט (42229) של מכונית Fast and Furious Mitsubishi Eclipse מסדרת LEGO® Technic, מתבגרים יכולים לבנות גרסה משלהם לרכב איקוני מהסרט מהיר ועצבני משנת 2001.
+- Image: https://parktoys.co.il/assets/product-1785702279979-k2bjem.webp
 
 ### אופנוע צהוב LEGO Technic 42225 לצפייה ב
 https://parktoys.co.il/product/avpnva-tshvb-lego-technic-42225-ltspyyh-b-p26apb
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/dmvyvt-spyydy-vavpnva-spyydrmn-spyn-zwk7wg
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: ערכת משחק הכוללת דמות של מיילס מוראלס (ספין) בגובה של כ-10 ס"מ ואופנוע תואם. הדמות בעלת מפרקים ניתנים להזזה ומסוגלת לרכוב על האופנוע. הצעצוע מיוצר על ידי חברת Hasbro כחלק מסדרת "ספיידי וחבריו המדהימים" ומתאים לילדים מגיל 3 ומעלה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784468477857-w1pppp.webp
-
-### דמויות ספיידי ואופנוע ספיידרמן  (ספיידי)
-https://parktoys.co.il/product/dmvyvt-spyydy-vavpnva-spyydrmn-spyydy-aaajmg
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: סט צעצוע זה מבית Hasbro כולל דמות פעולה של ספיידי בגובה 10 ס"מ (4 אינץ') ואופנוע מירוץ אדום תואם עם גלגלים כחולים בולטים.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784467528516-evxgn.webp
 
 ---
 
