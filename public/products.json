@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T06:43:15.267Z",
+  "generated_at": "2026-08-02T06:44:20.552Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -463,7 +463,7 @@
     },
     {
       "id": "8abb805d-5559-4d7e-83a6-e7d365c9b289",
-      "slug": "lgv-ninjago-mkvnyt-hmyrvts-shl-kay-71780-osjyck",
+      "slug": "lgv-ninjago-mkvnyt-hmyrvts-shl-kay-71780-g79tzn",
       "name": "לגו NINJAGO מכונית המירוץ של קאי 71780",
       "name_translations": {},
       "description": "",
@@ -479,11 +479,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/lgv-ninjago-mkvnyt-hmyrvts-shl-kay-71780-osjyck",
+      "url": "https://parktoys.co.il/product/lgv-ninjago-mkvnyt-hmyrvts-shl-kay-71780-g79tzn",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-07-29T15:51:35.583Z"
+      "updated_at": "2026-08-02T06:44:02.906Z"
     },
     {
       "id": "e45f5149-a8b0-4f5c-8652-2453eee22456",
