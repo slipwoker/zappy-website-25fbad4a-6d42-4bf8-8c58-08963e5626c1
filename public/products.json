@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T10:02:08.277Z",
+  "generated_at": "2026-08-02T10:02:48.196Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -3802,7 +3802,7 @@
     },
     {
       "id": "82b11404-bbf3-43bf-9fb0-d82b629545dd",
-      "slug": "lol-lvl-ootd-mzvvdh-25-hptavt-lol-zwaaxt",
+      "slug": "lol-lvl-ootd-mzvvdh-25-hptavt-lol-5v72rx",
       "name": "LOL לול OOTD מזוודה 25 הפתעות - LOL",
       "name_translations": {},
       "description": "",
@@ -3818,13 +3818,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/lol-lvl-ootd-mzvvdh-25-hptavt-lol-zwaaxt",
-      "categories": [],
-      "updated_at": "2026-07-21T09:28:03.216Z"
+      "url": "https://parktoys.co.il/product/lol-lvl-ootd-mzvvdh-25-hptavt-lol-5v72rx",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-08-02T10:02:08.062Z"
     },
     {
       "id": "93fd578d-906e-421d-bbb1-1b6d623b8bbe",
-      "slug": "klb-mshtrh-mbyt-spark-toys-dh1l3q",
+      "slug": "klb-mshtrh-mbyt-spark-toys-emu9k3",
       "name": "כלב משטרה מבית Spark Toys",
       "name_translations": {},
       "description": "",
@@ -3840,11 +3842,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/klb-mshtrh-mbyt-spark-toys-dh1l3q",
+      "url": "https://parktoys.co.il/product/klb-mshtrh-mbyt-spark-toys-emu9k3",
       "categories": [
         "צעצועי שלט/מסלולי מכוניות/מכוניות "
       ],
-      "updated_at": "2026-07-21T09:19:59.376Z"
+      "updated_at": "2026-08-02T10:02:36.370Z"
     },
     {
       "id": "7c43b7bc-ccf3-4448-b325-833659d1c7fe",
