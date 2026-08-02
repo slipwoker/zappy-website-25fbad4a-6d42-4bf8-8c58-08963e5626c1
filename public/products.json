@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T08:29:05.477Z",
+  "generated_at": "2026-08-02T08:29:45.795Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2097,7 +2097,7 @@
     },
     {
       "id": "aa7b0a25-c39e-40da-9a9a-21599a4be5f1",
-      "slug": "marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-12-18-chvdshym-8rlo51",
+      "slug": "marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-12-18-chvdshym-mf5ro5",
       "name": "מארז צעצועי התפתחות מעץ מבית Polar B - לגילאי 12-18 חודשים",
       "name_translations": {},
       "description": "",
@@ -2113,9 +2113,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-12-18-chvdshym-8rlo51",
+      "url": "https://parktoys.co.il/product/marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-12-18-chvdshym-mf5ro5",
       "categories": [],
-      "updated_at": "2026-07-22T11:31:10.948Z"
+      "updated_at": "2026-08-02T08:29:09.759Z"
     },
     {
       "id": "a15bd3ba-c740-4e60-9f4b-d430ba58e4e8",
