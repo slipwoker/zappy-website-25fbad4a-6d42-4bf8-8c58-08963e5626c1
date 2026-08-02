@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:38:18.131Z",
+  "generated_at": "2026-08-02T09:39:38.330Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2745,7 +2745,7 @@
     },
     {
       "id": "d500283d-a270-408b-8587-b0e7c147b47d",
-      "slug": "tablt-lvmdym-am-kvpykv-xxoj5a",
+      "slug": "tablt-lvmdym-am-kvpykv-aee9zt",
       "name": "טאבלט לומדים עם קופיקו",
       "name_translations": {},
       "description": "",
@@ -2761,11 +2761,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/tablt-lvmdym-am-kvpykv-xxoj5a",
+      "url": "https://parktoys.co.il/product/tablt-lvmdym-am-kvpykv-aee9zt",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T08:03:36.086Z"
+      "updated_at": "2026-08-02T09:39:02.459Z"
     },
     {
       "id": "10127d2b-f2c3-49d8-a94e-5d29924e0baa",
