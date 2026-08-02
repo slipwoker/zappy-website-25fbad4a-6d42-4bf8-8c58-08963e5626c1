@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T08:59:11.749Z",
+  "generated_at": "2026-08-02T09:11:37.611Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2338,7 +2338,7 @@
     },
     {
       "id": "003392a3-a8da-44c4-99ca-03992cf7dea7",
-      "slug": "mvbyyl-laglh-chyvt-vchyvkym-qzpcfz",
+      "slug": "mvbyyl-laglh-chyvt-vchyvkym-u3x7so",
       "name": "מובייל לעגלה – חיות וחיוכים",
       "name_translations": {},
       "description": "",
@@ -2355,13 +2355,13 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mvbyyl-laglh-chyvt-vchyvkym-qzpcfz",
+      "url": "https://parktoys.co.il/product/mvbyyl-laglh-chyvt-vchyvkym-u3x7so",
       "categories": [],
-      "updated_at": "2026-08-02T08:58:38.960Z"
+      "updated_at": "2026-08-02T09:11:01.278Z"
     },
     {
       "id": "22b42daa-cad3-49d9-952c-0898d302900e",
-      "slug": "rapr-hbrvvz-mavdd-zchylh-dvbr-abryt-sn10im",
+      "slug": "rapr-hbrvvz-mavdd-zchylh-dvbr-abryt-rm2mdz",
       "name": "ראפר הברווז – מעודד זחילה דובר עברית",
       "name_translations": {},
       "description": "",
@@ -2377,11 +2377,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/rapr-hbrvvz-mavdd-zchylh-dvbr-abryt-sn10im",
+      "url": "https://parktoys.co.il/product/rapr-hbrvvz-mavdd-zchylh-dvbr-abryt-rm2mdz",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T09:52:15.181Z"
+      "updated_at": "2026-08-02T09:11:34.781Z"
     },
     {
       "id": "6107b50f-9e96-484f-8459-9aa61c716cf9",
