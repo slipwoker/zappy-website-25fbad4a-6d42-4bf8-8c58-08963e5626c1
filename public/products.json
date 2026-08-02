@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:58:53.864Z",
+  "generated_at": "2026-08-02T09:59:33.411Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -3679,7 +3679,7 @@
     },
     {
       "id": "dacae859-5354-4598-be03-10f9a8760b6a",
-      "slug": "kvrkynt-3-glglym-kicknroll-lmbvrgyny-bvnlac",
+      "slug": "kvrkynt-3-glglym-kicknroll-lmbvrgyny-zcb353",
       "name": "קורקינט 3 גלגלים kick’n’roll למבורגיני",
       "name_translations": {},
       "description": "",
@@ -3697,11 +3697,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kvrkynt-3-glglym-kicknroll-lmbvrgyny-bvnlac",
+      "url": "https://parktoys.co.il/product/kvrkynt-3-glglym-kicknroll-lmbvrgyny-zcb353",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-07-21T15:23:59.361Z"
+      "updated_at": "2026-08-02T09:58:58.362Z"
     },
     {
       "id": "8725fdeb-ae6c-4f2c-a765-039bf6d33c63",
