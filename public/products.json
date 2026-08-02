@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:26:02.580Z",
+  "generated_at": "2026-08-02T09:30:02.783Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2697,7 +2697,7 @@
     },
     {
       "id": "9b94f319-3924-4d4f-b646-123b12267328",
-      "slug": "tsvrvt-vhptavt-myvn-tsvrvt-dvbr-abryt-7muy4u",
+      "slug": "tsvrvt-vhptavt-myvn-tsvrvt-dvbr-abryt-2p8jsd",
       "name": "צורות והפתעות – מיון צורות דובר עברית",
       "name_translations": {},
       "description": "",
@@ -2713,11 +2713,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/tsvrvt-vhptavt-myvn-tsvrvt-dvbr-abryt-7muy4u",
+      "url": "https://parktoys.co.il/product/tsvrvt-vhptavt-myvn-tsvrvt-dvbr-abryt-2p8jsd",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T08:10:05.410Z"
+      "updated_at": "2026-08-02T09:29:29.195Z"
     },
     {
       "id": "42649383-d1b2-4113-be25-c57d0f70977a",
