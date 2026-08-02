@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T06:41:45.047Z",
+  "generated_at": "2026-08-02T06:42:40.048Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -391,7 +391,7 @@
     },
     {
       "id": "0eef8bb3-fa8e-4411-a8c7-7a6cdccf801d",
-      "slug": "lgv-nynggv-avpnva-hmyrvts-shl-kay-71838-lego-cy8uu6",
+      "slug": "lgv-nynggv-avpnva-hmyrvts-shl-kay-71838-lego-csgi4c",
       "name": "לגו נינג'גו אופנוע המירוץ של קאי 71838 | Lego",
       "name_translations": {},
       "description": "",
@@ -407,11 +407,11 @@
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://parktoys.co.il/product/lgv-nynggv-avpnva-hmyrvts-shl-kay-71838-lego-cy8uu6",
+      "url": "https://parktoys.co.il/product/lgv-nynggv-avpnva-hmyrvts-shl-kay-71838-lego-csgi4c",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-07-31T08:14:18.632Z"
+      "updated_at": "2026-08-02T06:42:04.554Z"
     },
     {
       "id": "b07be44e-f00f-46e2-83c2-455e28a0687e",
