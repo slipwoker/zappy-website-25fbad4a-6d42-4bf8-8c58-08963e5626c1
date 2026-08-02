@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:51:18.140Z",
+  "generated_at": "2026-08-02T09:51:58.031Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -3463,7 +3463,7 @@
     },
     {
       "id": "d6da60b6-c4ba-46f6-b520-6e337eba0ff3",
-      "slug": "scania-mshayt-aysvp-am-avrvt-vtslylym-x66erz",
+      "slug": "scania-mshayt-aysvp-am-avrvt-vtslylym-bf5rnm",
       "name": "SCANIA משאית איסוף עם אורות וצלילים",
       "name_translations": {},
       "description": "",
@@ -3479,11 +3479,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/scania-mshayt-aysvp-am-avrvt-vtslylym-x66erz",
+      "url": "https://parktoys.co.il/product/scania-mshayt-aysvp-am-avrvt-vtslylym-bf5rnm",
       "categories": [
         "צעצועי שלט/מסלולי מכוניות/מכוניות "
       ],
-      "updated_at": "2026-07-21T16:32:24.467Z"
+      "updated_at": "2026-08-02T09:51:22.523Z"
     },
     {
       "id": "f2ba353e-f97e-493f-8ca6-780c3cdc7721",
