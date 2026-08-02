@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 375** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 376** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו סיטי מטוס סילון נגד מכונית 60489| Lego
+https://parktoys.co.il/product/lgv-syty-mtvs-sylvn-ngd-mkvnyt-60489-lego-emb9wj
+- Price: 169.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: ערכת LEGO City: Jet מול מכונית – Jet vs. Car (60489) ילדים בגילאי 6 ומעלה יכולים להיכנס לעולם מרוצי העל במהירות עם ערכת LEGO City זו הכוללת סופר־קאר ומטוס על־קולי. מה בערכה: סופר־קאר: דלתות נפתחות, מושב מרוץ מפורט, גישה לתא הנהג. מטוס על־קולי: כנפיים מוטות לאחור, סנפירים אנכיים,
+- Image: https://parktoys.co.il/assets/product-1785674697888-39xh8c.webp
 
 ### סל כדורסל לילדים מתכוונן עד 166 ס"מ כולל כדור ומשאבה – לבית, לחצר ולגינה
 https://parktoys.co.il/product/sl-kdvrsl-lyldym-mtkvvnn-ad-166-sm-kvll-kdvr-vmshabh-lbyt-lchtsr-vlgynh-ziu4aq
@@ -1661,13 +1669,6 @@ https://parktoys.co.il/product/smashrs-robo-alive-dynvzavr-gdvl-4e9chf
 - Availability: In stock
 - Description: עמוד הבית / מותגים / סמאשרס SMASHERS סמאשרס SMASHERS סמאשרס ROBO ALIVE דינוזאור גדול 71116 ₪59 כמות של סמאשרס ROBO ALIVE דינוזאור גדול 71116 1 הוספה לסל Buy now אריזת מתנה - בתוספת ₪5? מק"ט: 193052057273 קטגוריה: סמאשרס SMASHERS תגיות: 193052057273, 71116, סמאשרס, סמאשרס ROBO ALIVE דינוזאור גדול 71116 מותג: סמאשרס SMASHERS תיאור משלוחים ואספקה ערכת משחק Robo Alive Volcano Dino Fossil Find מבית Zuru. מאפיינים עיקריים: חווית חפירה: הערכה כוללת ביצה ובה הילדים צריכים לחפור דרך חומרים דמויי סלע וולק…
 - Image: https://parktoys.co.il/assets/product-enhanced-1784284922488-jej6v.webp
-
-### מארז דמיות פוקימון 
-https://parktoys.co.il/product/marz-dmyvt-pvkymvn-h5iw3o
-- Price: 100.00 ILS
-- Availability: In stock
-- Description: מארז 10 בובות פוקימון Battle Figure הסט כולל דמויות בגודל 5 ס״מ פיקאצ’, סקווירטל, בולבסאור, צ’רמנדר, פרואקי, יאמפר, ג’יבל, גרולית’, אודיש ו דמות סינדרייס בגודל 12 ס״מ כולם פרטים אותנטיים ונראים כאילו קפצו ישר מתוך סדרת האנימציה של פוקימון. מצוידים במספר סוגים של פוקימונים, תהיו מוכנים להילחם מוצר פוקימון ברישיון רשמי מבית Jazwares גילאי 4+ התמונה להמחשה בלבד, עשויה להציג מוצרי השלמה שאינם מגיעים במוצר הבסיס.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784284609741-j5v2d.webp
 
 ---
 

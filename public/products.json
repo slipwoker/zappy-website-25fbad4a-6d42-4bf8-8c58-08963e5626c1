@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T12:26:14.013Z",
+  "generated_at": "2026-08-02T12:46:29.262Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 375,
+  "count": 376,
   "products": [
+    {
+      "id": "71f6d752-c798-4824-8bcd-85814181e87f",
+      "slug": "lgv-syty-mtvs-sylvn-ngd-mkvnyt-60489-lego-emb9wj",
+      "name": "לגו סיטי מטוס סילון נגד מכונית 60489| Lego",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכת LEGO City: Jet מול מכונית – Jet vs. Car (60489) ילדים בגילאי 6 ומעלה יכולים להיכנס לעולם מרוצי העל במהירות עם ערכת LEGO City זו הכוללת סופר־קאר ומטוס על־קולי. מה בערכה: סופר־קאר: דלתות נפתחות, מושב מרוץ מפורט, גישה לתא הנהג. מטוס על־קולי: כנפיים מוטות לאחור, סנפירים אנכיים,",
+      "sku": null,
+      "brand": null,
+      "price": 169,
+      "base_price": 169,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785674697888-39xh8c.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-syty-mtvs-sylvn-ngd-mkvnyt-60489-lego-emb9wj",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-08-02T12:45:53.759Z"
+    },
     {
       "id": "160da0ba-0cab-4d77-8a84-2e797c6c4009",
       "slug": "sl-kdvrsl-lyldym-mtkvvnn-ad-166-sm-kvll-kdvr-vmshabh-lbyt-lchtsr-vlgynh-ziu4aq",
