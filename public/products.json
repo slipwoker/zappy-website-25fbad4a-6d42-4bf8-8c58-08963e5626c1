@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:53:43.297Z",
+  "generated_at": "2026-08-02T09:54:28.331Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -3535,7 +3535,7 @@
     },
     {
       "id": "136c12ad-d6df-41d6-bf74-93a4c0240399",
-      "slug": "scania-mshayt-aysvp-arvkh-am-avrvt-vtslylym-uwkvsm",
+      "slug": "scania-mshayt-aysvp-arvkh-am-avrvt-vtslylym-zylxaf",
       "name": "SCANIA משאית איסוף ארוכה עם אורות וצלילים",
       "name_translations": {},
       "description": "",
@@ -3551,11 +3551,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/scania-mshayt-aysvp-arvkh-am-avrvt-vtslylym-uwkvsm",
+      "url": "https://parktoys.co.il/product/scania-mshayt-aysvp-arvkh-am-avrvt-vtslylym-zylxaf",
       "categories": [
         "צעצועי שלט/מסלולי מכוניות/מכוניות "
       ],
-      "updated_at": "2026-07-21T16:01:14.619Z"
+      "updated_at": "2026-08-02T09:53:51.198Z"
     },
     {
       "id": "e64ce28e-6a0e-48ef-9edd-e1a46287b987",
