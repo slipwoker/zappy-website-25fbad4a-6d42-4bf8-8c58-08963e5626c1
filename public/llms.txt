@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 376** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 377** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+###  Lego לגו גיבורי על ספיידרמן במכונית נגד וונומייזד וולברין 76336
+https://parktoys.co.il/product/lego-lgv-gybvry-al-spyydrmn-bmkvnyt-ngd-vvnvmyyzd-vvlbryn-76336-59xmf3
+- Price: 129.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: מהרו לעמוד בקצב האקשן והקרבות של גיבורי-על! דגם הבנייה של ספיידרמן במכונית נגד וונומייזד וולברין לילדים וילדות בגיל 7 ומעלה. דגם הבנייה הזה של רכב מצויד לקרב עם המיני-דמויות ספיידרמן ווונומייזד וולברין עם שעות של משחקי פעולה מרתקים. זהו המוצר הממותג הראשון של מארוול LEGO ǀ Marvel הכולל מיני-דמות של וונומייזד וולברין. אקשן קרבות בתוך המכונית ומסביבה המכונית מאובזרת עם לחצן אחורי שבאמצעותו ניתן להפעיל 2 משגרי קפיץ מהחזית. רעיון מתנה נהדר הדגם הזה משמש כרעיון נהדר למתנה לימי הולדת של גיבורות וגיבור…
+- Image: https://parktoys.co.il/assets/product-1785674981570-ycmrnl.webp
 
 ### לגו סיטי מטוס סילון נגד מכונית 60489| Lego
 https://parktoys.co.il/product/lgv-syty-mtvs-sylvn-ngd-mkvnyt-60489-lego-emb9wj
@@ -1662,13 +1670,6 @@ https://parktoys.co.il/product/pvkymvn-marz-pvkdvr-vchgvrh-pvkymvn-tk62e2
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: התמונה להמחשה: המארז מגיע בהתאם למלאי בחנות
 - Image: https://parktoys.co.il/assets/product-enhanced-1784287722473-bw3ob.webp
-
-### סמאשרס ROBO ALIVE דינוזאור גדול
-https://parktoys.co.il/product/smashrs-robo-alive-dynvzavr-gdvl-4e9chf
-- Price: 60.00 ILS
-- Availability: In stock
-- Description: עמוד הבית / מותגים / סמאשרס SMASHERS סמאשרס SMASHERS סמאשרס ROBO ALIVE דינוזאור גדול 71116 ₪59 כמות של סמאשרס ROBO ALIVE דינוזאור גדול 71116 1 הוספה לסל Buy now אריזת מתנה - בתוספת ₪5? מק"ט: 193052057273 קטגוריה: סמאשרס SMASHERS תגיות: 193052057273, 71116, סמאשרס, סמאשרס ROBO ALIVE דינוזאור גדול 71116 מותג: סמאשרס SMASHERS תיאור משלוחים ואספקה ערכת משחק Robo Alive Volcano Dino Fossil Find מבית Zuru. מאפיינים עיקריים: חווית חפירה: הערכה כוללת ביצה ובה הילדים צריכים לחפור דרך חומרים דמויי סלע וולק…
-- Image: https://parktoys.co.il/assets/product-enhanced-1784284922488-jej6v.webp
 
 ---
 
