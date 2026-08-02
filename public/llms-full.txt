@@ -5812,7 +5812,7 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 ## Product Catalog
 
 ### רכב ההצלה של זומה מפרץ ההרפתקאות
-URL: https://parktoys.co.il/product/rkb-hhtslh-shl-zvmh-mprts-hhrptkavt-1r5lp0
+URL: https://parktoys.co.il/product/rkb-hhtslh-shl-zvmh-mprts-hhrptkavt-50c8am
 Price: 95.00 ILS
 Availability: In stock
 

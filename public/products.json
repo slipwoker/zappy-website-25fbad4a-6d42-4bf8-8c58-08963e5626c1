@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T11:17:21.982Z",
+  "generated_at": "2026-08-02T11:17:56.834Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 373,
   "products": [
     {
       "id": "11169e8a-d89e-492b-a456-db03a74c7c2e",
-      "slug": "rkb-hhtslh-shl-zvmh-mprts-hhrptkavt-1r5lp0",
+      "slug": "rkb-hhtslh-shl-zvmh-mprts-hhrptkavt-50c8am",
       "name": "רכב ההצלה של זומה מפרץ ההרפתקאות",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/rkb-hhtslh-shl-zvmh-mprts-hhrptkavt-1r5lp0",
+      "url": "https://parktoys.co.il/product/rkb-hhtslh-shl-zvmh-mprts-hhrptkavt-50c8am",
       "categories": [
         "צעוצעים לבנים /דמויות/מותגים"
       ],
-      "updated_at": "2026-08-02T11:16:47.740Z"
+      "updated_at": "2026-08-02T11:17:21.780Z"
     },
     {
       "id": "04e3e34d-69a8-4f66-9cc4-d25a34d4d73e",
