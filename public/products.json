@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T07:18:49.097Z",
+  "generated_at": "2026-08-02T07:19:49.123Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -776,7 +776,7 @@
     },
     {
       "id": "fa2d41bc-ac4c-4040-bb5b-e26ea1af8908",
-      "slug": "mtslmh-mdpysh-lyldym-vrvd-blbd-8b0kfi",
+      "slug": "mtslmh-mdpysh-lyldym-vrvd-blbd-xp1c04",
       "name": "מצלמה מדפיסה לילדים -ורוד בלבד",
       "name_translations": {},
       "description": "",
@@ -792,9 +792,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mtslmh-mdpysh-lyldym-vrvd-blbd-8b0kfi",
+      "url": "https://parktoys.co.il/product/mtslmh-mdpysh-lyldym-vrvd-blbd-xp1c04",
       "categories": [],
-      "updated_at": "2026-07-28T08:44:01.948Z"
+      "updated_at": "2026-08-02T07:19:12.938Z"
     },
     {
       "id": "5fe4ee18-03e3-4816-b898-3443d613b067",
