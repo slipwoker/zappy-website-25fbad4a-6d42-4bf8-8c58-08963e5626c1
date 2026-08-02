@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-01T21:57:32.155Z",
+  "generated_at": "2026-08-02T06:41:00.460Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -727,7 +727,7 @@
     },
     {
       "id": "6789f7ba-49d5-4886-9a02-f1eaa5522a63",
-      "slug": "lgv-sonic-the-hedgehog-krb-bmdvrh-shl-svnyk-77001-zc2e83",
+      "slug": "lgv-sonic-the-hedgehog-krb-bmdvrh-shl-svnyk-77001-b5tw9x",
       "name": "לגו ™Sonic the Hedgehog – קרב במדורה של סוניק (77001)",
       "name_translations": {},
       "description": "",
@@ -743,11 +743,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/lgv-sonic-the-hedgehog-krb-bmdvrh-shl-svnyk-77001-zc2e83",
+      "url": "https://parktoys.co.il/product/lgv-sonic-the-hedgehog-krb-bmdvrh-shl-svnyk-77001-b5tw9x",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-07-29T14:01:53.882Z"
+      "updated_at": "2026-08-02T06:40:25.156Z"
     },
     {
       "id": "2835d017-6aa8-4897-8140-5e5285a398b8",

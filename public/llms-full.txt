@@ -106,8 +106,24 @@ Description: היכנסו לפארק הצעצועים ומצאו את הלהיט
 ## קנו לפי קטגוריה
 
 
-טוען מוצרים...
 
+בובות/ברבי
+
+גלגלים
+
+הטרנדים הכי חזקים בישראל
+
+לגו-lego
+
+מוצרי קיץ
+
+מוצרי תינוקות
+
+משחקי יצירה
+
+צעוצעים לבנים /דמויות/מותגים
+
+צעצועי שלט/מסלולי מכוניות/מכוניות
 
 
 
@@ -6030,7 +6046,7 @@ Availability: In stock
 ---
 
 ### לגו ™Sonic the Hedgehog – קרב במדורה של סוניק (77001)
-URL: https://parktoys.co.il/product/lgv-sonic-the-hedgehog-krb-bmdvrh-shl-svnyk-77001-zc2e83
+URL: https://parktoys.co.il/product/lgv-sonic-the-hedgehog-krb-bmdvrh-shl-svnyk-77001-b5tw9x
 Price: 99.00 ILS (sale, was 149.00 ILS)
 Availability: In stock
 
