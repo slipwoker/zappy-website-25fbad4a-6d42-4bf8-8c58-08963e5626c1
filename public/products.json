@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T06:42:40.048Z",
+  "generated_at": "2026-08-02T06:43:15.267Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -439,7 +439,7 @@
     },
     {
       "id": "3289dd61-69a1-403c-bee4-e2c3db9a9310",
-      "slug": "lgv-nynggv-rvbvt-ysvdvt-hash-shl-kay-71808-w5ogv3",
+      "slug": "lgv-nynggv-rvbvt-ysvdvt-hash-shl-kay-71808-1wjw8o",
       "name": "לגו נינגגו רובוט יסודות האש של קאי 71808",
       "name_translations": {},
       "description": "",
@@ -455,11 +455,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/lgv-nynggv-rvbvt-ysvdvt-hash-shl-kay-71808-w5ogv3",
+      "url": "https://parktoys.co.il/product/lgv-nynggv-rvbvt-ysvdvt-hash-shl-kay-71808-1wjw8o",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-07-29T16:00:56.497Z"
+      "updated_at": "2026-08-02T06:42:42.200Z"
     },
     {
       "id": "8abb805d-5559-4d7e-83a6-e7d365c9b289",
