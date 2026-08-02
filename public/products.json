@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:56:58.604Z",
+  "generated_at": "2026-08-02T09:58:53.864Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -3655,7 +3655,7 @@
     },
     {
       "id": "805c52c9-7fff-47e8-be2f-bdcec74a07fd",
-      "slug": "arkt-btsk-chgygt-yvm-hvldt-8gy1ko",
+      "slug": "arkt-btsk-chgygt-yvm-hvldt-d69u4e",
       "name": "ערכת בצק – חגיגת יום הולדת",
       "name_translations": {},
       "description": "",
@@ -3671,11 +3671,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/arkt-btsk-chgygt-yvm-hvldt-8gy1ko",
+      "url": "https://parktoys.co.il/product/arkt-btsk-chgygt-yvm-hvldt-d69u4e",
       "categories": [
         "משחקי יצירה"
       ],
-      "updated_at": "2026-07-21T12:30:11.999Z"
+      "updated_at": "2026-08-02T09:58:17.799Z"
     },
     {
       "id": "dacae859-5354-4598-be03-10f9a8760b6a",
