@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T08:30:25.818Z",
+  "generated_at": "2026-08-02T08:32:06.322Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -2146,7 +2146,7 @@
     },
     {
       "id": "13b51472-5f52-4fc5-ab05-6092dd212824",
-      "slug": "byyby-dryybr-mbyt-bizi-top-acyjrg",
+      "slug": "byyby-dryybr-mbyt-bizi-top-oux1yw",
       "name": "בייבי דרייבר מבית Bizi Top",
       "name_translations": {},
       "description": "",
@@ -2162,11 +2162,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/byyby-dryybr-mbyt-bizi-top-acyjrg",
+      "url": "https://parktoys.co.il/product/byyby-dryybr-mbyt-bizi-top-oux1yw",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-07-22T11:22:05.887Z"
+      "updated_at": "2026-08-02T08:31:29.317Z"
     },
     {
       "id": "629d0be7-eb7c-4f9a-a058-6a21488e3a26",
