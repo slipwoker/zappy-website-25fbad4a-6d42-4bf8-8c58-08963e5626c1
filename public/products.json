@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-02T09:56:18.577Z",
+  "generated_at": "2026-08-02T09:56:58.604Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 372,
@@ -3631,7 +3631,7 @@
     },
     {
       "id": "ea0ea903-0479-4d9d-9ac1-21b0b72f6a97",
-      "slug": "arkt-btsk-chgygt-hmbvrgrym-7lirvl",
+      "slug": "arkt-btsk-chgygt-hmbvrgrym-qqvjyj",
       "name": "ערכת בצק – חגיגת המבורגרים",
       "name_translations": {},
       "description": "",
@@ -3647,11 +3647,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/arkt-btsk-chgygt-hmbvrgrym-7lirvl",
+      "url": "https://parktoys.co.il/product/arkt-btsk-chgygt-hmbvrgrym-qqvjyj",
       "categories": [
         "משחקי יצירה"
       ],
-      "updated_at": "2026-07-21T13:30:21.835Z"
+      "updated_at": "2026-08-02T09:56:22.299Z"
     },
     {
       "id": "805c52c9-7fff-47e8-be2f-bdcec74a07fd",
