@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-03T13:37:28.676Z",
+  "generated_at": "2026-08-03T15:16:36.381Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 391,
+  "count": 392,
   "products": [
+    {
+      "id": "60e04b93-c7f5-427e-8718-113b17cb5f07",
+      "slug": "palvlvn-baly-chyym-dvbr-abryt-wiv967",
+      "name": "פעלולון בעלי חיים דובר עברית ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "משחקים, מתפתחים ולומדים עם חווית משחק של אור וקול ומשחק שאלות אינטראקטיבי.\nנושאי הלימוד:\n• בעלי חיים\n• מספרים\n• אותיות\n• צבעים\n• צורות\nמשחקים ומתפתחים:\nפיתוח הראיה – באמצעות מגוון נורות צבעוניות\nפיתוח השמיעה – באמצעות מגוון מנגינות וקריינות\nפיתוח המוטוריקה – באמצעות מגוון לחצנים המפעילים נורות וקולות\nפיתוח החשיבה – באמצעות מערכת שאלות ותשובות אינטראקטיבית",
+      "sku": null,
+      "brand": null,
+      "price": 120,
+      "base_price": 120,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785769884836-zko6lq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/palvlvn-baly-chyym-dvbr-abryt-wiv967",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-08-03T15:16:33.391Z"
+    },
     {
       "id": "0233d24a-4f3e-45b9-9f05-cc6a80683671",
       "slug": "prpr-myvn-tsvrvt-lymvdy-3ym9df",
