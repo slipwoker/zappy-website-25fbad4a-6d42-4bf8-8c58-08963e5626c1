@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 393** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 394** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### גיטרה חשמלית משפחת ספיר
+https://parktoys.co.il/product/gytrh-chshmlyt-mshpcht-spyr-fbnwy5
+- Price: 130.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: גיטרה חשמלית משפ' ספיר שרים ומנגנים את הלהיטים: אש רעידת אדמה הכל טוב הממלכה קיץ כולל מיקרופון קריוקי מגוון אפקטים קוליים 2 מצבים: שירים קריוקי גיל 3
+- Image: https://parktoys.co.il/assets/product-enhanced-1785773774077-5x32vd.webp
 
 ### מיקרופון קריוקי רועיקי
 https://parktoys.co.il/product/mykrvpvn-kryvky-rvayky-1zhleb
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/ryynbvkvrn-bytst-hptah-nsykt-hpyvt-nsykvt-me93wc
 - Category: בובות/ברבי
 - Description: יינבוקורן פיות נסיכות - עונה 6 מבית זורו הכירו את בני מלוכה של הנסיכה. פיתחו את כל ההפתעות הנסיכותיות שמתאימות לנסיכה. כל נסיכה תקבל כתר וכנפיים. פתחו את כל ההפתעות הרבות והנסיכותיות. מכילים למעלה מ-35 הפתעות, כולל נזר נסיכה ומטה קסמים. מגיעים עם כנפיים לבישות כך שתוכלו להתאים את הלבוש לזה של הבובה שלכם. ישנן 6 נסיכות פיות לאסוף. גובה הביצה כ-30 ס"מ. *לא ניתן לבחור את סוג הביצה. ההספקה היא אקראית על מנת לשמור על אלמנט ההפתעה! המשחק מתאים לגילאי 3+ משתתפים: 1+
 - Image: https://parktoys.co.il/assets/product-1784480153890-crwagc.webp
-
-### ריינבוקורן לבן ענק
-https://parktoys.co.il/product/ryynbvkvrn-lbn-ank-ubd30s
-- Price: 189.00 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: עזרו לנו להציל את חדי-הקרן! חוויית ה-Rescue של Rainbocorns כבר כאן! משהו קסום קורה בעיר ריינבוויל, וחדי-הקרן צריכים את העזרה שלכם! הכירו את סדרת ה-Unicorn Rescue – השילוב המושלם בין בובת פרווה מחבקת לבין ערכת וטרינר מלאה בהפתעות. מה הופך את ה-Unicorn Rescue למתנה הכי מבוקשת? קסם ה-“Peel & Reveal”: קלפו את הלב שעל בטן הכלבלב כדי לגלות מה גורם לו להרגיש לא טוב. האם זה צינון? פציעה קלה? רק אתם תוכלו לעזור לו להחלים! מעל 25 הפתעות בפנים: כל ביצה ענקית מכילה עולם שלם! החל מפתקים ס
-- Image: https://parktoys.co.il/assets/product-enhanced-1784479819048-t5o639.webp
 
 ---
 

@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-03T16:04:49.516Z",
+  "generated_at": "2026-08-03T16:17:06.122Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 393,
+  "count": 394,
   "products": [
+    {
+      "id": "f2102637-0266-4bbf-8dd6-86d6ae5cf296",
+      "slug": "gytrh-chshmlyt-mshpcht-spyr-fbnwy5",
+      "name": "גיטרה חשמלית משפחת ספיר",
+      "name_translations": {},
+      "description": "",
+      "short_description": "גיטרה חשמלית משפ' ספיר\nשרים ומנגנים את הלהיטים:\nאש\nרעידת אדמה\nהכל טוב\nהממלכה\nקיץ\nכולל מיקרופון קריוקי\nמגוון אפקטים קוליים\n\n2 מצבים: שירים\nקריוקי\nגיל 3",
+      "sku": null,
+      "brand": null,
+      "price": 130,
+      "base_price": 130,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785773774077-5x32vd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/gytrh-chshmlyt-mshpcht-spyr-fbnwy5",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-08-03T16:16:30.837Z"
+    },
     {
       "id": "ba0019dc-972e-4ea1-8060-2f07673a3c61",
       "slug": "mykrvpvn-kryvky-rvayky-1zhleb",
