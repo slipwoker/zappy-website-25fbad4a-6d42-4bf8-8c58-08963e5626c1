@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-03T08:36:24.213Z",
+  "generated_at": "2026-08-03T11:17:46.678Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 388,
+  "count": 389,
   "products": [
+    {
+      "id": "63e87dce-9928-4e82-89c8-3b337bde3bed",
+      "slug": "hkv-at-hchprprt-4wa4s0",
+      "name": "הכו את החפרפרת!",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קחו פטיש, קחו מקל ובואו לשחק עם חפרפרות בראץ ישראל! משחק זריזות דובר עברית עם אורות וצלילים ועשרות משפטים מצחיקים",
+      "sku": null,
+      "brand": null,
+      "price": 79.9,
+      "base_price": 79.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785755818276-jgf5mq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/hkv-at-hchprprt-4wa4s0",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-08-03T11:17:09.187Z"
+    },
     {
       "id": "45e09ab5-86b3-4320-9fa9-35ca2e1f43b0",
       "slug": "mshayt-hmbvrgrym-60404-lego-city-zqeox0",
