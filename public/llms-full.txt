@@ -5811,6 +5811,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### אורגנית מיקי
+URL: https://parktoys.co.il/product/avrgnyt-myky-xnidwj
+Price: 140.00 ILS
+Availability: In stock
+
+---
+
 ### גיטרה חשמלית משפחת ספיר
 URL: https://parktoys.co.il/product/gytrh-chshmlyt-mshpcht-spyr-fbnwy5
 Price: 130.00 ILS

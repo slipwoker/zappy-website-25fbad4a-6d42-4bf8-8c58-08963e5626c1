@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 394** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 395** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### אורגנית מיקי
+https://parktoys.co.il/product/avrgnyt-myky-xnidwj
+- Price: 140.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: לנגן ולשיר עם מיקי כוכבת הילדים - עכשיו כולם יכולים עם האורגנית! הילדים יוכלו להקליט שירים ולהשמיע אותם. כולל מצבי האזנה ונגינה. 10 שירים של מיקי. תפריטים בעברית. שירים: מיקי, כפתורים, מה נשמיקי , פונץ', שיר מסע, אני גיבורה, בא לי, שיר הדמיון, לדבר עם חיות, תודה. מנגינות: בא לי, כפתורים, מיקי, פוחדים, פונץ'
+- Image: https://parktoys.co.il/assets/product-enhanced-1785776033433-3l7dva.webp
 
 ### גיטרה חשמלית משפחת ספיר
 https://parktoys.co.il/product/gytrh-chshmlyt-mshpcht-spyr-fbnwy5
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/dvrh-rvkdt-vmdbrt-bvbh-ayntraktybyt-wrtipp
 - Category: בובות/ברבי
 - Description: ! בואו לרקוד וללמוד עם דורה! הדור החדש של דורה יוצא לדרך עם בובה אינטראקטיבית שמעוררת את הילדים לתנועה, שירה ומשחק דו-לשוני (אנגלית/ספרדית). קסם אינטראקטיבי בלחיצת כפתור הרפתקאות בתנועה: הפיחו חיים בדורה על ידי לחיצה על הפרח שעל נעליה! צפו בה רוקדת בתנועות מלאות חן, שרה שירים קצביים, משמיעה משפטים דו-לשוניים ומעודדת את ילדכם לרקוד יחד איתה. שילוב מושלם של כיף ולמידה: דורה מחברת בין מוזיקה, ריקוד וביטויים דו-לשוניים ליצירת חוויה קסומה שמחקה בדיוק את המראה והרוח של הדמות האהובה מהסדרה. יצירתיות וא…
 - Image: https://parktoys.co.il/assets/product-1784533698282-ufwx9.webp
-
-###  ריינבוקורן ביצת הפתעה נסיכת הפיות – נסיכות
-https://parktoys.co.il/product/ryynbvkvrn-bytst-hptah-nsykt-hpyvt-nsykvt-me93wc
-- Price: 149.00 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: יינבוקורן פיות נסיכות - עונה 6 מבית זורו הכירו את בני מלוכה של הנסיכה. פיתחו את כל ההפתעות הנסיכותיות שמתאימות לנסיכה. כל נסיכה תקבל כתר וכנפיים. פתחו את כל ההפתעות הרבות והנסיכותיות. מכילים למעלה מ-35 הפתעות, כולל נזר נסיכה ומטה קסמים. מגיעים עם כנפיים לבישות כך שתוכלו להתאים את הלבוש לזה של הבובה שלכם. ישנן 6 נסיכות פיות לאסוף. גובה הביצה כ-30 ס"מ. *לא ניתן לבחור את סוג הביצה. ההספקה היא אקראית על מנת לשמור על אלמנט ההפתעה! המשחק מתאים לגילאי 3+ משתתפים: 1+
-- Image: https://parktoys.co.il/assets/product-1784480153890-crwagc.webp
 
 ---
 
