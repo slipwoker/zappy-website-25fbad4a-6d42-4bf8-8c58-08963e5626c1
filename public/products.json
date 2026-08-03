@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-03T15:23:37.993Z",
+  "generated_at": "2026-08-03T16:04:00.231Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 392,
+  "count": 393,
   "products": [
+    {
+      "id": "ba0019dc-972e-4ea1-8060-2f07673a3c61",
+      "slug": "mykrvpvn-kryvky-rvayky-f362ni",
+      "name": "מיקרופון קריוקי רועיקי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מיקרופון קריוקי של רועיקי מצחיקי, מאמן הילדים של ישראל הכולל 4 לחצנים: שירי רועיקי, משפטי העצמה, שירי אימון ובדיחות.",
+      "sku": null,
+      "brand": null,
+      "price": 90,
+      "base_price": 90,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785772995890-874ibj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mykrvpvn-kryvky-rvayky-f362ni",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-08-03T16:03:24.951Z"
+    },
     {
       "id": "60e04b93-c7f5-427e-8718-113b17cb5f07",
       "slug": "palvlvn-baly-chyym-dvbr-abryt-wiv967",

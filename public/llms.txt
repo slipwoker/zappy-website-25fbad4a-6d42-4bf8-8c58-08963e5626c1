@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 392** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 393** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מיקרופון קריוקי רועיקי
+https://parktoys.co.il/product/mykrvpvn-kryvky-rvayky-f362ni
+- Price: 90.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: מיקרופון קריוקי של רועיקי מצחיקי, מאמן הילדים של ישראל הכולל 4 לחצנים: שירי רועיקי, משפטי העצמה, שירי אימון ובדיחות.
+- Image: https://parktoys.co.il/assets/product-enhanced-1785772995890-874ibj.webp
 
 ### פעלולון בעלי חיים דובר עברית 
 https://parktoys.co.il/product/palvlvn-baly-chyym-dvbr-abryt-wiv967
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/ryynbvkvrn-lbn-ank-ubd30s
 - Category: בובות/ברבי
 - Description: עזרו לנו להציל את חדי-הקרן! חוויית ה-Rescue של Rainbocorns כבר כאן! משהו קסום קורה בעיר ריינבוויל, וחדי-הקרן צריכים את העזרה שלכם! הכירו את סדרת ה-Unicorn Rescue – השילוב המושלם בין בובת פרווה מחבקת לבין ערכת וטרינר מלאה בהפתעות. מה הופך את ה-Unicorn Rescue למתנה הכי מבוקשת? קסם ה-“Peel & Reveal”: קלפו את הלב שעל בטן הכלבלב כדי לגלות מה גורם לו להרגיש לא טוב. האם זה צינון? פציעה קלה? רק אתם תוכלו לעזור לו להחלים! מעל 25 הפתעות בפנים: כל ביצה ענקית מכילה עולם שלם! החל מפתקים ס
 - Image: https://parktoys.co.il/assets/product-enhanced-1784479819048-t5o639.webp
-
-### ריינבוקורן מילקשייק ג'לי עונה 2 - Rainbocorns
-https://parktoys.co.il/product/ryynbvkvrn-mylkshyyk-gly-avnh-2-rainbocorns-unyarf
-- Price: 169.00 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: ריינבוקורן מילקשייק ג'לי (עונה 2) Rainbocorn - Jelly Shake 8 Surprises מסיבת המילקשייק ג'לי עוד רגע יוצאת לדרך! גביע מילקשייק ענק (גובה 35 ס"מ), הכולל 8 שכבות של הפתעות ריינבוקורן חדשה ומדברת! לחצו פעם אחת על כף היד של הבובה והיא תדבר ותשיר, תלחצו פעמיים והיא תחזור אחריכם בקול מתוק! הגביע מכיל את אחת מ-6 הדמויות החדשות. הערכה כוללת: מארז גביע ג'לי שייק, בחלק העליון יש אביזרים להכנת צמיד. כולל בובה, חוט וחרוזים בחלק התחתון של שקית המילקשייק - יש סליים ג׳לי נוצץ. * לא ניתן לבחור את סוג הביצה (
-- Image: https://parktoys.co.il/assets/product-1784479613203-mdiy4p.webp
 
 ---
 
