@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-03T13:22:08.922Z",
+  "generated_at": "2026-08-03T13:37:28.676Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 390,
+  "count": 391,
   "products": [
+    {
+      "id": "0233d24a-4f3e-45b9-9f05-cc6a80683671",
+      "slug": "prpr-myvn-tsvrvt-lymvdy-3ym9df",
+      "name": "פרפר מיון צורות לימודי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "משחק התפתחותי שמעודד למידה, חשיבה ויכולת מוטורית אצל פעוטות!\nהפרפר משלב פעילויות לימודיות והפעלות קוליות מהנות, עם מנגנון מיון צורות אינטראקטיבי ותכנים בעברית.\nמאפיינים עיקריים:\nזיהוי והתאמת צורות\nהכרת בעלי חיים\nהכרת צבעים\nמוסיקה קלאסית\nמשוב קולי בהתאמת הצורות\n5 צורות ללחיצה\n5 שירים\n2 עוצמות קול\nמתאים לילדים מגיל 12 חודשים ומעלה\nסוללות: מופעל על ידי 3 סוללות AAA",
+      "sku": null,
+      "brand": null,
+      "price": 79.9,
+      "base_price": 79.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785764150448-9whhwg.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/prpr-myvn-tsvrvt-lymvdy-3ym9df",
+      "categories": [
+        "מוצרי תינוקות "
+      ],
+      "updated_at": "2026-08-03T13:36:54.090Z"
+    },
     {
       "id": "9b1cfc1a-f5cb-458f-b9d8-5a265dbfa77c",
       "slug": "mykrvpvn-yvbl-hmbvlbl-zt0waq",

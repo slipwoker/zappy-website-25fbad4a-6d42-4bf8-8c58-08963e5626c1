@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 390** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 391** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### פרפר מיון צורות לימודי
+https://parktoys.co.il/product/prpr-myvn-tsvrvt-lymvdy-3ym9df
+- Price: 79.90 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: משחק התפתחותי שמעודד למידה, חשיבה ויכולת מוטורית אצל פעוטות! הפרפר משלב פעילויות לימודיות והפעלות קוליות מהנות, עם מנגנון מיון צורות אינטראקטיבי ותכנים בעברית. מאפיינים עיקריים: זיהוי והתאמת צורות הכרת בעלי חיים הכרת צבעים מוסיקה קלאסית משוב קולי בהתאמת הצורות 5 צורות ללחיצה 5 שירים 2 עוצמות קול מתאים לילדים מגיל 12 חודשים ומעלה סוללות: מופעל על ידי 3 סוללות AAA
+- Image: https://parktoys.co.il/assets/product-enhanced-1785764150448-9whhwg.webp
 
 ### מיקרופון יובל המבולבל
 https://parktoys.co.il/product/mykrvpvn-yvbl-hmbvlbl-zt0waq
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/ryynbvkvrn-axolotlcorn-c0ap50
 - Category: בובות/ברבי
 - Description: בקעו את הביצה הקסומה שלכם עם חיבוק ענק כדי לחשוף את מה ההפתעה שיצאה לכם. לכל אחד מהם יש 10 הפתעות
 - Image: https://parktoys.co.il/assets/product-1784479544912-plm2ph.webp
-
-### דמויות ספיידי ספיידר דינו מארז  מארז ספיידי
-https://parktoys.co.il/product/dmvyvt-spyydy-spyydr-dynv-marz-marz-spyydy-hi1567
-- Price: 70.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: ערכת צעצועים של Hasbro המבוססת על הסדרה "ספיידי וחבריו המופלאים", הכוללת דמות של מיילס מוראלס בגובה 10 ס"מ ודינוזאור ספיידי-רקס. דמות הדינוזאור כוללת זרוע משגרת קורי עכביש ושתי הדמויות ניתנות להצבה בתנוחות שונות. הצעצוע מתאים לילדים מגיל 3 ומעלה, ומעודד משחק דמיון הרפתקני.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784473995905-qj0e2c.webp
 
 ---
 
