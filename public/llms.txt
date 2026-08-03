@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 389** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 390** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מיקרופון יובל המבולבל
+https://parktoys.co.il/product/mykrvpvn-yvbl-hmbvlbl-zt0waq
+- Price: 79.90 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות 
+- Description: שרים ונהנים עם יובל המבולבל! מצב שירים - 12 שירים של יובל מצב קריוקי - 10 מנגינות של שירי יובל עשרות משפטים ובדיחות!
+- Image: https://parktoys.co.il/assets/product-enhanced-1785763278664-7i6ung.webp
 
 ### הכו את החפרפרת!
 https://parktoys.co.il/product/hkv-at-hchprprt-4wa4s0
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/dmvyvt-spyydy-spyydr-dynv-marz-marz-spyydy-hi1567
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: ערכת צעצועים של Hasbro המבוססת על הסדרה "ספיידי וחבריו המופלאים", הכוללת דמות של מיילס מוראלס בגובה 10 ס"מ ודינוזאור ספיידי-רקס. דמות הדינוזאור כוללת זרוע משגרת קורי עכביש ושתי הדמויות ניתנות להצבה בתנוחות שונות. הצעצוע מתאים לילדים מגיל 3 ומעלה, ומעודד משחק דמיון הרפתקני.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784473995905-qj0e2c.webp
-
-### דמויות ספיידי ספיידר דינו מארז עכביש רפאים
-https://parktoys.co.il/product/dmvyvt-spyydy-spyydr-dynv-marz-akbysh-rpaym-fg9rca
-- Price: 70.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: סט דמויות פעולה Spidey and His Amazing Friends Dino-Webs Ghostasaurus & Spidey מבית Hasbro. הערכה כוללת דמות ספיידרמן בגודל 10 ס"מ עם מסכה נפתחת ודמות דינוזאור "Ghostasaurus" בגודל 12.5 ס"מ. הדינוזאור בעל מוטת כנפיים של 20 ס"מ
-- Image: https://parktoys.co.il/assets/product-enhanced-1784471924260-fpxzqt.webp
 
 ---
 
