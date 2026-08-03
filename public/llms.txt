@@ -82,7 +82,7 @@ Information about WCAG compliance and accessibility features.
 https://parktoys.co.il/product/avrgnyt-myky-xnidwj
 - Price: 140.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: לנגן ולשיר עם מיקי כוכבת הילדים - עכשיו כולם יכולים עם האורגנית! הילדים יוכלו להקליט שירים ולהשמיע אותם. כולל מצבי האזנה ונגינה. 10 שירים של מיקי. תפריטים בעברית. שירים: מיקי, כפתורים, מה נשמיקי , פונץ', שיר מסע, אני גיבורה, בא לי, שיר הדמיון, לדבר עם חיות, תודה. מנגינות: בא לי, כפתורים, מיקי, פוחדים, פונץ'
 - Image: https://parktoys.co.il/assets/product-enhanced-1785776033433-3l7dva.webp
 
@@ -90,7 +90,7 @@ https://parktoys.co.il/product/avrgnyt-myky-xnidwj
 https://parktoys.co.il/product/gytrh-chshmlyt-mshpcht-spyr-fbnwy5
 - Price: 130.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: גיטרה חשמלית משפ' ספיר שרים ומנגנים את הלהיטים: אש רעידת אדמה הכל טוב הממלכה קיץ כולל מיקרופון קריוקי מגוון אפקטים קוליים 2 מצבים: שירים קריוקי גיל 3
 - Image: https://parktoys.co.il/assets/product-enhanced-1785773774077-5x32vd.webp
 
@@ -98,7 +98,7 @@ https://parktoys.co.il/product/gytrh-chshmlyt-mshpcht-spyr-fbnwy5
 https://parktoys.co.il/product/mykrvpvn-kryvky-rvayky-1zhleb
 - Price: 90.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: מיקרופון קריוקי של רועיקי מצחיקי, מאמן הילדים של ישראל הכולל 4 לחצנים: שירי רועיקי, משפטי העצמה, שירי אימון ובדיחות.
 - Image: https://parktoys.co.il/assets/product-enhanced-1785772995890-874ibj.webp
 
@@ -106,7 +106,7 @@ https://parktoys.co.il/product/mykrvpvn-kryvky-rvayky-1zhleb
 https://parktoys.co.il/product/palvlvn-baly-chyym-dvbr-abryt-wiv967
 - Price: 120.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: משחקים, מתפתחים ולומדים עם חווית משחק של אור וקול ומשחק שאלות אינטראקטיבי. נושאי הלימוד: • בעלי חיים • מספרים • אותיות • צבעים • צורות משחקים ומתפתחים: פיתוח הראיה – באמצעות מגוון נורות צבעוניות פיתוח השמיעה – באמצעות מגוון מנגינות וקריינות פיתוח המוטוריקה – באמצעות מגוון לחצנים המפעילים נורות וקולות פיתוח החשיבה – באמצעות מערכת שאלות ותשובות אינטראקטיבית
 - Image: https://parktoys.co.il/assets/product-enhanced-1785769884836-zko6lq.webp
 
@@ -114,7 +114,7 @@ https://parktoys.co.il/product/palvlvn-baly-chyym-dvbr-abryt-wiv967
 https://parktoys.co.il/product/prpr-myvn-tsvrvt-lymvdy-3ym9df
 - Price: 79.90 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: משחק התפתחותי שמעודד למידה, חשיבה ויכולת מוטורית אצל פעוטות! הפרפר משלב פעילויות לימודיות והפעלות קוליות מהנות, עם מנגנון מיון צורות אינטראקטיבי ותכנים בעברית. מאפיינים עיקריים: זיהוי והתאמת צורות הכרת בעלי חיים הכרת צבעים מוסיקה קלאסית משוב קולי בהתאמת הצורות 5 צורות ללחיצה 5 שירים 2 עוצמות קול מתאים לילדים מגיל 12 חודשים ומעלה סוללות: מופעל על ידי 3 סוללות AAA
 - Image: https://parktoys.co.il/assets/product-enhanced-1785764150448-9whhwg.webp
 
@@ -122,7 +122,7 @@ https://parktoys.co.il/product/prpr-myvn-tsvrvt-lymvdy-3ym9df
 https://parktoys.co.il/product/mykrvpvn-yvbl-hmbvlbl-zt0waq
 - Price: 79.90 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: שרים ונהנים עם יובל המבולבל! מצב שירים - 12 שירים של יובל מצב קריוקי - 10 מנגינות של שירי יובל עשרות משפטים ובדיחות!
 - Image: https://parktoys.co.il/assets/product-enhanced-1785763278664-7i6ung.webp
 
@@ -130,7 +130,7 @@ https://parktoys.co.il/product/mykrvpvn-yvbl-hmbvlbl-zt0waq
 https://parktoys.co.il/product/hkv-at-hchprprt-4wa4s0
 - Price: 79.90 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: קחו פטיש, קחו מקל ובואו לשחק עם חפרפרות בראץ ישראל! משחק זריזות דובר עברית עם אורות וצלילים ועשרות משפטים מצחיקים
 - Image: https://parktoys.co.il/assets/product-enhanced-1785755818276-jgf5mq.webp
 
@@ -531,7 +531,7 @@ https://parktoys.co.il/product/mtslmh-mdpysh-lyldym-vrvd-blbd-xp1c04
 https://parktoys.co.il/product/lvly-bvbh-ayntraktybyt-gdvlh-15vq7u
 - Price: 149.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: רק בקע מהביצה והופ! - מהמסך יצא! לולי האפרוח האהוב מערוץ הטלויזיה ילווה אתכם בכל שעות היממה - במצב יום תוכלו להאזין למגוון תכני משחק והתפתחות בעברית, ובמצב לילה - לתכנים מרגיעים שירדימו אתכם בנעימים. בובת לולי מופעלת באמצעות חיישן תנועה ולחצן בטן. 2 מצבי פעולה: מצב יום / לילה
 - Image: https://parktoys.co.il/assets/product-1785153199810-f4je.webp
 
@@ -539,7 +539,7 @@ https://parktoys.co.il/product/lvly-bvbh-ayntraktybyt-gdvlh-15vq7u
 https://parktoys.co.il/product/bvbt-kvpykv-mdbrt-vshrh-babryt-chglcg
 - Price: 149.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: קוף שובב עם לב זהב. קופיקו הוא שובב גדול, את זה כולם כבר יודעים… וכשהוא לא מסתבך בצרות, מה שקופיקו הכי אוהב זה לשיר, לרקוד ולעשות כיף. אז בואו לשחק עם קופיקו - לשיר שישה שירים, להאזין לשבעה משפטים ולהתגלגל מצחוק! כולל 6 שירים של קופיקו ומגוון משפטים 2 עוצמות קול
 - Image: https://parktoys.co.il/assets/product-1785152730050-xsi6pj.webp
 
@@ -547,7 +547,7 @@ https://parktoys.co.il/product/bvbt-kvpykv-mdbrt-vshrh-babryt-chglcg
 https://parktoys.co.il/product/bvbt-myky-ayntraktybyt-vdecl0
 - Price: 149.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: בובת מיקי אינטראקטיבית Spark Toys בובת מיקי דוברת עברית,יפה ואיכותית, עשירה בתכנים האהובים של מיקי! הבובה שרה שירים ואומרת מגוון משפטים. הבובה מיקי שואלת: מה נשמע? מה נשמי? מה נשמיקי?
 - Image: https://parktoys.co.il/assets/product-1785152982285-p54got.webp
 
@@ -555,7 +555,7 @@ https://parktoys.co.il/product/bvbt-myky-ayntraktybyt-vdecl0
 https://parktoys.co.il/product/bvbh-gdvlh-yvbl-hmbvlbl-mngnt-waheyo
 - Price: 149.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: בובת יובל המבולבל מדברת ושרה 40 ס"מ 8 שירים של יובל 10משפטים של יובל 2 עוצמות קול לחצן כוכב נדלק
 - Image: https://parktoys.co.il/assets/product-1785152322020-5jmzq8.webp
 
@@ -563,7 +563,7 @@ https://parktoys.co.il/product/bvbh-gdvlh-yvbl-hmbvlbl-mngnt-waheyo
 https://parktoys.co.il/product/avhl-kdvrym-lyldym-am-100-kdvrym-tsbavnyym-t4jplh
 - Price: 99.00 ILS (sale, was 149.00 ILS)
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: אוהל כדורים לילדים עם 100 כדורים צבעוניים מבית Diamant Toys העניקו לילדים חוויית משחק צבעונית, פעילה ומלאת דמיון עם אוהל כדורים לילדים. האוהל יוצר עבור הילדים מרחב משחק אישי, נעים ומהנה, שבו הם יכולים לזחול, לשחק, להתחבא, לקפוץ בין כדורים וליהנות משעות של פעילות עצמאית או משותפת עם חברים ובני משפחה. הייחוד של המוצר הוא בשילוב בין אוהל משחק לבין בריכת כדורים צבעונית, המעניקה לילדים חוויה חושית, תנועתית ומשעשעת במיוחד. המשחק בכדורים מסייע בפיתוח מוטוריקה, קואורדינציה, זיהוי צבעים ותחושת מרחב, תוך
 - Image: https://parktoys.co.il/assets/product-1785152143029-7tp9np.webp
 
@@ -968,7 +968,7 @@ https://parktoys.co.il/product/marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-1
 https://parktoys.co.il/product/marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-18-24-chvdshym-gcbe60
 - Price: 200.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: מארז צעצועי התפתחות מעץ מבית Polar B, אוסף של צעצועי עץ איכותיים ומעוצבים בקפידה, שנוצרו במיוחד כדי ללוות את ילדכם בשלבי ההתפתחות החשובים ביותר. המארז מעודד למידה דרך משחק, מפתח חשיבה, מוטוריקה ויצירתיות, ומשלב הנאה, דמיון והתפתחות בכל רגע של משחק. עשוי עץ טבעי וצבעים בטוחים - מתנה מושלמת לילדים סקרנים שאוהבים לגלות, ללמוד וליצור.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784719568076-3p0std.webp
 
@@ -976,7 +976,7 @@ https://parktoys.co.il/product/marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-1
 https://parktoys.co.il/product/byyby-dryybr-mbyt-bizi-top-oux1yw
 - Price: 89.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: בייבי דרייבר מבית Bizi Top הגה פעילות אינטראקטיבי ואורקולי לתינוק, מתחבר בקלות בעזרת טבעות למשענת הרכב. בעל מראה, שלל איורים, ידית העברת הילוכים, צלילים ואורות וכמובן צופר.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784719294201-e488dj.webp
 
@@ -984,7 +984,7 @@ https://parktoys.co.il/product/byyby-dryybr-mbyt-bizi-top-oux1yw
 https://parktoys.co.il/product/byyby-mvbyyl-mvsykly-nyyd-zdi1kk
 - Price: 140.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: מובייל נייד עם נעימות מרגיעות ודמויות צבעוניות, לתלייה על סל־קל, עגלה או כיסא בטיחות. מתאים במיוחד לגיל הרך ומעודד גירוי חושי, דמיון והנאה בתנועה. יתרונות המוצר: • מובייל אלקטרוני עם שלל מנגינות מתחלפות • נתלה בקלות על עגלה, סל-קל, מושב בטיחות ועוד • מעודד פיתוח שמיעה, ראייה ותנועה • מפתח קואורדינציה ודמיון בגיל הרך • מספק חוויה חושית מרגיעה ומהנה
 - Image: https://parktoys.co.il/assets/product-enhanced-1784718775531-do319a.webp
 
@@ -992,7 +992,7 @@ https://parktoys.co.il/product/byyby-mvbyyl-mvsykly-nyyd-zdi1kk
 https://parktoys.co.il/product/havtvbvs-hchkm-avtvbvs-myvn-tsvrvt-ncu95k
 - Price: 140.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: משחקים ולומדים! צורות צבעים בעלי חיים שני מצבי פעולה: צורות וצבעים בעלי חיים שלושה שירים מקוריים בעברית: שיר הזברה שיר האריה שיר הגירפה מצב מעודד זחילה עם ליווי של 15 המנגינות שירים ישראלים קלאסיים – האוטובוס נוסע!
 - Image: https://parktoys.co.il/assets/product-enhanced-1784718417638-slmlep.webp
 
@@ -1000,7 +1000,7 @@ https://parktoys.co.il/product/havtvbvs-hchkm-avtvbvs-myvn-tsvrvt-ncu95k
 https://parktoys.co.il/product/hlykvn-paylvt-084eb5
 - Price: 120.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: הליכון פעילות צבעוני ומהנה המסייע לתינוק בשלבי ההתפתחות הראשונים ומשלב משחק, למידה ותנועה. ההליכון כולל מגוון פעילויות אינטראקטיביות, גלגלי שיניים מסתובבים, כפתורים, מוזיקה ואפקטים מהנים שיעסיקו את הקטנטנים לאורך זמן. תיאור ועיצוב העיצוב היציב והידית הנוחה מסייעים לעידוד הליכה ראשונית בצורה בטוחה ומהנה. תכונות מסייע בפיתוח יציבות ושיווי משקל גלגלי שיניים מסתובבים אורות, מוזיקה וצלילים כפתורים ומשחקי פעילות מעודד מוטוריקה עדינה וקואורדינציה ידית אחיזה נוחה לתינוק מתאים למשחק וללמידה מגיל צעיר
 - Image: https://parktoys.co.il/assets/product-enhanced-1784718266815-en3r0m.webp
 
@@ -1008,7 +1008,7 @@ https://parktoys.co.il/product/hlykvn-paylvt-084eb5
 https://parktoys.co.il/product/ksht-htptchvt-mc3sc2
 - Price: 90.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: קשת פעילות צבעונית ורכה הכוללת צעצועים תלויים, רעשנים ודמויות מתוקות לעידוד משחק, סקרנות ופיתוח החושים מגיל לידה. מתאימה לחיבור לעגלה, סלקל, מיטת תינוק ולול. הקשת כוללת דמויות בד רכות, רעשנים, מרקמים שונים וטבעות משחק שיעסיקו את התינוק לאורך זמן ויעודדו תנועת ידיים, תפיסה וקואורדינציה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784718059794-3605wb.webp
 
@@ -1016,7 +1016,7 @@ https://parktoys.co.il/product/ksht-htptchvt-mc3sc2
 https://parktoys.co.il/product/ksht-paylvt-chyvt-vchyvkym-qc167d
 - Price: 139.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: חיות וחיוכים והקטנים שמחים! קשת פעילות צבעונית ומאירת עיניים המתחברת בקלות לעגלה, לטרמפולינה ולסל-קל, עם שלוש דמויות חייכניות ושמש מראה, המזמינות להושיט יד ולגעת בהן, למשש, למשוך ולהניע מצד לצד. מסייעת להתפתחות באמצעות הפעלות צבעים ודמויות כוללת צעצועים בעלי הפעלות מגוונות לפיתוח חושים והיכולות המוטוריות של התינוק.
 - Image: https://parktoys.co.il/assets/product-1784714685778-cvwlu.webp
 
@@ -1024,7 +1024,7 @@ https://parktoys.co.il/product/ksht-paylvt-chyvt-vchyvkym-qc167d
 https://parktoys.co.il/product/htnvr-hrashvn-shly-dvbr-abryt-teqzfy
 - Price: 189.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: אופים צעירים - חממו את התנורים! מריחים את ניחוח המאפים המשגע הזה? הוא מגיע מהתנור הראשון שלי כמובן, התנור שהופך כל אופה חובב לשף קונדיטור! עם אורות וצלילים, מגוון אביזרי אפיה מקצועיים, שעון דיגיטלי, מדבקות, איורים ועובדות מרתקות על מקורות המזון, התנור הראשון שלי הוא צעצוע חובה לכל הילדים שמתעניינים בבישול ואוהבים אוכל טעים ומזין! חוויה קולינרית מיניאטורית דובר עברית! 25 חלקים 2 מגשים, סכין כף ומזלג שעון דיגיטלי מעודד סבלנות ותחושת זמן עובדות מעניינות על מקורות המזון ומרכיביו שני מצבי ווליום לשלי
 - Image: https://parktoys.co.il/assets/product-1784714533945-kqgwr.webp
 
@@ -1032,7 +1032,7 @@ https://parktoys.co.il/product/htnvr-hrashvn-shly-dvbr-abryt-teqzfy
 https://parktoys.co.il/product/mvbyyl-tsypvrym-nyyd-855jpk
 - Price: 159.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: למיטה, לעגלה או לתיק מחברים - ונהנים מציוץ הציפורים! מובייל ציפורים צבעוניות הניתן לחיבור בשלושה אופנים שונים ומשמיע נעימות מרגיעות עם אפשרות לנגינה רצופה של 30 דקות. חברו אותו למיטה, לעגלה, למושב המכונית או לתיק ותנו לציפורים החמודות לעשות את שלהן… 10 מנגינות ערש מרגיעות מסתובבת 360 מעלות גירוי ויזואלי באמצעות דמויות וצבעים 3 אפשרויות חיבור קלות ונוחות 30 דקות נגינה מגיל לידה
 - Image: https://parktoys.co.il/assets/product-1784714399720-mdqwt4.webp
 
@@ -1047,7 +1047,7 @@ https://parktoys.co.il/product/mvbyyl-laglh-chyvt-vchyvkym-u3x7so
 https://parktoys.co.il/product/rapr-hbrvvz-mavdd-zchylh-dvbr-abryt-rm2mdz
 - Price: 119.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: ברווז המעודד זחילה וריקוד הכי מדליק שיש כל הבית ירקוד ללא הפסקה לקצב מוזיקלי היפ הופ עם ראפר הברווז! 2 עוצמות קול אורות , תנועה מוזיקה מדליקה מופעל באמצעות 3 סוללות AA גיל 18+M
 - Image: https://parktoys.co.il/assets/product-enhanced-1784713616145-2z88v.webp
 
@@ -1055,7 +1055,7 @@ https://parktoys.co.il/product/rapr-hbrvvz-mavdd-zchylh-dvbr-abryt-rm2mdz
 https://parktoys.co.il/product/mshchk-zykrvn-vzryzvt-2-b-1-gdvl-dvbr-abryt-lkg70h
 - Price: 79.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: משחקים ומשפרים את הזיכרון והזריזות גרסה חדשה ומשודרגת! לשיפור הזריזות וקואורדינציה שיפר היכולות הקוגניטיביות מעל 30 שלבי משחק אלופי הזיכרון: מסתכלים, זוכרים וחוזרים על המהלכים לפי הסדר! בכל שלב יתווסף לרצף מהלך נוסף, זכרו את רצף המהלכים וחזרו אחריהם. אלופי הזריזות: יש ללחוץ במהירות על הלחצנים הנדלקים. כולל תצוגה דיגיטלית של השלב במשחק. מופעל באמצעות סוללות 2*AA מגיל 3+
 - Image: https://parktoys.co.il/assets/product-1784712906006-cjtic.webp
 
@@ -1063,7 +1063,7 @@ https://parktoys.co.il/product/mshchk-zykrvn-vzryzvt-2-b-1-gdvl-dvbr-abryt-lkg70
 https://parktoys.co.il/product/htablt-hchkm-shly-56t0u2
 - Price: 95.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: טאבלט אינטראקטיבי ללמידה חווייתית המשלב משחקים, שירים ותכנים חינוכיים. מתאים לילדים מגיל שנה ומעלה. מעל 150 פעילויות שונות: משחקים, שירים ומשימות אינטראקטיביות. לימוד אותיות הא’-ב’, מספרים, צבעים וצורות. זיהוי קולות של חיות וצלילים מגוונים. משחקי שאלות ותשובות לפיתוח חשיבה. רגלית מובנית לנוחות שימוש. משחק דובר עברית עוזר בפיתוח מוטוריקה עדינה, זיכרון ויכולת ריכוז פרטים טכניים: גיל שימוש: 12 חודשים ומעלה. הפעלה באמצעות 3 סוללות AAA
 - Image: https://parktoys.co.il/assets/product-1784711573460-n2h8lb.webp
 
@@ -1078,7 +1078,7 @@ https://parktoys.co.il/product/glvbvs-hchyvt-hksvm-5joot1
 https://parktoys.co.il/product/hgh-hhptavt-dvbr-abryt-1yhgym
 - Price: 139.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: מתניעים, נוסעים, ולומדים מגוון נושאים. ממש כמו ההגה באוטו של אבא ואמא, אבל הרבה יותר משעשע ולימודי… צאו עם הגה ההפתעות לנסיעה מלאה בתכנים ובחוויות משעשעות - משפטים וצלילים מעולם המכוניות, משחקי היכרות עם בעלי חיים, צורות, צבעים, פירות ועוד, שירים בעברית, אורות וצלילים. נסיעה טובה, מהנה ובטוחה לכולם! הגה אינטראקטיבי דובר עברית!! 5 שירים קלאסיים 6 נושאי לימוד 2 עוצמות קול 5 שירים בעברית אורות וצלילים
 - Image: https://parktoys.co.il/assets/product-1784711151027-5t14kc.webp
 
@@ -1086,7 +1086,7 @@ https://parktoys.co.il/product/hgh-hhptavt-dvbr-abryt-1yhgym
 https://parktoys.co.il/product/palvlvn-chyvt-htsprda-ziu5e2
 - Price: 89.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: האריה שואג, הציפור מצייצת, והצפרדע שבפעלולון - קורצת! פעלולון מדליק לקטנטנים, עם חרוזים וצורות בשלל צבעים וטקסטורות ומשפטים משעשעים בעברית. מגיל 6 חודשים
 - Image: https://parktoys.co.il/assets/product-1784710680147-64lih.webp
 
@@ -1094,7 +1094,7 @@ https://parktoys.co.il/product/palvlvn-chyvt-htsprda-ziu5e2
 https://parktoys.co.il/product/glgl-hanglyt-y7l8zg
 - Price: 149.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: הפתעה בכל לחיצה וסיבוב: לימוד מילים, אותיות, חיות, קולות, צלילים ומנגינות. 26 מילים בסיסיות באנגלית ● הקראה ותרגול של מילים חידות ושאלות בשפה האנגלית ● שירים ומנגינות קלאסיות לגירוי קוגניטיבי ● מוצר זה מופעל באמצעות 3 סוללות AA מתאים מגיל 18 חודשים ומעלה 2 עוצמות קול
 - Image: https://parktoys.co.il/assets/product-1784710379240-k5eeau.webp
 
@@ -1102,7 +1102,7 @@ https://parktoys.co.il/product/glgl-hanglyt-y7l8zg
 https://parktoys.co.il/product/hbyt-hchkm-kvpst-paylvt-rb39cr
 - Price: 149.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: גג אדום וחלונות - לשחק, ללמוד ולהנות! טוק טוק טוק, מי שם? ברוכים הבאים לבית החכם שלנו, הבית שכל פעוט ישמח לגור בו! כאן משחקים במגוון פעילויות מהנות התורמות לפיתוח החושי - מיון והשחלת צורות, סיבוב גלגלי שיניים, הנעת חרוזים ועוד. הבית החכם- מתפתחים-משחקים-לומדים! קופסת פעילות איכותית וצבעונית מגוון רחב של הפעלות לפיתוח חושי התינוק: מיון והשחלת צורות גלגלי שיניים סיבוב כדור משחק חרוזים סיבוב גלגלת מחוג פתיחת דלת
 - Image: https://parktoys.co.il/assets/product-1784710017147-mn2535.webp
 
@@ -1110,7 +1110,7 @@ https://parktoys.co.il/product/hbyt-hchkm-kvpst-paylvt-rb39cr
 https://parktoys.co.il/product/kdvr-htnvah-0c3ohc
 - Price: 129.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: כדור התפתחות מוזיקלי - לשחק בו זה כיף לא נורמאלי! זורקים, תופסים, מגלגלים, מסובבים ולומדים מגוון נושאים מגניבים - בעלי חיים, מספרים וצורות, בליווי צלילים ושירים בעברית. מעודד זחילה ומשחק באמצעות תנועה, קולות ושירים 2 רמות קול
 - Image: https://parktoys.co.il/assets/product-enhanced-1784709865721-14dbk9.webp
 
@@ -1118,7 +1118,7 @@ https://parktoys.co.il/product/kdvr-htnvah-0c3ohc
 https://parktoys.co.il/product/chprprt-bsrt-nkmt-hptyshym-dvbr-abryt-56ll6a
 - Price: 149.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: חפרפרות ופטישים - משחק מגניב שלא ישאיר אתכם אדישים. החפרפרת מציצה מתוך האדמה - מהרו להכות בה בפטיש! משחק מלהיב ומלא משפטים משעשעים ובדיחות, ומה שבטוח - את הסרט הזה החפרפרת לא תשכח לעולם… עשרות משפטים מצחיקים \ שני מצבי עוצמת שמע \ מהירויות שונות למשחק . קבלו ניקוד לפי התוצאות שלכם
 - Image: https://parktoys.co.il/assets/product-enhanced-1784709776549-5dpq6u.webp
 
@@ -1126,7 +1126,7 @@ https://parktoys.co.il/product/chprprt-bsrt-nkmt-hptyshym-dvbr-abryt-56ll6a
 https://parktoys.co.il/product/palvlvn-baly-chyym-j3n79x
 - Price: 129.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: עם קופיף, פרה, נמר ודוב קואלה - לשחק וללמוד זה כיף לאללה! פעלולון מלא הפתעות, משחקי שאלות ותשובות, אורות, צלילים ותכנים לימודיים ומשעשעים בעברית - לוחצים ולומדים תוך כדי משחק על אותיות, מספרים, צבעים, צורות, בעלי חיים ועוד.פעלולון בעלי חיים משחקים, מתפתחים ולומדים
 - Image: https://parktoys.co.il/assets/product-1784709094929-14t4i.webp
 
@@ -1134,7 +1134,7 @@ https://parktoys.co.il/product/palvlvn-baly-chyym-j3n79x
 https://parktoys.co.il/product/mgdl-htbavt-hmdbr-shly-38oc2s
 - Price: 119.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: טבעות משחילים, מקשיבים למוזיקה ולומדים מילים. עם מגדל הטבעות שלנו, פעולת ההשחלה היא חגיגה שלמה - משחילים את הטבעות על פי הסדר, מאזינים לשירים, וגם לקטעים מוזיקליים המשלבים למידת מילים. חוויה לימודית מהנה וצבעונית לפעוטות! משוב חיובי בהשחלת טבעת! דובר עברית! 2 שירים מקוריים בעברית: שיר המספרים שיר בעלי חיים 5 קטעים מוזיקליים המלמדים מילים ראשונות בעברית: בוקר טוב כלב חתול כדור אבא אמא 2 עוצמות קול לחצני אור נדלקים
 - Image: https://parktoys.co.il/assets/product-1784708377483-t7j8s.webp
 
@@ -1142,7 +1142,7 @@ https://parktoys.co.il/product/mgdl-htbavt-hmdbr-shly-38oc2s
 https://parktoys.co.il/product/hk-ptysh-ksylvpvn-stfejt
 - Price: 89.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: מכים בפטיש, משחילים, ומאזינים לצלילי הקסילופון הנפלאים! חוויה מוזיקלית ומוטורית משעשעת לפעוטות - משחילים את הכדורים במקומות המתאימים לפי הצבעים, מכים בפטיש, והקסילופון עונה בצלילים ענוגים על כל השחלה נכונה! התאימו את הכדורים לפי הצבעים והשחילו אותם בעזרת הפטיש! בהשחלת הכדור ישמע צלילים והילד יקבל כך משוב חיובי
 - Image: https://parktoys.co.il/assets/product-1784708007420-s53mcn.webp
 
@@ -1150,7 +1150,7 @@ https://parktoys.co.il/product/hk-ptysh-ksylvpvn-stfejt
 https://parktoys.co.il/product/chyvt-kvptsvt-dvbr-abryt-999ilv
 - Price: 119.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: חיות קופצות בהפתעה - שעות של כיף והנאה! מה הפיל, ההיפופוטם, האריה והקוף הכי אוהבים לעשות? לשיר, לדבר וכמובן - לקפוץ! צעצוע חוויתי ומשעשע שלא מפסיק להפתיע. 6m+
 - Image: https://parktoys.co.il/assets/product-1784707869972-hu2pks8.webp
 
@@ -1158,7 +1158,7 @@ https://parktoys.co.il/product/chyvt-kvptsvt-dvbr-abryt-999ilv
 https://parktoys.co.il/product/tsvrvt-vhptavt-myvn-tsvrvt-dvbr-abryt-xgiws7
 - Price: 129.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: שש צורות והפתעות - בצרורות! לא תאמינו כמה הפתעות מסתתרות בלוח הפעילות שלנו - מתאימים שש צורות בשישה צבעים למקומותיהן המתאימים ועל הדרך ממששים טקסטורות מסקרנות, מרשרשים בחרוזים, מגלגלים כדור, מביטים במראה, מקשיבים לשירים מוכרים בעברית ועוד. חוויית לימוד מהנה וצבעונית התורמת לפיתוח המוטוריקה העדינה והיכולות הקוגניטיביות. לגילאי 12 חודשים +
 - Image: https://parktoys.co.il/assets/product-1784707718430-unto57.webp
 
@@ -1166,7 +1166,7 @@ https://parktoys.co.il/product/tsvrvt-vhptavt-myvn-tsvrvt-dvbr-abryt-xgiws7
 https://parktoys.co.il/product/kvbyyt-hpalvt-dvbrt-abryt-15ojsr
 - Price: 149.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: קובייה שהיא חוויה. למה לחשוב מחוץ לקופסה אם אפשר לחשוב מחוץ לקובייה… קוביית ההפעלות שלנו אטרקטיבית ומעוררת מחשבה מבחוץ, מבפנים ומכל הכיוונים! בכל צד מצדדיה מתגלה פעילות - חרוזים, התאמת צורות, האזנה למוזיקה ועוד, המפתחת את כישורי המוטוריקה העדינה, החושים והחשיבה. גיל 18M+
 - Image: https://parktoys.co.il/assets/product-1784707515072-mtznin.webp
 
@@ -1174,7 +1174,7 @@ https://parktoys.co.il/product/kvbyyt-hpalvt-dvbrt-abryt-15ojsr
 https://parktoys.co.il/product/tablt-lvmdym-am-kvpykv-aee9zt
 - Price: 99.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: קופיקו השובב - מורה שכל תלמיד יאהב! מי אם לא קופיקו מבין שהכי כיף ללמוד דרך משחק - עם טאבלט קופיקו תלמדו נושאים כמו אותיות, ספרות, מילים בעברית ובאנגלית, והכל בדרך מהנה וחוויתית. לוחצים על הכפתורים ובהתאם למספר הלחיצות - מאזינים למידע מעניין, עונים לשאלות, שומעים שירים וחדים חדות. ללמוד זה כיף - תשאלו את קופיקו! לומדים עם קופיקו לוחצים על אות או ספרה שלוש פעמים לחיצה ראשונה - לומדים אות או ספרה לחיצה שניה - מקבלים מידע לחיצה שלישית- לומדים אנגלית לחצן תווים - שומעים שירים לחצן סימן שאלה - חדים ח
 - Image: https://parktoys.co.il/assets/product-1784707271620-b766ac.webp
 
@@ -1182,7 +1182,7 @@ https://parktoys.co.il/product/tablt-lvmdym-am-kvpykv-aee9zt
 https://parktoys.co.il/product/trktvr-chyvt-chvvh-dvbr-abryt-hr1v0j
 - Price: 179.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: אצלנו בחווה לומדים בחדווה! הנה מגיע הטרקטור והוא לא מגיע לבד… בעקבותיו מגיעה גם עגלה ובה חיות חווה חביבות ועליזות! איזו נסיעה משעשעת - מלאה באורות וצלילים, קולות של בעלי חיים ושירים ומשפטים בעברית. 6 שירים ועשרות משפטים משעשעים ולימודיים בעברית ! משחקים ולומדים: הכרת בעלי חיים הכרת צבעים הכרת כמות ומספר עידוד זחילה גיל 12M+
 - Image: https://parktoys.co.il/assets/product-1784706964003-1ujfqi.webp
 
@@ -1190,7 +1190,7 @@ https://parktoys.co.il/product/trktvr-chyvt-chvvh-dvbr-abryt-hr1v0j
 https://parktoys.co.il/product/hmkrr-hrashvn-shly-dvbr-abryt-l383pl
 - Price: 199.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: מוצר מהפך! חובה בכל מטבח! מקרר רגיל יש בכל בית - אבל המקרר הראשון שלי אינו מקרר רגיל… גם הפעולה הכי פשוטה כמו הוצאת ביצים או סידור פירות במגרה הופכת לחוויה מפתיעה ומוזיקלית, עם שירים ומשפטים משעשעים בעברית. המקרר מגיע עם שלל אביזרים - פירות, ירקות, מוצרי חלב ומזווה, כוננית מדפים ואפילו מכונת קרח בילט אין - פלא שאבא ואמא מקנאים? גיל 3+
 - Image: https://parktoys.co.il/assets/product-enhanced-1784706793190-f9ghjq.webp
 
@@ -1198,7 +1198,7 @@ https://parktoys.co.il/product/hmkrr-hrashvn-shly-dvbr-abryt-l383pl
 https://parktoys.co.il/product/htablt-hrashvn-shly-goaiv8
 - Price: 99.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: גם "ללמוד" יכול להיות כיף מאד. ילדים, הדליקו את הטאבלט ואמרו שלום לפרופסור דוב חכם, שיודע ה-מון דברים מעניינים. יחד איתו תשחקו, תשירו ותלמדו בדרך חוויתית ומשעשעת נושאים רבים ומגוונים כגון - חשבון, צורות, כלי נגינה, אותיות, מוזיקה, קריאת שעון ובעלי חיים. יהיה כיף!
 - Image: https://parktoys.co.il/assets/product-enhanced-1784706406970-h3k9w.webp
 
@@ -1206,7 +1206,7 @@ https://parktoys.co.il/product/htablt-hrashvn-shly-goaiv8
 https://parktoys.co.il/product/mvltymdyh-tsatsvay-htptchvt-tablt-40-mylym-rashvnvt-h9evnp
 - Price: 90.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: הילדים במסכים, וההורים? ממש תומכים! היש דרך מדליקה ועכשווית מזו לתרגל את כישורי המוטוריקה העדינה, ההקשבה וההתבוננות, וללמוד נושאים כמו אותיות, מספרים, צורות וצבעים? הטאבלט הראשון מסוגו בעברית כולל גם 120 משפטים בעברית וחמישה שירי ילדים מקוריים, ומבטיח שעות ארוכות של גילוי, הנאה ולמידה עצמאית וחוויתית. גיל 18 חודשים+
 - Image: https://parktoys.co.il/assets/product-1784706258733-v2ieth.webp
 
@@ -1214,7 +1214,7 @@ https://parktoys.co.il/product/mvltymdyh-tsatsvay-htptchvt-tablt-40-mylym-rashvn
 https://parktoys.co.il/product/lptvp-50-pavlvt-bt8xnd
 - Price: 249.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: איזה לפטופ משוכלל - כל אחד מרגיש מנכ"ל! כיף ללמוד עם לפטופ חמישים פעולות - הכרת אותיות ואיות מילים בעברית, משחקי חשיבה וזיכרון, חשבון, מספרים, הקלדה עיוורת ועוד ועוד. חמישים פעילויות חינוכיות תוך כדי משחק עצמאי מהנה וחוויתי.
 - Image: https://parktoys.co.il/assets/product-1784706052623-oh504b.webp
 
@@ -1229,7 +1229,7 @@ https://parktoys.co.il/product/spr-hmylym-hrashvn-shly-1ooscg
 https://parktoys.co.il/product/lylh-tvb-lvly-dvbrt-abryt-6npki3
 - Price: 89.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: אפרוח חמוד וצהוב מאחל לכולם לילה טוב כשלולי האפרוח האהוב מחכה בחדר - כל ילד ישמח לקפוץ למיטה וללכת לישון. עם שיר לילה , מנגינות נעימות ותצוגת אורות רכים, לולי יהפוך את הרגעים שלפני השינה לחוויה קסומה ומרגיעה.
 - Image: https://parktoys.co.il/assets/product-1784705537277-ndwjq.webp
 
@@ -1244,7 +1244,7 @@ https://parktoys.co.il/product/bymbv-mavdd-zchylh-vmlmd-jynpzu
 https://parktoys.co.il/product/hsmartpvn-hrashvn-shly-4un2mu
 - Price: 79.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: ילדות וילדים, מיד! להדליק את הנייד! עם הסמארטפון הראשון שלי, לכם ההורים לא יהיה אכפת שהילדים כל היום במסך… זהו טלפון דובר עברית ראשון מסוגו שבעזרת מוזיקה ושירים הופך את הלימוד לחווית משחק כיפית וקלילה. בין הנושאים הנלמדים: אותיות, מספרים, צורות, מוזיקה, חשבון, שעון, מזג אוויר ועוד ועוד. כי היום עושים הכל בטלפון… קיים בצבע שחור
 - Image: https://parktoys.co.il/assets/product-1784704934475-9iqy5m.webp
 
@@ -1252,7 +1252,7 @@ https://parktoys.co.il/product/hsmartpvn-hrashvn-shly-4un2mu
 https://parktoys.co.il/product/mylvn-htslylym-hrashvn-shly-bdkbui
 - Price: 119.00 ILS
 - Availability: In stock
-- Category: מוצרי תינוקות 
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: מיאו, מו, הב-הב-הב - משחק שכל פעוט יאהב. בין דפי המילון מחכים לכם מגוון קולות, אורות, צלילים ולמעלה ממאה משפטים בעברית במגוון נושאים - בעלי חיים, כלי תחבורה, כלי נגינה, צורות וצבעים, חפצים וגוף האדם. חוויה לימודית צבעונית, מוזיקלית ומשעשעת שעובדת על כל החושים. 20 מנגינות משעשעות ומעל 100 משפטים לימודיים במגוון נושאים כגון: "אבא שלי לקח אותי לטיול ברכבת!" "שלום! אני הוא הכלב! אני מאוד אוהב לאכול עצמות!" "יש לי עפיפון כתום וצורתו היא מעוין!"
 - Image: https://parktoys.co.il/assets/product-1784704581794-xz7kpe.webp
 
