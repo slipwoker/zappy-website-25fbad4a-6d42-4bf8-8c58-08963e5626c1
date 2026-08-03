@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-03T16:04:00.231Z",
+  "generated_at": "2026-08-03T16:04:49.516Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 393,
   "products": [
     {
       "id": "ba0019dc-972e-4ea1-8060-2f07673a3c61",
-      "slug": "mykrvpvn-kryvky-rvayky-f362ni",
+      "slug": "mykrvpvn-kryvky-rvayky-1zhleb",
       "name": "מיקרופון קריוקי רועיקי",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mykrvpvn-kryvky-rvayky-f362ni",
+      "url": "https://parktoys.co.il/product/mykrvpvn-kryvky-rvayky-1zhleb",
       "categories": [
         "מוצרי תינוקות "
       ],
-      "updated_at": "2026-08-03T16:03:24.951Z"
+      "updated_at": "2026-08-03T16:04:12.196Z"
     },
     {
       "id": "60e04b93-c7f5-427e-8718-113b17cb5f07",
