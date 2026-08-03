@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 395** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 396** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### אורגנית קופיקו 
+https://parktoys.co.il/product/avrgnyt-kvpykv-4nryfo
+- Price: 150.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
+- Description: אורגנית קופיקו דוברת עברית! שרים ונהנים עם קופיקו וחברים! מנגנים ונהנים בחוויה של שירים עם קופיקו ועוד הפתעות.. אורגנית עם מצב הקלטה והשמעה ומצב נגינה תו אחרי תו- 10 מנגינות, בנוסף קיימת אופציה לשליטה בעוצמת הקול.
+- Image: https://parktoys.co.il/assets/product-enhanced-1785776851705-5o2bjm.webp
 
 ### אורגנית מיקי
 https://parktoys.co.il/product/avrgnyt-myky-xnidwj
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/chgygt-ryynbvkvrn-eggzania-mini-mania-c75kue
 - Category: בובות/ברבי
 - Description: Rainbocorns Eggzania עמוס ביותר מ-10 הפתעות ללא תחרות! יש לאסוף 6 קטיפה מיני מאניה של Eggzania ו-6 יולקים תואמים. חגיגת ריינבוקורן מיני בגודל המהנה האלה הם החברים המושלמים בגודל כיס. גלה את צמיד ה-Eggzania שלך בתוך ביצת החלמונית שלך! קלפו את הלב מה-Rainbocorn שלכם כדי לחשוף מה הם אוהבים!
 - Image: https://parktoys.co.il/assets/product-1784555254366-99nv9n.webp
-
-### דורה רוקדת ומדברת – בובה אינטראקטיבית
-https://parktoys.co.il/product/dvrh-rvkdt-vmdbrt-bvbh-ayntraktybyt-wrtipp
-- Price: 149.00 ILS (sale, was 279.00 ILS)
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: ! בואו לרקוד וללמוד עם דורה! הדור החדש של דורה יוצא לדרך עם בובה אינטראקטיבית שמעוררת את הילדים לתנועה, שירה ומשחק דו-לשוני (אנגלית/ספרדית). קסם אינטראקטיבי בלחיצת כפתור הרפתקאות בתנועה: הפיחו חיים בדורה על ידי לחיצה על הפרח שעל נעליה! צפו בה רוקדת בתנועות מלאות חן, שרה שירים קצביים, משמיעה משפטים דו-לשוניים ומעודדת את ילדכם לרקוד יחד איתה. שילוב מושלם של כיף ולמידה: דורה מחברת בין מוזיקה, ריקוד וביטויים דו-לשוניים ליצירת חוויה קסומה שמחקה בדיוק את המראה והרוח של הדמות האהובה מהסדרה. יצירתיות וא…
-- Image: https://parktoys.co.il/assets/product-1784533698282-ufwx9.webp
 
 ---
 
