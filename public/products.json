@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-04T16:42:13.510Z",
+  "generated_at": "2026-08-04T16:42:57.010Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 408,
   "products": [
     {
       "id": "7930287c-b0b1-453c-ac9d-7ef43e6b3c2d",
-      "slug": "arkt-kryvky-brby-8j45fq",
+      "slug": "arkt-kryvky-brby-kd6i3u",
       "name": "ערכת קריוקי ברבי",
       "name_translations": {},
       "description": "",
@@ -19,15 +19,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://parktoys.co.il/assets/product-1785861604893-rnj93.webp"
+        "https://parktoys.co.il/assets/product-enhanced-1785861694625-wn9jyp.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/arkt-kryvky-brby-8j45fq",
+      "url": "https://parktoys.co.il/product/arkt-kryvky-brby-kd6i3u",
       "categories": [
         "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
       ],
-      "updated_at": "2026-08-04T16:41:37.252Z"
+      "updated_at": "2026-08-04T16:42:23.448Z"
     },
     {
       "id": "b5bddaab-48ac-4515-9997-5d6239622cde",
