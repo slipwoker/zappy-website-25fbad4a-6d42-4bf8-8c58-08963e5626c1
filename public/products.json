@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-04T13:57:35.240Z",
+  "generated_at": "2026-08-04T14:02:40.670Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 401,
@@ -3223,7 +3223,7 @@
     },
     {
       "id": "4a973838-07af-44c6-94da-d6614c7eaa3a",
-      "slug": "hbyt-hchkm-kvpst-paylvt-20z2tr",
+      "slug": "hbyt-hchkm-kvpst-paylvt-wdf1x7",
       "name": "הבית החכם- קופסת פעילות",
       "name_translations": {},
       "description": "",
@@ -3235,15 +3235,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1785851715081-1bpj6j.webp"
+        "https://parktoys.co.il/assets/product-enhanced-1785852106280-3sq2nj.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/hbyt-hchkm-kvpst-paylvt-20z2tr",
+      "url": "https://parktoys.co.il/product/hbyt-hchkm-kvpst-paylvt-wdf1x7",
       "categories": [
         "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
       ],
-      "updated_at": "2026-08-04T13:57:00.314Z"
+      "updated_at": "2026-08-04T14:02:07.387Z"
     },
     {
       "id": "c4e1ce1a-4659-4929-97f2-49f8f0fb1543",
