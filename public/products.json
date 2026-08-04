@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-04T14:50:01.270Z",
+  "generated_at": "2026-08-04T16:01:09.702Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 403,
+  "count": 404,
   "products": [
+    {
+      "id": "77c12ce3-041c-41c4-90b6-2a73e44029fe",
+      "slug": "chts-vksht-ayyrvn-mn-6dhvmc",
+      "name": "חץ וקשת איירון מן",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חץ וקשת איירון מן\n\n",
+      "sku": null,
+      "brand": null,
+      "price": 70,
+      "base_price": 70,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785859221413-ssl3yl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chts-vksht-ayyrvn-mn-6dhvmc",
+      "categories": [
+        "צעוצעים לבנים /דמויות/מותגים"
+      ],
+      "updated_at": "2026-08-04T16:00:34.615Z"
+    },
     {
       "id": "aaf605ae-69c4-47fa-b293-aa2553060a7d",
       "slug": "htlpvn-hchkm-shly-4xmo2s",

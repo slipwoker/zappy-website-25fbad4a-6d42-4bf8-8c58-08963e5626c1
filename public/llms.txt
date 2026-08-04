@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 403** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 404** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חץ וקשת איירון מן
+https://parktoys.co.il/product/chts-vksht-ayyrvn-mn-6dhvmc
+- Price: 70.00 ILS
+- Availability: In stock
+- Category: צעוצעים לבנים /דמויות/מותגים
+- Description: חץ וקשת איירון מן
+- Image: https://parktoys.co.il/assets/product-enhanced-1785859221413-ssl3yl.webp
 
 ### הטלפון החכם שלי
 https://parktoys.co.il/product/htlpvn-hchkm-shly-4xmo2s
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/brby-skypr-byybysytr-am-tynvk-lvl-vabyzrym-kpeda0
 - Category: בובות/ברבי
 - Description: סט משחק מסדרת Barbie Skipper Babysitters Inc הכולל בובת סקיפר, תינוק קטן, לול ואביזרי טיפול למשחק דמיון מתוק ומהנה. המארז מאפשר לילדים ליצור סיפורי בייביסיטר, טיפול בתינוק ומשחקי משפחה עם אביזרים צבעוניים ומפורטים.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784619907544-rm2jto.webp
-
-### ברבי נוצצת 10 הפתעות בקופסה Party Unboxed Glam Party
-https://parktoys.co.il/product/brby-nvtstst-10-hptavt-bkvpsh-party-unboxed-glam-party-5jmh5b
-- Price: 119.00 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: ברבי Party Unboxed היא חוויית פתיחה מלאה בהפתעות! 10 הפתעות בתוך קופסה נוצצת כולל בובה זוהרת, אקססוריז מגניבים, אפקט שינוי צבע וחיית מחמד. כל פתיחה היא מסיבה!
-- Image: https://parktoys.co.il/assets/product-enhanced-1784617501183-cd0hnp.webp
 
 ---
 
