@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-04T12:57:52.755Z",
+  "generated_at": "2026-08-04T13:01:38.626Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 398,
+  "count": 399,
   "products": [
+    {
+      "id": "cd73095b-b205-438c-871b-e46e6bad71e8",
+      "slug": "mnvrt-lylh-mkrn-kvkbym-jq1mck",
+      "name": "מנורת לילה מקרן כוכבים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "העניקו לפעוט שלכם חוויה מוזיקלית ואורקולית מרגיעה עם מקרן הכוכבים מבית Spark Toys. המנורה תוכננה במיוחד כדי ליצור סביבה עוטפת, רגועה ושקטה שמסייעת להרגעת התינוק לקראת שנת לילה.\n\nלמה כדאי לבחור במנורה הזו?\n- תוכן דובר עברית: המכשיר כולל שירי ערש ומוזיקה מרגיעה, ביניהם היצירה המוכרת \"דובי לילה טוב\".\n\n- אווירה קסומה: המנורה מקרינה כוכבים על קירות החדר ומשלבת תאורה בצבעים משתנים ליצירת מראה מרגיע.\n\n",
+      "sku": null,
+      "brand": null,
+      "price": 70,
+      "base_price": 70,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785848451257-5apy5q.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mnvrt-lylh-mkrn-kvkbym-jq1mck",
+      "categories": [
+        "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
+      ],
+      "updated_at": "2026-08-04T13:01:02.675Z"
+    },
     {
       "id": "946410bc-08ea-4e76-9b3c-c03c52b728db",
       "slug": "mnvrt-lylh-mvzyklyt-5ujkeq",
