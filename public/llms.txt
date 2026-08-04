@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 401** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 402** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לומדים אנגלית
+https://parktoys.co.il/product/lvmdym-anglyt-vppp25
+- Price: 70.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
+- Description: משחק לימודי להרחבת אוצר מילים באנגלית! 224 מילים באנגלית ובעברית, 112 כרטיסיות דו-צדדיות ו-12 נושאים מגוונים. כולל שליטה בעוצמת הקול
+- Image: https://parktoys.co.il/assets/product-enhanced-1785852733090-jsz5o.webp
 
 ### 108 מילים ושירים
 https://parktoys.co.il/product/108-mylym-vshyrym-1yxaj3
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/bvbt-brby-hmdanyt-arkt-mda-ew9a4f
 - Category: בובות/ברבי
 - Description: בובת ברבי המדענית ערכת מדע. Barbie Scientist - You Can Be Anything ברבי בובות קרירה נוצרו על מנת לעודד ילדים לחלום בגדול. בובת המשחק לוקחות מקומות עבודה שונים והופכת את זה למשחק שדרכו ניתן ללמוד על סביבת עבודה וכלי עבודה אמתיים. ברבי המדענית היא ערכה שכוללת בובת ברבי עם שולחן מדעי אשר כולל: כיור, כיסא, שולחן עם מגירות, מדף ומבחנות. בנוסף מגיעות בערכה מבחנות, משקפי מגן, כפיות מדידה, פיפטות, כוס מדידה, ועוד. הערכה מתאימה לגילאי 3+ משתתפים: 1+ סינון לפי גילאים :3+
 - Image: https://parktoys.co.il/assets/product-enhanced-1784617157402-88vb6.webp
-
-### בובה קריי בייבי ביצת הזהב 
-https://parktoys.co.il/product/bvbh-kryy-byyby-bytst-hzhb-2c3t9a
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: מארז תצוגה של בובות Cry Babies Magic Tears Golden House Edition. כל מארז דמעה מוזהב מכיל בובת הפתעה בלעדית במהדורת זהב. ישנן 7 דמויות שונות לאיסוף במהדורה זו, כולל דמות נדירה אחת. כל בובה מגיעה עם 4 אביזרים משותפים (בקבוק, מוצץ, צמיד וכיסא) ו-2 אביזרים מותאמים אישית. הבובות בוכות "דמעות זהב" אמיתיות כאשר מאכילים אותן במים ולוחצים על בטנן. לא ניתן לבחור בובה מסוימת. המחיר עבור יחידה.
-- Image: https://parktoys.co.il/assets/product-1784567004040-n64e0l.webp
 
 ---
 
