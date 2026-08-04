@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 400** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 401** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### 108 מילים ושירים
+https://parktoys.co.il/product/108-mylym-vshyrym-6hyqt4
+- Price: 130.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
+- Description: ספר אינטראקטיבי 108 מילים ושירים דובר עברית מבית ספארק טויס. בואו ליהנות מספר חוויתי מדבר, מנגן ושר במגוון נושאים שקטנטנים אוהבים לגלות. בעליי חיים, כלי נגינה, כלי תחבורה, פרות וירקות, משחקים, צבעים, צורות, מספרים, עונות ובית. ספר אינטראקטיבי עשיר בתכנים הכולל 108 מילים ושירים לימודיים שונים ב-12 נושאי לימוד. כ- 500 קטעי קול. מגילאי 6 חודשים ומעלה.
+- Image: https://parktoys.co.il/assets/product-enhanced-1785851194494-uzdbst.webp
 
 ### הסרטן השובב
 https://parktoys.co.il/product/hsrtn-hshvbb-d3vwkn
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/bvbh-kryy-byyby-bytst-hzhb-2c3t9a
 - Category: בובות/ברבי
 - Description: מארז תצוגה של בובות Cry Babies Magic Tears Golden House Edition. כל מארז דמעה מוזהב מכיל בובת הפתעה בלעדית במהדורת זהב. ישנן 7 דמויות שונות לאיסוף במהדורה זו, כולל דמות נדירה אחת. כל בובה מגיעה עם 4 אביזרים משותפים (בקבוק, מוצץ, צמיד וכיסא) ו-2 אביזרים מותאמים אישית. הבובות בוכות "דמעות זהב" אמיתיות כאשר מאכילים אותן במים ולוחצים על בטנן. לא ניתן לבחור בובה מסוימת. המחיר עבור יחידה.
 - Image: https://parktoys.co.il/assets/product-1784567004040-n64e0l.webp
-
-### קריי בייביז דמעות הקסם ביצת החלומות
-https://parktoys.co.il/product/kryy-byybyz-dmavt-hksm-bytst-hchlvmvt-dsvrb5
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: קריי בייביז דמעות הקסם ביצת החלומות בובת הפתעה מסדרת Cry Babies Magic Tears המגיעה בתוך ביצת דמעה ורודה ומעוצבת. פותחים את הביצה ומגלים דמות חמודה מסדרת קריי בייביז יחד עם אביזרים למשחק דמיון, איסוף וחוויית פתיחה מהנה. מה כולל המוצר? בובת Cry Babies Magic Tears בהפתעה ביצת דמעה ורודה לאחסון ולמשחק דמות אספנות מסדרת Pink Edition אביזרים נלווים בהתאם לתכולת המארז מתאים לגילאי 3 ומעלה דגם: 81550 ברקוד: 8421134081550 יתרונות עיקריים חוויית פתיחה מפתיעה ומרגשת עיצוב ורוד ומבריק בצורת דמעה מתאים לאי
-- Image: https://parktoys.co.il/assets/product-1784566759599-8ubhvl.webp
 
 ---
 

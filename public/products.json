@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-04T13:36:29.344Z",
+  "generated_at": "2026-08-04T13:47:29.810Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 400,
+  "count": 401,
   "products": [
+    {
+      "id": "8c00a29f-66b6-4069-9b93-0a42e8ce5424",
+      "slug": "108-mylym-vshyrym-6hyqt4",
+      "name": "108 מילים ושירים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ספר אינטראקטיבי 108 מילים ושירים דובר עברית מבית ספארק טויס.\n\nבואו ליהנות מספר חוויתי מדבר, מנגן ושר במגוון נושאים שקטנטנים אוהבים לגלות.\n\n\n\nבעליי חיים, כלי נגינה, כלי תחבורה, פרות וירקות, משחקים, צבעים, צורות, מספרים, עונות ובית.\n\nספר אינטראקטיבי עשיר בתכנים הכולל 108 מילים ושירים לימודיים שונים ב-12 נושאי לימוד.\n\n\n\nכ- 500 קטעי קול.\n\nמגילאי 6 חודשים ומעלה.",
+      "sku": null,
+      "brand": null,
+      "price": 130,
+      "base_price": 130,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785851194494-uzdbst.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/108-mylym-vshyrym-6hyqt4",
+      "categories": [
+        "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
+      ],
+      "updated_at": "2026-08-04T13:46:55.206Z"
+    },
     {
       "id": "4d61fc8f-95e7-44a4-8edc-54273c295520",
       "slug": "hsrtn-hshvbb-d3vwkn",
