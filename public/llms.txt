@@ -76,7 +76,13 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 404** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 405** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חץ וקשת של ספיידרמן 
+https://parktoys.co.il/product/chts-vksht-shl-spyydrmn-v2stut
+- Price: 0.00 ILS
+- Availability: In stock
+- Image: https://parktoys.co.il/assets/product-enhanced-1785859671778-dhju9.webp
 
 ### חץ וקשת איירון מן
 https://parktoys.co.il/product/chts-vksht-ayyrvn-mn-6dhvmc
@@ -1662,14 +1668,6 @@ https://parktoys.co.il/product/bvbt-dream-besties-skate-party-gvdl-29-sm-mbyt-ma
 - Category: בובות/ברבי
 - Description: בובת Barbie Dream Besties Skate Party משלבת עולם של אופנה, חברות וביטוי אישי עם לוק צבעוני בהשראת מסיבת גלגליות ותחביבים יצירתיים. הבובה מעוצבת בסגנון עדכני עם אביזרים אופנתיים ופריטים המעודדים משחקי דמיון, יצירת סיפורים והרפתקאות מלאות סטייל ואנרגיה. העיצוב האופנתי והאביזרים הנלווים מעניקים לבובה אופי ייחודי ומשלבים עולם של חלומות, יצירתיות והשראה, תוך עידוד ילדות לבטא את עצמן ולדמיין את כל מה שהן יכולות להיות. הבובה מתאימה למשחק עצמאי, לאיסוף ולשילוב עם דמויות נוספות מסדרת Dream Besties Skate …
 - Image: https://parktoys.co.il/assets/product-enhanced-1784620110465-tqsbx.webp
-
-### ברבי סקיפר בייביסיטר עם תינוק, לול ואביזרים
-https://parktoys.co.il/product/brby-skypr-byybysytr-am-tynvk-lvl-vabyzrym-kpeda0
-- Price: 129.00 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: סט משחק מסדרת Barbie Skipper Babysitters Inc הכולל בובת סקיפר, תינוק קטן, לול ואביזרי טיפול למשחק דמיון מתוק ומהנה. המארז מאפשר לילדים ליצור סיפורי בייביסיטר, טיפול בתינוק ומשחקי משפחה עם אביזרים צבעוניים ומפורטים.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784619907544-rm2jto.webp
 
 ---
 

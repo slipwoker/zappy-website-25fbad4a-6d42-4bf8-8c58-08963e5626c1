@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-04T16:01:09.702Z",
+  "generated_at": "2026-08-04T16:08:51.909Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 404,
+  "count": 405,
   "products": [
+    {
+      "id": "78b75e3d-eeee-403a-a9d5-8b81bebee303",
+      "slug": "chts-vksht-shl-spyydrmn-v2stut",
+      "name": "חץ וקשת של ספיידרמן ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785859671778-dhju9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chts-vksht-shl-spyydrmn-v2stut",
+      "categories": [],
+      "updated_at": "2026-08-04T16:08:18.943Z"
+    },
     {
       "id": "77c12ce3-041c-41c4-90b6-2a73e44029fe",
       "slug": "chts-vksht-ayyrvn-mn-6dhvmc",
