@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-04T16:48:23.208Z",
+  "generated_at": "2026-08-04T16:50:37.673Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 409,
+  "count": 410,
   "products": [
+    {
+      "id": "ac57c4a4-aefd-4ec9-a9c5-6622112444ec",
+      "slug": "alvpy-hzykrvn-vhzryzvt-zwlk16",
+      "name": "אלופי הזיכרון והזריזות",
+      "name_translations": {},
+      "description": "",
+      "short_description": "משחקים ומשפרים את הזיכרון והזריזות גרסה חדשה ומשודרגת!\nלשיפור הזריזות וקואורדינציה\nשיפר היכולות הקוגניטיביות\nמעל 30 שלבי משחק\nאלופי הזיכרון: מסתכלים, זוכרים וחוזרים על המהלכים לפי הסדר! בכל שלב יתווסף לרצף מהלך נוסף, זכרו את רצף המהלכים וחזרו אחריהם. אלופי הזריזות: יש ללחוץ במהירות על הלחצנים הנדלקים. כולל תצוגה דיגיטלית של השלב במשחק. מופעל באמצעות סוללות 2*AA מגיל 3+",
+      "sku": null,
+      "brand": null,
+      "price": 80,
+      "base_price": 80,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785862167813-er0198.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/alvpy-hzykrvn-vhzryzvt-zwlk16",
+      "categories": [
+        "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
+      ],
+      "updated_at": "2026-08-04T16:50:03.586Z"
+    },
     {
       "id": "8a98f841-40bc-48da-9e5a-8ad001962d5d",
       "slug": "mykrvpvn-myny-mavs-axotpp",

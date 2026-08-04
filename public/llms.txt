@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 409** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 410** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### אלופי הזיכרון והזריזות
+https://parktoys.co.il/product/alvpy-hzykrvn-vhzryzvt-zwlk16
+- Price: 80.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
+- Description: משחקים ומשפרים את הזיכרון והזריזות גרסה חדשה ומשודרגת! לשיפור הזריזות וקואורדינציה שיפר היכולות הקוגניטיביות מעל 30 שלבי משחק אלופי הזיכרון: מסתכלים, זוכרים וחוזרים על המהלכים לפי הסדר! בכל שלב יתווסף לרצף מהלך נוסף, זכרו את רצף המהלכים וחזרו אחריהם. אלופי הזריזות: יש ללחוץ במהירות על הלחצנים הנדלקים. כולל תצוגה דיגיטלית של השלב במשחק. מופעל באמצעות סוללות 2*AA מגיל 3+
+- Image: https://parktoys.co.il/assets/product-enhanced-1785862167813-er0198.webp
 
 ### מיקרופון מיני מאוס
 https://parktoys.co.il/product/mykrvpvn-myny-mavs-axotpp
@@ -1663,14 +1671,6 @@ https://parktoys.co.il/product/marz-gybvry-al-marvel-ultimate-protectors-pack-ih
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: המארז מכיל 8 גיבורי-על : איירון מן (Iron Man) קפטן אמריקה (Captain America) – מגיע עם אביזר המגן המפורסם שלו. ספיידרמן (Spider-Man) הענק הירוק (Hulk) הפנתר השחור (Black Panther) אנט-מן (Ant-Man) פלקון (Falcon) וור מאשין (War Machine) כל דמות היא בגובה של כ-15 ס"מ. לדמויות יש מפרקים הניתנים להזזה (זרועות ורגליים) והמאפשרים להעמיד אותן בתנוחות קרב שונות.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784623785866-0xij1o.webp
-
-### זורו - ZURU פטס אלייב חתלתולים בצמר גפן - Zuru
-https://parktoys.co.il/product/zvrv-zuru-pts-alyyb-chtltvlym-btsmr-gpn-zuru-1qiv7h
-- Price: 99.00 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: פטס אלייב חתלתולים בצמר גפן - מבית זורו Zuru pets alive smitten kittens הכניסו את ילדיכם לעולם קסום של יצירה ודמיון עם חתלתולים בצמר גפן מבית Zuru. הערכה מציעה חוויית משחק ייחודית המשלבת חיות פרווה אינטראקטיביות, הפתעות מרגשות ואלמנטים של טיפול ואכפתיות, המעודדת את הילדים לבטא את עצמם ולפתח את כישרונותיהם החברתיים והרגשיים. יתרונות בולטים: 10 צלילים מציאותיים של חתלתולים – כוללים גרגורים, יללות וצלילים נוספים. עיניים זוהרות בחושך – למראה קסום ומיוחד. 5 הפתעות בתוך כל כדור צמר – כולל בקבוק חלב, ח
-- Image: https://parktoys.co.il/assets/product-1784621905182-jewfcd.webp
 
 ---
 

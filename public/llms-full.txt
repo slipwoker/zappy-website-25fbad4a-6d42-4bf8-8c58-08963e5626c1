@@ -5811,6 +5811,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### אלופי הזיכרון והזריזות
+URL: https://parktoys.co.il/product/alvpy-hzykrvn-vhzryzvt-zwlk16
+Price: 80.00 ILS
+Availability: In stock
+
+---
+
 ### מיקרופון מיני מאוס
 URL: https://parktoys.co.il/product/mykrvpvn-myny-mavs-axotpp
 Price: 59.99 ILS
