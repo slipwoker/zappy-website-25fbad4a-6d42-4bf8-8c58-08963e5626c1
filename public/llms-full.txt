@@ -5811,9 +5811,9 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
-### חץ וקשת של ספיידרמן 
-URL: https://parktoys.co.il/product/chts-vksht-shl-spyydrmn-3esvmp
-Price: 69.90 ILS
+### סופר חץ וקשת של ספיידרמן 
+URL: https://parktoys.co.il/product/svpr-chts-vksht-shl-spyydrmn-ht81ha
+Price: 70.00 ILS
 Availability: In stock
 
 ---

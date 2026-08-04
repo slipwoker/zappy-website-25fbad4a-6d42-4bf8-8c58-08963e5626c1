@@ -78,11 +78,13 @@ Information about WCAG compliance and accessibility features.
 
 **Total active products: 405** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
-### חץ וקשת של ספיידרמן 
-https://parktoys.co.il/product/chts-vksht-shl-spyydrmn-3esvmp
-- Price: 69.90 ILS
+### סופר חץ וקשת של ספיידרמן 
+https://parktoys.co.il/product/svpr-chts-vksht-shl-spyydrmn-ht81ha
+- Price: 70.00 ILS
 - Availability: In stock
-- Image: https://parktoys.co.il/assets/product-enhanced-1785859671778-dhju9.webp
+- Category: צעוצעים לבנים /דמויות/מותגים
+- Description: חץ וקשת ממותגת ספיידר מן
+- Image: https://parktoys.co.il/assets/product-enhanced-1785859743433-r6jtqi.webp
 
 ### חץ וקשת איירון מן
 https://parktoys.co.il/product/chts-vksht-ayyrvn-mn-6dhvmc
