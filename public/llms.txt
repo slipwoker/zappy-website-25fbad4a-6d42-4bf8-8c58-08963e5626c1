@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 397** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 398** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מנורת לילה מוזיקלית
+https://parktoys.co.il/product/mnvrt-lylh-mvzyklyt-5ujkeq
+- Price: 79.90 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
+- Description: העניקו לתינוקכם חוויה מוזיקלית ואורקולית מושלמת להרגעה ולהירדמות נעימה. המנורה משלבת צלילים ועיצוב מיוחד ליצירת סביבת שינה שלווה ועוטפת עבור הפעוט. למה כדאי לקנות אותו? המנורה מציעה פתרון הוליסטי להירדמות, המשלב גירוי מוזיקלי וחושי בשפה העברית יחד עם תאורה רכה. הייחודיות שלה טמונה בשילוב של תוכן מוכר ומרגיע עם אפשרות אישית, מה שהופך אותה למלווה מושלמת לטקס השינה של תינוקכם.
+- Image: https://parktoys.co.il/assets/product-enhanced-1785848057903-zgt1z.webp
 
 ### משטח פעילות מים עגול קוטר 65 ס"מ – Spark Toys
 https://parktoys.co.il/product/mshtch-paylvt-mym-agvl-kvtr-65-sm-spark-toys-k6styg
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/smashrs-byt-haymh-mgh-lyldym-4jbkmb
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: ברוכים הבאים לבית האימה של Smashers! פתחו את יד הזומבים המפחידה הזו מבית ZURU וגלו מעל 10 הפתעות! לילדים מגיל 3 ומעלה! זהירות: סכנת חנק עקב חלקים קטנים!
 - Image: https://parktoys.co.il/assets/product-1784566356974-dvrzto.webp
-
-### סמאשרס מגה חוויית אימה- לילדים
-https://parktoys.co.il/product/smashrs-mgh-chvvyyt-aymh-lyldym-fpxcg8
-- Price: 169.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: צאו להרפתקה מרתקת בתוך בית האימה המגה Smashers. עם יותר מ-35 הפתעות בפנים, האם אתם אמיצים מספיק לפתוח את הארון ולחשוף מפלצת?
-- Image: https://parktoys.co.il/assets/product-1784566230318-rweg4t.webp
 
 ---
 

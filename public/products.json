@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-04T08:49:54.952Z",
+  "generated_at": "2026-08-04T12:57:23.574Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 397,
+  "count": 398,
   "products": [
+    {
+      "id": "946410bc-08ea-4e76-9b3c-c03c52b728db",
+      "slug": "mnvrt-lylh-mvzyklyt-5ujkeq",
+      "name": "מנורת לילה מוזיקלית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "העניקו לתינוקכם חוויה מוזיקלית ואורקולית מושלמת להרגעה ולהירדמות נעימה. המנורה משלבת צלילים ועיצוב מיוחד ליצירת סביבת שינה שלווה ועוטפת עבור הפעוט.\n\nלמה כדאי לקנות אותו? המנורה מציעה פתרון הוליסטי להירדמות, המשלב גירוי מוזיקלי וחושי בשפה העברית יחד עם תאורה רכה. הייחודיות שלה טמונה בשילוב של תוכן מוכר ומרגיע עם אפשרות אישית, מה שהופך אותה למלווה מושלמת לטקס השינה של תינוקכם.",
+      "sku": null,
+      "brand": null,
+      "price": 79.9,
+      "base_price": 79.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785848057903-zgt1z.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mnvrt-lylh-mvzyklyt-5ujkeq",
+      "categories": [
+        "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
+      ],
+      "updated_at": "2026-08-04T12:57:14.513Z"
+    },
     {
       "id": "d03d9674-e3b8-4a78-ad02-8fa5b4d42fde",
       "slug": "mshtch-paylvt-mym-agvl-kvtr-65-sm-spark-toys-k6styg",
