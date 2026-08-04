@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 399** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 400** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### הסרטן השובב
+https://parktoys.co.il/product/hsrtn-hshvbb-d3vwkn
+- Price: 80.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
+- Description: משחק ספורטיבי ומהנה לכל המשפחה! הסרטן רץ במהירות ומתחמק ממכשולים - נסו לתפוס אותו! מגיע עם אורות וצלילים. המשחק כולל סוללה נטענת מובנית ומחבר טעינה. חיישני מרחק להתחמקות ממכשולים.
+- Image: https://parktoys.co.il/assets/product-enhanced-1785850532545-82g5lb.webp
 
 ### מנורת לילה מקרן כוכבים
 https://parktoys.co.il/product/mnvrt-lylh-mkrn-kvkbym-jq1mck
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/kryy-byybyz-dmavt-hksm-bytst-hchlvmvt-dsvrb5
 - Category: בובות/ברבי
 - Description: קריי בייביז דמעות הקסם ביצת החלומות בובת הפתעה מסדרת Cry Babies Magic Tears המגיעה בתוך ביצת דמעה ורודה ומעוצבת. פותחים את הביצה ומגלים דמות חמודה מסדרת קריי בייביז יחד עם אביזרים למשחק דמיון, איסוף וחוויית פתיחה מהנה. מה כולל המוצר? בובת Cry Babies Magic Tears בהפתעה ביצת דמעה ורודה לאחסון ולמשחק דמות אספנות מסדרת Pink Edition אביזרים נלווים בהתאם לתכולת המארז מתאים לגילאי 3 ומעלה דגם: 81550 ברקוד: 8421134081550 יתרונות עיקריים חוויית פתיחה מפתיעה ומרגשת עיצוב ורוד ומבריק בצורת דמעה מתאים לאי
 - Image: https://parktoys.co.il/assets/product-1784566759599-8ubhvl.webp
-
-### סמאשרס חמישייה דינו 25 הפתעות
-https://parktoys.co.il/product/smashrs-chmyshyyh-dynv-25-hptavt-xfqlrb
-- Price: 199.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: 🥚 שוברים, מגלים ומרכיבים! ערכת Smasher Dino Egg Hunt מבית ZURU הכוללת מספר ביצי דינו עם הפתעות בפנים. פותחים, שוברים ומגלים חלקים שונים להרכבת דינוזאור מגניב ועוד אביזרים מפתיעים. ✨ עשרות הפתעות בפנים המארז כולל מגוון חלקים ואביזרים לחוויית פתיחה מרגשת במיוחד. כל ביצה מסתירה הפתעה אחרת – החוויה משלבת משחק, הרכבה ואיסוף. 🦕 עולם דינוזאורים מלא אקשן מעודד משחק דמיון, חקר והרכבה. מתאים לילדים שאוהבים דינוזאורים והרפתקאות מלאות הפתעות. 📋 מפרט טכני סוג מוצר: בובות הפתעה דגם: Smasher Dino Egg Hunt י…
-- Image: https://parktoys.co.il/assets/product-1784566547956-2e0zfk.webp
 
 ---
 

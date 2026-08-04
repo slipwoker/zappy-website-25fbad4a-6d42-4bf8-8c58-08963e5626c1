@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-04T13:02:18.139Z",
+  "generated_at": "2026-08-04T13:36:29.344Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 399,
+  "count": 400,
   "products": [
+    {
+      "id": "4d61fc8f-95e7-44a4-8edc-54273c295520",
+      "slug": "hsrtn-hshvbb-d3vwkn",
+      "name": "הסרטן השובב",
+      "name_translations": {},
+      "description": "",
+      "short_description": "משחק ספורטיבי ומהנה לכל המשפחה!\nהסרטן רץ במהירות ומתחמק ממכשולים - נסו לתפוס אותו!\nמגיע עם אורות וצלילים.\nהמשחק כולל סוללה נטענת מובנית ומחבר טעינה.\nחיישני מרחק להתחמקות ממכשולים.",
+      "sku": null,
+      "brand": null,
+      "price": 80,
+      "base_price": 80,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785850532545-82g5lb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/hsrtn-hshvbb-d3vwkn",
+      "categories": [
+        "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
+      ],
+      "updated_at": "2026-08-04T13:35:56.107Z"
+    },
     {
       "id": "cd73095b-b205-438c-871b-e46e6bad71e8",
       "slug": "mnvrt-lylh-mkrn-kvkbym-jq1mck",

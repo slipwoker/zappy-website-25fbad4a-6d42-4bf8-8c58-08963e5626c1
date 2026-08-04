@@ -5811,6 +5811,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### הסרטן השובב
+URL: https://parktoys.co.il/product/hsrtn-hshvbb-d3vwkn
+Price: 80.00 ILS
+Availability: In stock
+
+---
+
 ### מנורת לילה מקרן כוכבים
 URL: https://parktoys.co.il/product/mnvrt-lylh-mkrn-kvkbym-jq1mck
 Price: 70.00 ILS
