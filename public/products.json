@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-04T16:44:51.995Z",
+  "generated_at": "2026-08-04T16:46:27.120Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 409,
   "products": [
     {
       "id": "8a98f841-40bc-48da-9e5a-8ad001962d5d",
-      "slug": "mykrvpvn-myny-mavs-93nvlu",
+      "slug": "mykrvpvn-myny-mavs-4q2dfr",
       "name": "מיקרופון מיני מאוס",
       "name_translations": {},
       "description": "",
@@ -19,15 +19,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://parktoys.co.il/assets/product-1785861819122-e2ukf.webp"
+        "https://parktoys.co.il/assets/product-enhanced-1785861878040-7i45e.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mykrvpvn-myny-mavs-93nvlu",
+      "url": "https://parktoys.co.il/product/mykrvpvn-myny-mavs-4q2dfr",
       "categories": [
         "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
       ],
-      "updated_at": "2026-08-04T16:44:17.478Z"
+      "updated_at": "2026-08-04T16:45:51.450Z"
     },
     {
       "id": "7930287c-b0b1-453c-ac9d-7ef43e6b3c2d",
