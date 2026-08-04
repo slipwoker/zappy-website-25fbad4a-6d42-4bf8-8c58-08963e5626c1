@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-04T14:07:20.652Z",
+  "generated_at": "2026-08-04T14:09:55.561Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 401,
@@ -223,7 +223,7 @@
     },
     {
       "id": "60e04b93-c7f5-427e-8718-113b17cb5f07",
-      "slug": "palvlvn-baly-chyym-dvbr-abryt-wiv967",
+      "slug": "palvlvn-baly-chyym-dvbr-abryt-gbtptt",
       "name": "פעלולון בעלי חיים דובר עברית ",
       "name_translations": {},
       "description": "",
@@ -235,15 +235,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1785769884836-zko6lq.webp"
+        "https://parktoys.co.il/assets/product-enhanced-1785852536450-3k6ngo.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/palvlvn-baly-chyym-dvbr-abryt-wiv967",
+      "url": "https://parktoys.co.il/product/palvlvn-baly-chyym-dvbr-abryt-gbtptt",
       "categories": [
         "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
       ],
-      "updated_at": "2026-08-03T15:16:33.391Z"
+      "updated_at": "2026-08-04T14:09:22.391Z"
     },
     {
       "id": "0233d24a-4f3e-45b9-9f05-cc6a80683671",
