@@ -1,17 +1,17 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-04T16:46:27.120Z",
+  "generated_at": "2026-08-04T16:48:23.208Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 409,
   "products": [
     {
       "id": "8a98f841-40bc-48da-9e5a-8ad001962d5d",
-      "slug": "mykrvpvn-myny-mavs-4q2dfr",
+      "slug": "mykrvpvn-myny-mavs-axotpp",
       "name": "מיקרופון מיני מאוס",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מיקרופון קריוקי עם 10 צלילים מובנים חגיגה של אורות וצלילים מתחברים לטלפון ומתחילים לשיר!",
       "sku": null,
       "brand": null,
       "price": 59.99,
@@ -19,15 +19,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1785861878040-7i45e.webp"
+        "https://parktoys.co.il/assets/product-enhanced-1785862037669-zogiz.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mykrvpvn-myny-mavs-4q2dfr",
+      "url": "https://parktoys.co.il/product/mykrvpvn-myny-mavs-axotpp",
       "categories": [
         "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
       ],
-      "updated_at": "2026-08-04T16:45:51.450Z"
+      "updated_at": "2026-08-04T16:47:47.314Z"
     },
     {
       "id": "7930287c-b0b1-453c-ac9d-7ef43e6b3c2d",
