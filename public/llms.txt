@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 408** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 409** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מיקרופון מיני מאוס
+https://parktoys.co.il/product/mykrvpvn-myny-mavs-93nvlu
+- Price: 59.99 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
+- Image: https://parktoys.co.il/assets/product-1785861819122-e2ukf.webp
 
 ### ערכת קריוקי ברבי
 https://parktoys.co.il/product/arkt-kryvky-brby-kd6i3u
@@ -1663,14 +1670,6 @@ https://parktoys.co.il/product/zvrv-zuru-pts-alyyb-chtltvlym-btsmr-gpn-zuru-1qiv
 - Category: בובות/ברבי
 - Description: פטס אלייב חתלתולים בצמר גפן - מבית זורו Zuru pets alive smitten kittens הכניסו את ילדיכם לעולם קסום של יצירה ודמיון עם חתלתולים בצמר גפן מבית Zuru. הערכה מציעה חוויית משחק ייחודית המשלבת חיות פרווה אינטראקטיביות, הפתעות מרגשות ואלמנטים של טיפול ואכפתיות, המעודדת את הילדים לבטא את עצמם ולפתח את כישרונותיהם החברתיים והרגשיים. יתרונות בולטים: 10 צלילים מציאותיים של חתלתולים – כוללים גרגורים, יללות וצלילים נוספים. עיניים זוהרות בחושך – למראה קסום ומיוחד. 5 הפתעות בתוך כל כדור צמר – כולל בקבוק חלב, ח
 - Image: https://parktoys.co.il/assets/product-1784621905182-jewfcd.webp
-
-### ברבי קולור ריבל שמש עננים
-https://parktoys.co.il/product/brby-kvlvr-rybl-shmsh-annym-p85nbn
-- Price: 119.00 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: ברבי קולור ריבל מארז ברבי מחליף צבעים לילדים.
-- Image: https://parktoys.co.il/assets/product-1784621421846-15imd.webp
 
 ---
 
