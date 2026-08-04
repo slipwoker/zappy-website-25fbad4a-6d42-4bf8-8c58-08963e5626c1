@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-03T17:08:47.214Z",
+  "generated_at": "2026-08-04T08:49:54.952Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 396,
+  "count": 397,
   "products": [
+    {
+      "id": "d03d9674-e3b8-4a78-ad02-8fa5b4d42fde",
+      "slug": "mshtch-paylvt-mym-agvl-kvtr-65-sm-spark-toys-k6styg",
+      "name": "משטח פעילות מים עגול קוטר 65 ס\"מ – Spark Toys",
+      "name_translations": {},
+      "description": "",
+      "short_description": "משטח פעילות מים רך ומלא חיים שמעניק לתינוק חוויה רב-חושית מהנה.\n\nבתוך המשטח שוחות חיות צבעוניות המעודדות את התינוק להניע את גופו, לחזק את שרירי הצוואר והכתפיים ולפתח קואורדינציה בזמן שכיבה על הבטן.\n\nהמשטח מספק סביבה בטוחה ומגרה המקדמת התפתחות פיזית וקוגניטיבית, ומאפשר חקירה עצמאית דרך מגע, ראייה ותנועה.\n\nקל למילוי באוויר ובמים, מתקפל בנוחות ומתאים לשימוש בבית או בנסיעות.\n\n• כולל 6 חיות צפות צבעוניות\n• מחזק את חגורת הכתפיים ושרירי הצוואר\n• מעודד זחילה וסקרנות\n• מסייע בקשר עין-יד ובפיתוח קואורדינצ",
+      "sku": null,
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1785833245589-o97zu9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mshtch-paylvt-mym-agvl-kvtr-65-sm-spark-toys-k6styg",
+      "categories": [
+        "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
+      ],
+      "updated_at": "2026-08-04T08:49:19.011Z"
+    },
     {
       "id": "36d6e03a-d2d1-4d0c-93c2-dafdbfa1736a",
       "slug": "avrgnyt-kvpykv-4nryfo",
