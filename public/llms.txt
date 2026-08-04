@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 406** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 407** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### הגה ההפתעות
+https://parktoys.co.il/product/hgh-hhptavt-3n4f7l
+- Price: 120.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
+- Description: הגה ההפתעות הגה אינטראקטיבי דובר עברית!! תכנים והפעלות הגה מעוצב ואיכותי, עשיר בתכנים ובהפעלות! מגוון משפטים משעשעים וצלילים של מכונית! משחקים, מתפתחים ולומדים להכיר בעלי חיים, צורות, צבעים, פירות וכלי תחבורה. שירים ונושאים 5 שירים קלאסיים 6 נושאי לימוד 2 עוצמות קול 5 שירים בעברית אורות וצלילים
+- Image: https://parktoys.co.il/assets/product-enhanced-1785861397170-v635db.webp
 
 ### מסיבת קריוקי מיקי
 https://parktoys.co.il/product/msybt-kryvky-myky-qfffb9
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/bvbh-brby-mvrh-x9poab
 - Availability: In stock
 - Description: זוהי בובת ברבי מורה (Barbie Teacher Doll) עם ערכת משחק לכיתה. הסט כולל בובת ברבי מורה, בובת תלמידה עם צבע שיער בלונדיני ואביזרים שונים. האביזרים כוללים לוח מחיק הפיך, כיסא, שולחן, מספריים, דבק, מחברת וצלחת אוכל. הבובה הראשית לובשת שמלת פסים בצבעי הקשת. הצעצוע עשוי מפלסטיק ומתאים לילדים מגיל 3 ומעלה.
 - Image: https://parktoys.co.il/assets/product-1784620767992-p6r16h.webp
-
-### ברבי מארז קריירה רופאת שיניים - Barbie
-https://parktoys.co.il/product/brby-marz-kryyrh-rvpat-shynyym-barbie-2rhs0o
-- Price: 119.00 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: הוסיפו נגיעה של אופנת רחוב עדכנית לאוסף שלכם עם בובת ברבי מסדרת ה-Fashionistas. בובה זו מציגה מראה אורבני, נועז ומלא בסטייל, המשלב צבעוניות עזה עם טקסטורות ג'ינס קלאסיות. עם שערה השחור והחלק המעוטר בסיכות ראש אופנתיות, היא מוכנה לכל הרפתקה בעיר. מה במארז? חליפת דנים דו-חלקית: ברבי לובשת חולצת ג'ינס מכופתרת וחצאית ג'ינס תואמת עם הדפסים צבעוניים ומשמחים של פרחים ולבבות. גוזיית "קולור-בלוק": מתחת לחליפת הג'ינס מציצה גופיית ספורט בשילוב צבעים של ורוד וכתום המעניקה זריקת צבע ללוק. אביזרים משלימים
-- Image: https://parktoys.co.il/assets/product-enhanced-1784620345891-dtreqk.webp
 
 ---
 
