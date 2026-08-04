@@ -5811,6 +5811,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### מסיבת קריוקי מיקי
+URL: https://parktoys.co.il/product/msybt-kryvky-myky-qfffb9
+Price: 140.00 ILS
+Availability: In stock
+
+---
+
 ### סופר חץ וקשת של ספיידרמן 
 URL: https://parktoys.co.il/product/svpr-chts-vksht-shl-spyydrmn-ht81ha
 Price: 70.00 ILS

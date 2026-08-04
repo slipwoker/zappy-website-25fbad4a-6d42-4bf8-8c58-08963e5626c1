@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 405** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 406** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מסיבת קריוקי מיקי
+https://parktoys.co.il/product/msybt-kryvky-myky-qfffb9
+- Price: 140.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
+- Description: ערכת קריוקי מדהימה של מיקי כוכבת הילדים ! כוללת 9 להיטים ומגוון משפטים של מיקי . כולל הקלטה עם שינוי קולות וכדור אורות מרהיב הקליטו את עצמכם והשמיעו עם אפשריות לאפקטים מצחיקים של שינוי קול . אז בואו נתחיל במסיבה של מיקי !
+- Image: https://parktoys.co.il/assets/product-enhanced-1785861067291-vz425m.webp
 
 ### סופר חץ וקשת של ספיידרמן 
 https://parktoys.co.il/product/svpr-chts-vksht-shl-spyydrmn-ht81ha
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/brby-marz-kryyrh-rvpat-shynyym-barbie-2rhs0o
 - Category: בובות/ברבי
 - Description: הוסיפו נגיעה של אופנת רחוב עדכנית לאוסף שלכם עם בובת ברבי מסדרת ה-Fashionistas. בובה זו מציגה מראה אורבני, נועז ומלא בסטייל, המשלב צבעוניות עזה עם טקסטורות ג'ינס קלאסיות. עם שערה השחור והחלק המעוטר בסיכות ראש אופנתיות, היא מוכנה לכל הרפתקה בעיר. מה במארז? חליפת דנים דו-חלקית: ברבי לובשת חולצת ג'ינס מכופתרת וחצאית ג'ינס תואמת עם הדפסים צבעוניים ומשמחים של פרחים ולבבות. גוזיית "קולור-בלוק": מתחת לחליפת הג'ינס מציצה גופיית ספורט בשילוב צבעים של ורוד וכתום המעניקה זריקת צבע ללוק. אביזרים משלימים
 - Image: https://parktoys.co.il/assets/product-enhanced-1784620345891-dtreqk.webp
-
-### בובת Dream Besties Skate Party גודל 29 ס''מ מבית Mattel - מאליבו
-https://parktoys.co.il/product/bvbt-dream-besties-skate-party-gvdl-29-sm-mbyt-mattel-malybv-r7c18n
-- Price: 119.00 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: בובת Barbie Dream Besties Skate Party משלבת עולם של אופנה, חברות וביטוי אישי עם לוק צבעוני בהשראת מסיבת גלגליות ותחביבים יצירתיים. הבובה מעוצבת בסגנון עדכני עם אביזרים אופנתיים ופריטים המעודדים משחקי דמיון, יצירת סיפורים והרפתקאות מלאות סטייל ואנרגיה. העיצוב האופנתי והאביזרים הנלווים מעניקים לבובה אופי ייחודי ומשלבים עולם של חלומות, יצירתיות והשראה, תוך עידוד ילדות לבטא את עצמן ולדמיין את כל מה שהן יכולות להיות. הבובה מתאימה למשחק עצמאי, לאיסוף ולשילוב עם דמויות נוספות מסדרת Dream Besties Skate …
-- Image: https://parktoys.co.il/assets/product-enhanced-1784620110465-tqsbx.webp
 
 ---
 

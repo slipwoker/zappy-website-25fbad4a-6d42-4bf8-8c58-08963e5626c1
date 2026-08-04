@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-04T16:21:42.284Z",
+  "generated_at": "2026-08-04T16:33:42.942Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 405,
+  "count": 406,
   "products": [
+    {
+      "id": "7ab5efe8-9070-4d2a-b6cd-b79e8d7b68cb",
+      "slug": "msybt-kryvky-myky-qfffb9",
+      "name": "מסיבת קריוקי מיקי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכת קריוקי מדהימה של מיקי כוכבת הילדים !\n\nכוללת 9 להיטים ומגוון משפטים של מיקי .\n\nכולל הקלטה עם שינוי קולות וכדור אורות מרהיב \n\nהקליטו את עצמכם והשמיעו עם אפשריות לאפקטים מצחיקים של שינוי קול .\n\nאז בואו נתחיל במסיבה של מיקי ! ",
+      "sku": null,
+      "brand": null,
+      "price": 140,
+      "base_price": 140,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785861067291-vz425m.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/msybt-kryvky-myky-qfffb9",
+      "categories": [
+        "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
+      ],
+      "updated_at": "2026-08-04T16:33:06.840Z"
+    },
     {
       "id": "78b75e3d-eeee-403a-a9d5-8b81bebee303",
       "slug": "svpr-chts-vksht-shl-spyydrmn-ht81ha",
