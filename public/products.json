@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-04T14:13:20.741Z",
+  "generated_at": "2026-08-04T14:25:31.612Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 402,
+  "count": 403,
   "products": [
+    {
+      "id": "aaf605ae-69c4-47fa-b293-aa2553060a7d",
+      "slug": "htlpvn-hchkm-shly-4xmo2s",
+      "name": "הטלפון החכם שלי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הטלפון החכם שלי- דו לשוני! מעלל 200 משפטים ושירים. מאחורי כל לחצן מסתתר עולם שלם של מילים ומשפטים בעברית ובאנגלית, אפקים קוליים, שירים ומנגינות עליזות. מקישים, מקשיבים ולומדים מגוון נושאים: *צבעים, *כלי תחבורה, *בעלי חיים, *מספרים, *צורות ועוד.",
+      "sku": null,
+      "brand": null,
+      "price": 80,
+      "base_price": 80,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785853460281-a4z6wd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/htlpvn-hchkm-shly-4xmo2s",
+      "categories": [
+        "צעצועי שלט/מסלולי מכוניות/מכוניות "
+      ],
+      "updated_at": "2026-08-04T14:24:55.747Z"
+    },
     {
       "id": "a890cff7-d1c8-4ef3-b0a3-6ab5c66afdb1",
       "slug": "lvmdym-anglyt-vppp25",

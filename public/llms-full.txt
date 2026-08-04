@@ -5811,6 +5811,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### הטלפון החכם שלי
+URL: https://parktoys.co.il/product/htlpvn-hchkm-shly-4xmo2s
+Price: 80.00 ILS
+Availability: In stock
+
+---
+
 ### לומדים אנגלית
 URL: https://parktoys.co.il/product/lvmdym-anglyt-vppp25
 Price: 70.00 ILS

@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 402** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 403** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### הטלפון החכם שלי
+https://parktoys.co.il/product/htlpvn-hchkm-shly-4xmo2s
+- Price: 80.00 ILS
+- Availability: In stock
+- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
+- Description: הטלפון החכם שלי- דו לשוני! מעלל 200 משפטים ושירים. מאחורי כל לחצן מסתתר עולם שלם של מילים ומשפטים בעברית ובאנגלית, אפקים קוליים, שירים ומנגינות עליזות. מקישים, מקשיבים ולומדים מגוון נושאים: *צבעים, *כלי תחבורה, *בעלי חיים, *מספרים, *צורות ועוד.
+- Image: https://parktoys.co.il/assets/product-enhanced-1785853460281-a4z6wd.webp
 
 ### לומדים אנגלית
 https://parktoys.co.il/product/lvmdym-anglyt-vppp25
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/brby-nvtstst-10-hptavt-bkvpsh-party-unboxed-glam-
 - Category: בובות/ברבי
 - Description: ברבי Party Unboxed היא חוויית פתיחה מלאה בהפתעות! 10 הפתעות בתוך קופסה נוצצת כולל בובה זוהרת, אקססוריז מגניבים, אפקט שינוי צבע וחיית מחמד. כל פתיחה היא מסיבה!
 - Image: https://parktoys.co.il/assets/product-enhanced-1784617501183-cd0hnp.webp
-
-### בובת ברבי המדענית ערכת מדע.
-https://parktoys.co.il/product/bvbt-brby-hmdanyt-arkt-mda-ew9a4f
-- Price: 119.00 ILS (sale, was 150.00 ILS)
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: בובת ברבי המדענית ערכת מדע. Barbie Scientist - You Can Be Anything ברבי בובות קרירה נוצרו על מנת לעודד ילדים לחלום בגדול. בובת המשחק לוקחות מקומות עבודה שונים והופכת את זה למשחק שדרכו ניתן ללמוד על סביבת עבודה וכלי עבודה אמתיים. ברבי המדענית היא ערכה שכוללת בובת ברבי עם שולחן מדעי אשר כולל: כיור, כיסא, שולחן עם מגירות, מדף ומבחנות. בנוסף מגיעות בערכה מבחנות, משקפי מגן, כפיות מדידה, פיפטות, כוס מדידה, ועוד. הערכה מתאימה לגילאי 3+ משתתפים: 1+ סינון לפי גילאים :3+
-- Image: https://parktoys.co.il/assets/product-enhanced-1784617157402-88vb6.webp
 
 ---
 
