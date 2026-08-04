@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-04T16:50:37.673Z",
+  "generated_at": "2026-08-04T16:57:42.858Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 410,
+  "count": 411,
   "products": [
+    {
+      "id": "b3732934-f8b0-4607-8774-6627d0504e0c",
+      "slug": "bvbt-lvly-lylh-tvb-lvly-5yt5hp",
+      "name": "בובת לולי - לילה טוב לולי ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בובת לולי - לילה טוב לולי Spark Toys\nבובת לולי ששרה שירי לילה ומנגינות עם תצוגת לד 4 צבעים מה שמאפשר חוויה מרגיעה של אורות וצלילים.\nבנוסף, לבובה מחובר מתלה לחיבור מהיר.",
+      "sku": null,
+      "brand": null,
+      "price": 90,
+      "base_price": 90,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785862572750-0xsop8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/bvbt-lvly-lylh-tvb-lvly-5yt5hp",
+      "categories": [
+        "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
+      ],
+      "updated_at": "2026-08-04T16:57:09.803Z"
+    },
     {
       "id": "ac57c4a4-aefd-4ec9-a9c5-6622112444ec",
       "slug": "alvpy-hzykrvn-vhzryzvt-zwlk16",

@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 410** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 411** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בובת לולי - לילה טוב לולי 
+https://parktoys.co.il/product/bvbt-lvly-lylh-tvb-lvly-5yt5hp
+- Price: 90.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
+- Description: בובת לולי - לילה טוב לולי Spark Toys בובת לולי ששרה שירי לילה ומנגינות עם תצוגת לד 4 צבעים מה שמאפשר חוויה מרגיעה של אורות וצלילים. בנוסף, לבובה מחובר מתלה לחיבור מהיר.
+- Image: https://parktoys.co.il/assets/product-enhanced-1785862572750-0xsop8.webp
 
 ### אלופי הזיכרון והזריזות
 https://parktoys.co.il/product/alvpy-hzykrvn-vhzryzvt-zwlk16
@@ -1663,14 +1671,6 @@ https://parktoys.co.il/product/dmvt-pavlh-ayyrvn-mn-28-sm-am-ydyym-vrglyym-zzvt-
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: דמות איירון מן מסרטי מארוול עם ראש, ידיים ורגליים זזות כולל ציוד רחיפה. דמות פעולה מדליקה של איירון מןר מסדרת הקומיקס של מארוול עם מתקן ריחוף מתחבר לגב בהתקנה מהירה וקלה. דמות משחק אידאלית למשחקי דמיון עשירים לילדים חובבי קומיקס של מארוול או לאספנים חובבים. גובה הדמות כ-28 ס"מ. מתאים מגילאי 4 ומעלה.
 - Image: https://parktoys.co.il/assets/product-1784624913400-ns7u5.webp
-
-### מארז גיבורי על Marvel Ultimate Protectors Pack
-https://parktoys.co.il/product/marz-gybvry-al-marvel-ultimate-protectors-pack-ihjqzs
-- Price: 99.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: המארז מכיל 8 גיבורי-על : איירון מן (Iron Man) קפטן אמריקה (Captain America) – מגיע עם אביזר המגן המפורסם שלו. ספיידרמן (Spider-Man) הענק הירוק (Hulk) הפנתר השחור (Black Panther) אנט-מן (Ant-Man) פלקון (Falcon) וור מאשין (War Machine) כל דמות היא בגובה של כ-15 ס"מ. לדמויות יש מפרקים הניתנים להזזה (זרועות ורגליים) והמאפשרים להעמיד אותן בתנוחות קרב שונות.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784623785866-0xij1o.webp
 
 ---
 
