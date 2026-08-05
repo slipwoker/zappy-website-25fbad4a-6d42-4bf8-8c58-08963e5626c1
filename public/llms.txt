@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 421** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 422** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### טוקאן טרופי LEGO Creator 3 in 1 
+https://parktoys.co.il/product/tvkan-trvpy-lego-creator-3-in-1-aibhrn
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: חיות בר: טוקאן טרופי LEGO Creator 3 in 1 31173 תיהנו מכיף טרופי עם סט ההרכבה המרהיב LEGO Creator 3in1 - חיות בר: טוקן טרופי (31173). דגם הציפור כולל טוקן צבעוני היושב על ענף מעוטר בפרח גדול ומלון מפוסל, וניתן להזיז לו את הכנפיים, המקור ונוצות הזנב למשחק מגוון ומהנה. הסט מציע שלוש אפשרויות בנייה שונות מאותם חלקים: טוקן מפרקי עם פלח מלון שאפשר להכניס למקור, פרפר צבעוני עם כנפיים ניתנות לכיוון שעף מעל מדשאה ופרח, ודג טרופי עם סנפירים ניתנים לתנועה שמסתובב על גבי מעמד קרקעית ים.
+- Image: https://parktoys.co.il/assets/product-enhanced-1785946565346-66a7do.webp
 
 ### פלמינגו ורוד LEGO Creator 3 in 1 
 https://parktoys.co.il/product/plmyngv-vrvd-lego-creator-3-in-1-vqd6pf
@@ -1661,14 +1669,6 @@ https://parktoys.co.il/product/scania-mshayt-kybvy-ash-am-mnvp-avrvt-vtslylym-nz
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
 - Description: משאית כיבוי אש עם סולם גדולה 51סמ עם אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, סולם מסתובב 360 מעלות, ניתן להגבהה והארכה באופן ידני, דלתות המשאית נפתחות
 - Image: https://parktoys.co.il/assets/product-enhanced-1784643520447-sqkoin.webp
-
-### ערכת בצק – חגיגת גלידות
-https://parktoys.co.il/product/arkt-btsk-chgygt-glydvt-1vhetz
-- Price: 50.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: ערכת בצק – חגיגת גלידות היא ערכת יצירה צבעונית ומהנה שמאפשרת לילדים להכין “גלידות” טעימות למראה בעזרת בצק רך ואביזרים תואמים. המשחק מעודד דמיון ויצירתיות, ומעניק חוויה של משחק תפקידים בכיף מתוק במיוחד.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784640979951-x8q0og.webp
 
 ---
 
