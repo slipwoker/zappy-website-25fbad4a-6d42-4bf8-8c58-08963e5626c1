@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-05T11:01:35.581Z",
+  "generated_at": "2026-08-05T11:06:06.084Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 414,
+  "count": 415,
   "products": [
+    {
+      "id": "807f62a6-6f16-4332-ac37-0c8ba95de51a",
+      "slug": "mzvvdh-yvpy-brby-diiewf",
+      "name": "מזוודה יופי ברבי ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מזוודה יופי ברבי כולל מבחר אביזרים ",
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785927867633-iujg7h.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mzvvdh-yvpy-brby-diiewf",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-08-05T11:05:30.770Z"
+    },
     {
       "id": "1fe5177f-0599-457e-8c5b-e7cb3bc9d154",
       "slug": "mzvvdt-mtbch-myny-mavs-rizkh9",
