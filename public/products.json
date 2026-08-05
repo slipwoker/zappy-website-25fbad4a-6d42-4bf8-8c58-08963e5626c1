@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-05T16:16:50.238Z",
+  "generated_at": "2026-08-05T16:19:20.387Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 422,
@@ -31,7 +31,7 @@
     },
     {
       "id": "fadd808b-5e58-47ee-bbc7-8ba0d1ac5fc0",
-      "slug": "plmyngv-vrvd-lego-creator-3-in-1-vqd6pf",
+      "slug": "plmyngv-vrvd-lego-creator-3-in-1-u97ckr",
       "name": "פלמינגו ורוד LEGO Creator 3 in 1 ",
       "name_translations": {},
       "description": "",
@@ -47,11 +47,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/plmyngv-vrvd-lego-creator-3-in-1-vqd6pf",
+      "url": "https://parktoys.co.il/product/plmyngv-vrvd-lego-creator-3-in-1-u97ckr",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-08-05T16:13:09.108Z"
+      "updated_at": "2026-08-05T16:18:46.264Z"
     },
     {
       "id": "76bf2f35-919e-43ab-bc2c-8a28f1b08e07",
