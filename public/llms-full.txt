@@ -5811,6 +5811,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### הקריפר LEGO Minecraft
+URL: https://parktoys.co.il/product/hkrypr-lego-minecraft-ftg8j6
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### חוות תרנגולות LEGO Minecraft
 URL: https://parktoys.co.il/product/chvvt-trngvlvt-lego-minecraft-r905jw
 Price: 0.00 ILS

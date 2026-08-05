@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 424** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 425** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### הקריפר LEGO Minecraft
+https://parktoys.co.il/product/hkrypr-lego-minecraft-ftg8j6
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: ערכת בניה הקריפר של LEGO מביאה את הדמות האייקונית מהעולם של מיינקראפט אל מחוץ למסך בצורת בובת פעולה בגובה מרשים של 21 ס"מ. מיועדת לחובבי מיינקראפט בני 10 ומעלה. לקריפר 4 רגליים ניתנות להזזה וראש שמסתובב מצד לצד ונוטה מעלה-מטה. החלק הקדמי של הראש ניתן להסרה, וחושף בפנים גרסה קלאסית של קריפר לצד קוביית TNT שמוסיפה נגיעה של מתח ואקשן. הילדים יכולים להרחיב את החוויה הדיגיטלית באמצעות אפליקציית LEGO Builder, המאפשרת סיבוב, הגדלה ומעקב אחר ההרכבה בתלת-ממד. שילוב נהדר בין בנייה, תנועה ודמיון, גם למשחק
+- Image: https://parktoys.co.il/assets/product-1785949057101-1akg6s.webp
 
 ### חוות תרנגולות LEGO Minecraft
 https://parktoys.co.il/product/chvvt-trngvlvt-lego-minecraft-r905jw
@@ -1661,14 +1668,6 @@ https://parktoys.co.il/product/scania-mshayt-hvblt-mkvlvt-arvkh-am-avrvt-vtslyly
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
 - Description: משאית הובלת מכולות ארוכה עם אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, דלתות המכולה נפתחות, כולל 2 רגלי תמיכה מתכווננות
 - Image: https://parktoys.co.il/assets/product-1784649963780-lx20e.webp
-
-### SCANIA משאית איסוף ארוכה עם אורות וצלילים
-https://parktoys.co.il/product/scania-mshayt-aysvp-arvkh-am-avrvt-vtslylym-zylxaf
-- Price: 100.00 ILS
-- Availability: In stock
-- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
-- Description: משאית איסוף ארוכה עם אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, דלתות הארגז האחורי נפתחות, כולל 2 רגלי תמיכה מתכווננות
-- Image: https://parktoys.co.il/assets/product-enhanced-1784649401633-492amn.webp
 
 ---
 
