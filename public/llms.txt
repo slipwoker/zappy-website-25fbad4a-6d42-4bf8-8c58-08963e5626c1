@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 422** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 423** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### שפן חמוד LEGO Creator 3 in 1 
+https://parktoys.co.il/product/shpn-chmvd-lego-creator-3-in-1-u81q8q
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: העניקו לילדכם מגיל 8 ומעלה להנות מהרפתקאות כיפיות עם ערכת ארנב חמוד LEGO® Creator 3in1 (31162). ערכת המשחק כוללת צעצוע של ארנב עם ראש, אוזניים, רגליים קדמיות ואחוריות שניתן להזיז, ויכול לעמוד על 2 או 4 רגליים. הערכה כוללת גם חמניה וגזר. בנות ובנים יכולים לבנות 3 דגמים שונים של חיות עם אותה חבילת אבני בנייה: דגם ארנב חמוד עם חמניה וגזר, צעצוע של למה עם דשא ירוק וחצי גזר, ודגם של כלב ים עם פיסת קרח ודג. כל שלושת הסצנות האלה יהפכו למתנה נהדרת לילדים למשחק חוויתי ומהנה.
+- Image: https://parktoys.co.il/assets/product-enhanced-1785947170213-to55hg.webp
 
 ### טוקאן טרופי LEGO Creator 3 in 1 
 https://parktoys.co.il/product/tvkan-trvpy-lego-creator-3-in-1-aibhrn
@@ -1661,14 +1669,6 @@ https://parktoys.co.il/product/scania-p410-mshayt-myksr-btvn-gdvlh-am-avrvt-vtsl
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
 - Description: SCANIA P410 משאית מיקסר בטון גדולה 52סמ עם אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, המיקסר ניתן לסיבוב ידני
 - Image: https://parktoys.co.il/assets/product-enhanced-1784647418573-nabgyn.webp
-
-### SCANIA משאית כיבוי אש עם מנוף אורות וצלילים
-https://parktoys.co.il/product/scania-mshayt-kybvy-ash-am-mnvp-avrvt-vtslylym-nz4a52
-- Price: 200.00 ILS
-- Availability: In stock
-- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
-- Description: משאית כיבוי אש עם סולם גדולה 51סמ עם אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, סולם מסתובב 360 מעלות, ניתן להגבהה והארכה באופן ידני, דלתות המשאית נפתחות
-- Image: https://parktoys.co.il/assets/product-enhanced-1784643520447-sqkoin.webp
 
 ---
 
