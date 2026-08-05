@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-05T13:13:03.712Z",
+  "generated_at": "2026-08-05T14:17:21.300Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 418,
+  "count": 419,
   "products": [
+    {
+      "id": "40da3a32-9085-4f70-b3db-b37e17d96698",
+      "slug": "mykrvpvn-am-rmkvlym-styts-ybq0mq",
+      "name": "מיקרופון עם רמקולים סטיץ'",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785939379786-b5br5.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mykrvpvn-am-rmkvlym-styts-ybq0mq",
+      "categories": [],
+      "updated_at": "2026-08-05T14:16:44.325Z"
+    },
     {
       "id": "41c5564e-b659-43b2-ab13-df877d8237e3",
       "slug": "kvbyyt-hhptavt-k59wts",
