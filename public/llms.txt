@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 420** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 421** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### פלמינגו ורוד LEGO Creator 3 in 1 
+https://parktoys.co.il/product/plmyngv-vrvd-lego-creator-3-in-1-vqd6pf
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: פנקו את הילדים הצעירים עם ערכת לגו המביאה איתה יחודיות של חיות ג'ונגל אקזוטיות. אם אתם אוהבים חיות, טבע וצבעים מדהימים זו הערכה בשבילכם. עם צבעים חיים, עיצוב מרהיב ורגליים ארוכות שניתן לכוון, הפלמינגו הזה לא רק יאיר כל חדר – הוא גם יהפוך לחלק מושלם באוסף שלכם! תוכלו לבנות פלמינגו אלגנטי על גזע עץ טרופי, ולאחר מכן לפרק ולהרכיב דג אקולוטל ורוד או תוכי קקדו ורוד. שלושה דגמים שונים בהשראת חיות אקזוטיות המביאות איתן אינסוף כיף ויצירתיות למשחק דימיוני מהנה.
+- Image: https://parktoys.co.il/assets/product-enhanced-1785946357264-vrgbao.webp
 
 ### מיקרופון עם רמקולים סוניק
 https://parktoys.co.il/product/mykrvpvn-am-rmkvlym-svnyk-l05ea8
@@ -1661,14 +1669,6 @@ https://parktoys.co.il/product/arkt-btsk-chgygt-glydvt-1vhetz
 - Category: משחקי יצירה
 - Description: ערכת בצק – חגיגת גלידות היא ערכת יצירה צבעונית ומהנה שמאפשרת לילדים להכין “גלידות” טעימות למראה בעזרת בצק רך ואביזרים תואמים. המשחק מעודד דמיון ויצירתיות, ומעניק חוויה של משחק תפקידים בכיף מתוק במיוחד.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784640979951-x8q0og.webp
-
-### ערכת בצק – חגיגת המבורגרים
-https://parktoys.co.il/product/arkt-btsk-chgygt-hmbvrgrym-qqvjyj
-- Price: 50.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: ערכת בצק – חגיגת המבורגרים היא ערכת יצירה מהנה וצבעונית, המאפשרת לילדים להכין “מנות מזון” מבצק רך וגמיש. עם התבניות והאביזרים המצורפים, הילדים יכולים לעצב לחמניות, קציצות, ירקות ותוספות – ולבנות המבורגרים טעימים למראה שמגרים את הדמיון.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784640600240-tb8twd.webp
 
 ---
 
