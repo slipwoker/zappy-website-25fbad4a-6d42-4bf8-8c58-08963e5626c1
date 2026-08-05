@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 417** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 418** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קוביית ההפתעות
+https://parktoys.co.il/product/kvbyyt-hhptavt-k59wts
+- Price: 139.99 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
+- Description: מכל כיוון שתסתכלו - הפתעות בה תגלו! קופיף מטפס על עץ, פרפר מנופף בכנפיו, קולות בעלי חיים, תיפוף בתופים וכפתורי צורות ואותיות בלועזית הן רק חלק קטן מההפתעות המחכות לכם בקוביית ההפתעות שלנו - הופכים והופכים אותה - והכיף לא נגמר! חוויית משחק ולימוד מלהיבה המלווה בשירים בעברית וצלילי מוזיקה.
+- Image: https://parktoys.co.il/assets/product-enhanced-1785935004009-k5oeti.webp
 
 ### הליכון כדורים דובר עברית מבית
 https://parktoys.co.il/product/hlykvn-kdvrym-dvbr-abryt-mbyt-qkfjqg
@@ -1663,14 +1671,6 @@ https://parktoys.co.il/product/kvrkynt-3-glglym-kicknroll-lmbvrgyny-zcb353
 - Category: גלגלים
 - Description: קורקינט 3 גלגלים מבית kick’n’roll בשיתוף המותג למבורגיני הקונספט העיצובי של קורקינט זה נולד בהשראת מכוניות למבורגיני, כאשר גם הצבע וגם תבנית הלוטוס שעל חישוק הגלגל נושאים את הגנים של למבורגיני. קורקינט זה יהיה מתנה מדהימה לילדים, ויוכל להעניק להם חוויית רכיבה יוצאת דופן וזיכרונות מאושרים. תכונות עיקריות: מבנה עמיד: שלדה חזקה לשימוש ארוך טווח. עיצוב ידידותי לסביבה: מיוצר מחומרים וטכנולוגיות בני-קיימא. שיתוף פעולה בלעדי: מהדורה מיוחדת של הקורקינט משיתוף הפעולה בין kick’n’roll ללמבורגיני.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784647364151-4kl3eg.webp
-
-### סט חמישייה מכוניות הוט ווילס
-https://parktoys.co.il/product/st-chmyshyyh-mkvnyvt-hvt-vvyls-l09ulu
-- Price: 49.00 ILS
-- Availability: In stock
-- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
-- Description: לא ניתן לבחור סט מגיע אקראי
-- Image: https://parktoys.co.il/assets/product-enhanced-1784633412732-bc8ccu.webp
 
 ---
 
