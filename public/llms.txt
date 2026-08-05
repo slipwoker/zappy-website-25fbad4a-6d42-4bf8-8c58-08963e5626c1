@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 415** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 416** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מזוודה יופי של בית הבובות של גבי 
+https://parktoys.co.il/product/mzvvdh-yvpy-shl-byt-hbvbvt-shl-gby-wnlltz
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: מזווודה יופי של בית הבובות של גבי כולל מבחר אביזרים עשיר
+- Image: https://parktoys.co.il/assets/product-enhanced-1785928095152-2evd3.webp
 
 ### מזוודה יופי ברבי 
 https://parktoys.co.il/product/mzvvdh-yvpy-brby-diiewf
@@ -1663,14 +1671,6 @@ https://parktoys.co.il/product/bvbt-ryynbv-hyy-myny-la-nytn-lbchvr-tsba-nkbtr9
 - Category: בובות/ברבי
 - Description: אין חברה יותר טובה מהאחות הקטנה – הכירו את האחות הקטנה של בובות ריינבו היי האהובות עליכם! הכירו את האחות הקטנה של סקיילר בראדשו – ספיר. ספיר היא סופר אנרגטית, אוהבת לצאת, בטוחה בעצמה ולפעמים גם אימפולסיבית. זה יכול להכניס אותה לצרות לפעמים, אבל עם עזרה מאחותה הגדולה, היא תמיד מוצאת את דרכה. לספיר יש סגנון ייחודי משלה – היא לבושה בג’ינס כחול מכף רגל ועד ראש עם חצאית ג’ינס רכה וז’קט דנים מלאכותי מעוצב (הבגדים ניתנים להסרה). והיא מגיעה עם נעלי ספורט כחולות תואמות, ארנק וחיית מחמד כחולה קסומה סופר ח
 - Image: https://parktoys.co.il/assets/product-enhanced-1784629429278-ee1yfr.webp
-
-###  קורקינט גולד סקוט פעלולים מקצועי וייפר זהב
-https://parktoys.co.il/product/kvrkynt-gvld-skvt-palvlym-mktsvay-vyypr-zhb-blfdou
-- Price: 499.00 ILS
-- Availability: In stock
-- Category: גלגלים
-- Description: קורקינט פעלולים סקוט גרו GROW G7 צבע זהב הכירו את קורקינט הפעלולים Grow Pro G7, הבחירה המושלמת לילדים ובני נוער שרוצים להשויץ בסקייטפארק בעל משטח מתכת עם שלוש תעלות חיזוק גלגלי סיליקון איכותיים בקוטר 110מ"מ עם יכולת ספיגת זעזועים גבוהה וליבת אלומינים מיסבים איכותיים ABEC 9 לגלישה שקטה וחלקה מתאים לנשיאה עד משקל של 100 ק”ג סגירת HIC מעצור רגל אחורי ללא קפיץ מזלג מחוזק גימור אנודייז עמיד בפני חלודה לשימוש ממושך מתאים מגיל 6 ומעלה רוחב כידון: 560 מ"מ, גובה כידון: 850 מ"מ משקל מקסימלי – 100 ק"ג
-- Image: https://parktoys.co.il/assets/product-1784629084743-jpe2kh.webp
 
 ---
 

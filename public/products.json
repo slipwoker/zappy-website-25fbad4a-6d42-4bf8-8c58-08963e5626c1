@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-05T11:06:06.084Z",
+  "generated_at": "2026-08-05T11:10:16.108Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 415,
+  "count": 416,
   "products": [
+    {
+      "id": "c33c7875-45b3-4b72-b6b9-18f5f0da351e",
+      "slug": "mzvvdh-yvpy-shl-byt-hbvbvt-shl-gby-wnlltz",
+      "name": "מזוודה יופי של בית הבובות של גבי ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מזווודה יופי של בית הבובות של גבי כולל מבחר אביזרים עשיר ",
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785928095152-2evd3.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mzvvdh-yvpy-shl-byt-hbvbvt-shl-gby-wnlltz",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-08-05T11:09:42.889Z"
+    },
     {
       "id": "807f62a6-6f16-4332-ac37-0c8ba95de51a",
       "slug": "mzvvdh-yvpy-brby-diiewf",
