@@ -79,9 +79,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 419** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### מיקרופון עם רמקולים סטיץ'
-https://parktoys.co.il/product/mykrvpvn-am-rmkvlym-styts-ybq0mq
-- Price: 0.00 ILS
+https://parktoys.co.il/product/mykrvpvn-am-rmkvlym-styts-jrt23b
+- Price: 79.90 ILS
 - Availability: In stock
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
+- Description: מיקרופון עם רמקול ממותג סטיץ עם אורות וצלילים עם חיבור לטלפון
 - Image: https://parktoys.co.il/assets/product-enhanced-1785939379786-b5br5.webp
 
 ### קוביית ההפתעות

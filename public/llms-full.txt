@@ -5812,8 +5812,8 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 ## Product Catalog
 
 ### מיקרופון עם רמקולים סטיץ'
-URL: https://parktoys.co.il/product/mykrvpvn-am-rmkvlym-styts-ybq0mq
-Price: 0.00 ILS
+URL: https://parktoys.co.il/product/mykrvpvn-am-rmkvlym-styts-jrt23b
+Price: 79.90 ILS
 Availability: In stock
 
 ---
