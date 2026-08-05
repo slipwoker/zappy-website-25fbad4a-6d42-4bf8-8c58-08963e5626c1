@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 416** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 417** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### הליכון כדורים דובר עברית מבית
+https://parktoys.co.il/product/hlykvn-kdvrym-dvbr-abryt-mbyt-qkfjqg
+- Price: 100.00 ILS
+- Availability: In stock
+- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
+- Description: הכירו את ההליכון כדורים דובר עברית. ההליכון אוסף, מערבל ומקפיץ כדורים! כשהילד מתקרב עם ההליכון אל הכדורים, ההליכון אוסף את הכדורים מהרצפה, מערבל ומפזר אותם בחדר. הכדורים המתפזרים מגרים את הפעוט לעקוב אחריהם ולאסוף אותם. המשחק מפתח את המוטוריקה והחשיבה של הפעוט, הכל בליווי מנגינות משעשעות ומקטעים מוזיקליים בעברית.
+- Image: https://parktoys.co.il/assets/product-enhanced-1785934816513-b8zrn7.webp
 
 ### מזוודה יופי של בית הבובות של גבי 
 https://parktoys.co.il/product/mzvvdh-yvpy-shl-byt-hbvbvt-shl-gby-wnlltz
@@ -1663,14 +1671,6 @@ https://parktoys.co.il/product/st-chmyshyyh-mkvnyvt-hvt-vvyls-l09ulu
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
 - Description: לא ניתן לבחור סט מגיע אקראי
 - Image: https://parktoys.co.il/assets/product-enhanced-1784633412732-bc8ccu.webp
-
-### בובת ריינבו היי מיני –לא ניתן לבחור צבע 
-https://parktoys.co.il/product/bvbt-ryynbv-hyy-myny-la-nytn-lbchvr-tsba-nkbtr9
-- Price: 69.00 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: אין חברה יותר טובה מהאחות הקטנה – הכירו את האחות הקטנה של בובות ריינבו היי האהובות עליכם! הכירו את האחות הקטנה של סקיילר בראדשו – ספיר. ספיר היא סופר אנרגטית, אוהבת לצאת, בטוחה בעצמה ולפעמים גם אימפולסיבית. זה יכול להכניס אותה לצרות לפעמים, אבל עם עזרה מאחותה הגדולה, היא תמיד מוצאת את דרכה. לספיר יש סגנון ייחודי משלה – היא לבושה בג’ינס כחול מכף רגל ועד ראש עם חצאית ג’ינס רכה וז’קט דנים מלאכותי מעוצב (הבגדים ניתנים להסרה). והיא מגיעה עם נעלי ספורט כחולות תואמות, ארנק וחיית מחמד כחולה קסומה סופר ח
-- Image: https://parktoys.co.il/assets/product-enhanced-1784629429278-ee1yfr.webp
 
 ---
 

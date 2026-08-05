@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-05T11:10:16.108Z",
+  "generated_at": "2026-08-05T13:01:58.170Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 416,
+  "count": 417,
   "products": [
+    {
+      "id": "d65465ef-9939-423f-b2a6-5eea2a77dc16",
+      "slug": "hlykvn-kdvrym-dvbr-abryt-mbyt-qkfjqg",
+      "name": "הליכון כדורים דובר עברית מבית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הכירו את ההליכון כדורים דובר עברית.\nההליכון אוסף, מערבל ומקפיץ כדורים!\nכשהילד מתקרב עם ההליכון אל הכדורים, ההליכון אוסף את הכדורים מהרצפה, מערבל ומפזר אותם בחדר. הכדורים המתפזרים מגרים את הפעוט לעקוב אחריהם ולאסוף אותם.\nהמשחק מפתח את המוטוריקה והחשיבה של הפעוט, הכל בליווי מנגינות משעשעות ומקטעים מוזיקליים בעברית.",
+      "sku": null,
+      "brand": null,
+      "price": 100,
+      "base_price": 100,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1785934816513-b8zrn7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/hlykvn-kdvrym-dvbr-abryt-mbyt-qkfjqg",
+      "categories": [
+        "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
+      ],
+      "updated_at": "2026-08-05T13:01:23.377Z"
+    },
     {
       "id": "c33c7875-45b3-4b72-b6b9-18f5f0da351e",
       "slug": "mzvvdh-yvpy-shl-byt-hbvbvt-shl-gby-wnlltz",
