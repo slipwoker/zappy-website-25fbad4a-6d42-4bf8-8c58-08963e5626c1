@@ -76,7 +76,13 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 419** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 420** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מיקרופון עם רמקולים סוניק
+https://parktoys.co.il/product/mykrvpvn-am-rmkvlym-svnyk-l05ea8
+- Price: 0.00 ILS
+- Availability: In stock
+- Image: https://parktoys.co.il/assets/product-enhanced-1785940316566-o8egvh.webp
 
 ### מיקרופון עם רמקולים סטיץ'
 https://parktoys.co.il/product/mykrvpvn-am-rmkvlym-styts-jrt23b
@@ -1663,14 +1669,6 @@ https://parktoys.co.il/product/arkt-btsk-chgygt-hmbvrgrym-qqvjyj
 - Category: משחקי יצירה
 - Description: ערכת בצק – חגיגת המבורגרים היא ערכת יצירה מהנה וצבעונית, המאפשרת לילדים להכין “מנות מזון” מבצק רך וגמיש. עם התבניות והאביזרים המצורפים, הילדים יכולים לעצב לחמניות, קציצות, ירקות ותוספות – ולבנות המבורגרים טעימים למראה שמגרים את הדמיון.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784640600240-tb8twd.webp
-
-### ערכת בצק – חגיגת יום הולדת
-https://parktoys.co.il/product/arkt-btsk-chgygt-yvm-hvldt-d69u4e
-- Price: 50.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: ערכת בצק חגיגת יום הולדת – ערכת יצירה רב פעמית לפיסול ויצירת עוגות יום הולדת מבצק צבעוני מעצבים ומפסלים חגיגת יום הולדת מושלמת עם שלל תוספות, בעזרת בצקים במגוון צבעים, שבלונות, תבניות ומכשיר מדחס לעיצוב בצק במגוון צורות ודגמים.
-- Image: https://parktoys.co.il/assets/product-1784636946595-z49fqj.webp
 
 ---
 
