@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 423** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 424** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חוות תרנגולות LEGO Minecraft
+https://parktoys.co.il/product/chvvt-trngvlvt-lego-minecraft-r905jw
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: הצטרפו לחוויה חקלאית, טפלו בתרנגולות וגדלו יבולים עם חוות התרנגולות של LEGO Minecraft (דגם 21585), צעצוע מושלם לילדים וילדות מגיל 7 ומעלה המאתגר אתכם לטפל בתרנגולת ובאפרוח יחד עם מיני דמות של "חובב תרנגולות", וכל זאת תוך התמודדות עם שועל רעב וזומבי תינוק שאוהב לרכוב על תרנגולות; בנו לול המעוצב כתרנגולת ענקית עם כנפיים זזות ומכלאה קדמית עם שער נפתח, הפעילו את המנגנון המטיל ביצים מאחור ומשחרר זרעים מהפה לתוך מיכל האכלה מתכוונן, ותיהנו ממשחק עשיר באביזרים כמו לפידים, חציר, תנור מעשנת, ביצים, זרעים
+- Image: https://parktoys.co.il/assets/product-enhanced-1785948896773-jbwks.webp
 
 ### שפן חמוד LEGO Creator 3 in 1 
 https://parktoys.co.il/product/shpn-chmvd-lego-creator-3-in-1-u81q8q
@@ -1661,14 +1669,6 @@ https://parktoys.co.il/product/scania-mshayt-aysvp-arvkh-am-avrvt-vtslylym-zylxa
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
 - Description: משאית איסוף ארוכה עם אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, דלתות הארגז האחורי נפתחות, כולל 2 רגלי תמיכה מתכווננות
 - Image: https://parktoys.co.il/assets/product-enhanced-1784649401633-492amn.webp
-
-### SCANIA P410 משאית מיקסר בטון גדולה עם אורות וצלילים
-https://parktoys.co.il/product/scania-p410-mshayt-myksr-btvn-gdvlh-am-avrvt-vtslylym-21xi9f
-- Price: 200.00 ILS
-- Availability: In stock
-- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
-- Description: SCANIA P410 משאית מיקסר בטון גדולה 52סמ עם אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, המיקסר ניתן לסיבוב ידני
-- Image: https://parktoys.co.il/assets/product-enhanced-1784647418573-nabgyn.webp
 
 ---
 
