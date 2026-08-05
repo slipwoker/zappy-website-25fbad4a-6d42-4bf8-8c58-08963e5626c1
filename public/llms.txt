@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 412** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 413** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מזוודה יופי מיני מאוס
+https://parktoys.co.il/product/mzvvdh-yvpy-myny-mavs-idxool
+- Price: 59.00 ILS (sale, was 79.00 ILS)
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: ערכת יופי לילדות במזוודת איפור של מיני מאוס, הדמות האהובה מבית הסדרה של מיקי מאוס והמותג דיסני! מזוודת איפור שכל הילדות אוהבות!
+- Image: https://parktoys.co.il/assets/product-enhanced-1785927127515-azvcfj.webp
 
 ### מזוודה רופא פרוזן 
 https://parktoys.co.il/product/mzvvdh-rvpa-prvzn-4pitkq
@@ -1663,14 +1671,6 @@ https://parktoys.co.il/product/lol-lvl-ootd-mzvvdh-25-hptavt-lol-5v72rx
 - Category: בובות/ברבי
 - Description: לול OOTD מזוודה 25 הפתעות LOL Surprise Outfit of the Day #OOTD 25 Surprises לול מזוודה עם בובת לול ועוד 24 הפתעות - תלבושות ואביזרים הערכה מתאימה לגילאי 3+ משתתפים: 1+
 - Image: https://parktoys.co.il/assets/product-enhanced-1784626068660-a96zm.webp
-
-### כלב משטרה מבית Spark Toys
-https://parktoys.co.il/product/klb-mshtrh-mbyt-spark-toys-emu9k3
-- Price: 239.00 ILS
-- Availability: In stock
-- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
-- Description: כלב משטרה מבית Spark Toys כלב משטרה המופעל באמצעות שלט רחוק 360 מעלות, אומר עשרות משפטים ושירים בעברית! לכלב המשטרה מגוון הפעלות ותנועות בשליטה מרחוק, הוא ניתן לתכנות, מגיע עם סוללה נטענת וחוברת הפעלה בעברית.
-- Image: https://parktoys.co.il/assets/product-1784625561196-vtmv6c.webp
 
 ---
 
