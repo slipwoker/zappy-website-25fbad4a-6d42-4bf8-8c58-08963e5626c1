@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-06T15:12:46.290Z",
+  "generated_at": "2026-08-06T15:21:37.822Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 441,
+  "count": 442,
   "products": [
+    {
+      "id": "9951d84d-a93d-41a0-9d6a-9c703c5bda59",
+      "slug": "lgv-lego-mrvvl-mshayt-hank-hyrvk-ngd-tanvs-76312-3qyi01",
+      "name": "לגו LEGO מרוול משאית הענק הירוק נגד תאנוס 76312 ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערכת לגו LEGO Marvel לבניית משאית הענק הירוק בעיצוב עוצמתי עם גלגלים גדולים, לצד דמויות הענק הירוק ותאנוס למשחק אקשן מלא דמיון. הערכה מתאימה לילדים שאוהבים גיבורי-על, רכבי פעולה, קרבות מרוול ובנייה יצירתית עם LEGO.\n\nמה כולל המוצר?\nערכת LEGO Marvel מקורית\nמשאית הענק הירוק להרכבה\nדמויות הענק הירוק ותאנוס\nרכב פעולה עם גלגלים גדולים\nמתאים למשחק, תצוגה ואיסוף\nלמה כדאי לבחור במוצר?\nהערכה משלבת את עולם Marvel עם חוויית LEGO מהנה, ומאפשרת לילדים ליצור קרבות בין הענק הירוק לתאנוס. ",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786029629999-rx0omh.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-lego-mrvvl-mshayt-hank-hyrvk-ngd-tanvs-76312-3qyi01",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-08-06T15:20:59.345Z"
+    },
     {
       "id": "38d1eafb-3e1e-423f-9caa-3998912c7654",
       "slug": "mabdt-ayyrvn-mn-hykl-hshryvn-76315-lego-marvel-j7uuxo",

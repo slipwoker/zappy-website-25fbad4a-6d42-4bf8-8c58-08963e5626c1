@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 441** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 442** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו LEGO מרוול משאית הענק הירוק נגד תאנוס 76312 
+https://parktoys.co.il/product/lgv-lego-mrvvl-mshayt-hank-hyrvk-ngd-tanvs-76312-3qyi01
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: ערכת לגו LEGO Marvel לבניית משאית הענק הירוק בעיצוב עוצמתי עם גלגלים גדולים, לצד דמויות הענק הירוק ותאנוס למשחק אקשן מלא דמיון. הערכה מתאימה לילדים שאוהבים גיבורי-על, רכבי פעולה, קרבות מרוול ובנייה יצירתית עם LEGO. מה כולל המוצר? ערכת LEGO Marvel מקורית משאית הענק הירוק להרכבה דמויות הענק הירוק ותאנוס רכב פעולה עם גלגלים גדולים מתאים למשחק, תצוגה ואיסוף למה כדאי לבחור במוצר? הערכה משלבת את עולם Marvel עם חוויית LEGO מהנה, ומאפשרת לילדים ליצור קרבות בין הענק הירוק לתאנוס.
+- Image: https://parktoys.co.il/assets/product-enhanced-1786029629999-rx0omh.webp
 
 ### מעבדת איירון מן: היכל השריון 76315 LEGO Marvel
 https://parktoys.co.il/product/mabdt-ayyrvn-mn-hykl-hshryvn-76315-lego-marvel-j7uuxo
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/arkt-mda-hmagl-hchshmly-hrashvn-shly-usdo7x
 - Category: משחקי יצירה
 - Description: אתם לא יכולים לראות אותו, אבל אתם רואים מה הוא יודע לעשות ואתם ממש לא יכולים בלעדיו. הכירו את סודותיו של החשמל!
 - Image: https://parktoys.co.il/assets/product-1784662278064-07q0z.webp
-
-### ערכת מדע – לייצור נייר
-https://parktoys.co.il/product/arkt-mda-lyytsvr-nyyr-rulezs
-- Price: 49.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: למדו איך נוצר הנייר והכינו בעצמכם נייר ממוחזר משאריות נייר, ירקות, עשב ועלים!
-- Image: https://parktoys.co.il/assets/product-1784662398863-nb7diua.webp
 
 ---
 
