@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 433** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 434** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ג'יפ ממונע תואם BMW X6 קופה צבעי פיינטינג מיוחדים
+https://parktoys.co.il/product/gyp-mmvna-tvam-bmw-x6-kvph-tsbay-pyyntyng-myvchdym-sa3znl
+- Price: 1399.00 ILS (sale, was 1599.00 ILS)
+- Availability: In stock
+- Category: גלגלים
+- Description: ג׳יפ ממונע לילדים בהשראת BMW X6 עם צבעי Painting Colors יוקרתיים – חוויית נהיגה מרשימה לילדים, תאורת LED ואפקטים מוזיקליים, תפעול קל וטעינה נוחה. מתאים לחצר ולשבילים קלים, לגילאי 1+ בהשגחת מבוגר.
+- Image: https://parktoys.co.il/assets/product-enhanced-1786017547502-cs3v.webp
 
 ### אופנוע ממונע 6V הראלי וינטג
 https://parktoys.co.il/product/avpnva-mmvna-6v-hraly-vyntg-lla5kh
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/hpsyps-shly-prpr-vq8pfk
 - Category: משחקי יצירה
 - Description: ערכת קישוט וצביעה של תמונת פסיפס – פרפר.
 - Image: https://parktoys.co.il/assets/product-1784657108098-bxaxj.webp
-
-### פעמוני רוח – פורינג
-https://parktoys.co.il/product/pamvny-rvch-pvryng-bfvew8
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: ערכת יצירה לעיצוב וקישוט של פעמוני רוח בטכניקת הצביעה האומנותית פורינג.
-- Image: https://parktoys.co.il/assets/product-1784656859045-x48oob.webp
 
 ---
 

@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-06T11:56:04.794Z",
+  "generated_at": "2026-08-06T12:02:05.642Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 433,
+  "count": 434,
   "products": [
+    {
+      "id": "e52ce61b-339f-42b2-a3dc-545ca0d2cddd",
+      "slug": "gyp-mmvna-tvam-bmw-x6-kvph-tsbay-pyyntyng-myvchdym-sa3znl",
+      "name": "ג'יפ ממונע תואם BMW X6 קופה צבעי פיינטינג מיוחדים",
+      "name_translations": {},
+      "description": "<p>סוללה 12V 7AH, הנעה 4X4, שלט חכם 2.4G להורים, גלגלי EVA לנסיעה חלקה, מתאים לילדים 1 ומעלה, מזויקה ותאורה, דוושת גז לנסיעה, דלתות נפתחות, נוסע קדימה ואחורה, קל להרכבה נוח לשימוש, זמן הטענה 8-10 שעות, זמן נסיעה 60-80 דקות, מושבי עור, צבעים פיינטינג מיוחדים: ורוד / אפור / שחור</p>",
+      "short_description": "ג׳יפ ממונע לילדים בהשראת BMW X6 עם צבעי Painting Colors יוקרתיים – חוויית נהיגה מרשימה לילדים, תאורת LED ואפקטים מוזיקליים, תפעול קל וטעינה נוחה. מתאים לחצר ולשבילים קלים, לגילאי 1+ בהשגחת מבוגר.",
+      "sku": null,
+      "brand": null,
+      "price": 1399,
+      "base_price": 1599,
+      "sale_price": 1399,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786017547502-cs3v.webp",
+        "https://parktoys.co.il/assets/product-enhanced-1786017585460-kfs81y.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/gyp-mmvna-tvam-bmw-x6-kvph-tsbay-pyyntyng-myvchdym-sa3znl",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-08-06T12:01:31.690Z"
+    },
     {
       "id": "b1d4e418-4de9-49a4-b970-22b1d32d8305",
       "slug": "avpnva-mmvna-6v-hraly-vyntg-lla5kh",
