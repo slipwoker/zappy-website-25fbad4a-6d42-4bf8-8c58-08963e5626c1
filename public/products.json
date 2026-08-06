@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-06T14:11:06.431Z",
+  "generated_at": "2026-08-06T14:12:21.599Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 440,
@@ -55,15 +55,15 @@
     },
     {
       "id": "ca935a13-e3c1-4344-a436-4a62edd29f21",
-      "slug": "lgv-myynkrapt-hytklvt-am-vvardn-21274-lego-cqxz21",
+      "slug": "lgv-myynkrapt-hytklvt-am-vvardn-21274-lego-eqaok2",
       "name": "לגו מיינקראפט היתקלות עם ווארדן 21274 - Lego",
       "name_translations": {},
       "description": "",
       "short_description": "לגו מיינקראפט היתקלות עם ווארדן 21274 מבית לגו Lego LEGO Minecraft the warden encounter 21274 ההרפתקה הגדולה באמת – מתחילה מתחת לאדמה.\nברגע שתפרצו לתוך המערה החשוכה עם TNT ותגלו את היהלומים והאחלמות הנדירים, תבינו שזה לא עוד יום בעולם מיינקראפט.\nאבל רגע… אתם שומעים את הצעדים הכבדים? הווארדן מגיע! יתרונות עיקריים מערכת כרייה עם מלכודות, TNT וגפנים – לשחזור חוויית הכרייה המוכרת מהמשחק.\nמנגנון סלע נופל – הפתעות בכל פינה! כולל דמות הווארדן המפחיד, שחקן עם ציוד וכמובן תרנגולת ואביזרים מיוחדים ",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 99,
+      "base_price": 99,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -71,11 +71,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/lgv-myynkrapt-hytklvt-am-vvardn-21274-lego-cqxz21",
+      "url": "https://parktoys.co.il/product/lgv-myynkrapt-hytklvt-am-vvardn-21274-lego-eqaok2",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-08-06T13:21:48.931Z"
+      "updated_at": "2026-08-06T14:11:28.537Z"
     },
     {
       "id": "477b3025-7994-4074-adc7-69345c890b2d",
