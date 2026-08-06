@@ -14477,6 +14477,146 @@ async function loadRelatedProducts(currentProduct, t) {
 }
 /* ==ZAPPY E-COMMERCE JS END== */
 
+/* ZAPPY_CUSTOM_JS_START:b120d69eb39b */
+(function () {
+  function __zappyCustomInit() {
+    try {
+(function() {
+  var THRESHOLD = 299;
+  var FREE_MSG = 'יש לך משלוח חינם! 🎉';
+  
+  // Wait for DOM
+  function init() {
+    var bar = document.getElementById('free-shipping-bar');
+    var msgEl = document.getElementById('fsb-msg');
+    var fillEl = document.getElementById('fsb-fill');
+    var closeBtn = document.getElementById('fsb-close-btn');
+    
+    if (!bar || !msgEl || !fillEl) {
+      setTimeout(init, 300);
+      return;
+    }
+    
+    // Close button
+    if (closeBtn) {
+      closeBtn.addEventListener('click', function() {
+        bar.classList.add('fsb-hidden');
+        try { sessionStorage.setItem('fsb_closed', '1'); } catch(e) {}
+      });
+      
+      try {
+        if (sessionStorage.getItem('fsb_closed') === '1') {
+          bar.classList.add('fsb-hidden');
+        }
+      } catch(e) {}
+    }
+    
+    function getCartTotal() {
+      var total = 0;
+      
+      // Method 1: cart drawer subtotal
+      var subtotalEls = document.querySelectorAll('.zappy-cart-total, .cart-subtotal-value, .cart-subtotal .amount, [data-cart-total]');
+      for (var i = 0; i < subtotalEls.length; i++) {
+        var t = subtotalEls[i].textContent.replace(/[^\d.]/g, '');
+        var val = parseFloat(t);
+        if (val > 0) { total = val; break; }
+      }
+      
+      // Method 2: sum cart items in drawer
+      if (total === 0) {
+        var cartItems = document.querySelectorAll('.zappy-cart-item, .cart-item, [data-cart-item]');
+        cartItems.forEach(function(item) {
+          var priceEl = item.querySelector('.zappy-cart-item-price, .cart-item-price, [data-price]');
+          var qtyInput = item.querySelector('.zappy-cart-item-qty input, .cart-item-qty input, [data-qty]');
+          if (priceEl) {
+            var price = parseFloat(priceEl.textContent.replace(/[^\d.]/g, '')) || 0;
+            var qty = qtyInput ? (parseInt(qtyInput.value, 10) || 1) : 1;
+            total += price * qty;
+          }
+        });
+      }
+      
+      // Method 3: Zappy global cart state
+      if (total === 0 && window.ZAPPY_CART && window.ZAPPY_CART.total) {
+        total = window.ZAPPY_CART.total;
+      }
+      
+      // Method 4: cart count badge x avg price fallback
+      if (total === 0) {
+        var countEl = document.querySelector('.cart-count');
+        if (countEl) {
+          var count = parseInt(countEl.textContent, 10) || 0;
+          if (count > 0) total = count * 50; // rough estimate
+        }
+      }
+      
+      return total;
+    }
+    
+    function updateBar() {
+      var total = getCartTotal();
+      
+      if (total >= THRESHOLD) {
+        msgEl.innerHTML = FREE_MSG;
+        msgEl.classList.add('fsb-reached');
+        fillEl.style.width = '100%';
+      } else {
+        var remaining = THRESHOLD - total;
+        var pct = Math.min((total / THRESHOLD) * 100, 99);
+        
+        msgEl.innerHTML = '<span class="fsb-amount">' + remaining.toFixed(0) + '₪</span> נשארו למשלוח חינם';
+        msgEl.classList.remove('fsb-reached');
+        fillEl.style.width = pct + '%';
+      }
+    }
+    
+    // Initial update
+    updateBar();
+    
+    // Poll every 1.5s
+    setInterval(updateBar, 1500);
+    
+    // Listen for cart events
+    document.addEventListener('zappy:cart-updated', updateBar);
+    document.addEventListener('cart-updated', updateBar);
+    
+    // Listen for storage changes (cross-tab)
+    try {
+      window.addEventListener('storage', function(e) {
+        if (e.key && (e.key.indexOf('cart') !== -1 || e.key.indexOf('zappy') !== -1)) {
+          updateBar();
+        }
+      });
+    } catch(e) {}
+    
+    // Observe cart count changes
+    var cartCount = document.querySelector('.cart-count');
+    if (cartCount) {
+      var observer = new MutationObserver(function() {
+        updateBar();
+      });
+      observer.observe(cartCount, { characterData: true, subtree: true, childList: true });
+    }
+  }
+  
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:b120d69eb39b */
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
