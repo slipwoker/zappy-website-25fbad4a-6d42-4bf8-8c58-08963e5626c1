@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 427** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### אופנוע ממונע 6V אנה ואלזה 
-https://parktoys.co.il/product/avpnva-mmvna-6v-anh-valzh-q4v5i5
+https://parktoys.co.il/product/avpnva-mmvna-6v-anh-valzh-q0dke9
 - Price: 549.00 ILS (sale, was 699.00 ILS)
 - Availability: In stock
 - Category: גלגלים
