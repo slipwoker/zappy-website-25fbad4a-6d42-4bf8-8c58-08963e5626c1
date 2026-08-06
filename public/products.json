@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-06T13:22:24.995Z",
+  "generated_at": "2026-08-06T13:30:24.760Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 438,
+  "count": 439,
   "products": [
+    {
+      "id": "4e6bbeab-f1ed-40c1-8168-a60898bb013e",
+      "slug": "lgv-myynkrapt-hshval-21588-lego-477mme",
+      "name": "לגו מיינקראפט השועל 21588| Lego",
+      "name_translations": {},
+      "description": "",
+      "short_description": "צעצוע לגו מיינקראפט – השועל הניתן לתנוחה למשחק ותצוגה\n\nהחיו את מיינקראפט עם שחזור אותנטי של השועל (21588), סט לגו לבנייה לבנים ובנות מגיל 10 ומעלה. הילדים יכולים להציג את התשוקה שלהם למיינקראפט עם דמות חיה Ikonikית זו מהמשחק הנמכר ביותר.\n\nהסט מאפשר לשחזר את השועל מהמשחק בקנה מידה מרשים וריאליסטי, מה שהופך אותו למתנה מושלמת לשחקני מיינקראפט ומעריצי עיצובי משחקי וידאו. עם רגליים נעות, צוואר סיבובי, ראש שניתן להזיז, וחלק עיניים הפיך המציג את השועל עם עיניים פקוחות וסגורות, ",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786022828951-bp5e2q.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-myynkrapt-hshval-21588-lego-477mme",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-08-06T13:29:48.880Z"
+    },
     {
       "id": "ca935a13-e3c1-4344-a436-4a62edd29f21",
       "slug": "lgv-myynkrapt-hytklvt-am-vvardn-21274-lego-cqxz21",

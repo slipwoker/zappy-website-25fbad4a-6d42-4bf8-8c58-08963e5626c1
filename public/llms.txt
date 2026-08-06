@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 438** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 439** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו מיינקראפט השועל 21588| Lego
+https://parktoys.co.il/product/lgv-myynkrapt-hshval-21588-lego-477mme
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: צעצוע לגו מיינקראפט – השועל הניתן לתנוחה למשחק ותצוגה החיו את מיינקראפט עם שחזור אותנטי של השועל (21588), סט לגו לבנייה לבנים ובנות מגיל 10 ומעלה. הילדים יכולים להציג את התשוקה שלהם למיינקראפט עם דמות חיה Ikonikית זו מהמשחק הנמכר ביותר. הסט מאפשר לשחזר את השועל מהמשחק בקנה מידה מרשים וריאליסטי, מה שהופך אותו למתנה מושלמת לשחקני מיינקראפט ומעריצי עיצובי משחקי וידאו. עם רגליים נעות, צוואר סיבובי, ראש שניתן להזיז, וחלק עיניים הפיך המציג את השועל עם עיניים פקוחות וסגורות,
+- Image: https://parktoys.co.il/assets/product-enhanced-1786022828951-bp5e2q.webp
 
 ### לגו מיינקראפט היתקלות עם ווארדן 21274 - Lego
 https://parktoys.co.il/product/lgv-myynkrapt-hytklvt-am-vvardn-21274-lego-cqxz21
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/arkt-mda-tsvllt-479ywr
 - Category: משחקי יצירה
 - Description: מה מאפשר לספינות לצוף וכיצד הצוללות פועלות? למדו את הסודות הכמוסים של כוח הציפה.
 - Image: https://parktoys.co.il/assets/product-1784662069245-zaldf7.webp
-
-### ספר הזכרונות שלי
-https://parktoys.co.il/product/spr-hzkrvnvt-shly-1frvx9
-- Price: 49.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: ערכה לעיצוב וקישוט ספר זכרונות איכותי מעץ
-- Image: https://parktoys.co.il/assets/product-1784657575310-rl6xq8.webp
 
 ---
 
