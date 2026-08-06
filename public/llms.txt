@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 429** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 430** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### אופנוע POLICE 6V מפואר עם אפקטים ואור - כחול
+https://parktoys.co.il/product/avpnva-police-6v-mpvar-am-apktym-vavr-kchvl-zaqbez
+- Price: 450.00 ILS (sale, was 599.00 ILS)
+- Availability: In stock
+- Category: גלגלים
+- Description: אופנוע ממונע לילדים POLICE 6V עם 2 מנועים אפשרות נסיעה קדימה ואחורה, אפקטים ואורות האופנוע הממונע מתאים לגילאי 2-5 משקל נשיאה מקסימאלי 30 ק"ג מהירות: עד 4 קמ"ש האצה ובלימה באותה הדוושה אפשרות נסיעה קדימה (דוושה) או אחורה (לחצן) יציב ביותר – 3 גלגלים כולל מוזיקה ואורות לוח שעונים ידיות הכידון עשויות גומי למניעת החלקה בטיחותי ביותר אין גישה למנועים ולגירים
+- Image: https://parktoys.co.il/assets/product-enhanced-1786016256880-by6ak.webp
 
 ### בימבה כוכב טסלה חשמלית 12V לילדים עם אורות וצלילים - תכלת
 https://parktoys.co.il/product/bymbh-kvkb-tslh-chshmlyt-12v-lyldym-am-avrvt-vtslylym-tklt-wlpx64
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/kakvaym-chd-krn-widjws
 - Category: משחקי יצירה
 - Description: קעקועים – חד קרן יוצרים קעקועים מדליקים מעיצובי חד קרן צבעוניים
 - Image: https://parktoys.co.il/assets/product-1784655353192-jvttg.webp
-
-### Smashers Robo Alive דינוזאור מאובן גדול להרכבה
-https://parktoys.co.il/product/smashers-robo-alive-dynvzavr-mavbn-gdvl-lhrkbh-woo01h
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: ערכת משחק והרכבה מסדרת Smashers Robo Alive בעיצוב דינוזאור מאובן גדול. המארז כולל ביצת הפתעה, חלקי דינוזאור להרכבה וכלי חפירה, ומאפשר לילדים ליהנות מחוויית גילוי, חפירה והרכבת דינוזאור מרשימה. מה כולל המוצר? ביצת דינוזאור גדולה מסדרת Smashers חלקי מאובן להרכבת דינוזאור כלי חפירה למשחק וגילוי דינוזאור אדום בעיצוב Volcano Dino חוויית Fossil Find לילדים
-- Image: https://parktoys.co.il/assets/product-enhanced-1784652203695-2orqbx.webp
 
 ---
 

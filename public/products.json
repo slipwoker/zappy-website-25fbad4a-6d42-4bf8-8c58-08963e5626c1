@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-06T11:39:04.324Z",
+  "generated_at": "2026-08-06T11:41:19.606Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 429,
+  "count": 430,
   "products": [
+    {
+      "id": "efddf404-2c59-455b-b703-b1ee84e162e3",
+      "slug": "avpnva-police-6v-mpvar-am-apktym-vavr-kchvl-zaqbez",
+      "name": "אופנוע POLICE 6V מפואר עם אפקטים ואור - כחול",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אופנוע ממונע לילדים POLICE 6V עם 2 מנועים אפשרות נסיעה קדימה ואחורה, אפקטים ואורות האופנוע הממונע מתאים לגילאי 2-5 \nמשקל נשיאה מקסימאלי 30 ק\"ג מהירות: עד 4 קמ\"ש האצה ובלימה באותה הדוושה אפשרות נסיעה קדימה (דוושה) או אחורה (לחצן) יציב ביותר – 3 גלגלים כולל מוזיקה ואורות \n\n \n\nלוח שעונים  ידיות הכידון עשויות גומי למניעת החלקה בטיחותי ביותר אין גישה למנועים ולגירים",
+      "sku": null,
+      "brand": null,
+      "price": 450,
+      "base_price": 599,
+      "sale_price": 450,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786016256880-by6ak.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/avpnva-police-6v-mpvar-am-apktym-vavr-kchvl-zaqbez",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-08-06T11:40:42.298Z"
+    },
     {
       "id": "cbc9309e-306d-4c53-8620-49142d2b9cb7",
       "slug": "bymbh-kvkb-tslh-chshmlyt-12v-lyldym-am-avrvt-vtslylym-tklt-wlpx64",
