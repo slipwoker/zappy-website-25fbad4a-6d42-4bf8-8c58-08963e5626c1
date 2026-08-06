@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 440** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 441** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מעבדת איירון מן: היכל השריון 76315 LEGO Marvel
+https://parktoys.co.il/product/mabdt-ayyrvn-mn-hykl-hshryvn-76315-lego-marvel-j7uuxo
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: מעבדת איירון מן: היכל השריון 76315 LEGO Marvel ערכת LEGO Marvel מזמינה ילדים ומעריצי מארוול אל תוך המעבדה האייקונית של טוני סטארק. הערכה כוללת 3 תאי שריון מודולריים ו-3 דמויות של איירון מן (MK43, MK6 ו-Iron Patriot), לצד דמויות של פפר פוטס, הנבל אלדריץ' קיליאן ורובוט Dum-E. בנוסף תמצאו רובוט מכני גדול – Igor Iron Man MK3 – עם גפיים נעות ותא טייס עם מקום לדמות. ערכת המשחק כוללת גם עמדה לעבודות תחזוקה עם זרועות רובוטיות, סורק גדול, מטף כיבוי אש, להבות ומשגרי קליעים, הכל כדי לדמות קרבות אקשן מהסרטי
+- Image: https://parktoys.co.il/assets/product-enhanced-1786029041297-d38twh.webp
 
 ### לגו ספיידי כלי רכב תת ימיים 11207| Lego
 https://parktoys.co.il/product/lgv-spyydy-kly-rkb-tt-ymyym-11207-lego-eizk6a
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/arkt-mda-lyytsvr-nyyr-rulezs
 - Category: משחקי יצירה
 - Description: למדו איך נוצר הנייר והכינו בעצמכם נייר ממוחזר משאריות נייר, ירקות, עשב ועלים!
 - Image: https://parktoys.co.il/assets/product-1784662398863-nb7diua.webp
-
-### ערכת מדע – טיהור מים
-https://parktoys.co.il/product/arkt-mda-tyhvr-mym-9grxoc
-- Price: 49.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: הם מכסים את כדור הארץ ורוב גופנו עשוי מהם…המים הם תמצית החיים אז בואו ונהפוך אותם לנקיים וטהורים!
-- Image: https://parktoys.co.il/assets/product-1784662127760-1oweza.webp
 
 ---
 
