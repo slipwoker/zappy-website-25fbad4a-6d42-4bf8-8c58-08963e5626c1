@@ -18118,6 +18118,14 @@ html .free-shipping-bar {
 html .whatsapp-float {
   bottom: 20px !important;
 }
+
+html .free-shipping-bar {
+  bottom: 0px !important;
+}
+
+html .whatsapp-float {
+  bottom: 74px !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
