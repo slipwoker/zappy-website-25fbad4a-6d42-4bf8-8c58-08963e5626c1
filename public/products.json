@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-06T11:38:04.713Z",
+  "generated_at": "2026-08-06T11:39:04.324Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 429,
@@ -199,8 +199,8 @@
     },
     {
       "id": "fadd808b-5e58-47ee-bbc7-8ba0d1ac5fc0",
-      "slug": "plmyngv-vrvd-lego-creator-3-in-1-u97ckr",
-      "name": "פלמינגו ורוד LEGO Creator 3 in 1 ",
+      "slug": "plmyngv-vrvd-31170-lego-creator-3-in-1-6o0o3n",
+      "name": "פלמינגו ורוד 31170  LEGO Creator 3 in 1 ",
       "name_translations": {},
       "description": "",
       "short_description": "פנקו את הילדים הצעירים עם ערכת לגו המביאה איתה יחודיות של חיות ג'ונגל אקזוטיות. אם אתם אוהבים חיות, טבע וצבעים מדהימים זו הערכה בשבילכם. עם צבעים חיים, עיצוב מרהיב ורגליים ארוכות שניתן לכוון, הפלמינגו הזה לא רק יאיר כל חדר – הוא גם יהפוך לחלק מושלם באוסף שלכם! תוכלו לבנות פלמינגו אלגנטי על גזע עץ טרופי, ולאחר מכן לפרק ולהרכיב דג אקולוטל ורוד או תוכי קקדו ורוד. שלושה דגמים שונים בהשראת חיות אקזוטיות המביאות איתן אינסוף כיף ויצירתיות למשחק דימיוני מהנה.",
@@ -215,11 +215,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/plmyngv-vrvd-lego-creator-3-in-1-u97ckr",
+      "url": "https://parktoys.co.il/product/plmyngv-vrvd-31170-lego-creator-3-in-1-6o0o3n",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-08-05T16:18:46.264Z"
+      "updated_at": "2026-08-06T11:38:30.111Z"
     },
     {
       "id": "76bf2f35-919e-43ab-bc2c-8a28f1b08e07",
