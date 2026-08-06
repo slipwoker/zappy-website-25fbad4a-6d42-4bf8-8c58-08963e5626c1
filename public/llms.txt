@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 442** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 443** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו DC Batman™‎ - הבאטמוביל של באטמן (76332)
+https://parktoys.co.il/product/lgv-dc-batman-hbatmvbyl-shl-batmn-76332-ngnyvd
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: צרו מכונית באטמוביל משלכם מהסרט באטמן! הושיבו את באטמן מאחורי ההגה ואז התרחקו משם לקראת הרפתקת גיבור-העל הבאה שלכם. בסיום משימתכם, החנו את הדגם המדהים, והציגו את יצירת המופת שלכם ללוחמה בפשע בתצוגת ראווה
+- Image: https://parktoys.co.il/assets/product-enhanced-1786033387276-sw4lt9.webp
 
 ### לגו LEGO מרוול משאית הענק הירוק נגד תאנוס 76312 
 https://parktoys.co.il/product/lgv-lego-mrvvl-mshayt-hank-hyrvk-ngd-tanvs-76312-3qyi01
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/tkshyty-nsykvt-brby-hu4fdh
 - Category: משחקי יצירה
 - Description: ערכת יצירה להכנת תכשיטים הכוללת פקקים אופנתיים
 - Image: https://parktoys.co.il/assets/product-1784662457200-c4ugfu.webp
-
-### ערכת מדע – המעגל החשמלי הראשון שלי
-https://parktoys.co.il/product/arkt-mda-hmagl-hchshmly-hrashvn-shly-usdo7x
-- Price: 49.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: אתם לא יכולים לראות אותו, אבל אתם רואים מה הוא יודע לעשות ואתם ממש לא יכולים בלעדיו. הכירו את סודותיו של החשמל!
-- Image: https://parktoys.co.il/assets/product-1784662278064-07q0z.webp
 
 ---
 

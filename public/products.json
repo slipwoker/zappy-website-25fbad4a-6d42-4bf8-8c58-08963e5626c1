@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-06T15:21:37.822Z",
+  "generated_at": "2026-08-06T16:23:54.001Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 442,
+  "count": 443,
   "products": [
+    {
+      "id": "3f127608-da22-4bab-aa93-cc6c6cc8a760",
+      "slug": "lgv-dc-batman-hbatmvbyl-shl-batmn-76332-ngnyvd",
+      "name": "לגו DC Batman™‎ - הבאטמוביל של באטמן (76332)",
+      "name_translations": {},
+      "description": "",
+      "short_description": "צרו מכונית באטמוביל משלכם מהסרט באטמן! הושיבו את באטמן מאחורי ההגה ואז התרחקו משם לקראת הרפתקת גיבור-העל הבאה שלכם. בסיום משימתכם, החנו את הדגם המדהים, והציגו את יצירת המופת שלכם ללוחמה בפשע בתצוגת ראווה",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786033387276-sw4lt9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-dc-batman-hbatmvbyl-shl-batmn-76332-ngnyvd",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-08-06T16:23:17.397Z"
+    },
     {
       "id": "9951d84d-a93d-41a0-9d6a-9c703c5bda59",
       "slug": "lgv-lego-mrvvl-mshayt-hank-hyrvk-ngd-tanvs-76312-3qyi01",
