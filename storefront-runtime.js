@@ -14477,132 +14477,109 @@ async function loadRelatedProducts(currentProduct, t) {
 }
 /* ==ZAPPY E-COMMERCE JS END== */
 
-/* ZAPPY_CUSTOM_JS_START:b120d69eb39b */
+/* ZAPPY_CUSTOM_JS_START:1a3915c5f4b6 */
 (function () {
   function __zappyCustomInit() {
     try {
 (function() {
   var THRESHOLD = 299;
+  var SHIPPING_COST = 35;
   var FREE_MSG = 'יש לך משלוח חינם! 🎉';
-  
-  // Wait for DOM
-  function init() {
-    var bar = document.getElementById('free-shipping-bar');
-    var msgEl = document.getElementById('fsb-msg');
-    var fillEl = document.getElementById('fsb-fill');
-    var closeBtn = document.getElementById('fsb-close-btn');
-    
-    if (!bar || !msgEl || !fillEl) {
-      setTimeout(init, 300);
-      return;
-    }
-    
-    // Close button
-    if (closeBtn) {
-      closeBtn.addEventListener('click', function() {
-        bar.classList.add('fsb-hidden');
-        try { sessionStorage.setItem('fsb_closed', '1'); } catch(e) {}
-      });
-      
-      try {
-        if (sessionStorage.getItem('fsb_closed') === '1') {
-          bar.classList.add('fsb-hidden');
-        }
-      } catch(e) {}
-    }
-    
-    function getCartTotal() {
-      var total = 0;
-      
-      // Method 1: cart drawer subtotal
-      var subtotalEls = document.querySelectorAll('.zappy-cart-total, .cart-subtotal-value, .cart-subtotal .amount, [data-cart-total]');
-      for (var i = 0; i < subtotalEls.length; i++) {
-        var t = subtotalEls[i].textContent.replace(/[^\d.]/g, '');
-        var val = parseFloat(t);
-        if (val > 0) { total = val; break; }
-      }
-      
-      // Method 2: sum cart items in drawer
-      if (total === 0) {
-        var cartItems = document.querySelectorAll('.zappy-cart-item, .cart-item, [data-cart-item]');
-        cartItems.forEach(function(item) {
-          var priceEl = item.querySelector('.zappy-cart-item-price, .cart-item-price, [data-price]');
-          var qtyInput = item.querySelector('.zappy-cart-item-qty input, .cart-item-qty input, [data-qty]');
-          if (priceEl) {
-            var price = parseFloat(priceEl.textContent.replace(/[^\d.]/g, '')) || 0;
-            var qty = qtyInput ? (parseInt(qtyInput.value, 10) || 1) : 1;
-            total += price * qty;
-          }
-        });
-      }
-      
-      // Method 3: Zappy global cart state
-      if (total === 0 && window.ZAPPY_CART && window.ZAPPY_CART.total) {
-        total = window.ZAPPY_CART.total;
-      }
-      
-      // Method 4: cart count badge x avg price fallback
-      if (total === 0) {
-        var countEl = document.querySelector('.cart-count');
-        if (countEl) {
-          var count = parseInt(countEl.textContent, 10) || 0;
-          if (count > 0) total = count * 50; // rough estimate
-        }
-      }
-      
-      return total;
-    }
-    
-    function updateBar() {
-      var total = getCartTotal();
-      
-      if (total >= THRESHOLD) {
-        msgEl.innerHTML = FREE_MSG;
-        msgEl.classList.add('fsb-reached');
-        fillEl.style.width = '100%';
-      } else {
-        var remaining = THRESHOLD - total;
-        var pct = Math.min((total / THRESHOLD) * 100, 99);
-        
-        msgEl.innerHTML = '<span class="fsb-amount">' + remaining.toFixed(0) + '₪</span> נשארו למשלוח חינם';
-        msgEl.classList.remove('fsb-reached');
-        fillEl.style.width = pct + '%';
-      }
-    }
-    
-    // Initial update
-    updateBar();
-    
-    // Poll every 1.5s
-    setInterval(updateBar, 1500);
-    
-    // Listen for cart events
-    document.addEventListener('zappy:cart-updated', updateBar);
-    document.addEventListener('cart-updated', updateBar);
-    
-    // Listen for storage changes (cross-tab)
+
+  // Create bar if not already present
+  if (document.getElementById('free-shipping-bar')) return;
+
+  var bar = document.createElement('div');
+  bar.id = 'free-shipping-bar';
+  bar.className = 'free-shipping-bar';
+  bar.setAttribute('dir', 'rtl');
+  bar.innerHTML = 
+    '<div class="fsb-inner">' +
+      '<div class="fsb-icon-wrap">' +
+        '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' +
+          '<path d="M1 12h14l-2 6h10L22 6H15L13 0H5l2 6H1l2 6z"/>' +
+        '</svg>' +
+      '</div>' +
+      '<div class="fsb-msg" id="fsb-msg"><span class="fsb-amount">299₪</span> נשארו למשלוח חינם</div>' +
+      '<div class="fsb-track"><div class="fsb-fill" id="fsb-fill"></div><div class="fsb-marker"><span class="fsb-marker-label">משלוח חינם</span></div></div>' +
+    '</div>' +
+    '<button class="fsb-close-btn" id="fsb-close-btn" aria-label="סגור">' +
+      '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M18 6L6 18M6 6l12 12"/></svg>' +
+    '</button>';
+
+  document.body.appendChild(bar);
+
+  // Elements
+  var msgEl = document.getElementById('fsb-msg');
+  var fillEl = document.getElementById('fsb-fill');
+  var closeBtn = document.getElementById('fsb-close-btn');
+
+  if (!msgEl || !fillEl) return;
+
+  // Close button
+  if (closeBtn) {
+    closeBtn.addEventListener('click', function() {
+      bar.classList.add('fsb-hidden');
+      try { sessionStorage.setItem('fsb_closed', '1'); } catch(e) {}
+    });
     try {
-      window.addEventListener('storage', function(e) {
-        if (e.key && (e.key.indexOf('cart') !== -1 || e.key.indexOf('zappy') !== -1)) {
-          updateBar();
-        }
-      });
+      if (sessionStorage.getItem('fsb_closed') === '1') {
+        bar.classList.add('fsb-hidden');
+      }
     } catch(e) {}
-    
-    // Observe cart count changes
-    var cartCount = document.querySelector('.cart-count');
-    if (cartCount) {
-      var observer = new MutationObserver(function() {
-        updateBar();
-      });
-      observer.observe(cartCount, { characterData: true, subtree: true, childList: true });
+  }
+
+  function getCartTotal() {
+    var total = 0;
+    var els = document.querySelectorAll('.zappy-cart-total, .cart-subtotal-value, .cart-subtotal .amount, [data-cart-total]');
+    for (var i = 0; i < els.length; i++) {
+      var v = parseFloat(els[i].textContent.replace(/[^\d.]/g, ''));
+      if (v > 0) { total = v; break; }
+    }
+    if (total === 0 && window.ZAPPY_CART && window.ZAPPY_CART.total) {
+      total = window.ZAPPY_CART.total;
+    }
+    if (total === 0) {
+      var countEl = document.querySelector('.cart-count');
+      if (countEl) {
+        var c = parseInt(countEl.textContent, 10) || 0;
+        if (c > 0) total = c * 50;
+      }
+    }
+    return total;
+  }
+
+  function updateBar() {
+    var total = getCartTotal();
+    if (total >= THRESHOLD) {
+      msgEl.innerHTML = FREE_MSG;
+      msgEl.classList.add('fsb-reached');
+      fillEl.style.width = '100%';
+    } else {
+      var remaining = THRESHOLD - total;
+      var pct = Math.min((total / THRESHOLD) * 100, 99);
+      msgEl.innerHTML = '<span class="fsb-amount">' + remaining.toFixed(0) + '₪</span> נשארו למשלוח חינם';
+      msgEl.classList.remove('fsb-reached');
+      fillEl.style.width = pct + '%';
     }
   }
-  
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', init);
-  } else {
-    init();
+
+  updateBar();
+  setInterval(updateBar, 1500);
+
+  document.addEventListener('zappy:cart-updated', updateBar);
+  document.addEventListener('cart-updated', updateBar);
+
+  try {
+    window.addEventListener('storage', function(e) {
+      if (e.key && (e.key.indexOf('cart') !== -1 || e.key.indexOf('zappy') !== -1)) updateBar();
+    });
+  } catch(e) {}
+
+  var cartCount = document.querySelector('.cart-count');
+  if (cartCount) {
+    var obs = new MutationObserver(updateBar);
+    obs.observe(cartCount, { characterData: true, subtree: true, childList: true });
   }
 })();
     } catch (e) {
@@ -14615,7 +14592,7 @@ async function loadRelatedProducts(currentProduct, t) {
     __zappyCustomInit();
   }
 })();
-/* ZAPPY_CUSTOM_JS_END:b120d69eb39b */
+/* ZAPPY_CUSTOM_JS_END:1a3915c5f4b6 */
 
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
