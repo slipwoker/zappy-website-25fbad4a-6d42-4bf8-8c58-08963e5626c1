@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 432** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 433** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### אופנוע ממונע 6V הראלי וינטג
+https://parktoys.co.il/product/avpnva-mmvna-6v-hraly-vyntg-lla5kh
+- Price: 450.00 ILS (sale, was 599.00 ILS)
+- Availability: In stock
+- Category: גלגלים
+- Description: אופנוע הראלי וינטג’ 6V הוא רייד-און חשמלי מעוצב בסגנון קלאסי יוקרתי, המשלב מראה רטרו מרשים עם בטיחות ונוחות לילדים. האופנוע כולל שלושה גלגלים רחבים ליציבות גבוהה, מושב מרופד ונוח, כידון אחיזה מותאם לילדים ומערכת הנעה שקטה ובטוחה. האופנוע מופעל באמצעות סוללת 6V חזקה ומאפשר נסיעה רציפה של כ-40–50 דקות לאחר טעינה מלאה. מתאים לשימוש בבית, בחצר או במרפסת, קל להרכבה ונוח להפעלה גם לילדים צעירים. מתנה מושלמת לימי הולדת, חגים או כהפתעה מיוחדת לילדים שאוהבים רכיבה וסטייל.
+- Image: https://parktoys.co.il/assets/product-enhanced-1786017142891-76x0g.webp
 
 ### אופנוע POLICE 6V מפואר עם אפקטים ואור - לבן
 https://parktoys.co.il/product/avpnva-police-6v-mpvar-am-apktym-vavr-lbn-iv49w1
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/pamvny-rvch-pvryng-bfvew8
 - Category: משחקי יצירה
 - Description: ערכת יצירה לעיצוב וקישוט של פעמוני רוח בטכניקת הצביעה האומנותית פורינג.
 - Image: https://parktoys.co.il/assets/product-1784656859045-x48oob.webp
-
-### קעקועים – גיבורי על
-https://parktoys.co.il/product/kakvaym-gybvry-al-md05qi
-- Price: 39.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: יוצרים קעקועים מדליקים מעיצובי גיבורי על צבעוניים.
-- Image: https://parktoys.co.il/assets/product-1784655473215-k7i4jg.webp
 
 ---
 
