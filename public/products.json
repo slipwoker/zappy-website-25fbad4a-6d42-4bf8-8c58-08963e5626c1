@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-06T11:31:54.384Z",
+  "generated_at": "2026-08-06T11:32:33.978Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 429,
@@ -223,15 +223,15 @@
     },
     {
       "id": "76bf2f35-919e-43ab-bc2c-8a28f1b08e07",
-      "slug": "mykrvpvn-am-rmkvlym-svnyk-l05ea8",
+      "slug": "mykrvpvn-am-rmkvlym-svnyk-5akgnm",
       "name": "מיקרופון עם רמקולים סוניק",
       "name_translations": {},
       "description": "",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 80,
+      "base_price": 80,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -239,9 +239,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mykrvpvn-am-rmkvlym-svnyk-l05ea8",
+      "url": "https://parktoys.co.il/product/mykrvpvn-am-rmkvlym-svnyk-5akgnm",
       "categories": [],
-      "updated_at": "2026-08-05T14:32:12.017Z"
+      "updated_at": "2026-08-06T11:31:58.742Z"
     },
     {
       "id": "40da3a32-9085-4f70-b3db-b37e17d96698",
