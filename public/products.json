@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-05T17:00:24.951Z",
+  "generated_at": "2026-08-06T09:48:11.283Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 425,
+  "count": 426,
   "products": [
+    {
+      "id": "7b7c320f-1ef9-48e5-a4b2-c9b50fc45855",
+      "slug": "avpnva-spyydrmn-3-glglym-6v-4bbudb",
+      "name": "אופנוע ספיידרמן 3 גלגלים 6V",
+      "name_translations": {},
+      "description": "",
+      "short_description": "תיאור כללי:\nאופנוע ממונע לילדים המעוצב בדמות ספיידרמן. מופעל על ידי סוללה של 6 וולט ובעל עיצוב של ספיידרמן.\n\nמאפיינים:\n\nלאופנוע שלושה גלגלים ליציבות נוספת ומיועד לפעוטות בגילאי 18 עד 36 חודשים.\nמהירות מרבית של כ-2.4 קמ\"ש (1.5 מייל לשעה).\nמגיע עם סוללה נטענת ומטען.\n\nברקוד מוצר: 7290122680409",
+      "sku": null,
+      "brand": null,
+      "price": 399,
+      "base_price": 499,
+      "sale_price": 399,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1786009605378-vlu9hs.webp",
+        "https://parktoys.co.il/assets/product-1786009621779-ynvbl2.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/avpnva-spyydrmn-3-glglym-6v-4bbudb",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-08-06T09:47:33.896Z"
+    },
     {
       "id": "5d19cf31-b50b-4646-bea5-d2d634a04812",
       "slug": "hkrypr-lego-minecraft-ftg8j6",

@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 425** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 426** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### אופנוע ספיידרמן 3 גלגלים 6V
+https://parktoys.co.il/product/avpnva-spyydrmn-3-glglym-6v-4bbudb
+- Price: 399.00 ILS (sale, was 499.00 ILS)
+- Availability: In stock
+- Category: גלגלים
+- Description: תיאור כללי: אופנוע ממונע לילדים המעוצב בדמות ספיידרמן. מופעל על ידי סוללה של 6 וולט ובעל עיצוב של ספיידרמן. מאפיינים: לאופנוע שלושה גלגלים ליציבות נוספת ומיועד לפעוטות בגילאי 18 עד 36 חודשים. מהירות מרבית של כ-2.4 קמ"ש (1.5 מייל לשעה). מגיע עם סוללה נטענת ומטען. ברקוד מוצר: 7290122680409
+- Image: https://parktoys.co.il/assets/product-1786009605378-vlu9hs.webp
 
 ### הקריפר LEGO Minecraft
 https://parktoys.co.il/product/hkrypr-lego-minecraft-ftg8j6
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/scania-mshayt-myksr-btvn-37-sm-7ew45n
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
 - Description: משאית מיקסר בטון מבית SCANIA . המשאית מפעילה אורות וצלילים.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784650984273-1qw8kd.webp
-
-### SCANIA משאית הובלת מכולות ארוכה עם אורות וצלילים
-https://parktoys.co.il/product/scania-mshayt-hvblt-mkvlvt-arvkh-am-avrvt-vtslylym-vmlu81
-- Price: 100.00 ILS
-- Availability: In stock
-- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
-- Description: משאית הובלת מכולות ארוכה עם אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, דלתות המכולה נפתחות, כולל 2 רגלי תמיכה מתכווננות
-- Image: https://parktoys.co.il/assets/product-1784649963780-lx20e.webp
 
 ---
 
