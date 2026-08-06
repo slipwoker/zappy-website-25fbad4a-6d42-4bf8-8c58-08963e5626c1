@@ -18110,6 +18110,14 @@ body .fsb-msg { font-size: 15px !important; }
 body .fsb-msg { min-width: 210px !important; }
 body .fsb-track { min-width: 100px !important; }
 
+
+html .free-shipping-bar {
+  bottom: 70px !important;
+}
+
+html .whatsapp-float {
+  bottom: 20px !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
