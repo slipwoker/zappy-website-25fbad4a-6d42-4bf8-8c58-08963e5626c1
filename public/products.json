@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-06T12:11:37.245Z",
+  "generated_at": "2026-08-06T13:13:44.799Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 435,
+  "count": 436,
   "products": [
+    {
+      "id": "3db3b64a-3dfe-4113-b7b7-f0d39de4f1e7",
+      "slug": "lgv-krb-mkvnt-hdrkvn-shl-gyy-dgm-71853-lego-9nnt19",
+      "name": "לגו קרב מכונת הדרקון של ג'יי דגם 71853 lego",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכונת הדרקון של ג'יי מגיעה כאן בדגם 71853 מעולם נינגו. אחרי ההרכבה אפשר לשחזר את הקרב, ובהמשך לשלב את הדמויות עם ערכות אחרות מהסדרה.",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786021977634-hxkq5v.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lgv-krb-mkvnt-hdrkvn-shl-gyy-dgm-71853-lego-9nnt19",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-08-06T13:13:09.694Z"
+    },
     {
       "id": "941c434f-39b4-45ed-a52c-8dd8a95c993f",
       "slug": "gyp-mmvna-12v-mrtsds-brabvs-mercedes-g63-brabus-rocket-900-o45oul",

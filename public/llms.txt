@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 435** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 436** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו קרב מכונת הדרקון של ג'יי דגם 71853 lego
+https://parktoys.co.il/product/lgv-krb-mkvnt-hdrkvn-shl-gyy-dgm-71853-lego-9nnt19
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: מכונת הדרקון של ג'יי מגיעה כאן בדגם 71853 מעולם נינגו. אחרי ההרכבה אפשר לשחזר את הקרב, ובהמשך לשלב את הדמויות עם ערכות אחרות מהסדרה.
+- Image: https://parktoys.co.il/assets/product-enhanced-1786021977634-hxkq5v.webp
 
 ### גיפ ממונע 12V מרצדס בראבוס - MERCEDES G63 BRABUS ROCKET 900
 https://parktoys.co.il/product/gyp-mmvna-12v-mrtsds-brabvs-mercedes-g63-brabus-rocket-900-o45oul
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/tyk-chd-krn-jbn932
 - Category: משחקי יצירה
 - Description: ערכת יצירה להכנת תיק צד חד קרן עם המון מדבקות יהלומים מנצנצות.
 - Image: https://parktoys.co.il/assets/product-1784657370071-lo1iii.webp
-
-### כדור שלג נוצץ – חד קרן
-https://parktoys.co.il/product/kdvr-shlg-nvtsts-chd-krn-m45qb9
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: ערכה ליצירת כדור שלג קשת בענן וחד קרן עם אבקת קסמים והרבה נצנצים.
-- Image: https://parktoys.co.il/assets/product-1784657190533-kzpc2a.webp
 
 ---
 
