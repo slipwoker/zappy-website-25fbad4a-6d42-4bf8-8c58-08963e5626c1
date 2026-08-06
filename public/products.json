@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-06T09:48:11.283Z",
+  "generated_at": "2026-08-06T10:02:31.556Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 426,
+  "count": 427,
   "products": [
+    {
+      "id": "442b54b8-9522-4a99-8505-d5ba7e130c0e",
+      "slug": "avpnva-mmvna-6v-anh-valzh-q4v5i5",
+      "name": "אופנוע ממונע 6V אנה ואלזה ",
+      "name_translations": {},
+      "description": "<p>אופנוע ממונע בטיחותי לילדים בעיצוב פרוזן</p><p>מתאים מגיל שלוש ומעלה</p><p><br></p><p><br></p><p><br></p><p><strong>תכונות האופנוע הראשון שלי 6V:</strong></p><p><br></p><p><br></p><p>סוללה נטענת 6 וולט</p><p><br></p><p><br></p><p>מידות: 55 על 38.5 על 71 ס\"מ</p><p><br></p><p><br></p><p>סוללה: 6V 5.0HS</p><p><br></p><p><br></p><p>מטען: A0.8 7V</p><p><br></p><p><br></p><p>מעמסה מקסימלית: 50 ק\"ג</p><p><br></p><p><br></p><p>האופנוע הממונע בעל 3 גלגלים גלגלים רחבים ליציבות מלאה</p><p><br></p><p><br></p><p>לאופנוע תא איכסון קטן מתחת למושב למצבר</p><p><br></p><p><br></p><p><br></p><p><br></p><p>נסיעה קדימה ואחורה</p><p><br></p><p><br></p><p>דוושת האצה (גז) ברגל בעלת בלם אלקטרוני (ע\"פ דרישות התקן החדש)</p><p><br></p><p><br></p><p>מהירות 2-3 קמ\"ש</p><p><br></p><p><br></p><p>בעל אישור תו תקן ישראלי</p><p><br></p><p><br></p><p>אחריות לשנה לא כולל שבר</p><p><br></p><p><br></p><p>נדרשת הרכבה ראשונית ע\"י אדם מבוגר</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 549,
+      "base_price": 699,
+      "sale_price": 549,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1786010223421-pc4k4p.webp",
+        "https://parktoys.co.il/assets/product-1786010244863-lebm6.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/avpnva-mmvna-6v-anh-valzh-q4v5i5",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-08-06T10:01:56.292Z"
+    },
     {
       "id": "7b7c320f-1ef9-48e5-a4b2-c9b50fc45855",
       "slug": "avpnva-spyydrmn-3-glglym-6v-4bbudb",

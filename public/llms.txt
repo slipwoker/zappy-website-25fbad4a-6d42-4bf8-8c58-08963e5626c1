@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 426** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 427** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### אופנוע ממונע 6V אנה ואלזה 
+https://parktoys.co.il/product/avpnva-mmvna-6v-anh-valzh-q4v5i5
+- Price: 549.00 ILS (sale, was 699.00 ILS)
+- Availability: In stock
+- Category: גלגלים
+- Description: אופנוע ממונע בטיחותי לילדים בעיצוב פרוזן מתאים מגיל שלוש ומעלה תכונות האופנוע הראשון שלי 6V: סוללה נטענת 6 וולט מידות: 55 על 38.5 על 71 ס"מ סוללה: 6V 5.0HS מטען: A0.8 7V מעמסה מקסימלית: 50 ק"ג האופנוע הממונע בעל 3 גלגלים גלגלים רחבים ליציבות מלאה לאופנוע תא איכסון קטן מתחת למושב למצבר נסיעה קדימה ואחורה דוושת האצה (גז) ברגל בעלת בלם אלקטרוני (ע"פ דרישות התקן החדש) מהירות 2-3 קמ"ש בעל אישור תו תקן ישראלי אחריות לשנה לא כולל שבר נדרשת הרכבה ראשונית ע"י אדם מבוגר
+- Image: https://parktoys.co.il/assets/product-1786010223421-pc4k4p.webp
 
 ### אופנוע ספיידרמן 3 גלגלים 6V
 https://parktoys.co.il/product/avpnva-spyydrmn-3-glglym-6v-4bbudb
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/scania-mshayt-aysvp-am-avrvt-vtslylym-bf5rnm
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
 - Description: משאית איסוף 26סמ פריקשן אורות וצלילים כולל מנגנון דחיפה לנסיעה קדימה, ארגז אחורי ניתן להרמה
 - Image: https://parktoys.co.il/assets/product-enhanced-1784651396493-zfuz45.webp
-
-### SCANIA משאית מיקסר בטון 37 ס"מ
-https://parktoys.co.il/product/scania-mshayt-myksr-btvn-37-sm-7ew45n
-- Price: 150.00 ILS
-- Availability: In stock
-- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
-- Description: משאית מיקסר בטון מבית SCANIA . המשאית מפעילה אורות וצלילים.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784650984273-1qw8kd.webp
 
 ---
 
