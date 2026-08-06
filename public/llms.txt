@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 436** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 437** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### דרקון היער הירוק של לויד LEGO Ninjago 71829
+https://parktoys.co.il/product/drkvn-hyar-hyrvk-shl-lvyd-lego-ninjago-71829-agxhr8
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: דרקון היער הירוק של לויד LEGO Ninjago 71829 הילדים בגיל 6 ומעלה יכולים לעוף לשמיים ולשחזר סצנות אוויריות מעונה 3 של סדרת הטלוויזיה NINJAGO® Dragons Rising עם ערכת הבנייה דרקון היער הירוק של לויד (71829). הערכה כוללת דרקון מרהיב עם זנב, צוואר, רגליים, כנפיים גדולות וידיים הניתנות להזזה, יחד עם אוכף שעליו ניתן להניח מיני דמות לרכיבה על גבו. הערכה כוללת גם 2 מיני דמיות: לויד מצויד בחרב קטאנה מוזהבת ולוחם סקאוט דרגוני עם גנב, יחד עם דגם של דרקון תינוק מוזהב,
+- Image: https://parktoys.co.il/assets/product-enhanced-1786022138579-4gzkk8.webp
 
 ### לגו קרב מכונת הדרקון של ג'יי דגם 71853 lego
 https://parktoys.co.il/product/lgv-krb-mkvnt-hdrkvn-shl-gyy-dgm-71853-lego-9nnt19
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/pyytym-byt-84p0gb
 - Category: משחקי יצירה
 - Description: ערכת פייטים להכנת תמונת בית
 - Image: https://parktoys.co.il/assets/product-1784657457233-n5zh64.webp
-
-### תיק חד קרן
-https://parktoys.co.il/product/tyk-chd-krn-jbn932
-- Price: 49.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: ערכת יצירה להכנת תיק צד חד קרן עם המון מדבקות יהלומים מנצנצות.
-- Image: https://parktoys.co.il/assets/product-1784657370071-lo1iii.webp
 
 ---
 
