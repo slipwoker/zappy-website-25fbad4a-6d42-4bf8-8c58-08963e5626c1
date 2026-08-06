@@ -76,7 +76,23 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 430** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 432** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### אופנוע POLICE 6V מפואר עם אפקטים ואור - לבן
+https://parktoys.co.il/product/avpnva-police-6v-mpvar-am-apktym-vavr-lbn-iv49w1
+- Price: 450.00 ILS (sale, was 599.00 ILS)
+- Availability: In stock
+- Category: גלגלים
+- Description: אופנוע ממונע לילדים POLICE 6V עם 2 מנועים אפשרות נסיעה קדימה ואחורה, אפקטים ואורות האופנוע הממונע מתאים לגילאי 2-5 משקל נשיאה מקסימאלי 30 ק"ג מהירות: עד 4 קמ"ש האצה ובלימה באותה הדוושה אפשרות נסיעה קדימה (דוושה) או אחורה (לחצן) יציב ביותר – 3 גלגלים כולל מוזיקה ואורות לוח שעונים ידיות הכידון עשויות גומי למניעת החלקה בטיחותי ביותר אין גישה למנועים ולגירים
+- Image: https://parktoys.co.il/assets/product-1786016459087-mz506u.webp
+
+### ערכת אצטדיון FC Barcelona Spotify Camp Nou 
+https://parktoys.co.il/product/arkt-atstdyvn-fc-barcelona-spotify-camp-nou-6z2g0j
+- Price: 250.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: הכירו את CaDA BloX FC Barcelona Spotify Camp Nou, דגם הרכבה שמביא את האווירה הייחודית של ברצלונה, הכדורגל והגאווה הכחולה-אדומה ישירות אל הבית. הדגם הרשמי של CaDA, מספר C66023W, מציג גרסה מוקטנת ומרשימה של אצטדיון Spotify Camp Nou, ומהווה פריט מושלם לאוהדי FC Barcelona, חובבי כדורגל ואספני דגמי בנייה שמחפשים לשלב בין תחביב לאהבה לקבוצה. עם 728 חלקים ורמת קושי בינונית, הערכה מציעה חוויית הרכבה מהנה, מספקת ומלאת עניין, המתאימה גם לבונים מנוסים וגם למי שמחפש פרויקט יצירתי עם אופי ספורטיבי.
+- Image: https://parktoys.co.il/assets/product-enhanced-1786016538741-vs82pb.webp
 
 ### אופנוע POLICE 6V מפואר עם אפקטים ואור - כחול
 https://parktoys.co.il/product/avpnva-police-6v-mpvar-am-apktym-vavr-kchvl-zaqbez
@@ -1652,22 +1668,6 @@ https://parktoys.co.il/product/kakvaym-gybvry-al-md05qi
 - Category: משחקי יצירה
 - Description: יוצרים קעקועים מדליקים מעיצובי גיבורי על צבעוניים.
 - Image: https://parktoys.co.il/assets/product-1784655473215-k7i4jg.webp
-
-### קעקועים – ברבי
-https://parktoys.co.il/product/kakvaym-brby-8tv1mt
-- Price: 39.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: יוצרים קעקועים מדליקים מעיצובי ברבי צבעוני
-- Image: https://parktoys.co.il/assets/product-1784655429617-n09c3e.webp
-
-### קעקועים – חד קרן
-https://parktoys.co.il/product/kakvaym-chd-krn-widjws
-- Price: 39.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: קעקועים – חד קרן יוצרים קעקועים מדליקים מעיצובי חד קרן צבעוניים
-- Image: https://parktoys.co.il/assets/product-1784655353192-jvttg.webp
 
 ---
 

@@ -1,10 +1,58 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-06T11:41:19.606Z",
+  "generated_at": "2026-08-06T11:43:34.641Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 430,
+  "count": 432,
   "products": [
+    {
+      "id": "a7b3390b-8fbd-4987-ab57-40f5634dd6bc",
+      "slug": "avpnva-police-6v-mpvar-am-apktym-vavr-lbn-iv49w1",
+      "name": "אופנוע POLICE 6V מפואר עם אפקטים ואור - לבן",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אופנוע ממונע לילדים POLICE 6V עם 2 מנועים אפשרות נסיעה קדימה ואחורה, אפקטים ואורות האופנוע הממונע מתאים לגילאי 2-5 \nמשקל נשיאה מקסימאלי 30 ק\"ג מהירות: עד 4 קמ\"ש האצה ובלימה באותה הדוושה אפשרות נסיעה קדימה (דוושה) או אחורה (לחצן) יציב ביותר – 3 גלגלים כולל מוזיקה ואורות \n\n \n\nלוח שעונים  ידיות הכידון עשויות גומי למניעת החלקה בטיחותי ביותר אין גישה למנועים ולגירים",
+      "sku": null,
+      "brand": null,
+      "price": 450,
+      "base_price": 599,
+      "sale_price": 450,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1786016459087-mz506u.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/avpnva-police-6v-mpvar-am-apktym-vavr-lbn-iv49w1",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-08-06T11:43:32.160Z"
+    },
+    {
+      "id": "3bce24da-d937-4604-9096-e7cbab03b14a",
+      "slug": "arkt-atstdyvn-fc-barcelona-spotify-camp-nou-6z2g0j",
+      "name": "ערכת אצטדיון FC Barcelona Spotify Camp Nou ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הכירו את CaDA BloX FC Barcelona Spotify Camp Nou, דגם הרכבה שמביא את האווירה הייחודית של ברצלונה, הכדורגל והגאווה הכחולה-אדומה ישירות אל הבית. הדגם הרשמי של CaDA, מספר C66023W, מציג גרסה מוקטנת ומרשימה של אצטדיון Spotify Camp Nou, ומהווה פריט מושלם לאוהדי FC Barcelona, חובבי כדורגל ואספני דגמי בנייה שמחפשים לשלב בין תחביב לאהבה לקבוצה. עם 728 חלקים ורמת קושי בינונית, הערכה מציעה חוויית הרכבה מהנה, מספקת ומלאת עניין, המתאימה גם לבונים מנוסים וגם למי שמחפש פרויקט יצירתי עם אופי ספורטיבי. ",
+      "sku": null,
+      "brand": null,
+      "price": 250,
+      "base_price": 250,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786016538741-vs82pb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/arkt-atstdyvn-fc-barcelona-spotify-camp-nou-6z2g0j",
+      "categories": [
+        "לגו-lego"
+      ],
+      "updated_at": "2026-08-06T11:43:00.269Z"
+    },
     {
       "id": "efddf404-2c59-455b-b703-b1ee84e162e3",
       "slug": "avpnva-police-6v-mpvar-am-apktym-vavr-kchvl-zaqbez",
