@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 434** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 435** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### גיפ ממונע 12V מרצדס בראבוס - MERCEDES G63 BRABUS ROCKET 900
+https://parktoys.co.il/product/gyp-mmvna-12v-mrtsds-brabvs-mercedes-g63-brabus-rocket-900-o45oul
+- Price: 1400.00 ILS (sale, was 1600.00 ILS)
+- Availability: In stock
+- Category: גלגלים
+- Description: גיפ מרצדס בראבוס G63 Rocket 900 ממונע לילדים 12V. רכב שטח יוקרתי ועוצמתי עם עיצוב אותנטי, מושב עור מרופד, גלגלי EVA רכים, בולמי זעזועים ושלט רחוק מלא להורים. כולל תאורת LED, נגן מוזיקה מובנה ומנוע ייחודי דמוי ברשלס. מתאים לגילאי 1-6 שנים. מידה: 121x72x62 דףממונעים לילדים ממונעים 12וולט גיפ ממונע 12V מרצדס בראבוס - MERCEDES G63 BRABUS ROCKET
+- Image: https://parktoys.co.il/assets/product-enhanced-1786018124990-rw16ca.webp
 
 ### ג'יפ ממונע תואם BMW X6 קופה צבעי פיינטינג מיוחדים
 https://parktoys.co.il/product/gyp-mmvna-tvam-bmw-x6-kvph-tsbay-pyyntyng-myvchdym-sa3znl
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/kdvr-shlg-nvtsts-chd-krn-m45qb9
 - Category: משחקי יצירה
 - Description: ערכה ליצירת כדור שלג קשת בענן וחד קרן עם אבקת קסמים והרבה נצנצים.
 - Image: https://parktoys.co.il/assets/product-1784657190533-kzpc2a.webp
-
-### הפסיפס שלי – פרפר
-https://parktoys.co.il/product/hpsyps-shly-prpr-vq8pfk
-- Price: 49.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: ערכת קישוט וצביעה של תמונת פסיפס – פרפר.
-- Image: https://parktoys.co.il/assets/product-1784657108098-bxaxj.webp
 
 ---
 

@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-06T12:02:05.642Z",
+  "generated_at": "2026-08-06T12:10:45.377Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 434,
+  "count": 435,
   "products": [
+    {
+      "id": "941c434f-39b4-45ed-a52c-8dd8a95c993f",
+      "slug": "gyp-mmvna-12v-mrtsds-brabvs-mercedes-g63-brabus-rocket-900-o45oul",
+      "name": "גיפ ממונע 12V מרצדס בראבוס - MERCEDES G63 BRABUS ROCKET 900",
+      "name_translations": {},
+      "description": "",
+      "short_description": "גיפ מרצדס בראבוס G63 Rocket 900 ממונע לילדים 12V. רכב שטח יוקרתי ועוצמתי עם עיצוב אותנטי, מושב עור מרופד, גלגלי EVA רכים, בולמי זעזועים ושלט רחוק מלא להורים. כולל תאורת LED, נגן מוזיקה מובנה ומנוע ייחודי דמוי ברשלס. מתאים לגילאי 1-6 שנים.\nמידה:  121x72x62\nדףממונעים לילדים  ממונעים 12וולט\nגיפ ממונע 12V מרצדס בראבוס - MERCEDES G63 BRABUS ROCKET ",
+      "sku": null,
+      "brand": null,
+      "price": 1400,
+      "base_price": 1600,
+      "sale_price": 1400,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786018124990-rw16ca.webp",
+        "https://parktoys.co.il/assets/product-enhanced-1786018187798-s7gk1a.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/gyp-mmvna-12v-mrtsds-brabvs-mercedes-g63-brabus-rocket-900-o45oul",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-08-06T12:10:07.871Z"
+    },
     {
       "id": "e52ce61b-339f-42b2-a3dc-545ca0d2cddd",
       "slug": "gyp-mmvna-tvam-bmw-x6-kvph-tsbay-pyyntyng-myvchdym-sa3znl",
