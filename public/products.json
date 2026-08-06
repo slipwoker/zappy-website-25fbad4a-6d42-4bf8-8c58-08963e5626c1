@@ -1,21 +1,21 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-06T13:34:55.459Z",
+  "generated_at": "2026-08-06T14:10:05.254Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 440,
   "products": [
     {
       "id": "14024a68-efdd-4480-a375-e82ab22965d2",
-      "slug": "lgv-spyydy-kly-rkb-tt-ymyym-11207-lego-8oxb3c",
+      "slug": "lgv-spyydy-kly-rkb-tt-ymyym-11207-lego-eizk6a",
       "name": "לגו ספיידי כלי רכב תת ימיים 11207| Lego",
       "name_translations": {},
       "description": "",
       "short_description": "מיני־דמויות של ספיידי, גוסט־ספיידר ודוק אוק בצוללות\n\nצללו להרפתקאות משחק דמיון מלאות אקשן עם ספיידי: כלי רכב תת־ימיים (11207) – ערכת בנייה לבנים, לבנות ולמעריצי לגו מארוול מגיל 4 ומעלה. עם מיני־דמויות של ספיידי, גוסט־ספיידר ודוק אוק ו־3 צוללות, ערכת הבנייה והמשחק הזו היא דרך נהדרת לפתח יצירתיות ודמיון.\n\nצעצוע הבנייה כולל 3 כלי רכב תת־ימיים: צוללת הסרטנים של ספיידי עם מלכודת קורי עכביש גדולה; צוללת הצב של גוסט־ספיידר עם שריון שקוף נפתח; וצוללת הלווייתן של דוק אוק עם משגרים על הסנפירים ותא אחסון.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 159,
+      "base_price": 159,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -23,23 +23,23 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/lgv-spyydy-kly-rkb-tt-ymyym-11207-lego-8oxb3c",
+      "url": "https://parktoys.co.il/product/lgv-spyydy-kly-rkb-tt-ymyym-11207-lego-eizk6a",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-08-06T13:34:21.082Z"
+      "updated_at": "2026-08-06T14:08:49.218Z"
     },
     {
       "id": "4e6bbeab-f1ed-40c1-8168-a60898bb013e",
-      "slug": "lgv-myynkrapt-hshval-21588-lego-477mme",
+      "slug": "lgv-myynkrapt-hshval-21588-lego-qdfhrs",
       "name": "לגו מיינקראפט השועל 21588| Lego",
       "name_translations": {},
       "description": "",
       "short_description": "צעצוע לגו מיינקראפט – השועל הניתן לתנוחה למשחק ותצוגה\n\nהחיו את מיינקראפט עם שחזור אותנטי של השועל (21588), סט לגו לבנייה לבנים ובנות מגיל 10 ומעלה. הילדים יכולים להציג את התשוקה שלהם למיינקראפט עם דמות חיה Ikonikית זו מהמשחק הנמכר ביותר.\n\nהסט מאפשר לשחזר את השועל מהמשחק בקנה מידה מרשים וריאליסטי, מה שהופך אותו למתנה מושלמת לשחקני מיינקראפט ומעריצי עיצובי משחקי וידאו. עם רגליים נעות, צוואר סיבובי, ראש שניתן להזיז, וחלק עיניים הפיך המציג את השועל עם עיניים פקוחות וסגורות, ",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 199,
+      "base_price": 199,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -47,11 +47,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/lgv-myynkrapt-hshval-21588-lego-477mme",
+      "url": "https://parktoys.co.il/product/lgv-myynkrapt-hshval-21588-lego-qdfhrs",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-08-06T13:29:48.880Z"
+      "updated_at": "2026-08-06T14:09:48.974Z"
     },
     {
       "id": "ca935a13-e3c1-4344-a436-4a62edd29f21",
