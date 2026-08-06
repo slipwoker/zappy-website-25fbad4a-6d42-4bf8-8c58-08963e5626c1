@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-06T11:02:03.744Z",
+  "generated_at": "2026-08-06T11:03:11.099Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 427,
+  "count": 428,
   "products": [
+    {
+      "id": "175cbb3e-ab64-4da5-9864-79986ad5c068",
+      "slug": "bymbh-kvkb-tslh-chshmlyt-12v-lyldym-am-avrvt-vtslylym-shmnt-46twjm",
+      "name": "בימבה כוכב טסלה חשמלית 12V לילדים עם אורות וצלילים - שמנת",
+      "name_translations": {},
+      "description": "<p>העניקו לילדיכם חוויית נהיגה ראשונה יוצאת דופן עם בימבה כוכב טסלה החשמלית.</p><p>הבימבה מעוצבת בסגנון חדשני ומודרני מרהיב ומשלבת איכות גבוהה עם דגש על בטיחות ונוחות.</p><p>היא מצוידת במושב רחב ונוח המאפשר ישיבה בטוחה לאורך כל זמן הנסיעה.</p><p>הבימבה נוסעת קדימה באמצעות דוושת גז לנסיעה, המעניקה לילדים תחושת שליטה ועצמאות.</p><p>דגם זה כולל הגה אינטראקטיבי המשלב מנגינות ואורות להנאה מוגברת בזמן הרכיבה.</p><p>הבימבה מיועדת לילדים החל מגיל שנתיים ומעלה ומציעה פתרון מושלם למשחק פעיל המפתח את המיומנויות המוטוריות. המוצר קל להרכבה ונוח מאוד לשימוש יומיומי.</p><p><strong>מפרט ומידע נוסף:</strong></p><ul><li>סוללה: 12V עוצמתית.</li><li>זמן טעינה: בין 7 ל-9 שעות.</li><li>זמן נסיעה: כ-40 עד 50 דקות של הנאה רציפה.</li><li>גילאים: מתאים לילדים מגיל שנתיים ומעלה.</li><li>עיצוב: קווים נקיים וסגנון מודרני מתקדם.</li><li>אביזרים: הגה עם מנגינות ואורות מובנים.</li><li>תפעול: כולל דוושת גז לנסיעה קדימה.</li><li>תחזוקה: הרכבה פשוטה ונוחה.</li></ul><p><br></p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 369,
+      "base_price": 399,
+      "sale_price": 369,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1786013972552-frlvak.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/bymbh-kvkb-tslh-chshmlyt-12v-lyldym-am-avrvt-vtslylym-shmnt-46twjm",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-08-06T11:02:33.877Z"
+    },
     {
       "id": "442b54b8-9522-4a99-8505-d5ba7e130c0e",
       "slug": "avpnva-mmvna-6v-anh-valzh-q0dke9",
