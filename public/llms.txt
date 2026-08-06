@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 439** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 440** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לגו ספיידי כלי רכב תת ימיים 11207| Lego
+https://parktoys.co.il/product/lgv-spyydy-kly-rkb-tt-ymyym-11207-lego-8oxb3c
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: מיני־דמויות של ספיידי, גוסט־ספיידר ודוק אוק בצוללות צללו להרפתקאות משחק דמיון מלאות אקשן עם ספיידי: כלי רכב תת־ימיים (11207) – ערכת בנייה לבנים, לבנות ולמעריצי לגו מארוול מגיל 4 ומעלה. עם מיני־דמויות של ספיידי, גוסט־ספיידר ודוק אוק ו־3 צוללות, ערכת הבנייה והמשחק הזו היא דרך נהדרת לפתח יצירתיות ודמיון. צעצוע הבנייה כולל 3 כלי רכב תת־ימיים: צוללת הסרטנים של ספיידי עם מלכודת קורי עכביש גדולה; צוללת הצב של גוסט־ספיידר עם שריון שקוף נפתח; וצוללת הלווייתן של דוק אוק עם משגרים על הסנפירים ותא אחסון.
+- Image: https://parktoys.co.il/assets/product-enhanced-1786023247128-c63edh.webp
 
 ### לגו מיינקראפט השועל 21588| Lego
 https://parktoys.co.il/product/lgv-myynkrapt-hshval-21588-lego-477mme
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/arkt-mda-tyhvr-mym-9grxoc
 - Category: משחקי יצירה
 - Description: הם מכסים את כדור הארץ ורוב גופנו עשוי מהם…המים הם תמצית החיים אז בואו ונהפוך אותם לנקיים וטהורים!
 - Image: https://parktoys.co.il/assets/product-1784662127760-1oweza.webp
-
-### ערכת מדע – צוללת
-https://parktoys.co.il/product/arkt-mda-tsvllt-479ywr
-- Price: 49.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: מה מאפשר לספינות לצוף וכיצד הצוללות פועלות? למדו את הסודות הכמוסים של כוח הציפה.
-- Image: https://parktoys.co.il/assets/product-1784662069245-zaldf7.webp
 
 ---
 
