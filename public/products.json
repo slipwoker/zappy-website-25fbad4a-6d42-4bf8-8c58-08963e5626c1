@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-07T09:14:11.397Z",
+  "generated_at": "2026-08-07T09:33:11.094Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 443,
@@ -57,15 +57,15 @@
     },
     {
       "id": "38d1eafb-3e1e-423f-9caa-3998912c7654",
-      "slug": "mabdt-ayyrvn-mn-hykl-hshryvn-76315-lego-marvel-j7uuxo",
+      "slug": "mabdt-ayyrvn-mn-hykl-hshryvn-76315-lego-marvel-jrs70p",
       "name": "מעבדת איירון מן: היכל השריון 76315 LEGO Marvel",
       "name_translations": {},
       "description": "",
       "short_description": "מעבדת איירון מן: היכל השריון 76315 LEGO Marvel\nערכת LEGO Marvel מזמינה ילדים ומעריצי מארוול אל תוך המעבדה האייקונית של טוני סטארק. הערכה כוללת 3 תאי שריון מודולריים ו-3 דמויות של איירון מן (MK43, MK6 ו-Iron Patriot), לצד דמויות של פפר פוטס, הנבל אלדריץ' קיליאן ורובוט Dum-E.\nבנוסף תמצאו רובוט מכני גדול – Igor Iron Man MK3 – עם גפיים נעות ותא טייס עם מקום לדמות. ערכת המשחק כוללת גם עמדה לעבודות תחזוקה עם זרועות רובוטיות, סורק גדול, מטף כיבוי אש, להבות ומשגרי קליעים, הכל כדי לדמות קרבות אקשן מהסרטי",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 279,
+      "base_price": 279,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -73,11 +73,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mabdt-ayyrvn-mn-hykl-hshryvn-76315-lego-marvel-j7uuxo",
+      "url": "https://parktoys.co.il/product/mabdt-ayyrvn-mn-hykl-hshryvn-76315-lego-marvel-jrs70p",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-08-06T15:12:12.058Z"
+      "updated_at": "2026-08-07T09:32:36.619Z"
     },
     {
       "id": "14024a68-efdd-4480-a375-e82ab22965d2",
