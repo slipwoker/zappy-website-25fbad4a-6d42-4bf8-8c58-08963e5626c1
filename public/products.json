@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-07T09:47:51.201Z",
+  "generated_at": "2026-08-07T09:51:31.526Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 443,
@@ -493,15 +493,15 @@
     },
     {
       "id": "d4f70df4-6dc6-4694-b289-9c386d68104d",
-      "slug": "shpn-chmvd-31162-lego-creator-3-in-1-8jfmzi",
+      "slug": "shpn-chmvd-31162-lego-creator-3-in-1-uka7g8",
       "name": "שפן חמוד 31162 LEGO Creator 3 in 1 ",
       "name_translations": {},
       "description": "",
       "short_description": "העניקו לילדכם מגיל 8 ומעלה להנות מהרפתקאות כיפיות עם ערכת ארנב חמוד LEGO® Creator 3in1 (31162). ערכת המשחק כוללת צעצוע של ארנב עם ראש, אוזניים, רגליים קדמיות ואחוריות שניתן להזיז, ויכול לעמוד על 2 או 4 רגליים. הערכה כוללת גם חמניה וגזר. בנות ובנים יכולים לבנות 3 דגמים שונים של חיות עם אותה חבילת אבני בנייה: דגם ארנב חמוד עם חמניה וגזר, צעצוע של למה עם דשא ירוק וחצי גזר, ודגם של כלב ים עם פיסת קרח ודג. כל שלושת הסצנות האלה יהפכו למתנה נהדרת לילדים למשחק חוויתי ומהנה.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 119,
+      "base_price": 119,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -509,11 +509,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/shpn-chmvd-31162-lego-creator-3-in-1-8jfmzi",
+      "url": "https://parktoys.co.il/product/shpn-chmvd-31162-lego-creator-3-in-1-uka7g8",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-08-06T11:36:14.556Z"
+      "updated_at": "2026-08-07T09:50:54.110Z"
     },
     {
       "id": "14b814ed-bb8d-41f7-96bf-685226d7be98",
