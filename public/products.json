@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-07T09:43:16.094Z",
+  "generated_at": "2026-08-07T09:44:31.269Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 443,
@@ -447,15 +447,15 @@
     },
     {
       "id": "5d19cf31-b50b-4646-bea5-d2d634a04812",
-      "slug": "hkrypr-21276-lego-minecraft-uobhwx",
+      "slug": "hkrypr-21276-lego-minecraft-r8pyy2",
       "name": "הקריפר  21276 LEGO Minecraft",
       "name_translations": {},
       "description": "",
       "short_description": "ערכת בניה הקריפר של LEGO מביאה את הדמות האייקונית מהעולם של מיינקראפט אל מחוץ למסך בצורת בובת פעולה בגובה מרשים של 21 ס\"מ. מיועדת לחובבי מיינקראפט בני 10 ומעלה.\nלקריפר 4 רגליים ניתנות להזזה וראש שמסתובב מצד לצד ונוטה מעלה-מטה. החלק הקדמי של הראש ניתן להסרה, וחושף בפנים גרסה קלאסית של קריפר לצד קוביית TNT שמוסיפה נגיעה של מתח ואקשן.\nהילדים יכולים להרחיב את החוויה הדיגיטלית באמצעות אפליקציית LEGO Builder, המאפשרת סיבוב, הגדלה ומעקב אחר ההרכבה בתלת-ממד. שילוב נהדר בין בנייה, תנועה ודמיון, גם למשחק ",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 179,
+      "base_price": 179,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -463,9 +463,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/hkrypr-21276-lego-minecraft-uobhwx",
+      "url": "https://parktoys.co.il/product/hkrypr-21276-lego-minecraft-r8pyy2",
       "categories": [],
-      "updated_at": "2026-08-06T11:31:07.806Z"
+      "updated_at": "2026-08-07T09:43:57.089Z"
     },
     {
       "id": "a7cfaad8-39f9-48f1-8a97-3b56ea693ba4",
