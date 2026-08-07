@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-07T09:45:41.504Z",
+  "generated_at": "2026-08-07T09:47:51.201Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 443,
@@ -469,15 +469,15 @@
     },
     {
       "id": "a7cfaad8-39f9-48f1-8a97-3b56ea693ba4",
-      "slug": "chvvt-trngvlvt-21585-lego-minecraft-ba8wzp",
+      "slug": "chvvt-trngvlvt-21585-lego-minecraft-i2gg37",
       "name": "חוות תרנגולות 21585 LEGO Minecraft",
       "name_translations": {},
       "description": "",
       "short_description": "הצטרפו לחוויה חקלאית, טפלו בתרנגולות וגדלו יבולים עם חוות התרנגולות של LEGO Minecraft (דגם 21585), צעצוע מושלם לילדים וילדות מגיל 7 ומעלה המאתגר אתכם לטפל בתרנגולת ובאפרוח יחד עם מיני דמות של \"חובב תרנגולות\", וכל זאת תוך התמודדות עם שועל רעב וזומבי תינוק שאוהב לרכוב על תרנגולות; בנו לול המעוצב כתרנגולת ענקית עם כנפיים זזות ומכלאה קדמית עם שער נפתח, הפעילו את המנגנון המטיל ביצים מאחור ומשחרר זרעים מהפה לתוך מיכל האכלה מתכוונן, ותיהנו ממשחק עשיר באביזרים כמו לפידים, חציר, תנור מעשנת, ביצים, זרעים ",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 119,
+      "base_price": 119,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -485,11 +485,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chvvt-trngvlvt-21585-lego-minecraft-ba8wzp",
+      "url": "https://parktoys.co.il/product/chvvt-trngvlvt-21585-lego-minecraft-i2gg37",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-08-06T11:34:40.878Z"
+      "updated_at": "2026-08-07T09:47:15.295Z"
     },
     {
       "id": "d4f70df4-6dc6-4694-b289-9c386d68104d",
