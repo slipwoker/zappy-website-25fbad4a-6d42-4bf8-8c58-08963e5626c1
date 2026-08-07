@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-07T09:33:11.094Z",
+  "generated_at": "2026-08-07T09:42:10.831Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 443,
@@ -153,15 +153,15 @@
     },
     {
       "id": "477b3025-7994-4074-adc7-69345c890b2d",
-      "slug": "drkvn-hyar-hyrvk-shl-lvyd-lego-ninjago-71829-agxhr8",
+      "slug": "drkvn-hyar-hyrvk-shl-lvyd-lego-ninjago-71829-2aborg",
       "name": "דרקון היער הירוק של לויד LEGO Ninjago 71829",
       "name_translations": {},
       "description": "",
       "short_description": "דרקון היער הירוק של לויד LEGO Ninjago 71829\nהילדים בגיל 6 ומעלה יכולים לעוף לשמיים ולשחזר סצנות אוויריות מעונה 3 של סדרת הטלוויזיה NINJAGO® Dragons Rising עם ערכת הבנייה דרקון היער הירוק של לויד (71829). הערכה כוללת דרקון מרהיב עם זנב, צוואר, רגליים, כנפיים גדולות וידיים הניתנות להזזה, יחד עם אוכף שעליו ניתן להניח מיני דמות לרכיבה על גבו. הערכה כוללת גם 2 מיני דמיות: לויד מצויד בחרב קטאנה מוזהבת ולוחם סקאוט דרגוני עם גנב, יחד עם דגם של דרקון תינוק מוזהב, ",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 119,
+      "base_price": 119,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -169,11 +169,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/drkvn-hyar-hyrvk-shl-lvyd-lego-ninjago-71829-agxhr8",
+      "url": "https://parktoys.co.il/product/drkvn-hyar-hyrvk-shl-lvyd-lego-ninjago-71829-2aborg",
       "categories": [
         "לגו-lego"
       ],
-      "updated_at": "2026-08-06T13:15:52.254Z"
+      "updated_at": "2026-08-07T09:41:34.114Z"
     },
     {
       "id": "3db3b64a-3dfe-4113-b7b7-f0d39de4f1e7",
