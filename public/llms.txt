@@ -79,8 +79,8 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 443** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### לגו DC Batman™‎ - הבאטמוביל של באטמן (76332)
-https://parktoys.co.il/product/lgv-dc-batman-hbatmvbyl-shl-batmn-76332-ngnyvd
-- Price: 0.00 ILS
+https://parktoys.co.il/product/lgv-dc-batman-hbatmvbyl-shl-batmn-76332-78s4z3
+- Price: 139.00 ILS
 - Availability: In stock
 - Category: לגו-lego
 - Description: צרו מכונית באטמוביל משלכם מהסרט באטמן! הושיבו את באטמן מאחורי ההגה ואז התרחקו משם לקראת הרפתקת גיבור-העל הבאה שלכם. בסיום משימתכם, החנו את הדגם המדהים, והציגו את יצירת המופת שלכם ללוחמה בפשע בתצוגת ראווה
