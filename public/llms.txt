@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 453** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 454** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת כדורגל מכבי תל אביב דוידה 
+https://parktoys.co.il/product/chlypt-kdvrgl-mkby-tl-abyb-dvydh-67fhiv
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: חליפת כדורגל מכבי תל אביב דוידה חליפת כדורגל איכותית לילדים ונוער. הסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים. (חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו) מידות: 4,6,8,10,12,14,18
+- Image: https://parktoys.co.il/assets/product-enhanced-1786446763595-94mjef.webp
 
 ### חליפת כדורגל הפועל ת"א טוריאל
 https://parktoys.co.il/product/chlypt-kdvrgl-hpval-ta-tvryal-8ybri3
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/htablt-hrashvn-shly-goaiv8
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: גם "ללמוד" יכול להיות כיף מאד. ילדים, הדליקו את הטאבלט ואמרו שלום לפרופסור דוב חכם, שיודע ה-מון דברים מעניינים. יחד איתו תשחקו, תשירו ותלמדו בדרך חוויתית ומשעשעת נושאים רבים ומגוונים כגון - חשבון, צורות, כלי נגינה, אותיות, מוזיקה, קריאת שעון ובעלי חיים. יהיה כיף!
 - Image: https://parktoys.co.il/assets/product-enhanced-1784706406970-h3k9w.webp
-
-###   מולטימדיה צעצועי התפתחות טאבלט 40 מילים ראשונות
-https://parktoys.co.il/product/mvltymdyh-tsatsvay-htptchvt-tablt-40-mylym-rashvnvt-h9evnp
-- Price: 90.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: הילדים במסכים, וההורים? ממש תומכים! היש דרך מדליקה ועכשווית מזו לתרגל את כישורי המוטוריקה העדינה, ההקשבה וההתבוננות, וללמוד נושאים כמו אותיות, מספרים, צורות וצבעים? הטאבלט הראשון מסוגו בעברית כולל גם 120 משפטים בעברית וחמישה שירי ילדים מקוריים, ומבטיח שעות ארוכות של גילוי, הנאה ולמידה עצמאית וחוויתית. גיל 18 חודשים+
-- Image: https://parktoys.co.il/assets/product-1784706258733-v2ieth.webp
 
 ---
 
