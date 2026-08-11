@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 445** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 446** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת כדורגל מונדיאל 2026 ברזיל ניימאר
+https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-brzyl-nyymar-c52nq4
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: חליפת כדורגל מונדיאל 2026 ברזיל ניימאר חליפת כדורגל איכותית לילדים ונוער. הסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים. (חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו) מידות: 4,6,8,10,12,14,16,18
+- Image: https://parktoys.co.il/assets/product-enhanced-1786435439557-wx202f.webp
 
 ### חליפת כדורגל מונדיאל 2026 ארגנטינה מסי
 https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-argntynh-msy-bp9n8l
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/tkshyty-avtyvt-chrvzym-xl-0evj74
 - Category: משחקי יצירה
 - Description: ערכה להכנת צמידים ושרשראות בעיצוב אישי
 - Image: https://parktoys.co.il/assets/product-1784662950632-cqqzlk.webp
-
-### ציפורניים בסטייל
-https://parktoys.co.il/product/tsypvrnyym-bstyyl-qi1zte
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: ערכת סטודיו לעיצוב, לקישוט ולטיפוח הציפורניים
-- Image: https://parktoys.co.il/assets/product-1784662694756-popaek.webp
 
 ---
 
