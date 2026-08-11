@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 456** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### גביע מונדיאל גדול
-https://parktoys.co.il/product/gbya-mvndyal-gdvl-2yv827
+https://parktoys.co.il/product/gbya-mvndyal-gdvl-fnksdu
 - Price: 229.99 ILS
 - Availability: In stock
 - Category: מוצרי ספורט

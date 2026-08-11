@@ -6723,7 +6723,7 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 ## Product Catalog
 
 ### גביע מונדיאל גדול
-URL: https://parktoys.co.il/product/gbya-mvndyal-gdvl-2yv827
+URL: https://parktoys.co.il/product/gbya-mvndyal-gdvl-fnksdu
 Price: 229.99 ILS
 Availability: In stock
 
