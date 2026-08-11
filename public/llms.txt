@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 450** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 451** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת כדורגל אצילי ביתר ירושלים
+https://parktoys.co.il/product/chlypt-kdvrgl-atsyly-bytr-yrvshlym-c3n8qb
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: חליפת כדורגל אצילי ביתר ירושלים חליפת כדורגל איכותית לילדים ונוער. הסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים. (חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו) מידות: 4,6,8,10
+- Image: https://parktoys.co.il/assets/product-enhanced-1786445128253-m652hn.webp
 
 ### חליפת כדורגל לילדים אייאקס #10 אוסקר גלוך
 https://parktoys.co.il/product/chlypt-kdvrgl-lyldym-ayyaks-10-avskr-glvk-2q78l7
@@ -1661,14 +1669,6 @@ https://parktoys.co.il/product/spr-hmylym-hrashvn-shly-1ooscg
 - Availability: In stock
 - Description: קל ללחוץ ולדפדף וללמוד מילים בכיף. ספר אינטראקטיבי ייחודי ומרתק הטומן בחובו מגוון עצום של תוכן לימודי המוגש בדרך אטרקטיבית שפונה לכל החושים. בכל עמוד מתגלים נושאים חדשים - צורות, צבעים, בעלי חיים, חלקי גוף ועוד, לצד מילים, מנגינות והפתעות. 3 מצבי פעולה גילאי 12 חודשים+
 - Image: https://parktoys.co.il/assets/product-1784705714180-9ayjm5.webp
-
-### לילה טוב לולי – דוברת עברית
-https://parktoys.co.il/product/lylh-tvb-lvly-dvbrt-abryt-6npki3
-- Price: 89.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: אפרוח חמוד וצהוב מאחל לכולם לילה טוב כשלולי האפרוח האהוב מחכה בחדר - כל ילד ישמח לקפוץ למיטה וללכת לישון. עם שיר לילה , מנגינות נעימות ותצוגת אורות רכים, לולי יהפוך את הרגעים שלפני השינה לחוויה קסומה ומרגיעה.
-- Image: https://parktoys.co.il/assets/product-1784705537277-ndwjq.webp
 
 ---
 
