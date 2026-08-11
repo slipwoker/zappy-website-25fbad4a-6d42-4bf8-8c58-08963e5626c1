@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 454** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 455** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת כדורסל פורטלנד דני אבדיה 
+https://parktoys.co.il/product/chlypt-kdvrsl-pvrtlnd-dny-abdyh-8s09k6
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: חליפת כדורסל איכותית לילדים ונוער. הסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים. (חליפת כדורסל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו) מידות: 4,6,8,10,12,14,18
+- Image: https://parktoys.co.il/assets/product-enhanced-1786446973939-bd4p8.webp
 
 ### חליפת כדורגל מכבי תל אביב דוידה 
 https://parktoys.co.il/product/chlypt-kdvrgl-mkby-tl-abyb-dvydh-67fhiv
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/hmkrr-hrashvn-shly-dvbr-abryt-l383pl
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: מוצר מהפך! חובה בכל מטבח! מקרר רגיל יש בכל בית - אבל המקרר הראשון שלי אינו מקרר רגיל… גם הפעולה הכי פשוטה כמו הוצאת ביצים או סידור פירות במגרה הופכת לחוויה מפתיעה ומוזיקלית, עם שירים ומשפטים משעשעים בעברית. המקרר מגיע עם שלל אביזרים - פירות, ירקות, מוצרי חלב ומזווה, כוננית מדפים ואפילו מכונת קרח בילט אין - פלא שאבא ואמא מקנאים? גיל 3+
 - Image: https://parktoys.co.il/assets/product-enhanced-1784706793190-f9ghjq.webp
-
-### הטאבלט הראשון שלי
-https://parktoys.co.il/product/htablt-hrashvn-shly-goaiv8
-- Price: 99.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: גם "ללמוד" יכול להיות כיף מאד. ילדים, הדליקו את הטאבלט ואמרו שלום לפרופסור דוב חכם, שיודע ה-מון דברים מעניינים. יחד איתו תשחקו, תשירו ותלמדו בדרך חוויתית ומשעשעת נושאים רבים ומגוונים כגון - חשבון, צורות, כלי נגינה, אותיות, מוזיקה, קריאת שעון ובעלי חיים. יהיה כיף!
-- Image: https://parktoys.co.il/assets/product-enhanced-1784706406970-h3k9w.webp
 
 ---
 

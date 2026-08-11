@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-11T11:14:40.699Z",
+  "generated_at": "2026-08-11T11:18:21.358Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 454,
+  "count": 455,
   "products": [
+    {
+      "id": "bf541b0c-f186-46fc-a14a-2aba5dd6acd5",
+      "slug": "chlypt-kdvrsl-pvrtlnd-dny-abdyh-8s09k6",
+      "name": "חליפת כדורסל פורטלנד דני אבדיה ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "\nחליפת כדורסל איכותית לילדים ונוער.\n\nהסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים.\n\n(חליפת כדורסל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו)\n\nמידות: 4,6,8,10,12,14,18\n\n ",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786446973939-bd4p8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrsl-pvrtlnd-dny-abdyh-8s09k6",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-08-11T11:17:44.053Z"
+    },
     {
       "id": "375366c1-fb6e-489d-91fb-f0de93542c9a",
       "slug": "chlypt-kdvrgl-mkby-tl-abyb-dvydh-67fhiv",
