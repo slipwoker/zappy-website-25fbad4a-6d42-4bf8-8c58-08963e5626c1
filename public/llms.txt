@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 448** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 449** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת כדורגל לילדים מדריד #10 אמבפה
+https://parktoys.co.il/product/chlypt-kdvrgl-lyldym-mdryd-10-ambph-vbabtp
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: חליפת כדורגל לילדים מדריד #10 אמבפה חליפת כדורגל איכותית לילדים ונוער. הסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים. (חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו) מידות: 4,6,8,10,12,14,16,18
+- Image: https://parktoys.co.il/assets/product-1786439035873-v9wx9q.webp
 
 ###  חליפת כדורגל מונדיאל 2026 ספרד לאמין ימאל
 https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-sprd-lamyn-ymal-61myi1
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/bymbv-mavdd-zchylh-vmlmd-jynpzu
 - Availability: In stock
 - Description: הנה בימבו - ווואוו כמה דברים שעושים בו! אין פעוט שלא ישמח לזחול בעקבותיו של בימבו - יצור חמוד וידידותי המדבר עברית ומעודד זחילה ולמידה. עם בימבו לומדים להכיר צורות, צבעים, בעלי חיים, כלי נגינה וכלי תחבורה, עונים על שאלות המותאמות לגיל הרך, והכל בליווית מנגינות קלאסיות נעימות. לבימבו שתי עוצמות קול חוויה אור קולית לימודית בשפה העברית מנגנון תנועה וסיבוב ועקיפת מכשולים מתאים לילדים מגיל 6 חודשים 3 סוללות AA
 - Image: https://parktoys.co.il/assets/product-enhanced-1784705341519-bmj6jv.webp
-
-### הסמארטפון הראשון שלי
-https://parktoys.co.il/product/hsmartpvn-hrashvn-shly-4un2mu
-- Price: 79.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: ילדות וילדים, מיד! להדליק את הנייד! עם הסמארטפון הראשון שלי, לכם ההורים לא יהיה אכפת שהילדים כל היום במסך… זהו טלפון דובר עברית ראשון מסוגו שבעזרת מוזיקה ושירים הופך את הלימוד לחווית משחק כיפית וקלילה. בין הנושאים הנלמדים: אותיות, מספרים, צורות, מוזיקה, חשבון, שעון, מזג אוויר ועוד ועוד. כי היום עושים הכל בטלפון… קיים בצבע שחור
-- Image: https://parktoys.co.il/assets/product-1784704934475-9iqy5m.webp
 
 ---
 
