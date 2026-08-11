@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-11T11:04:15.811Z",
+  "generated_at": "2026-08-11T11:07:40.573Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 453,
@@ -27,7 +27,7 @@
       "categories": [
         "מוצרי ספורט"
       ],
-      "updated_at": "2026-08-11T11:03:43.192Z"
+      "updated_at": "2026-08-11T11:07:16.735Z"
     },
     {
       "id": "c80d393a-e3b3-492d-aaf8-ea7151b90b34",
