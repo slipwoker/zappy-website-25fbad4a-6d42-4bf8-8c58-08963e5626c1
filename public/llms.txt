@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 445** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### חליפת כדורגל מונדיאל 2026 ארגנטינה מסי
-https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-argntynh-msy-xdi9vl
+https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-argntynh-msy-bp9n8l
 - Price: 69.00 ILS
 - Availability: In stock
 - Category: מוצרי ספורט
