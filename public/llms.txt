@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 455** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 456** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### גביע מונדיאל גדול
+https://parktoys.co.il/product/gbya-mvndyal-gdvl-2yv827
+- Price: 229.99 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: ביע המונדיאל – סמל לניצחון ולתשוקה לכדורגל! מחפשים מזכרת מושלמת לאוהדי כדורגל? גביע המונדיאל הוא פריט חובה לכל חובב ספורט אמיתי! הגביע מעוצב בקפידה, עם דגש על הפרטים הקטנים, ומציג את גביע העולם האייקוני בצורה מרשימה ויוקרתית. הוא עשוי מחומרים איכותיים, המבטיחים עמידות לאורך זמן, ומוסיף טאץ’ אלגנטי לכל מקום בו הוא יוצג. הגביע מושלם לקישוט שולחן העבודה, מדף הספרים או כל פינה אחרת בבית. הוא מתאים כמתנה מרגשת לכל אוהדי כדורגל, ליום הולדת, לחג או לכל אירוע אחר.
+- Image: https://parktoys.co.il/assets/product-enhanced-1786456333202-ri8855.webp
 
 ### חליפת כדורסל פורטלנד דני אבדיה 
 https://parktoys.co.il/product/chlypt-kdvrsl-pvrtlnd-dny-abdyh-8s09k6
@@ -1662,14 +1670,6 @@ https://parktoys.co.il/product/trktvr-chyvt-chvvh-dvbr-abryt-hr1v0j
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: אצלנו בחווה לומדים בחדווה! הנה מגיע הטרקטור והוא לא מגיע לבד… בעקבותיו מגיעה גם עגלה ובה חיות חווה חביבות ועליזות! איזו נסיעה משעשעת - מלאה באורות וצלילים, קולות של בעלי חיים ושירים ומשפטים בעברית. 6 שירים ועשרות משפטים משעשעים ולימודיים בעברית ! משחקים ולומדים: הכרת בעלי חיים הכרת צבעים הכרת כמות ומספר עידוד זחילה גיל 12M+
 - Image: https://parktoys.co.il/assets/product-1784706964003-1ujfqi.webp
-
-### המקרר הראשון שלי – דובר עברית
-https://parktoys.co.il/product/hmkrr-hrashvn-shly-dvbr-abryt-l383pl
-- Price: 199.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: מוצר מהפך! חובה בכל מטבח! מקרר רגיל יש בכל בית - אבל המקרר הראשון שלי אינו מקרר רגיל… גם הפעולה הכי פשוטה כמו הוצאת ביצים או סידור פירות במגרה הופכת לחוויה מפתיעה ומוזיקלית, עם שירים ומשפטים משעשעים בעברית. המקרר מגיע עם שלל אביזרים - פירות, ירקות, מוצרי חלב ומזווה, כוננית מדפים ואפילו מכונת קרח בילט אין - פלא שאבא ואמא מקנאים? גיל 3+
-- Image: https://parktoys.co.il/assets/product-enhanced-1784706793190-f9ghjq.webp
 
 ---
 
