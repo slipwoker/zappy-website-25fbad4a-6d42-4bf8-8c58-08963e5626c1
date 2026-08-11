@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 450** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### חליפת כדורגל לילדים אייאקס #10 אוסקר גלוך
-https://parktoys.co.il/product/chlypt-kdvrgl-lyldym-ayyaks-10-avskr-glvk-9vf4ib
+https://parktoys.co.il/product/chlypt-kdvrgl-lyldym-ayyaks-10-avskr-glvk-2q78l7
 - Price: 69.00 ILS
 - Availability: In stock
 - Category: מוצרי ספורט
