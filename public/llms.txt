@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 446** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 447** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת כדורגל מונדיאל 2026 צרפת אמבפה
+https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-tsrpt-ambph-4b1bt5
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: חליפת כדורגל איכותית לילדים ונוער. הסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים. (חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו) מידות: 4,6,8,10,12,14,16,18
+- Image: https://parktoys.co.il/assets/product-1786437744420-7es2ak.webp
 
 ### חליפת כדורגל מונדיאל 2026 ברזיל ניימאר
 https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-brzyl-nyymar-c52nq4
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/mylvn-htslylym-hrashvn-shly-bdkbui
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: מיאו, מו, הב-הב-הב - משחק שכל פעוט יאהב. בין דפי המילון מחכים לכם מגוון קולות, אורות, צלילים ולמעלה ממאה משפטים בעברית במגוון נושאים - בעלי חיים, כלי תחבורה, כלי נגינה, צורות וצבעים, חפצים וגוף האדם. חוויה לימודית צבעונית, מוזיקלית ומשעשעת שעובדת על כל החושים. 20 מנגינות משעשעות ומעל 100 משפטים לימודיים במגוון נושאים כגון: "אבא שלי לקח אותי לטיול ברכבת!" "שלום! אני הוא הכלב! אני מאוד אוהב לאכול עצמות!" "יש לי עפיפון כתום וצורתו היא מעוין!"
 - Image: https://parktoys.co.il/assets/product-1784704581794-xz7kpe.webp
-
-### תכשיטי אותיות – חרוזים XL
-https://parktoys.co.il/product/tkshyty-avtyvt-chrvzym-xl-0evj74
-- Price: 49.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: ערכה להכנת צמידים ושרשראות בעיצוב אישי
-- Image: https://parktoys.co.il/assets/product-1784662950632-cqqzlk.webp
 
 ---
 
