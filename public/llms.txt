@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 447** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 448** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+###  חליפת כדורגל מונדיאל 2026 ספרד לאמין ימאל
+https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-sprd-lamyn-ymal-61myi1
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: חליפת כדורגל מונדיאל 2026 ספרד לאמין ימאל חליפת כדורגל איכותית לילדים ונוער. הסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים. (חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו) מידות: 4,6,8,10,12,14,16,18
+- Image: https://parktoys.co.il/assets/product-1786438461203-2namrj.webp
 
 ### חליפת כדורגל מונדיאל 2026 צרפת אמבפה
 https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-tsrpt-ambph-4b1bt5
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/hsmartpvn-hrashvn-shly-4un2mu
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: ילדות וילדים, מיד! להדליק את הנייד! עם הסמארטפון הראשון שלי, לכם ההורים לא יהיה אכפת שהילדים כל היום במסך… זהו טלפון דובר עברית ראשון מסוגו שבעזרת מוזיקה ושירים הופך את הלימוד לחווית משחק כיפית וקלילה. בין הנושאים הנלמדים: אותיות, מספרים, צורות, מוזיקה, חשבון, שעון, מזג אוויר ועוד ועוד. כי היום עושים הכל בטלפון… קיים בצבע שחור
 - Image: https://parktoys.co.il/assets/product-1784704934475-9iqy5m.webp
-
-### מילון הצלילים הראשון שלי
-https://parktoys.co.il/product/mylvn-htslylym-hrashvn-shly-bdkbui
-- Price: 119.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: מיאו, מו, הב-הב-הב - משחק שכל פעוט יאהב. בין דפי המילון מחכים לכם מגוון קולות, אורות, צלילים ולמעלה ממאה משפטים בעברית במגוון נושאים - בעלי חיים, כלי תחבורה, כלי נגינה, צורות וצבעים, חפצים וגוף האדם. חוויה לימודית צבעונית, מוזיקלית ומשעשעת שעובדת על כל החושים. 20 מנגינות משעשעות ומעל 100 משפטים לימודיים במגוון נושאים כגון: "אבא שלי לקח אותי לטיול ברכבת!" "שלום! אני הוא הכלב! אני מאוד אוהב לאכול עצמות!" "יש לי עפיפון כתום וצורתו היא מעוין!"
-- Image: https://parktoys.co.il/assets/product-1784704581794-xz7kpe.webp
 
 ---
 
