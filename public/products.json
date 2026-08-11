@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-11T07:49:23.981Z",
+  "generated_at": "2026-08-11T07:55:11.784Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 444,
+  "count": 445,
   "products": [
+    {
+      "id": "44fbe410-9f3c-43c0-8662-beea8b36ae5d",
+      "slug": "chlypt-kdvrgl-mvndyal-2026-argntynh-msy-xdi9vl",
+      "name": "חליפת כדורגל מונדיאל 2026 ארגנטינה מסי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חליפת כדורגל מונדיאל 2026 ארגנטינה מסי\nחליפת כדורגל איכותית לילדים ונוער.\n\nהסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים.\n\n(חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו)\n\nמידות: 4,6,8,10,12,14,16,18",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786434812906-44gsb6.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-argntynh-msy-xdi9vl",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-08-11T07:54:34.674Z"
+    },
     {
       "id": "56af679e-e8c8-4cb2-8fcd-ff8e90f54b58",
       "slug": "chlypt-kdvrgl-mvndyal-2026-pvrtvgl-rvnaldv-gqhp2s",
