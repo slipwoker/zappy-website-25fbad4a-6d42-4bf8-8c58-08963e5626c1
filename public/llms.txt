@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 443** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 444** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת כדורגל מונדיאל 2026 פורטוגל רונאלדו
+https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-pvrtvgl-rvnaldv-vk80dk
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: חליפת כדורגל מונדיאל 2026 פורטוגל רונאלדו חליפת כדורגל איכותית לילדים ונוער. הסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים. (חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו) מידות: 4,6,8,10,12,14,16,1
+- Image: https://parktoys.co.il/assets/product-enhanced-1786434262433-i7zgg.webp
 
 ### לגו DC Batman™‎ - הבאטמוביל של באטמן (76332)
 https://parktoys.co.il/product/lgv-dc-batman-hbatmvbyl-shl-batmn-76332-78s4z3
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/tkshyty-tmvnvt-3nmst9
 - Category: משחקי יצירה
 - Description: ערכה להכנת צמידים ושרשראות בשילוב תמונות בתוך מסגרות אופנתיות
 - Image: https://parktoys.co.il/assets/product-1784662529714-bpqo3l.webp
-
-### תכשיטי נסיכות ברבי
-https://parktoys.co.il/product/tkshyty-nsykvt-brby-hu4fdh
-- Price: 49.00 ILS
-- Availability: In stock
-- Category: משחקי יצירה
-- Description: ערכת יצירה להכנת תכשיטים הכוללת פקקים אופנתיים
-- Image: https://parktoys.co.il/assets/product-1784662457200-c4ugfu.webp
 
 ---
 
