@@ -14594,6 +14594,69 @@ async function loadRelatedProducts(currentProduct, t) {
 })();
 /* ZAPPY_CUSTOM_JS_END:1a3915c5f4b6 */
 
+/* ZAPPY_CUSTOM_JS_START:8e78a796d3e4 */
+(function () {
+  function __zappyCustomInit() {
+    try {
+(function() {
+  // Wait for script.js to finish, then override
+  window.addEventListener('load', function() {
+    setTimeout(function() {
+      var bar = document.querySelector('.zappy-announcement-bar');
+      if (!bar) return;
+      
+      var msgs = [
+        'משלוח מהיר לכל הארץ | 3-5 ימי עסקים',
+        'משלוח חינם מעל ₪299',
+        'איסוף עצמי מראש העין',
+        'תשלום מאובטח'
+      ];
+      
+      // Clear existing
+      var ticker = bar.querySelector('.zappy-announcement-ticker');
+      if (!ticker) {
+        ticker = document.createElement('div');
+        ticker.className = 'zappy-announcement-ticker';
+        bar.innerHTML = '';
+        bar.appendChild(ticker);
+      } else {
+        ticker.innerHTML = '';
+      }
+      
+      // Build messages
+      msgs.forEach(function(msg, i) {
+        var span = document.createElement('span');
+        span.className = 'zappy-announcement-message' + (i === 0 ? ' active' : '');
+        span.textContent = msg;
+        ticker.appendChild(span);
+      });
+      
+      // Start rotation
+      if (window.__zappyAnnouncementRotateTimer) {
+        clearInterval(window.__zappyAnnouncementRotateTimer);
+      }
+      var current = 0;
+      var items = ticker.querySelectorAll('.zappy-announcement-message');
+      window.__zappyAnnouncementRotateTimer = setInterval(function() {
+        items[current].classList.remove('active');
+        current = (current + 1) % items.length;
+        items[current].classList.add('active');
+      }, 4000);
+    }, 800);
+  });
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:8e78a796d3e4 */
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
