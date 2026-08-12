@@ -18126,6 +18126,56 @@ html .free-shipping-bar {
 html .whatsapp-float {
   bottom: 74px !important;
 }
+
+@keyframes zappy-ticker-scroll {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+body .zappy-announcement-bar {
+  overflow: hidden !important;
+  white-space: nowrap !important;
+  background-color: #cc2890 !important;
+  color: #ffffff !important;
+  padding: 8px 0 !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  line-height: 1.4 !important;
+  display: block !important;
+  text-align: left !important;
+}
+
+body .zappy-announcement-ticker {
+  display: inline-block;
+  white-space: nowrap;
+  animation: zappy-ticker-scroll 20s linear infinite;
+}
+
+body .zappy-announcement-ticker .zappy-announcement-message {
+  display: inline;
+  padding: 0 16px;
+  color: #ffffff;
+}
+
+body .zappy-announcement-ticker .zappy-announcement-separator {
+  display: inline;
+  color: var(--accent-color, var(--accent, #F4C542));
+  font-size: 10px;
+  padding: 0 4px;
+}
+
+@keyframes zappy-ticker-scroll {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
