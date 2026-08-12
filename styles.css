@@ -18196,6 +18196,12 @@ body .zappy-announcement-ticker .zappy-announcement-separator {
 .nav-cta-btn { color: #FFFFFF !important; }
 /* === BUTTON TEXT OVERRIDES END === */
 
+
+@media (max-width: 768px) {
+.featured-products-section #zappy-featured-products.featured-grid {
+  grid-template-columns: repeat(2, 1fr) !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
