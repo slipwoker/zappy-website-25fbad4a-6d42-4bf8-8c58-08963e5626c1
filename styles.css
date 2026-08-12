@@ -18204,6 +18204,8 @@ body .zappy-announcement-ticker .zappy-announcement-separator {
 }
 /* Batch: שינוי תצוגת מובייל ל-2 מוצרים בשורה */
 @media (max-width: 768px) { .featured-products-section .product-grid.featured-grid, #zappy-featured-products { grid-template-columns: repeat(2, 1fr) !important; gap: 12px !important; } .featured-products-section .product-grid.featured-grid .product-card, #zappy-featured-products .product-card { min-width: 0 !important; width: 100% !important; } }
+/* Batch: תיקון מרכוז בר ההכרזות - עקיפת body .zappy-announcement-bar עם specificity גבוה יותר */
+html body .zappy-announcement-bar { display: flex !important; justify-content: center !important; align-items: center !important; text-align: center !important; }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
