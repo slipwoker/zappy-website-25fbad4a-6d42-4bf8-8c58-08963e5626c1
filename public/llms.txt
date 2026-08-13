@@ -76,7 +76,95 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 456** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 467** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### משאית חשמלית עוצמתית לילדים מבית Caterpillar
+https://parktoys.co.il/product/mshayt-chshmlyt-avtsmtyt-lyldym-mbyt-caterpillar-zaugpa
+- Price: 1699.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: 🚧 *הכירו את מפלצת העבודה החדשה של CAT!* 🚧 משאית חשמלית עוצמתית לילדים מבית Caterpillar, שמביאה את חוויית אתר הבנייה ישר אליהם! עם סוללת 24V, הנעת 4X4, ארבעה מנועים עוצמתיים, שני מושבים וארגז מטען חשמלי עולה ויורד – זו כבר לא עוד מכונית ממונעת, אלא משאית עבודה אמיתית לילדים! עיצוב CAT מרשים, מהירות של עד 7.2 קמ״ש, שלט הורים, מוזיקה, בולמי זעזועים ותא מנוע נפתח למשחק – מוצר ענק, מרשים ומלא באקשן שילדים פשוט לא ירצו לרדת ממנו!
+- Image: https://parktoys.co.il/assets/product-enhanced-1786622387970-si08l.webp
+
+### CAT 12V – הטרקטור הקטן שמרגיש כמו הדבר 
+https://parktoys.co.il/product/cat-12v-htrktvr-hktn-shmrgysh-kmv-hdbr-n09v60
+- Price: 899.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: *CAT 12V – הטרקטור הקטן שמרגיש כמו הדבר האמיתי!* 🚜 הגיע הזמן לעלות על הטרקטור ולהתחיל לעבוד! טרקטור CAT החשמלי מעניק לילדים חוויית נהיגה מרגשת בעיצוב הקשוח והאייקוני של Caterpillar. גלגלים גדולים במראה שטח, תנוחת ישיבה גבוהה והגה בסגנון טרקטור אמיתי – כל מה שצריך כדי להרגיש כמו מפעיל כלי עבודה אמיתי. עם מערכת 12V, שני מנועים, נסיעה קדימה ואחורה ושתי מהירויות – כל סיבוב בחצר הופך להרפתקה חדשה. גם ההורים נשארים בשליטה באמצעות שלט הורים 2.4GHz, ולנוחות ובטיחות נוספת הטרקטור מצויד בחגורת בטיחו
+- Image: https://parktoys.co.il/assets/product-1786621978834-q6szi5.webp
+
+###  רכב השטח החשמלי של Caterpillar
+https://parktoys.co.il/product/rkb-hshtch-hchshmly-shl-caterpillar-r0z807
+- Price: 1699.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: *חוויית שטח ועבודה אמיתית לילדים!*🚜⚡ הכירו את רכב השטח החשמלי של Caterpillar – כלי עוצמתי ומרשים שמכניס את הילדים היישר לעולם של CAT! עיצוב שטח קשוח ומרשים, שני מושבים מרווחים, הנעה חשמלית עוצמתית וארגז מטען אחורי מתרומם – כדי שהילדים לא רק ינהגו, אלא גם יעמיסו, יובילו ויפרקו ממש כמו באתר עבודה אמיתי. הרכב מצויד באת חפירה, תאורת LED קדמית, מערכת מוזיקה, צופר, בולמי זעזועים וחגורות בטיחות – לחוויית נהיגה מלאה ומהנה. וההורים? בשליטה מלאה עם שלט רחוק 2.4GHz, המאפשר לשלוט ברכב ובמהירות הנסיעה. CA
+- Image: https://parktoys.co.il/assets/product-1786621550839-gmwpzh.webp
+
+### כדורגל מכבי תל אביב
+https://parktoys.co.il/product/kdvrgl-mkby-tl-abyb-hkm34v
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: כדור איכותי במידה 5. כדור במשקל 420 גרם עם פמינית אנטי פנצ’ר.
+- Image: https://parktoys.co.il/assets/product-enhanced-1786615788939-wy5vli.webp
+
+### כדורגל ביתר ירושלים
+https://parktoys.co.il/product/kdvrgl-bytr-yrvshlym-gjves5
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: כדור איכותי במידה 5. כדור במשקל 420 גרם עם פמינית אנטי פנצ’ר.
+- Image: https://parktoys.co.il/assets/product-enhanced-1786615372356-n0pt9s.webp
+
+### כדורגל צרפת 
+https://parktoys.co.il/product/kdvrgl-tsrpt-jndrcv
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: כדור איכותי במידה 5. כדור במשקל 420 גרם עם פמינית אנטי פנצ’ר.
+- Image: https://parktoys.co.il/assets/product-enhanced-1786613894228-fb7be.webp
+
+### כדורגל ברזיל
+https://parktoys.co.il/product/kdvrgl-brzyl-7tfy6o
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: כדור איכותי במידה 5. כדור במשקל 420 גרם עם פמינית אנטי פנצ’ר.
+- Image: https://parktoys.co.il/assets/product-enhanced-1786613469358-ivddwk.webp
+
+### כדורגל פורטוגל 
+https://parktoys.co.il/product/kdvrgl-pvrtvgl-knkoyg
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: כדור איכותי במידה 5. כדור במשקל 420 גרם עם פמינית אנטי פנצ’ר.
+- Image: https://parktoys.co.il/assets/product-enhanced-1786612592682-hlx4xe.webp
+
+### כדורגל ארגטינה
+https://parktoys.co.il/product/kdvrgl-argtynh-m4mzv9
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: כדורגל ארגטינה עם חתימות של השחקנים
+- Image: https://parktoys.co.il/assets/product-enhanced-1786552882791-kfr2yb.webp
+
+### כדורגל ריאל מדריד 
+https://parktoys.co.il/product/kdvrgl-ryal-mdryd-q8n37o
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: כדורגל ריאל מדריד עם חתימות של השחקנים
+- Image: https://parktoys.co.il/assets/product-enhanced-1786551852123-xsvzsh.webp
+
+### כדורגל ברצלונה 
+https://parktoys.co.il/product/kdvrgl-brtslvnh-pig267
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: כדורגל ברצלונה עם חתימות של שחקנים
+- Image: https://parktoys.co.il/assets/product-enhanced-1786551082390-lt99k.webp
 
 ### גביע מונדיאל גדול
 https://parktoys.co.il/product/gbya-mvndyal-gdvl-fnksdu
@@ -1582,94 +1670,6 @@ https://parktoys.co.il/product/glgl-hanglyt-y7l8zg
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: הפתעה בכל לחיצה וסיבוב: לימוד מילים, אותיות, חיות, קולות, צלילים ומנגינות. 26 מילים בסיסיות באנגלית ● הקראה ותרגול של מילים חידות ושאלות בשפה האנגלית ● שירים ומנגינות קלאסיות לגירוי קוגניטיבי ● מוצר זה מופעל באמצעות 3 סוללות AA מתאים מגיל 18 חודשים ומעלה 2 עוצמות קול
 - Image: https://parktoys.co.il/assets/product-1784710379240-k5eeau.webp
-
-### הבית החכם- קופסת פעילות
-https://parktoys.co.il/product/hbyt-hchkm-kvpst-paylvt-vpm6cp
-- Price: 149.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: גג אדום וחלונות - לשחק, ללמוד ולהנות! טוק טוק טוק, מי שם? ברוכים הבאים לבית החכם שלנו, הבית שכל פעוט ישמח לגור בו! כאן משחקים במגוון פעילויות מהנות התורמות לפיתוח החושי - מיון והשחלת צורות, סיבוב גלגלי שיניים, הנעת חרוזים ועוד. הבית החכם- מתפתחים-משחקים-לומדים! קופסת פעילות איכותית וצבעונית מגוון רחב של הפעלות לפיתוח חושי התינוק: מיון והשחלת צורות גלגלי שיניים סיבוב כדור משחק חרוזים סיבוב גלגלת מחוג פתיחת דלת
-- Image: https://parktoys.co.il/assets/product-enhanced-1785852353202-8q1qt4.webp
-
-### כדור התנועה
-https://parktoys.co.il/product/kdvr-htnvah-0c3ohc
-- Price: 129.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: כדור התפתחות מוזיקלי - לשחק בו זה כיף לא נורמאלי! זורקים, תופסים, מגלגלים, מסובבים ולומדים מגוון נושאים מגניבים - בעלי חיים, מספרים וצורות, בליווי צלילים ושירים בעברית. מעודד זחילה ומשחק באמצעות תנועה, קולות ושירים 2 רמות קול
-- Image: https://parktoys.co.il/assets/product-enhanced-1784709865721-14dbk9.webp
-
-### חפרפרת בסרט – נקמת הפטישים דובר עברית
-https://parktoys.co.il/product/chprprt-bsrt-nkmt-hptyshym-dvbr-abryt-56ll6a
-- Price: 149.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: חפרפרות ופטישים - משחק מגניב שלא ישאיר אתכם אדישים. החפרפרת מציצה מתוך האדמה - מהרו להכות בה בפטיש! משחק מלהיב ומלא משפטים משעשעים ובדיחות, ומה שבטוח - את הסרט הזה החפרפרת לא תשכח לעולם… עשרות משפטים מצחיקים \ שני מצבי עוצמת שמע \ מהירויות שונות למשחק . קבלו ניקוד לפי התוצאות שלכם
-- Image: https://parktoys.co.il/assets/product-enhanced-1784709776549-5dpq6u.webp
-
-### פעלולון בעלי חיים
-https://parktoys.co.il/product/palvlvn-baly-chyym-j3n79x
-- Price: 129.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: עם קופיף, פרה, נמר ודוב קואלה - לשחק וללמוד זה כיף לאללה! פעלולון מלא הפתעות, משחקי שאלות ותשובות, אורות, צלילים ותכנים לימודיים ומשעשעים בעברית - לוחצים ולומדים תוך כדי משחק על אותיות, מספרים, צבעים, צורות, בעלי חיים ועוד.פעלולון בעלי חיים משחקים, מתפתחים ולומדים
-- Image: https://parktoys.co.il/assets/product-1784709094929-14t4i.webp
-
-### מגדל הטבעות המדבר שלי
-https://parktoys.co.il/product/mgdl-htbavt-hmdbr-shly-38oc2s
-- Price: 119.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: טבעות משחילים, מקשיבים למוזיקה ולומדים מילים. עם מגדל הטבעות שלנו, פעולת ההשחלה היא חגיגה שלמה - משחילים את הטבעות על פי הסדר, מאזינים לשירים, וגם לקטעים מוזיקליים המשלבים למידת מילים. חוויה לימודית מהנה וצבעונית לפעוטות! משוב חיובי בהשחלת טבעת! דובר עברית! 2 שירים מקוריים בעברית: שיר המספרים שיר בעלי חיים 5 קטעים מוזיקליים המלמדים מילים ראשונות בעברית: בוקר טוב כלב חתול כדור אבא אמא 2 עוצמות קול לחצני אור נדלקים
-- Image: https://parktoys.co.il/assets/product-1784708377483-t7j8s.webp
-
-### הך פטיש קסילופון
-https://parktoys.co.il/product/hk-ptysh-ksylvpvn-stfejt
-- Price: 89.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: מכים בפטיש, משחילים, ומאזינים לצלילי הקסילופון הנפלאים! חוויה מוזיקלית ומוטורית משעשעת לפעוטות - משחילים את הכדורים במקומות המתאימים לפי הצבעים, מכים בפטיש, והקסילופון עונה בצלילים ענוגים על כל השחלה נכונה! התאימו את הכדורים לפי הצבעים והשחילו אותם בעזרת הפטיש! בהשחלת הכדור ישמע צלילים והילד יקבל כך משוב חיובי
-- Image: https://parktoys.co.il/assets/product-1784708007420-s53mcn.webp
-
-### חיות קופצות דובר עברית
-https://parktoys.co.il/product/chyvt-kvptsvt-dvbr-abryt-999ilv
-- Price: 119.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: חיות קופצות בהפתעה - שעות של כיף והנאה! מה הפיל, ההיפופוטם, האריה והקוף הכי אוהבים לעשות? לשיר, לדבר וכמובן - לקפוץ! צעצוע חוויתי ומשעשע שלא מפסיק להפתיע. 6m+
-- Image: https://parktoys.co.il/assets/product-1784707869972-hu2pks8.webp
-
-### צורות והפתעות – מיון צורות דובר עברית
-https://parktoys.co.il/product/tsvrvt-vhptavt-myvn-tsvrvt-dvbr-abryt-xgiws7
-- Price: 129.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: שש צורות והפתעות - בצרורות! לא תאמינו כמה הפתעות מסתתרות בלוח הפעילות שלנו - מתאימים שש צורות בשישה צבעים למקומותיהן המתאימים ועל הדרך ממששים טקסטורות מסקרנות, מרשרשים בחרוזים, מגלגלים כדור, מביטים במראה, מקשיבים לשירים מוכרים בעברית ועוד. חוויית לימוד מהנה וצבעונית התורמת לפיתוח המוטוריקה העדינה והיכולות הקוגניטיביות. לגילאי 12 חודשים +
-- Image: https://parktoys.co.il/assets/product-1784707718430-unto57.webp
-
-### קוביית הפעלות – דוברת עברית
-https://parktoys.co.il/product/kvbyyt-hpalvt-dvbrt-abryt-15ojsr
-- Price: 149.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: קובייה שהיא חוויה. למה לחשוב מחוץ לקופסה אם אפשר לחשוב מחוץ לקובייה… קוביית ההפעלות שלנו אטרקטיבית ומעוררת מחשבה מבחוץ, מבפנים ומכל הכיוונים! בכל צד מצדדיה מתגלה פעילות - חרוזים, התאמת צורות, האזנה למוזיקה ועוד, המפתחת את כישורי המוטוריקה העדינה, החושים והחשיבה. גיל 18M+
-- Image: https://parktoys.co.il/assets/product-1784707515072-mtznin.webp
-
-### טאבלט לומדים עם קופיקו
-https://parktoys.co.il/product/tablt-lvmdym-am-kvpykv-aee9zt
-- Price: 99.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: קופיקו השובב - מורה שכל תלמיד יאהב! מי אם לא קופיקו מבין שהכי כיף ללמוד דרך משחק - עם טאבלט קופיקו תלמדו נושאים כמו אותיות, ספרות, מילים בעברית ובאנגלית, והכל בדרך מהנה וחוויתית. לוחצים על הכפתורים ובהתאם למספר הלחיצות - מאזינים למידע מעניין, עונים לשאלות, שומעים שירים וחדים חדות. ללמוד זה כיף - תשאלו את קופיקו! לומדים עם קופיקו לוחצים על אות או ספרה שלוש פעמים לחיצה ראשונה - לומדים אות או ספרה לחיצה שניה - מקבלים מידע לחיצה שלישית- לומדים אנגלית לחצן תווים - שומעים שירים לחצן סימן שאלה - חדים ח
-- Image: https://parktoys.co.il/assets/product-1784707271620-b766ac.webp
-
-### טרקטור חיות חווה – דובר עברית
-https://parktoys.co.il/product/trktvr-chyvt-chvvh-dvbr-abryt-hr1v0j
-- Price: 179.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: אצלנו בחווה לומדים בחדווה! הנה מגיע הטרקטור והוא לא מגיע לבד… בעקבותיו מגיעה גם עגלה ובה חיות חווה חביבות ועליזות! איזו נסיעה משעשעת - מלאה באורות וצלילים, קולות של בעלי חיים ושירים ומשפטים בעברית. 6 שירים ועשרות משפטים משעשעים ולימודיים בעברית ! משחקים ולומדים: הכרת בעלי חיים הכרת צבעים הכרת כמות ומספר עידוד זחילה גיל 12M+
-- Image: https://parktoys.co.il/assets/product-1784706964003-1ujfqi.webp
 
 ---
 

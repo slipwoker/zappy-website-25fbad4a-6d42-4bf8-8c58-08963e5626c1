@@ -1,10 +1,280 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-12T09:23:34.872Z",
+  "generated_at": "2026-08-13T12:27:38.584Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 456,
+  "count": 467,
   "products": [
+    {
+      "id": "5fcbb58e-8bd9-442f-9920-c6f395df3348",
+      "slug": "mshayt-chshmlyt-avtsmtyt-lyldym-mbyt-caterpillar-zaugpa",
+      "name": "משאית חשמלית עוצמתית לילדים מבית Caterpillar",
+      "name_translations": {},
+      "description": "",
+      "short_description": "🚧 *הכירו את מפלצת העבודה החדשה של CAT!* 🚧\n\nמשאית חשמלית עוצמתית לילדים מבית Caterpillar, שמביאה את חוויית אתר הבנייה ישר אליהם!\nעם סוללת 24V, הנעת 4X4, ארבעה מנועים עוצמתיים, שני מושבים וארגז מטען חשמלי עולה ויורד – זו כבר לא עוד מכונית ממונעת, אלא משאית עבודה אמיתית לילדים!\n\nעיצוב CAT מרשים, מהירות של עד 7.2 קמ״ש, שלט הורים, מוזיקה, בולמי זעזועים ותא מנוע נפתח למשחק – מוצר ענק, מרשים ומלא באקשן שילדים פשוט לא ירצו לרדת ממנו!",
+      "sku": null,
+      "brand": null,
+      "price": 1699,
+      "base_price": 1699,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786622387970-si08l.webp",
+        "https://parktoys.co.il/assets/product-1786622388408-ia2ezy.webp",
+        "https://parktoys.co.il/assets/product-enhanced-1786622453141-kh2we.webp",
+        "https://parktoys.co.il/assets/product-1786622490064-pexqf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mshayt-chshmlyt-avtsmtyt-lyldym-mbyt-caterpillar-zaugpa",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-08-13T12:04:36.906Z"
+    },
+    {
+      "id": "95e54218-1647-4356-9003-99ed7b5fad05",
+      "slug": "cat-12v-htrktvr-hktn-shmrgysh-kmv-hdbr-n09v60",
+      "name": "CAT 12V – הטרקטור הקטן שמרגיש כמו הדבר ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "*CAT 12V – הטרקטור הקטן שמרגיש כמו הדבר האמיתי!* 🚜\n\n\nהגיע הזמן לעלות על הטרקטור ולהתחיל לעבוד!\n\nטרקטור CAT החשמלי מעניק לילדים חוויית נהיגה מרגשת בעיצוב הקשוח והאייקוני של Caterpillar. גלגלים גדולים במראה שטח, תנוחת ישיבה גבוהה והגה בסגנון טרקטור אמיתי – כל מה שצריך כדי להרגיש כמו מפעיל כלי עבודה אמיתי.\n\nעם מערכת 12V, שני מנועים, נסיעה קדימה ואחורה ושתי מהירויות – כל סיבוב בחצר הופך להרפתקה חדשה.\n\nגם ההורים נשארים בשליטה באמצעות שלט הורים 2.4GHz, ולנוחות ובטיחות נוספת הטרקטור מצויד בחגורת בטיחו",
+      "sku": null,
+      "brand": null,
+      "price": 899,
+      "base_price": 899,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1786621978834-q6szi5.webp",
+        "https://parktoys.co.il/assets/product-1786622053864-cbmyb2.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/cat-12v-htrktvr-hktn-shmrgysh-kmv-hdbr-n09v60",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-08-13T11:55:16.302Z"
+    },
+    {
+      "id": "a8e02149-f463-4e9a-a19e-ffaa4a4054f6",
+      "slug": "rkb-hshtch-hchshmly-shl-caterpillar-r0z807",
+      "name": " רכב השטח החשמלי של Caterpillar",
+      "name_translations": {},
+      "description": "",
+      "short_description": "*חוויית שטח ועבודה אמיתית לילדים!*🚜⚡\n\nהכירו את רכב השטח החשמלי של Caterpillar – כלי עוצמתי ומרשים שמכניס את הילדים היישר לעולם של CAT!\nעיצוב שטח קשוח ומרשים, שני מושבים מרווחים, הנעה חשמלית עוצמתית וארגז מטען אחורי מתרומם – כדי שהילדים לא רק ינהגו, אלא גם יעמיסו, יובילו ויפרקו ממש כמו באתר עבודה אמיתי.\n\nהרכב מצויד באת חפירה, תאורת LED קדמית, מערכת מוזיקה, צופר, בולמי זעזועים וחגורות בטיחות – לחוויית נהיגה מלאה ומהנה.\nוההורים? בשליטה מלאה עם שלט רחוק 2.4GHz, המאפשר לשלוט ברכב ובמהירות הנסיעה.\nCA",
+      "sku": null,
+      "brand": null,
+      "price": 1699,
+      "base_price": 1699,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1786621550839-gmwpzh.webp",
+        "https://parktoys.co.il/assets/product-1786621576690-lx0w7o.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/rkb-hshtch-hchshmly-shl-caterpillar-r0z807",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-08-13T11:49:59.944Z"
+    },
+    {
+      "id": "1cf8a248-f044-485b-b10e-f15c832a13d3",
+      "slug": "kdvrgl-mkby-tl-abyb-hkm34v",
+      "name": "כדורגל מכבי תל אביב",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כדור איכותי במידה 5.\nכדור במשקל 420 גרם עם פמינית אנטי פנצ’ר.",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786615788939-wy5vli.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kdvrgl-mkby-tl-abyb-hkm34v",
+      "categories": [
+        "גלגלים",
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-08-13T10:10:41.392Z"
+    },
+    {
+      "id": "91dd619b-6744-4f11-ae27-4eb9d10f7347",
+      "slug": "kdvrgl-bytr-yrvshlym-gjves5",
+      "name": "כדורגל ביתר ירושלים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כדור איכותי במידה 5.\nכדור במשקל 420 גרם עם פמינית אנטי פנצ’ר.",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786615372356-n0pt9s.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kdvrgl-bytr-yrvshlym-gjves5",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-08-13T10:03:32.804Z"
+    },
+    {
+      "id": "5ad8a4d3-b8f9-40c1-8ed6-8f02b64b2c75",
+      "slug": "kdvrgl-tsrpt-jndrcv",
+      "name": "כדורגל צרפת ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כדור איכותי במידה 5.\nכדור במשקל 420 גרם עם פמינית אנטי פנצ’ר.",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786613894228-fb7be.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kdvrgl-tsrpt-jndrcv",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-08-13T09:41:48.581Z"
+    },
+    {
+      "id": "b80079ef-edbb-4ad1-8507-872ca169fb56",
+      "slug": "kdvrgl-brzyl-7tfy6o",
+      "name": "כדורגל ברזיל",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כדור איכותי במידה 5.\nכדור במשקל 420 גרם עם פמינית אנטי פנצ’ר.",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786613469358-ivddwk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kdvrgl-brzyl-7tfy6o",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-08-13T09:32:12.945Z"
+    },
+    {
+      "id": "336a0401-41dc-4a99-b094-c195129a2a22",
+      "slug": "kdvrgl-pvrtvgl-knkoyg",
+      "name": "כדורגל פורטוגל ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כדור איכותי במידה 5.\nכדור במשקל 420 גרם עם פמינית אנטי פנצ’ר.",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786612592682-hlx4xe.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kdvrgl-pvrtvgl-knkoyg",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-08-13T09:17:36.024Z"
+    },
+    {
+      "id": "e4efa4fd-4977-43a2-a081-61a673ef8a2b",
+      "slug": "kdvrgl-argtynh-m4mzv9",
+      "name": "כדורגל ארגטינה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כדורגל ארגטינה עם חתימות של השחקנים ",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786552882791-kfr2yb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kdvrgl-argtynh-m4mzv9",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-08-12T16:41:45.549Z"
+    },
+    {
+      "id": "926cca69-9fc6-4e77-b7bc-93eb3dc30028",
+      "slug": "kdvrgl-ryal-mdryd-q8n37o",
+      "name": "כדורגל ריאל מדריד ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כדורגל ריאל מדריד עם חתימות של השחקנים",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786551852123-xsvzsh.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kdvrgl-ryal-mdryd-q8n37o",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-08-12T16:24:26.629Z"
+    },
+    {
+      "id": "98f03b54-b718-428c-bf0c-8a8c52551520",
+      "slug": "kdvrgl-brtslvnh-pig267",
+      "name": "כדורגל ברצלונה ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כדורגל ברצלונה עם חתימות של שחקנים",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786551082390-lt99k.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kdvrgl-brtslvnh-pig267",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-08-12T16:11:52.841Z"
+    },
     {
       "id": "151557bb-975c-4192-b2a1-a18dadbe13ae",
       "slug": "gbya-mvndyal-gdvl-fnksdu",
