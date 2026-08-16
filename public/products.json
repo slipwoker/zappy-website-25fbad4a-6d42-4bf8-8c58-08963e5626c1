@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-16T10:48:01.943Z",
+  "generated_at": "2026-08-16T10:49:47.794Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 467,
@@ -469,7 +469,7 @@
     },
     {
       "id": "a097cf2a-ba1e-4666-8de6-8adcbdd0c5fa",
-      "slug": "chlypt-kdvrgl-mvndyal-2026-sprd-lamyn-ymal-61myi1",
+      "slug": "chlypt-kdvrgl-mvndyal-2026-sprd-lamyn-ymal-tatjan",
       "name": " חליפת כדורגל מונדיאל 2026 ספרד לאמין ימאל",
       "name_translations": {},
       "description": "",
@@ -477,19 +477,19 @@
       "sku": null,
       "brand": null,
       "price": 69,
-      "base_price": 69,
-      "sale_price": null,
+      "base_price": 99,
+      "sale_price": 69,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-1786438461203-2namrj.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-sprd-lamyn-ymal-61myi1",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-sprd-lamyn-ymal-tatjan",
       "categories": [
         "מוצרי ספורט"
       ],
-      "updated_at": "2026-08-11T08:58:33.078Z"
+      "updated_at": "2026-08-16T10:49:10.387Z"
     },
     {
       "id": "918e8659-5bd7-4e69-bf3e-f84abd45045c",
