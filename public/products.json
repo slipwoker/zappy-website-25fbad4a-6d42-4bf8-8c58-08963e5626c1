@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-16T10:47:02.067Z",
+  "generated_at": "2026-08-16T10:47:37.256Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 467,
@@ -445,7 +445,7 @@
     },
     {
       "id": "96d50175-9bdf-40a7-9055-6debb7a75a2e",
-      "slug": "chlypt-kdvrgl-lyldym-mdryd-10-ambph-vbabtp",
+      "slug": "chlypt-kdvrgl-lyldym-mdryd-10-ambph-av2uco",
       "name": "חליפת כדורגל לילדים מדריד #10 אמבפה",
       "name_translations": {},
       "description": "",
@@ -453,19 +453,19 @@
       "sku": null,
       "brand": null,
       "price": 69,
-      "base_price": 69,
-      "sale_price": null,
+      "base_price": 99,
+      "sale_price": 69,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-1786439035873-v9wx9q.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-lyldym-mdryd-10-ambph-vbabtp",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-lyldym-mdryd-10-ambph-av2uco",
       "categories": [
         "מוצרי ספורט"
       ],
-      "updated_at": "2026-08-11T09:14:23.642Z"
+      "updated_at": "2026-08-16T10:47:29.524Z"
     },
     {
       "id": "a097cf2a-ba1e-4666-8de6-8adcbdd0c5fa",
