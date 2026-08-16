@@ -567,6 +567,189 @@ window.onload = function() {
 ;
 
 ;
+
+
+/* ZAPPY_CUSTOM_JS_START:1a3915c5f4b6 */
+(function () {
+  function __zappyCustomInit() {
+    try {
+(function() {
+  var THRESHOLD = 299;
+  var SHIPPING_COST = 35;
+  var FREE_MSG = 'יש לך משלוח חינם! 🎉';
+
+  // Create bar if not already present
+  if (document.getElementById('free-shipping-bar')) return;
+
+  var bar = document.createElement('div');
+  bar.id = 'free-shipping-bar';
+  bar.className = 'free-shipping-bar';
+  bar.setAttribute('dir', 'rtl');
+  bar.innerHTML = 
+    '<div class="fsb-inner">' +
+      '<div class="fsb-icon-wrap">' +
+        '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' +
+          '<path d="M1 12h14l-2 6h10L22 6H15L13 0H5l2 6H1l2 6z"/>' +
+        '</svg>' +
+      '</div>' +
+      '<div class="fsb-msg" id="fsb-msg"><span class="fsb-amount">299₪</span> נשארו למשלוח חינם</div>' +
+      '<div class="fsb-track"><div class="fsb-fill" id="fsb-fill"></div><div class="fsb-marker"><span class="fsb-marker-label">משלוח חינם</span></div></div>' +
+    '</div>' +
+    '<button class="fsb-close-btn" id="fsb-close-btn" aria-label="סגור">' +
+      '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M18 6L6 18M6 6l12 12"/></svg>' +
+    '</button>';
+
+  document.body.appendChild(bar);
+
+  // Elements
+  var msgEl = document.getElementById('fsb-msg');
+  var fillEl = document.getElementById('fsb-fill');
+  var closeBtn = document.getElementById('fsb-close-btn');
+
+  if (!msgEl || !fillEl) return;
+
+  // Close button
+  if (closeBtn) {
+    closeBtn.addEventListener('click', function() {
+      bar.classList.add('fsb-hidden');
+      try { sessionStorage.setItem('fsb_closed', '1'); } catch(e) {}
+    });
+    try {
+      if (sessionStorage.getItem('fsb_closed') === '1') {
+        bar.classList.add('fsb-hidden');
+      }
+    } catch(e) {}
+  }
+
+  function getCartTotal() {
+    var total = 0;
+    var els = document.querySelectorAll('.zappy-cart-total, .cart-subtotal-value, .cart-subtotal .amount, [data-cart-total]');
+    for (var i = 0; i < els.length; i++) {
+      var v = parseFloat(els[i].textContent.replace(/[^\d.]/g, ''));
+      if (v > 0) { total = v; break; }
+    }
+    if (total === 0 && window.ZAPPY_CART && window.ZAPPY_CART.total) {
+      total = window.ZAPPY_CART.total;
+    }
+    if (total === 0) {
+      var countEl = document.querySelector('.cart-count');
+      if (countEl) {
+        var c = parseInt(countEl.textContent, 10) || 0;
+        if (c > 0) total = c * 50;
+      }
+    }
+    return total;
+  }
+
+  function updateBar() {
+    var total = getCartTotal();
+    if (total >= THRESHOLD) {
+      msgEl.innerHTML = FREE_MSG;
+      msgEl.classList.add('fsb-reached');
+      fillEl.style.width = '100%';
+    } else {
+      var remaining = THRESHOLD - total;
+      var pct = Math.min((total / THRESHOLD) * 100, 99);
+      msgEl.innerHTML = '<span class="fsb-amount">' + remaining.toFixed(0) + '₪</span> נשארו למשלוח חינם';
+      msgEl.classList.remove('fsb-reached');
+      fillEl.style.width = pct + '%';
+    }
+  }
+
+  updateBar();
+  setInterval(updateBar, 1500);
+
+  document.addEventListener('zappy:cart-updated', updateBar);
+  document.addEventListener('cart-updated', updateBar);
+
+  try {
+    window.addEventListener('storage', function(e) {
+      if (e.key && (e.key.indexOf('cart') !== -1 || e.key.indexOf('zappy') !== -1)) updateBar();
+    });
+  } catch(e) {}
+
+  var cartCount = document.querySelector('.cart-count');
+  if (cartCount) {
+    var obs = new MutationObserver(updateBar);
+    obs.observe(cartCount, { characterData: true, subtree: true, childList: true });
+  }
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:1a3915c5f4b6 */
+
+/* ZAPPY_CUSTOM_JS_START:8e78a796d3e4 */
+(function () {
+  function __zappyCustomInit() {
+    try {
+(function() {
+  // Wait for script.js to finish, then override
+  window.addEventListener('load', function() {
+    setTimeout(function() {
+      var bar = document.querySelector('.zappy-announcement-bar');
+      if (!bar) return;
+      
+      var msgs = [
+        'משלוח מהיר לכל הארץ | 3-5 ימי עסקים',
+        'משלוח חינם מעל ₪299',
+        'איסוף עצמי מראש העין',
+        'תשלום מאובטח'
+      ];
+      
+      // Clear existing
+      var ticker = bar.querySelector('.zappy-announcement-ticker');
+      if (!ticker) {
+        ticker = document.createElement('div');
+        ticker.className = 'zappy-announcement-ticker';
+        bar.innerHTML = '';
+        bar.appendChild(ticker);
+      } else {
+        ticker.innerHTML = '';
+      }
+      
+      // Build messages
+      msgs.forEach(function(msg, i) {
+        var span = document.createElement('span');
+        span.className = 'zappy-announcement-message' + (i === 0 ? ' active' : '');
+        span.textContent = msg;
+        ticker.appendChild(span);
+      });
+      
+      // Start rotation
+      if (window.__zappyAnnouncementRotateTimer) {
+        clearInterval(window.__zappyAnnouncementRotateTimer);
+      }
+      var current = 0;
+      var items = ticker.querySelectorAll('.zappy-announcement-message');
+      window.__zappyAnnouncementRotateTimer = setInterval(function() {
+        items[current].classList.remove('active');
+        current = (current + 1) % items.length;
+        items[current].classList.add('active');
+      }, 4000);
+    }, 800);
+  });
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:8e78a796d3e4 */
+
+;
 /* ==ZAPPY E-COMMERCE JS START== */
 // E-commerce functionality
 (function() {
@@ -10222,7 +10405,12 @@ window.__zappyScheduleDynamicProductGridsDiscountRefresh = scheduleDynamicProduc
 /* ZAPPY_RELATED_PRODUCTS_FETCH_GUARD_V1 */
 
 // Load featured products on home page (uses public storefront API)
-// Only shows products marked as "featured" - no fallback to all products
+// Only shows products marked as "featured" - no fallback to all products.
+// Pages through EVERY featured product (Park Toys: 213) so the homepage
+// never drops cards; each page is 12 so first paint cannot freeze the tab.
+// V2 prefetches the next page as soon as the current one renders so
+// scrolling to the section bottom does not wait on a cold fetch.
+// V3 drops a rejected prefetch so a later scroll starts a fresh fetch.
 async function loadFeaturedProducts() {
   const grid = document.getElementById('zappy-featured-products');
   if (!grid) return;
@@ -10242,30 +10430,121 @@ async function loadFeaturedProducts() {
   } catch (e) {}
   
   const t = {"products":"מוצרים","ourProducts":"המוצרים שלנו","featuredProducts":"מוצרים מומלצים","noFeaturedProducts":"עוד לא נבחרו מוצרים מומלצים. צפו בכל המוצרים שלנו!","featuredCategories":"קנו לפי קטגוריה","all":"הכל","featured":"מומלצים","new":"חדשים","sale":"מבצעים","loadingProducts":"טוען מוצרים...","cart":"עגלת קניות","yourCart":"עגלת הקניות שלך","emptyCart":"העגלה ריקה","total":"סה\"כ","proceedToCheckout":"המשך לתשלום","checkout":"תשלום","customerInfo":"פרטי לקוח","fullName":"שם מלא","email":"אימייל","phone":"טלפון","shippingAddress":"כתובת למשלוח","street":"רחוב ומספר","streetAndNumber":"רחוב ומספר","apartment":"דירה, קומה, כניסה","apartmentExt":"דירה, קומה, קוד בניין, הערות וכו'","city":"עיר","zip":"מיקוד","zipPostal":"מיקוד","countryRegion":"מדינה / אזור","stateProvince":"מדינה / מחוז","stateRequired":"נא לבחור מדינה / מחוז","saveAddressForNextTime":"שמור את הכתובת לפעם הבאה","shippingMethod":"שיטת משלוח","loadingShipping":"טוען שיטות משלוח...","payment":"תשלום","loadingPayment":"טוען אפשרויות תשלום...","orderSummary":"סיכום הזמנה","subtotal":"סכום ביניים","vat":"מע\"מ","vatIncluded":"כולל מע\"מ","shipping":"משלוח","pickup":"איסוף","discount":"הנחה","bundleDiscount":"הנחת חבילה","seasonalDiscount":"הנחה עונתית","customerDiscount":"הנחת לקוח","totalToPay":"סה\"כ לתשלום","placeOrder":"בצע הזמנה","login":"התחברות","customerLogin":"התחברות לקוחות","enterEmail":"הזן את כתובת האימייל שלך ונשלח לך קוד התחברות","emailAddress":"כתובת אימייל","sendCode":"שלח קוד","enterCode":"הזן את הקוד שנשלח לאימייל שלך","verificationCode":"קוד אימות","verify":"אמת","returnPolicy":"מדיניות החזרות","addToCart":"הוסף לעגלה","startingAt":"החל מ","addedToCart":"המוצר נוסף לעגלה!","remove":"הסר","noProducts":"אין מוצרים להצגה כרגע","errorLoading":"שגיאה בטעינה","days":"ימים","currency":"₪","free":"חינם","freeAbove":"משלוח חינם מעל","noShippingMethods":"אין אפשרויות משלוח זמינות","viewAllResults":"הצג את כל התוצאות","searchProducts":"חיפוש מוצרים","searchResults":"תוצאות חיפוש","productDetails":"פרטי המוצר","viewDetails":"לפרטים נוספים","inStock":"במלאי","outOfStock":"אזל מהמלאי","pleaseSelect":"נא לבחור","sku":"מק\"ט","category":"קטגוריה","relatedProducts":"מוצרים דומים","frequentlyBoughtTogether":"לרכוש יחד","frequentlyBoughtTogetherSubtitle":"הוספת מוצרים נלווים לעגלה","bundleTotal":"סה\"כ לעגלה","addBundleToCart":"הוספת {count} מוצרים לעגלה","upsellFree":"חינם","productNotFound":"המוצר לא נמצא","backToProducts":"חזרה למוצרים","home":"בית","quantity":"כמות","unitLabels":{"piece":"יח'","kg":"ק\"ג","gram":"גרם","liter":"ליטר","ml":"מ\"ל"},"perUnit":"/","couponCode":"קוד קופון","enterCouponCode":"הזן קוד קופון","applyCoupon":"החל","removeCoupon":"הסר","couponApplied":"הקופון הוחל בהצלחה!","invalidCoupon":"קוד קופון לא תקין","couponExpired":"הקופון פג תוקף","couponMinOrder":"סכום הזמנה מינימלי","alreadyHaveAccount":"כבר יש לך חשבון?","loginHere":"התחבר כאן","signInHere":"התחבר כאן","mobileNumber":"מספר טלפון","loggedInAs":"מחובר כ:","logout":"התנתק","haveCouponCode":"יש לי קוד קופון","agreeToTerms":"אני מסכים/ה ל","termsAndConditions":"תנאי השימוש","pleaseAcceptTerms":"נא לאשר את תנאי השימוש","nameRequired":"נא להזין שם מלא","emailRequired":"נא להזין כתובת אימייל","emailInvalid":"כתובת אימייל לא תקינה","phoneRequired":"נא להזין מספר טלפון","shippingRequired":"נא לבחור שיטת משלוח","streetRequired":"נא להזין רחוב ומספר","cityRequired":"נא להזין עיר","paymentNotConfigured":"תשלום מקוון לא מוגדר","orderSuccess":"ההזמנה התקבלה!","thankYouOrder":"תודה על ההזמנה","orderNumber":"מספר הזמנה","orderConfirmation":"אישור הזמנה נשלח לאימייל שלך","orderProcessing":"ההזמנה שלך בטיפול. נעדכן אותך כשהמשלוח יצא לדרך.","continueShopping":"להמשך קניות","next":"הבא","contactInformation":"פרטי התקשרות","items":"פריטים","continueToHomePage":"המשך לדף הבית","transactionDate":"תאריך עסקה","paymentMethod":"אמצעי תשלום","orderDetails":"פרטי ההזמנה","loadingOrder":"טוען פרטי הזמנה...","orderNotFound":"לא נמצאה הזמנה","paymentNotCompleted":"התשלום לא הושלם","paymentNotCompletedDesc":"התשלום לא הושלם ולכן לא נוצרה הזמנה. לא בוצע חיוב בכרטיס שלך. ניתן לנסות שוב.","backToCheckout":"חזרה לתשלום","orderItems":"פריטים בהזמנה","paidAmount":"סכום ששולם","myAccount":"החשבון שלי","accountWelcome":"ברוך הבא","yourOrders":"ההזמנות שלך","noOrders":"אין עדיין הזמנות","orderDate":"תאריך","orderStatus":"סטטוס","orderTotal":"סה\"כ","viewOrder":"צפה בהזמנה","statusPending":"ממתין לתשלום","statusPaid":"שולם","statusProcessing":"בטיפול","statusShipped":"נשלח","statusDelivered":"נמסר","statusCancelled":"בוטל","notLoggedIn":"לא מחובר","pleaseLogin":"יש להתחבר כדי לצפות בחשבון","personalDetails":"פרטים אישיים","editProfile":"עריכת פרופיל","name":"שם","saveChanges":"שמור שינויים","cancel":"ביטול","addresses":"כתובות","addAddress":"הוסף כתובת","editAddress":"ערוך כתובת","deleteAddress":"מחק כתובת","setAsDefault":"הגדר כברירת מחדל","defaultAddress":"כתובת ברירת מחדל","addressLabel":"שם הכתובת","work":"עבודה","other":"אחר","noAddresses":"אין כתובות שמורות","confirmDelete":"האם אתה בטוח שברצונך למחוק?","profileUpdated":"הפרופיל עודכן בהצלחה","addressSaved":"הכתובת נשמרה בהצלחה","addressDeleted":"הכתובת נמחקה","saving":"שומר...","saveToFavorites":"שמור למועדפים","removeFromFavorites":"הסר ממועדפים","shareProduct":"שתף מוצר","linkCopied":"הקישור הועתק!","myFavorites":"המועדפים שלי","noFavorites":"אין עדיין מוצרים מועדפים","addedToFavorites":"נוסף למועדפים","removedFromFavorites":"הוסר מהמועדפים","loginToFavorite":"יש להתחבר כדי לשמור מועדפים","browseFavorites":"גלו את כל המוצרים שלנו","selectVariant":"בחר אפשרות","variantUnavailable":"לא זמין","enterQuantities":"הזינו כמויות","color":"צבע","size":"מידה","material":"חומר","style":"סגנון","weight":"משקל","capacity":"קיבולת","length":"אורך","inquiryAbout":"פנייה בנושא","sendInquiry":"שלח פנייה","callNow":"התקשר עכשיו","specifications":"מפרט טכני","storeNote":"מידע נוסף","businessPhone":"035035058","businessEmail":"bitoni1212\u0040gmail.com"};
-  
-  try {
-    // Only fetch featured products - no fallback, with language support
-    const res = await fetch(buildApiUrlWithLang('/api/ecommerce/storefront/products?websiteId=' + websiteId + '&featured=true'));
-    const data = await res.json();
-    if (!data.success || !data.data?.length) {
-      // Show a preview-only onboarding CTA only when the entire store has no products.
-      if (data.success && await zappyHasAnyStorefrontProducts() === false) {
-        grid.innerHTML = zappyRenderPreviewEmptyStoreCta(t.noProducts || 'No products to display', 'no-featured-products');
-      } else {
-        grid.innerHTML = '<div class="no-featured-products">' + (t.noFeaturedProducts || 'No featured products yet. Check out all our products!') + '</div>';
-      }
-      return;
+  var HOME_FEATURED_PRODUCTS_PAGE_SIZE = 12;
+  var offset = 0;
+  var loadingMore = false;
+  var allLoaded = false;
+  var loadedIds = Object.create(null);
+  var observer = null;
+  var inFlight = null;
+
+  function removeFeaturedLazySentinel() {
+    var el = grid.querySelector('[data-zappy-featured-lazy-sentinel]');
+    if (el && el.parentNode) el.parentNode.removeChild(el);
+    if (observer) {
+      observer.disconnect();
+      observer = null;
     }
-    var featuredList = data.data;
-    if (additionalJsSortOutOfStockLast && typeof window.sortProductsOutOfStockLast === 'function') {
-      featuredList = window.sortProductsOutOfStockLast(featuredList);
-    }
-    renderProductGrid(grid, featuredList, t, true);
-  } catch (e) {
-    console.error('Failed to load featured products', e);
-    grid.innerHTML = '<div class="empty-cart">' + t.errorLoading + '</div>';
   }
+
+  function ensureFeaturedLazySentinel() {
+    var el = grid.querySelector('[data-zappy-featured-lazy-sentinel]');
+    if (!el) {
+      el = document.createElement('div');
+      el.setAttribute('data-zappy-featured-lazy-sentinel', '1');
+      el.className = 'zappy-featured-lazy-sentinel';
+      el.setAttribute('aria-hidden', 'true');
+      el.style.cssText = 'grid-column:1/-1;width:100%;height:1px;';
+      grid.appendChild(el);
+    }
+    if (typeof IntersectionObserver === 'function') {
+      if (observer) observer.disconnect();
+      observer = new IntersectionObserver(function(entries) {
+        for (var i = 0; i < entries.length; i++) {
+          if (entries[i].isIntersecting) {
+            fetchFeaturedPage(false);
+            break;
+          }
+        }
+      }, { root: null, rootMargin: '2500px 0px', threshold: 0 });
+      observer.observe(el);
+    } else {
+      setTimeout(function() { fetchFeaturedPage(false); }, 0);
+    }
+  }
+
+  function fetchFeaturedJson(pageOffset) {
+    return fetch(buildApiUrlWithLang('/api/ecommerce/storefront/products?websiteId=' + websiteId + '&featured=true&limit=' + HOME_FEATURED_PRODUCTS_PAGE_SIZE + '&offset=' + pageOffset)).then(function(res) {
+      return res.json();
+    });
+  }
+
+  function startFeaturedPrefetch(pageOffset) {
+    if (allLoaded) return;
+    if (inFlight && inFlight.offset === pageOffset) return;
+    var pendingPrefetch = { offset: pageOffset, promise: fetchFeaturedJson(pageOffset) };
+    inFlight = pendingPrefetch;
+    pendingPrefetch.promise.catch(function() {
+      if (inFlight === pendingPrefetch) inFlight = null;
+    });
+  }
+
+  async function fetchFeaturedPage(replace) {
+    if (loadingMore || allLoaded) return;
+    loadingMore = true;
+    try {
+      var data;
+      var pending = (inFlight && inFlight.offset === offset) ? inFlight : { offset: offset, promise: fetchFeaturedJson(offset) };
+      inFlight = pending;
+      try {
+        data = await pending.promise;
+      } finally {
+        if (inFlight === pending) inFlight = null;
+      }
+      var pageItems = (data && data.success && Array.isArray(data.data)) ? data.data : [];
+      if (replace && !pageItems.length) {
+        if (data && data.success && await zappyHasAnyStorefrontProducts() === false) {
+          grid.innerHTML = zappyRenderPreviewEmptyStoreCta(t.noProducts || 'No products to display', 'no-featured-products');
+        } else {
+          grid.innerHTML = '<div class="no-featured-products">' + (t.noFeaturedProducts || 'No featured products yet. Check out all our products!') + '</div>';
+        }
+        allLoaded = true;
+        return;
+      }
+      var featuredList = pageItems.filter(function(p) {
+        if (!p || !p.id || loadedIds[p.id]) return false;
+        loadedIds[p.id] = true;
+        return true;
+      });
+      if (additionalJsSortOutOfStockLast && typeof window.sortProductsOutOfStockLast === 'function') {
+        featuredList = window.sortProductsOutOfStockLast(featuredList);
+      }
+      if (featuredList.length) {
+        renderProductGrid(grid, featuredList, t, true, undefined, !replace);
+      }
+      offset += pageItems.length;
+      var total = data && typeof data.total === 'number' ? data.total : null;
+      if (!pageItems.length || pageItems.length < HOME_FEATURED_PRODUCTS_PAGE_SIZE || (total != null && offset >= total)) {
+        allLoaded = true;
+        removeFeaturedLazySentinel();
+      } else {
+        ensureFeaturedLazySentinel();
+        startFeaturedPrefetch(offset);
+      }
+    } catch (e) {
+      if (replace) {
+        console.error('Failed to load featured products', e);
+        grid.innerHTML = '<div class="empty-cart">' + t.errorLoading + '</div>';
+        allLoaded = true;
+      }
+    } finally {
+      loadingMore = false;
+    }
+  }
+
+  await fetchFeaturedPage(true);
 }
+/* ZAPPY_HOME_FEATURED_PRODUCTS_LAZY_V3 */
 
 // Load featured categories on home page (uses public storefront API)
 // Only shows categories marked as "featured" with images
@@ -10477,7 +10756,7 @@ async function syncProductDetailCustomerDiscount() {
   }
 }
 
-function renderProductGrid(grid, products, t, isFeaturedSection, viewMode) {
+function renderProductGrid(grid, products, t, isFeaturedSection, viewMode, append) {
   // Card layout is now Standard (square) or Portrait (tall); legacy
   // compact/detailed map to standard.
   var layout = (additionalJsProductLayout === 'portrait') ? 'portrait' : 'standard';
@@ -10491,7 +10770,7 @@ function renderProductGrid(grid, products, t, isFeaturedSection, viewMode) {
   var localizedAddToCart = getEcomText('addToCart', t.addToCart);
   var localizedViewDetails = getEcomText('viewDetails', t.viewDetails);
   
-  grid.innerHTML = products.map(p => {
+  var cardsHtml = products.map(p => {
     // Check if price should be displayed (default to true if not set)
     const showPrice = p.custom_fields?.showPrice !== false;
     const hasSalePrice = p.sale_price && parseFloat(p.sale_price) < parseFloat(p.price);
@@ -10598,6 +10877,14 @@ function renderProductGrid(grid, products, t, isFeaturedSection, viewMode) {
 
     return '<div class="product-card ' + layout + cardOosClass + '" data-product-id="' + p.id + '">' + cardContent + '</div>';
   }).join('');
+
+  if (append) {
+    var lazySentinel = grid.querySelector('[data-zappy-featured-lazy-sentinel]');
+    if (lazySentinel) lazySentinel.insertAdjacentHTML('beforebegin', cardsHtml);
+    else grid.insertAdjacentHTML('beforeend', cardsHtml);
+  } else {
+    grid.innerHTML = cardsHtml;
+  }
 
   window.zappyAfterCardsRendered(grid);
 }
@@ -14477,186 +14764,6 @@ async function loadRelatedProducts(currentProduct, t) {
 }
 /* ==ZAPPY E-COMMERCE JS END== */
 
-/* ZAPPY_CUSTOM_JS_START:1a3915c5f4b6 */
-(function () {
-  function __zappyCustomInit() {
-    try {
-(function() {
-  var THRESHOLD = 299;
-  var SHIPPING_COST = 35;
-  var FREE_MSG = 'יש לך משלוח חינם! 🎉';
-
-  // Create bar if not already present
-  if (document.getElementById('free-shipping-bar')) return;
-
-  var bar = document.createElement('div');
-  bar.id = 'free-shipping-bar';
-  bar.className = 'free-shipping-bar';
-  bar.setAttribute('dir', 'rtl');
-  bar.innerHTML = 
-    '<div class="fsb-inner">' +
-      '<div class="fsb-icon-wrap">' +
-        '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' +
-          '<path d="M1 12h14l-2 6h10L22 6H15L13 0H5l2 6H1l2 6z"/>' +
-        '</svg>' +
-      '</div>' +
-      '<div class="fsb-msg" id="fsb-msg"><span class="fsb-amount">299₪</span> נשארו למשלוח חינם</div>' +
-      '<div class="fsb-track"><div class="fsb-fill" id="fsb-fill"></div><div class="fsb-marker"><span class="fsb-marker-label">משלוח חינם</span></div></div>' +
-    '</div>' +
-    '<button class="fsb-close-btn" id="fsb-close-btn" aria-label="סגור">' +
-      '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M18 6L6 18M6 6l12 12"/></svg>' +
-    '</button>';
-
-  document.body.appendChild(bar);
-
-  // Elements
-  var msgEl = document.getElementById('fsb-msg');
-  var fillEl = document.getElementById('fsb-fill');
-  var closeBtn = document.getElementById('fsb-close-btn');
-
-  if (!msgEl || !fillEl) return;
-
-  // Close button
-  if (closeBtn) {
-    closeBtn.addEventListener('click', function() {
-      bar.classList.add('fsb-hidden');
-      try { sessionStorage.setItem('fsb_closed', '1'); } catch(e) {}
-    });
-    try {
-      if (sessionStorage.getItem('fsb_closed') === '1') {
-        bar.classList.add('fsb-hidden');
-      }
-    } catch(e) {}
-  }
-
-  function getCartTotal() {
-    var total = 0;
-    var els = document.querySelectorAll('.zappy-cart-total, .cart-subtotal-value, .cart-subtotal .amount, [data-cart-total]');
-    for (var i = 0; i < els.length; i++) {
-      var v = parseFloat(els[i].textContent.replace(/[^\d.]/g, ''));
-      if (v > 0) { total = v; break; }
-    }
-    if (total === 0 && window.ZAPPY_CART && window.ZAPPY_CART.total) {
-      total = window.ZAPPY_CART.total;
-    }
-    if (total === 0) {
-      var countEl = document.querySelector('.cart-count');
-      if (countEl) {
-        var c = parseInt(countEl.textContent, 10) || 0;
-        if (c > 0) total = c * 50;
-      }
-    }
-    return total;
-  }
-
-  function updateBar() {
-    var total = getCartTotal();
-    if (total >= THRESHOLD) {
-      msgEl.innerHTML = FREE_MSG;
-      msgEl.classList.add('fsb-reached');
-      fillEl.style.width = '100%';
-    } else {
-      var remaining = THRESHOLD - total;
-      var pct = Math.min((total / THRESHOLD) * 100, 99);
-      msgEl.innerHTML = '<span class="fsb-amount">' + remaining.toFixed(0) + '₪</span> נשארו למשלוח חינם';
-      msgEl.classList.remove('fsb-reached');
-      fillEl.style.width = pct + '%';
-    }
-  }
-
-  updateBar();
-  setInterval(updateBar, 1500);
-
-  document.addEventListener('zappy:cart-updated', updateBar);
-  document.addEventListener('cart-updated', updateBar);
-
-  try {
-    window.addEventListener('storage', function(e) {
-      if (e.key && (e.key.indexOf('cart') !== -1 || e.key.indexOf('zappy') !== -1)) updateBar();
-    });
-  } catch(e) {}
-
-  var cartCount = document.querySelector('.cart-count');
-  if (cartCount) {
-    var obs = new MutationObserver(updateBar);
-    obs.observe(cartCount, { characterData: true, subtree: true, childList: true });
-  }
-})();
-    } catch (e) {
-      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
-    }
-  }
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
-  } else {
-    __zappyCustomInit();
-  }
-})();
-/* ZAPPY_CUSTOM_JS_END:1a3915c5f4b6 */
-
-/* ZAPPY_CUSTOM_JS_START:8e78a796d3e4 */
-(function () {
-  function __zappyCustomInit() {
-    try {
-(function() {
-  // Wait for script.js to finish, then override
-  window.addEventListener('load', function() {
-    setTimeout(function() {
-      var bar = document.querySelector('.zappy-announcement-bar');
-      if (!bar) return;
-      
-      var msgs = [
-        'משלוח מהיר לכל הארץ | 3-5 ימי עסקים',
-        'משלוח חינם מעל ₪299',
-        'איסוף עצמי מראש העין',
-        'תשלום מאובטח'
-      ];
-      
-      // Clear existing
-      var ticker = bar.querySelector('.zappy-announcement-ticker');
-      if (!ticker) {
-        ticker = document.createElement('div');
-        ticker.className = 'zappy-announcement-ticker';
-        bar.innerHTML = '';
-        bar.appendChild(ticker);
-      } else {
-        ticker.innerHTML = '';
-      }
-      
-      // Build messages
-      msgs.forEach(function(msg, i) {
-        var span = document.createElement('span');
-        span.className = 'zappy-announcement-message' + (i === 0 ? ' active' : '');
-        span.textContent = msg;
-        ticker.appendChild(span);
-      });
-      
-      // Start rotation
-      if (window.__zappyAnnouncementRotateTimer) {
-        clearInterval(window.__zappyAnnouncementRotateTimer);
-      }
-      var current = 0;
-      var items = ticker.querySelectorAll('.zappy-announcement-message');
-      window.__zappyAnnouncementRotateTimer = setInterval(function() {
-        items[current].classList.remove('active');
-        current = (current + 1) % items.length;
-        items[current].classList.add('active');
-      }, 4000);
-    }, 800);
-  });
-})();
-    } catch (e) {
-      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
-    }
-  }
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
-  } else {
-    __zappyCustomInit();
-  }
-})();
-/* ZAPPY_CUSTOM_JS_END:8e78a796d3e4 */
-
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
@@ -15770,8 +15877,11 @@ async function loadRelatedProducts(currentProduct, t) {
       if (toggle.__zappyMobileToggleBound) return;
       toggle.__zappyMobileToggleBound = true;
 
-      // Repair baked open-icon styles when the menu is actually closed.
-      if (!menuIsOpen(navMenu)) setClosedIcons(toggle);
+      // Always start closed. A save while the overlay was open bakes
+      // .nav-menu.active into HTML; repairing icons alone leaves the panel up.
+      closeMenu(navMenu);
+      setClosedIcons(toggle);
+      document.body.style.overflow = '';
 
       toggle.addEventListener('click', function(e) {
         e.preventDefault();
@@ -20494,12 +20604,12 @@ function fixContrast(){
   // declaration merging that was eating the standalone CSS injection.
   function ensureRuntimeCssInjected() {
     var existing = document.getElementById('zappy-ecom-routing-runtime-css');
-    if (existing && existing.getAttribute('data-v') === '31') return;
+    if (existing && existing.getAttribute('data-v') === '32') return;
     if (existing) existing.remove();
     var style = document.createElement('style');
     style.id = 'zappy-ecom-routing-runtime-css';
     style.setAttribute('data-zappy-runtime', 'ecom-routing');
-    style.setAttribute('data-v', '31');
+    style.setAttribute('data-v', '32');
     style.textContent =
       '@media (min-width: 769px){' +
         'html[dir="ltr"] .nav-container > .nav-brand,body[dir="ltr"] .nav-container > .nav-brand,html[dir="ltr"] .nav-right-group > .nav-brand,body[dir="ltr"] .nav-right-group > .nav-brand{order:-1!important}' +
@@ -20549,6 +20659,9 @@ function fixContrast(){
         '.zappy-products-dropdown>.sub-menu .zappy-nav-parent>a,.zappy-products-dropdown>.sub-menu .zappy-nav-parent>.menu-group-title{font-weight:700!important}' +
         '.zappy-products-dropdown>.sub-menu .zappy-nav-child>a,.zappy-products-dropdown>.sub-menu .zappy-nav-child>.menu-group-title{padding-left:36px!important;padding-right:16px!important;font-size:.94em!important;opacity:.85!important}' +
         'html[dir="rtl"] .zappy-products-dropdown>.sub-menu .zappy-nav-child>a,body[dir="rtl"] .zappy-products-dropdown>.sub-menu .zappy-nav-child>a,html[dir="rtl"] .zappy-products-dropdown>.sub-menu .zappy-nav-child>.menu-group-title,body[dir="rtl"] .zappy-products-dropdown>.sub-menu .zappy-nav-child>.menu-group-title{padding-left:16px!important;padding-right:36px!important}' +
+        '.navbar .nav-menu:not(.active):not(.open),nav.navbar .nav-menu:not(.active):not(.open),#navMenu:not(.active):not(.open){visibility:hidden!important;opacity:0!important;pointer-events:none!important}' +
+        '.navbar .nav-menu:not(.active):not(.open) *,nav.navbar .nav-menu:not(.active):not(.open) *,#navMenu:not(.active):not(.open) *{visibility:hidden!important;pointer-events:none!important}' +
+        '.navbar .nav-menu:not(.active):not(.open) .sub-menu,nav.navbar .nav-menu:not(.active):not(.open) .sub-menu,#navMenu:not(.active):not(.open) .sub-menu{display:none!important}' +
       '}';
     (document.head || document.documentElement).appendChild(style);
   }
@@ -22897,28 +23010,32 @@ function withConsent(category, callback) {
   [300, 1000, 2500].forEach(function(ms){ setTimeout(boot, ms); });
 })();
 
-/* ZAPPY_MOBILE_MENU_CLOSED_ICONS_V1 */
+/* ZAPPY_MOBILE_MENU_CLOSED_ICONS_V2 */
 (function(){
-  if (window.__zappyMobileMenuClosedIconsV1) return;
-  window.__zappyMobileMenuClosedIconsV1 = true;
-  function reset() {
-    var toggle = document.querySelector('.mobile-toggle, #mobileToggle');
-    if (!toggle) return;
+  if (window.__zappyMobileMenuClosedIconsV2) return;
+  window.__zappyMobileMenuClosedIconsV2 = true;
+  function closeBaked() {
     var menu = document.querySelector('#navMenu, .nav-menu, .navbar-menu');
-    var isOpen = !!(menu && (menu.classList.contains('active') || menu.classList.contains('open') || menu.style.display === 'block'));
-    if (isOpen) return;
-    toggle.classList.remove('active');
-    var hi = toggle.querySelector('.hamburger-icon');
-    var ci = toggle.querySelector('.close-icon');
-    if (hi) hi.style.setProperty('display', 'block', 'important');
-    if (ci) ci.style.setProperty('display', 'none', 'important');
+    if (menu) {
+      menu.classList.remove('active');
+      menu.classList.remove('open');
+      menu.style.removeProperty('display');
+    }
+    var toggle = document.querySelector('.mobile-toggle, #mobileToggle');
+    if (toggle) {
+      toggle.classList.remove('active');
+      if (toggle.setAttribute) toggle.setAttribute('aria-expanded', 'false');
+      var hi = toggle.querySelector('.hamburger-icon');
+      var ci = toggle.querySelector('.close-icon');
+      if (hi) hi.style.setProperty('display', 'block', 'important');
+      if (ci) ci.style.setProperty('display', 'none', 'important');
+    }
+    document.body.style.overflow = '';
   }
+  closeBaked();
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', reset);
-  } else {
-    reset();
+    document.addEventListener('DOMContentLoaded', closeBaked, { once: true });
   }
-  [50, 200, 500].forEach(function(ms){ setTimeout(reset, ms); });
 })();
 
 
