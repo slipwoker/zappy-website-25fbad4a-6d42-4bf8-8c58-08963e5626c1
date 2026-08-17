@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 479** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 480** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### גולבול
+https://parktoys.co.il/product/gvlbvl-oyt6ib
+- Price: 60.00 ILS
+- Availability: In stock
+- Category: משחקי יצירה
+- Description: גולבול מבית סטופר Stoper - goal ball גולבול הופך כל סבב למשחק אסטרטגיה קצבי בין התקפה להגנה. הילדים לומדים לבחור מהלכים, לשלוט במתח ולפעול מהר כדי להכניס גולים לפני כולם. הקלפים המיוחדים יוצרים הפתעות בלתי צפויות — התקפה כפולה, חטיפה, VAR ומהלכים שמשנים את הכול ברגע. המשחק מתאים לערבים משפחתיים, לחברים ולילדים שאוהבים בוסט של אנדרנלין במשחקים שלהם. למה זה כל כך מוצלח אצל הורים? מוציא אנרגיה בצורה חכמה הילדים מפעילים חשיבה, תכנון ואסטרטגיה — אבל מרגישים שהם במשחק כדורגל אמיתי.
+- Image: https://parktoys.co.il/assets/product-enhanced-1786986020704-exxwqu.webp
 
 ### תפוס ת'מיקרופון
 https://parktoys.co.il/product/tpvs-tmykrvpvn-5qtgan
@@ -1664,14 +1672,6 @@ https://parktoys.co.il/product/havtvbvs-hchkm-avtvbvs-myvn-tsvrvt-ncu95k
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: משחקים ולומדים! צורות צבעים בעלי חיים שני מצבי פעולה: צורות וצבעים בעלי חיים שלושה שירים מקוריים בעברית: שיר הזברה שיר האריה שיר הגירפה מצב מעודד זחילה עם ליווי של 15 המנגינות שירים ישראלים קלאסיים – האוטובוס נוסע!
 - Image: https://parktoys.co.il/assets/product-enhanced-1784718417638-slmlep.webp
-
-### הליכון פעילות
-https://parktoys.co.il/product/hlykvn-paylvt-084eb5
-- Price: 120.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: הליכון פעילות צבעוני ומהנה המסייע לתינוק בשלבי ההתפתחות הראשונים ומשלב משחק, למידה ותנועה. ההליכון כולל מגוון פעילויות אינטראקטיביות, גלגלי שיניים מסתובבים, כפתורים, מוזיקה ואפקטים מהנים שיעסיקו את הקטנטנים לאורך זמן. תיאור ועיצוב העיצוב היציב והידית הנוחה מסייעים לעידוד הליכה ראשונית בצורה בטוחה ומהנה. תכונות מסייע בפיתוח יציבות ושיווי משקל גלגלי שיניים מסתובבים אורות, מוזיקה וצלילים כפתורים ומשחקי פעילות מעודד מוטוריקה עדינה וקואורדינציה ידית אחיזה נוחה לתינוק מתאים למשחק וללמידה מגיל צעיר
-- Image: https://parktoys.co.il/assets/product-enhanced-1784718266815-en3r0m.webp
 
 ---
 

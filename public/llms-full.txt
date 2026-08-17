@@ -4185,6 +4185,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### גולבול
+URL: https://parktoys.co.il/product/gvlbvl-oyt6ib
+Price: 60.00 ILS
+Availability: In stock
+
+---
+
 ### תפוס ת'מיקרופון
 URL: https://parktoys.co.il/product/tpvs-tmykrvpvn-5qtgan
 Price: 120.00 ILS
