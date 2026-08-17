@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-17T10:14:34.591Z",
+  "generated_at": "2026-08-17T12:24:12.823Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 467,
+  "count": 468,
   "products": [
+    {
+      "id": "8dd3fd2d-631a-4f1f-8471-36370a46ef3b",
+      "slug": "marz-3-pazlym-b-1-spyydrmn-lwlz80",
+      "name": "מארז 3 פאזלים ב 1 ספיידרמן",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מארז 3 פאזלים של ספיידרמן בקופסא אחת\nפאשל של 20 חלקים פאזל 36 חלקים ופאזל 50 חלקים",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786969348356-4tpha7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/marz-3-pazlym-b-1-spyydrmn-lwlz80",
+      "categories": [],
+      "updated_at": "2026-08-17T12:23:38.878Z"
+    },
     {
       "id": "5fcbb58e-8bd9-442f-9920-c6f395df3348",
       "slug": "mshayt-chshmlyt-avtsmtyt-lyldym-mbyt-caterpillar-zaugpa",

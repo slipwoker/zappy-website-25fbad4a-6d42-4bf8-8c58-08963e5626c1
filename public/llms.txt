@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 467** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 468** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מארז 3 פאזלים ב 1 ספיידרמן
+https://parktoys.co.il/product/marz-3-pazlym-b-1-spyydrmn-lwlz80
+- Price: 50.00 ILS
+- Availability: In stock
+- Description: מארז 3 פאזלים של ספיידרמן בקופסא אחת פאשל של 20 חלקים פאזל 36 חלקים ופאזל 50 חלקים
+- Image: https://parktoys.co.il/assets/product-enhanced-1786969348356-4tpha7.webp
 
 ### משאית חשמלית עוצמתית לילדים מבית Caterpillar
 https://parktoys.co.il/product/mshayt-chshmlyt-avtsmtyt-lyldym-mbyt-caterpillar-zaugpa
@@ -1662,14 +1669,6 @@ https://parktoys.co.il/product/palvlvn-chyvt-htsprda-ziu5e2
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: האריה שואג, הציפור מצייצת, והצפרדע שבפעלולון - קורצת! פעלולון מדליק לקטנטנים, עם חרוזים וצורות בשלל צבעים וטקסטורות ומשפטים משעשעים בעברית. מגיל 6 חודשים
 - Image: https://parktoys.co.il/assets/product-1784710680147-64lih.webp
-
-### גלגל האנגלית
-https://parktoys.co.il/product/glgl-hanglyt-y7l8zg
-- Price: 149.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: הפתעה בכל לחיצה וסיבוב: לימוד מילים, אותיות, חיות, קולות, צלילים ומנגינות. 26 מילים בסיסיות באנגלית ● הקראה ותרגול של מילים חידות ושאלות בשפה האנגלית ● שירים ומנגינות קלאסיות לגירוי קוגניטיבי ● מוצר זה מופעל באמצעות 3 סוללות AA מתאים מגיל 18 חודשים ומעלה 2 עוצמות קול
-- Image: https://parktoys.co.il/assets/product-1784710379240-k5eeau.webp
 
 ---
 
