@@ -79,9 +79,10 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 468** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### מארז 3 פאזלים ב 1 ספיידרמן
-https://parktoys.co.il/product/marz-3-pazlym-b-1-spyydrmn-lwlz80
+https://parktoys.co.il/product/marz-3-pazlym-b-1-spyydrmn-7how7w
 - Price: 50.00 ILS
 - Availability: In stock
+- Category: פאזלים
 - Description: מארז 3 פאזלים של ספיידרמן בקופסא אחת פאשל של 20 חלקים פאזל 36 חלקים ופאזל 50 חלקים
 - Image: https://parktoys.co.il/assets/product-enhanced-1786969348356-4tpha7.webp
 

@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-17T12:38:53.243Z",
+  "generated_at": "2026-08-17T12:39:37.777Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 468,
   "products": [
     {
       "id": "8dd3fd2d-631a-4f1f-8471-36370a46ef3b",
-      "slug": "marz-3-pazlym-b-1-spyydrmn-lwlz80",
+      "slug": "marz-3-pazlym-b-1-spyydrmn-7how7w",
       "name": "מארז 3 פאזלים ב 1 ספיידרמן",
       "name_translations": {},
       "description": "",
@@ -23,9 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/marz-3-pazlym-b-1-spyydrmn-lwlz80",
-      "categories": [],
-      "updated_at": "2026-08-17T12:23:38.878Z"
+      "url": "https://parktoys.co.il/product/marz-3-pazlym-b-1-spyydrmn-7how7w",
+      "categories": [
+        "פאזלים"
+      ],
+      "updated_at": "2026-08-17T12:39:04.135Z"
     },
     {
       "id": "5fcbb58e-8bd9-442f-9920-c6f395df3348",
