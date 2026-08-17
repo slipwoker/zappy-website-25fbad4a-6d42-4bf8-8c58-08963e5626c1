@@ -23265,6 +23265,17 @@ main,
   font-size: inherit !important;
   white-space: nowrap !important;
 }
+
+@media (max-width: 768px) {
+.featured-products-section [class*="price"],
+  .featured-products-section [class*="Price"],
+  .products-section [class*="price"],
+  .products-section [class*="Price"] {
+  font-size: 0.82rem !important;
+  line-height: 1.2 !important;
+  white-space: nowrap !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,

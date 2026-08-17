@@ -14764,6 +14764,48 @@ async function loadRelatedProducts(currentProduct, t) {
 }
 /* ==ZAPPY E-COMMERCE JS END== */
 
+/* ZAPPY_CUSTOM_JS_START:07b748f73d79 */
+(function () {
+  function __zappyCustomInit() {
+    try {
+(function () {
+  function isMobile() {
+    return window.innerWidth <= 768;
+  }
+  function shrinkPrices() {
+    if (!isMobile()) { return; }
+    var candidates = document.querySelectorAll(
+      '.product-card [class*="price"], .product-card [class*="Price"], ' +
+      '.product-card-body [class*="price"], .product-card-body [class*="Price"]'
+    );
+    candidates.forEach(function (el) {
+      el.style.fontSize = '0.82rem';
+      el.style.lineHeight = '1.2';
+      el.style.whiteSpace = 'nowrap';
+    });
+  }
+  var timer = setInterval(function () {
+    if (document.querySelector('.product-card:not(.product-card-skeleton), .product-card [class*="price"], .product-card [class*="Price"]')) {
+      shrinkPrices();
+    }
+  }, 500);
+  window.addEventListener('load', shrinkPrices);
+  window.addEventListener('resize', shrinkPrices);
+  // Stop polling after a while to avoid running forever
+  setTimeout(function () { clearInterval(timer); }, 15000);
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:07b748f73d79 */
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
