@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 471** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### סט של 2 פאזלים של סטיץ בשילוב דפי ממו
-https://parktoys.co.il/product/st-shl-2-pazlym-shl-styts-bshylvb-dpy-mmv-r4qq67
+https://parktoys.co.il/product/st-shl-2-pazlym-shl-styts-bshylvb-dpy-mmv-foujug
 - Price: 50.00 ILS
 - Availability: In stock
 - Category: פאזלים

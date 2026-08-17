@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-17T13:32:59.049Z",
+  "generated_at": "2026-08-17T13:41:24.862Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 471,
   "products": [
     {
       "id": "cd88a9f7-4459-42a6-a00a-26502a896ba5",
-      "slug": "st-shl-2-pazlym-shl-styts-bshylvb-dpy-mmv-r4qq67",
+      "slug": "st-shl-2-pazlym-shl-styts-bshylvb-dpy-mmv-foujug",
       "name": "סט של 2 פאזלים של סטיץ בשילוב דפי ממו",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/st-shl-2-pazlym-shl-styts-bshylvb-dpy-mmv-r4qq67",
+      "url": "https://parktoys.co.il/product/st-shl-2-pazlym-shl-styts-bshylvb-dpy-mmv-foujug",
       "categories": [
         "פאזלים"
       ],
-      "updated_at": "2026-08-17T13:32:24.960Z"
+      "updated_at": "2026-08-17T13:40:45.941Z"
     },
     {
       "id": "96a7d11f-e0df-4c6c-bd4f-2e1d42aa4e07",
