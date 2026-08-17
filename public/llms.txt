@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 476** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 477** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### היטסטר בינגו - Hitster Bingo
+https://parktoys.co.il/product/hytstr-byngv-hitster-bingo-f8wrnc
+- Price: 200.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: היטסטר בינגו בעברית מבית סטופרHitster Bingo - Stoper לא כל משחק טריוויה מצליח להרים את כולם מהספה. היטסטר בינגו משלב מוזיקה, תחרות ובינגו בחוויה קצבית שמכניסה את כל המשתתפים למשחק כבר מהשיר הראשון. בגרסה העברית תיהנו ממיטב הלהיטים הישראליים לצד להיטים בינלאומיים מכל הזמנים, עם שתי רמות קושי שמתאימות גם לשחקנים חדשים וגם לחובבי מוזיקה אמיתיים.
+- Image: https://parktoys.co.il/assets/product-enhanced-1786984059096-2sr59c.webp
 
 ### פאזל תלת מימד 201 חלקים מלחמת הכוכבים – R2-D2
 https://parktoys.co.il/product/pazl-tlt-mymd-201-chlkym-mlchmt-hkvkbym-r2-d2-i70pl8
@@ -1664,14 +1672,6 @@ https://parktoys.co.il/product/ksht-paylvt-chyvt-vchyvkym-qc167d
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: חיות וחיוכים והקטנים שמחים! קשת פעילות צבעונית ומאירת עיניים המתחברת בקלות לעגלה, לטרמפולינה ולסל-קל, עם שלוש דמויות חייכניות ושמש מראה, המזמינות להושיט יד ולגעת בהן, למשש, למשוך ולהניע מצד לצד. מסייעת להתפתחות באמצעות הפעלות צבעים ודמויות כוללת צעצועים בעלי הפעלות מגוונות לפיתוח חושים והיכולות המוטוריות של התינוק.
 - Image: https://parktoys.co.il/assets/product-1784714685778-cvwlu.webp
-
-### התנור הראשון שלי דובר עברית
-https://parktoys.co.il/product/htnvr-hrashvn-shly-dvbr-abryt-teqzfy
-- Price: 189.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: אופים צעירים - חממו את התנורים! מריחים את ניחוח המאפים המשגע הזה? הוא מגיע מהתנור הראשון שלי כמובן, התנור שהופך כל אופה חובב לשף קונדיטור! עם אורות וצלילים, מגוון אביזרי אפיה מקצועיים, שעון דיגיטלי, מדבקות, איורים ועובדות מרתקות על מקורות המזון, התנור הראשון שלי הוא צעצוע חובה לכל הילדים שמתעניינים בבישול ואוהבים אוכל טעים ומזין! חוויה קולינרית מיניאטורית דובר עברית! 25 חלקים 2 מגשים, סכין כף ומזלג שעון דיגיטלי מעודד סבלנות ותחושת זמן עובדות מעניינות על מקורות המזון ומרכיביו שני מצבי ווליום לשלי
-- Image: https://parktoys.co.il/assets/product-1784714533945-kqgwr.webp
 
 ---
 

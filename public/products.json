@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-17T16:11:11.958Z",
+  "generated_at": "2026-08-17T16:28:27.019Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 476,
+  "count": 477,
   "products": [
+    {
+      "id": "3c39644b-9125-46f7-87ad-13a86f1dd8c4",
+      "slug": "hytstr-byngv-hitster-bingo-f8wrnc",
+      "name": "היטסטר בינגו - Hitster Bingo",
+      "name_translations": {},
+      "description": "",
+      "short_description": "היטסטר בינגו בעברית מבית סטופרHitster Bingo - Stoper    לא כל משחק טריוויה מצליח להרים את כולם מהספה.\nהיטסטר בינגו משלב מוזיקה, תחרות ובינגו בחוויה קצבית שמכניסה את כל המשתתפים למשחק כבר מהשיר הראשון.\nבגרסה העברית תיהנו ממיטב הלהיטים הישראליים לצד להיטים בינלאומיים מכל הזמנים, עם שתי רמות קושי שמתאימות גם לשחקנים חדשים וגם לחובבי מוזיקה אמיתיים.",
+      "sku": null,
+      "brand": null,
+      "price": 200,
+      "base_price": 200,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786984059096-2sr59c.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/hytstr-byngv-hitster-bingo-f8wrnc",
+      "categories": [
+        "משחקי חברה"
+      ],
+      "updated_at": "2026-08-17T16:27:51.496Z"
+    },
     {
       "id": "5f113e06-0f56-4798-9318-aba5e07fa569",
       "slug": "pazl-tlt-mymd-201-chlkym-mlchmt-hkvkbym-r2-d2-i70pl8",
