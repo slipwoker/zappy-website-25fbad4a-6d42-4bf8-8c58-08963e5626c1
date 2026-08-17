@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-17T14:42:09.440Z",
+  "generated_at": "2026-08-17T14:55:22.686Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 474,
+  "count": 475,
   "products": [
+    {
+      "id": "7e0503aa-c3ae-46e3-af71-0fd116f23a87",
+      "slug": "mvdl-lbnyh-tlt-mmdy-batmvbyl-mbyt-4d-build-v9iv89",
+      "name": "מודל לבניה תלת-ממדי באטמוביל מבית 4D Build",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הרכיבו את רכב גיבור העל האייקוני!\nפאזל תלת מימד מאתגר ומרשים של הבאטמוביל, שיעניק לכם חווית בנייה מהנה ובסיומה דגם מרהיב לתצוגה.\n\nמומלץ עבור\nמושלם לחובבי פאזלים ומעריצי באטמן.",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786978041398-xb78l.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mvdl-lbnyh-tlt-mmdy-batmvbyl-mbyt-4d-build-v9iv89",
+      "categories": [
+        "פאזלים"
+      ],
+      "updated_at": "2026-08-17T14:54:23.409Z"
+    },
     {
       "id": "b42daaa4-1247-4487-a2cd-57a2f1efbefb",
       "slug": "pazl-hmtvs-mhsrt-hnvkmym-zhqd0b",

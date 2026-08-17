@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 474** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 475** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מודל לבניה תלת-ממדי באטמוביל מבית 4D Build
+https://parktoys.co.il/product/mvdl-lbnyh-tlt-mmdy-batmvbyl-mbyt-4d-build-v9iv89
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: פאזלים
+- Description: הרכיבו את רכב גיבור העל האייקוני! פאזל תלת מימד מאתגר ומרשים של הבאטמוביל, שיעניק לכם חווית בנייה מהנה ובסיומה דגם מרהיב לתצוגה. מומלץ עבור מושלם לחובבי פאזלים ומעריצי באטמן.
+- Image: https://parktoys.co.il/assets/product-enhanced-1786978041398-xb78l.webp
 
 ### פאזל המטוס מהסרט הנוקמים
 https://parktoys.co.il/product/pazl-hmtvs-mhsrt-hnvkmym-zhqd0b
@@ -1664,13 +1672,6 @@ https://parktoys.co.il/product/mvbyyl-tsypvrym-nyyd-855jpk
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: למיטה, לעגלה או לתיק מחברים - ונהנים מציוץ הציפורים! מובייל ציפורים צבעוניות הניתן לחיבור בשלושה אופנים שונים ומשמיע נעימות מרגיעות עם אפשרות לנגינה רצופה של 30 דקות. חברו אותו למיטה, לעגלה, למושב המכונית או לתיק ותנו לציפורים החמודות לעשות את שלהן… 10 מנגינות ערש מרגיעות מסתובבת 360 מעלות גירוי ויזואלי באמצעות דמויות וצבעים 3 אפשרויות חיבור קלות ונוחות 30 דקות נגינה מגיל לידה
 - Image: https://parktoys.co.il/assets/product-1784714399720-mdqwt4.webp
-
-### מובייל לעגלה – חיות וחיוכים
-https://parktoys.co.il/product/mvbyyl-laglh-chyvt-vchyvkym-u3x7so
-- Price: 169.00 ILS
-- Availability: In stock
-- Description: מחברים לעגלה וכל טיול הופך נפלא! הכירו את המלווים החדשים שלכם לטיולים בעגלה - כלב, שועל, שמש וענן - ארבעה חברים חמודים וחייכנים! הם מסתובבים באיטיות, שרים שירי ערש בעברית, משמיעים מנגינות מרגיעות, ומשמחים ומרגיעים כל פעוט. מסקרן את התינוק בצבעים ומנגינות נעימות זרוע מתכווננת לחיבור קל ומהיר 2 מצבי הפעלה: מסתובב/ מסתובב ומנגן
-- Image: https://parktoys.co.il/assets/product-1784714000613-95ud6f.webp
 
 ---
 
