@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 476** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### פאזל תלת מימד 201 חלקים מלחמת הכוכבים – R2-D2
-https://parktoys.co.il/product/pazl-tlt-mymd-201-chlkym-mlchmt-hkvkbym-r2-d2-ltzfar
+https://parktoys.co.il/product/pazl-tlt-mymd-201-chlkym-mlchmt-hkvkbym-r2-d2-zs8dmm
 - Price: 50.00 ILS
 - Availability: In stock
 - Category: פאזלים
