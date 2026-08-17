@@ -79,8 +79,8 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 474** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### פאזל המטוס מהסרט הנוקמים
-https://parktoys.co.il/product/pazl-hmtvs-mhsrt-hnvkmym-8pdzng
-- Price: 29.90 ILS
+https://parktoys.co.il/product/pazl-hmtvs-mhsrt-hnvkmym-w34o3e
+- Price: 29.90 ILS (sale, was 70.00 ILS)
 - Availability: In stock
 - Category: פאזלים
 - Description: מודל לבניה תלת-ממדי מארוול הנוקמים - 4D Build

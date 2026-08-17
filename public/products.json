@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-17T14:33:18.992Z",
+  "generated_at": "2026-08-17T14:39:29.080Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 474,
   "products": [
     {
       "id": "b42daaa4-1247-4487-a2cd-57a2f1efbefb",
-      "slug": "pazl-hmtvs-mhsrt-hnvkmym-8pdzng",
+      "slug": "pazl-hmtvs-mhsrt-hnvkmym-w34o3e",
       "name": "פאזל המטוס מהסרט הנוקמים",
       "name_translations": {},
       "description": "",
@@ -15,19 +15,19 @@
       "sku": null,
       "brand": null,
       "price": 29.9,
-      "base_price": 29.9,
-      "sale_price": null,
+      "base_price": 70,
+      "sale_price": 29.9,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1786977114956-otjttg.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/pazl-hmtvs-mhsrt-hnvkmym-8pdzng",
+      "url": "https://parktoys.co.il/product/pazl-hmtvs-mhsrt-hnvkmym-w34o3e",
       "categories": [
         "פאזלים"
       ],
-      "updated_at": "2026-08-17T14:32:44.314Z"
+      "updated_at": "2026-08-17T14:38:52.047Z"
     },
     {
       "id": "c9fabf17-50f8-44ff-b5f3-a9330be5bd3d",
