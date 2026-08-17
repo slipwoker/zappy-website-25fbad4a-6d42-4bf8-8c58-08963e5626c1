@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 472** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 473** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מודל לבניה תלת-ממדי הארי פוטר הרמיוני מבית 4D Build
+https://parktoys.co.il/product/mvdl-lbnyh-tlt-mmdy-hary-pvtr-hrmyvny-mbyt-4d-build-6cj7i1
+- Price: 29.99 ILS
+- Availability: In stock
+- Category: פאזלים
+- Description: הרכיבו את הרמיוני גריינג'ר, המכשפה המבריקה והאהובה מסדרת הארי פוטר, בפאזל תלת מימד מרהיב! חווית הרכבה קסומה ומהנה שתוסיף קסם לכל חדר.
+- Image: https://parktoys.co.il/assets/product-enhanced-1786976731773-6ee845.webp
 
 ### סט של 2 פאזלים של דמויות הנוקמים עם דפי ממו
 https://parktoys.co.il/product/st-shl-2-pazlym-shl-dmvyvt-hnvkmym-am-dpy-mmv-tn59i4
@@ -1663,14 +1671,6 @@ https://parktoys.co.il/product/rapr-hbrvvz-mavdd-zchylh-dvbr-abryt-rm2mdz
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: ברווז המעודד זחילה וריקוד הכי מדליק שיש כל הבית ירקוד ללא הפסקה לקצב מוזיקלי היפ הופ עם ראפר הברווז! 2 עוצמות קול אורות , תנועה מוזיקה מדליקה מופעל באמצעות 3 סוללות AA גיל 18+M
 - Image: https://parktoys.co.il/assets/product-enhanced-1784713616145-2z88v.webp
-
-### משחק זיכרון וזריזות 2 ב 1 גדול – דובר עברית
-https://parktoys.co.il/product/mshchk-zykrvn-vzryzvt-2-b-1-gdvl-dvbr-abryt-lkg70h
-- Price: 79.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: משחקים ומשפרים את הזיכרון והזריזות גרסה חדשה ומשודרגת! לשיפור הזריזות וקואורדינציה שיפר היכולות הקוגניטיביות מעל 30 שלבי משחק אלופי הזיכרון: מסתכלים, זוכרים וחוזרים על המהלכים לפי הסדר! בכל שלב יתווסף לרצף מהלך נוסף, זכרו את רצף המהלכים וחזרו אחריהם. אלופי הזריזות: יש ללחוץ במהירות על הלחצנים הנדלקים. כולל תצוגה דיגיטלית של השלב במשחק. מופעל באמצעות סוללות 2*AA מגיל 3+
-- Image: https://parktoys.co.il/assets/product-1784712906006-cjtic.webp
 
 ---
 
