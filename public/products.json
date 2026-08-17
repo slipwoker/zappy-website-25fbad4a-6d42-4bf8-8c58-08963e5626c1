@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-17T14:39:29.080Z",
+  "generated_at": "2026-08-17T14:40:13.319Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 474,
@@ -31,27 +31,27 @@
     },
     {
       "id": "c9fabf17-50f8-44ff-b5f3-a9330be5bd3d",
-      "slug": "mvdl-lbnyh-tlt-mmdy-hary-pvtr-hrmyvny-mbyt-4d-build-6cj7i1",
+      "slug": "mvdl-lbnyh-tlt-mmdy-hary-pvtr-hrmyvny-mbyt-4d-build-nq2j0b",
       "name": "מודל לבניה תלת-ממדי הארי פוטר הרמיוני מבית 4D Build",
       "name_translations": {},
       "description": "",
       "short_description": "הרכיבו את הרמיוני גריינג'ר, המכשפה המבריקה והאהובה מסדרת הארי פוטר, בפאזל תלת מימד מרהיב! חווית הרכבה קסומה ומהנה שתוסיף קסם לכל חדר.",
       "sku": null,
       "brand": null,
-      "price": 29.99,
-      "base_price": 29.99,
-      "sale_price": null,
+      "price": 29.9,
+      "base_price": 70,
+      "sale_price": 29.9,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1786976731773-6ee845.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mvdl-lbnyh-tlt-mmdy-hary-pvtr-hrmyvny-mbyt-4d-build-6cj7i1",
+      "url": "https://parktoys.co.il/product/mvdl-lbnyh-tlt-mmdy-hary-pvtr-hrmyvny-mbyt-4d-build-nq2j0b",
       "categories": [
         "פאזלים"
       ],
-      "updated_at": "2026-08-17T14:25:50.427Z"
+      "updated_at": "2026-08-17T14:39:37.434Z"
     },
     {
       "id": "452c7f0f-b359-4ed8-a69b-cf07def0575a",
