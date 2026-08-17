@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-17T14:55:22.686Z",
+  "generated_at": "2026-08-17T15:10:10.773Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 475,
+  "count": 476,
   "products": [
+    {
+      "id": "5f113e06-0f56-4798-9318-aba5e07fa569",
+      "slug": "pazl-tlt-mymd-201-chlkym-mlchmt-hkvkbym-r2-d2-ltzfar",
+      "name": "פאזל תלת מימד 201 חלקים מלחמת הכוכבים – R2-D2",
+      "name_translations": {},
+      "description": "",
+      "short_description": "פאזל תלת מימד מלחמת הכוכבים – R2-D2 מבית Spin Master.\nצאו להרפתקת בנייה כיפית עם פריט תצוגה מדויק של מלחמת הכוכבים R2-D2 .\nעם פרטים מרובים ומדויקים, בתוספת דבק ומעמד, קל להרכבה וניתן לתצוגה.\nכולל 201 חלקים. אין צורך בכלים נוספים!",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786979361266-krkcxs.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/pazl-tlt-mymd-201-chlkym-mlchmt-hkvkbym-r2-d2-ltzfar",
+      "categories": [
+        "פאזלים"
+      ],
+      "updated_at": "2026-08-17T15:09:35.683Z"
+    },
     {
       "id": "7e0503aa-c3ae-46e3-af71-0fd116f23a87",
       "slug": "mvdl-lbnyh-tlt-mmdy-batmvbyl-mbyt-4d-build-v9iv89",
