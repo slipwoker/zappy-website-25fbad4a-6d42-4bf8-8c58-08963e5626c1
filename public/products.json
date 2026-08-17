@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-17T13:24:38.776Z",
+  "generated_at": "2026-08-17T13:32:59.049Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 470,
+  "count": 471,
   "products": [
+    {
+      "id": "cd88a9f7-4459-42a6-a00a-26502a896ba5",
+      "slug": "st-shl-2-pazlym-shl-styts-bshylvb-dpy-mmv-r4qq67",
+      "name": "סט של 2 פאזלים של סטיץ בשילוב דפי ממו",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סט של 2 פרזלים של סטיץ אחד עם 30 חלקים ואחד 48 חלקים בשילוב עם 24 דפי ממו",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1786973368624-gczsek.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/st-shl-2-pazlym-shl-styts-bshylvb-dpy-mmv-r4qq67",
+      "categories": [
+        "פאזלים"
+      ],
+      "updated_at": "2026-08-17T13:32:24.960Z"
+    },
     {
       "id": "96a7d11f-e0df-4c6c-bd4f-2e1d42aa4e07",
       "slug": "st-2-pazlym-shl-prvzn-am-dpy-mmv-2v191e",
