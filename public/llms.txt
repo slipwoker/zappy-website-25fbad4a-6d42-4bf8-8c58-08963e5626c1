@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 473** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 474** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### פאזל המטוס מהסרט הנוקמים
+https://parktoys.co.il/product/pazl-hmtvs-mhsrt-hnvkmym-8pdzng
+- Price: 29.90 ILS
+- Availability: In stock
+- Category: פאזלים
+- Description: מודל לבניה תלת-ממדי מארוול הנוקמים - 4D Build
+- Image: https://parktoys.co.il/assets/product-enhanced-1786977114956-otjttg.webp
 
 ### מודל לבניה תלת-ממדי הארי פוטר הרמיוני מבית 4D Build
 https://parktoys.co.il/product/mvdl-lbnyh-tlt-mmdy-hary-pvtr-hrmyvny-mbyt-4d-build-6cj7i1
@@ -1663,14 +1671,6 @@ https://parktoys.co.il/product/mvbyyl-laglh-chyvt-vchyvkym-u3x7so
 - Availability: In stock
 - Description: מחברים לעגלה וכל טיול הופך נפלא! הכירו את המלווים החדשים שלכם לטיולים בעגלה - כלב, שועל, שמש וענן - ארבעה חברים חמודים וחייכנים! הם מסתובבים באיטיות, שרים שירי ערש בעברית, משמיעים מנגינות מרגיעות, ומשמחים ומרגיעים כל פעוט. מסקרן את התינוק בצבעים ומנגינות נעימות זרוע מתכווננת לחיבור קל ומהיר 2 מצבי הפעלה: מסתובב/ מסתובב ומנגן
 - Image: https://parktoys.co.il/assets/product-1784714000613-95ud6f.webp
-
-### ראפר הברווז – מעודד זחילה דובר עברית
-https://parktoys.co.il/product/rapr-hbrvvz-mavdd-zchylh-dvbr-abryt-rm2mdz
-- Price: 119.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: ברווז המעודד זחילה וריקוד הכי מדליק שיש כל הבית ירקוד ללא הפסקה לקצב מוזיקלי היפ הופ עם ראפר הברווז! 2 עוצמות קול אורות , תנועה מוזיקה מדליקה מופעל באמצעות 3 סוללות AA גיל 18+M
-- Image: https://parktoys.co.il/assets/product-enhanced-1784713616145-2z88v.webp
 
 ---
 

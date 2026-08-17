@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-17T14:26:24.132Z",
+  "generated_at": "2026-08-17T14:33:18.992Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 473,
+  "count": 474,
   "products": [
+    {
+      "id": "b42daaa4-1247-4487-a2cd-57a2f1efbefb",
+      "slug": "pazl-hmtvs-mhsrt-hnvkmym-8pdzng",
+      "name": "פאזל המטוס מהסרט הנוקמים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מודל לבניה תלת-ממדי מארוול הנוקמים - 4D Build\n",
+      "sku": null,
+      "brand": null,
+      "price": 29.9,
+      "base_price": 29.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786977114956-otjttg.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/pazl-hmtvs-mhsrt-hnvkmym-8pdzng",
+      "categories": [
+        "פאזלים"
+      ],
+      "updated_at": "2026-08-17T14:32:44.314Z"
+    },
     {
       "id": "c9fabf17-50f8-44ff-b5f3-a9330be5bd3d",
       "slug": "mvdl-lbnyh-tlt-mmdy-hary-pvtr-hrmyvny-mbyt-4d-build-6cj7i1",
