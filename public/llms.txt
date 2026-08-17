@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 471** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 472** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### סט של 2 פאזלים של דמויות הנוקמים עם דפי ממו
+https://parktoys.co.il/product/st-shl-2-pazlym-shl-dmvyvt-hnvkmym-am-dpy-mmv-tn59i4
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: פאזלים
+- Description: סט של 2 פאזלים עם דמויות הנוקמים אחד של 30 חלקים ואחד של 48 חלקים בתוספת של דפי ממו
+- Image: https://parktoys.co.il/assets/product-enhanced-1786974240115-kfikg9.webp
 
 ### סט של 2 פאזלים של סטיץ בשילוב דפי ממו
 https://parktoys.co.il/product/st-shl-2-pazlym-shl-styts-bshylvb-dpy-mmv-foujug
@@ -1663,14 +1671,6 @@ https://parktoys.co.il/product/mshchk-zykrvn-vzryzvt-2-b-1-gdvl-dvbr-abryt-lkg70
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: משחקים ומשפרים את הזיכרון והזריזות גרסה חדשה ומשודרגת! לשיפור הזריזות וקואורדינציה שיפר היכולות הקוגניטיביות מעל 30 שלבי משחק אלופי הזיכרון: מסתכלים, זוכרים וחוזרים על המהלכים לפי הסדר! בכל שלב יתווסף לרצף מהלך נוסף, זכרו את רצף המהלכים וחזרו אחריהם. אלופי הזריזות: יש ללחוץ במהירות על הלחצנים הנדלקים. כולל תצוגה דיגיטלית של השלב במשחק. מופעל באמצעות סוללות 2*AA מגיל 3+
 - Image: https://parktoys.co.il/assets/product-1784712906006-cjtic.webp
-
-### הטאבלט החכם שלי
-https://parktoys.co.il/product/htablt-hchkm-shly-56t0u2
-- Price: 95.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: טאבלט אינטראקטיבי ללמידה חווייתית המשלב משחקים, שירים ותכנים חינוכיים. מתאים לילדים מגיל שנה ומעלה. מעל 150 פעילויות שונות: משחקים, שירים ומשימות אינטראקטיביות. לימוד אותיות הא’-ב’, מספרים, צבעים וצורות. זיהוי קולות של חיות וצלילים מגוונים. משחקי שאלות ותשובות לפיתוח חשיבה. רגלית מובנית לנוחות שימוש. משחק דובר עברית עוזר בפיתוח מוטוריקה עדינה, זיכרון ויכולת ריכוז פרטים טכניים: גיל שימוש: 12 חודשים ומעלה. הפעלה באמצעות 3 סוללות AAA
-- Image: https://parktoys.co.il/assets/product-1784711573460-n2h8lb.webp
 
 ---
 

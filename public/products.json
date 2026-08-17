@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-17T13:41:24.862Z",
+  "generated_at": "2026-08-17T13:45:18.345Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 471,
+  "count": 472,
   "products": [
+    {
+      "id": "452c7f0f-b359-4ed8-a69b-cf07def0575a",
+      "slug": "st-shl-2-pazlym-shl-dmvyvt-hnvkmym-am-dpy-mmv-tn59i4",
+      "name": "סט של 2 פאזלים של דמויות הנוקמים עם דפי ממו",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סט של 2 פאזלים עם דמויות הנוקמים אחד של 30 חלקים ואחד של 48 חלקים בתוספת של דפי ממו",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786974240115-kfikg9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/st-shl-2-pazlym-shl-dmvyvt-hnvkmym-am-dpy-mmv-tn59i4",
+      "categories": [
+        "פאזלים"
+      ],
+      "updated_at": "2026-08-17T13:44:42.278Z"
+    },
     {
       "id": "cd88a9f7-4459-42a6-a00a-26502a896ba5",
       "slug": "st-shl-2-pazlym-shl-styts-bshylvb-dpy-mmv-foujug",
