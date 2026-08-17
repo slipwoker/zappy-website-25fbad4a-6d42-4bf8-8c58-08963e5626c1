@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 478** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 479** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### תפוס ת'מיקרופון
+https://parktoys.co.il/product/tpvs-tmykrvpvn-5qtgan
+- Price: 120.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: מוכנים להתחרות על המיקרופון? תפוס ת'מיקרופון Grab the Mic הוא משחק המסיבות שיעלה לכם חיוך ענקי על הפנים, גם אם אתם מזייפים כמו חבורת חתולים. זה לא סתם עוד ערב קריוקי, אלא משחק מטורף ומהיר שמבטיח צחוקים ורגעים בלתי נשכחים. איך משחקים? כל שחקן בתורו שולף קלף, והאתגר מתחיל! אולי תצטרכו לשיר שיר מפורסם בצורה מצחיקה, לאלתר שיר תוך כדי תנועות מופרעות, או להשלים מילים חסרות בתוך שיר מוכר. המיקרופון המצחיק עשוי הקצף הוא הכוכב של הערב – כל מי שמוכן לקבל אתגר צריך לתפוס אותו ולהתחיל להופיע!
+- Image: https://parktoys.co.il/assets/product-1786985468445-o6n6ui.webp
 
 ### היטסטר
 https://parktoys.co.il/product/hytstr-ymmcaj
@@ -1664,14 +1672,6 @@ https://parktoys.co.il/product/hlykvn-paylvt-084eb5
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: הליכון פעילות צבעוני ומהנה המסייע לתינוק בשלבי ההתפתחות הראשונים ומשלב משחק, למידה ותנועה. ההליכון כולל מגוון פעילויות אינטראקטיביות, גלגלי שיניים מסתובבים, כפתורים, מוזיקה ואפקטים מהנים שיעסיקו את הקטנטנים לאורך זמן. תיאור ועיצוב העיצוב היציב והידית הנוחה מסייעים לעידוד הליכה ראשונית בצורה בטוחה ומהנה. תכונות מסייע בפיתוח יציבות ושיווי משקל גלגלי שיניים מסתובבים אורות, מוזיקה וצלילים כפתורים ומשחקי פעילות מעודד מוטוריקה עדינה וקואורדינציה ידית אחיזה נוחה לתינוק מתאים למשחק וללמידה מגיל צעיר
 - Image: https://parktoys.co.il/assets/product-enhanced-1784718266815-en3r0m.webp
-
-### קשת התפתחות
-https://parktoys.co.il/product/ksht-htptchvt-mc3sc2
-- Price: 90.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: קשת פעילות צבעונית ורכה הכוללת צעצועים תלויים, רעשנים ודמויות מתוקות לעידוד משחק, סקרנות ופיתוח החושים מגיל לידה. מתאימה לחיבור לעגלה, סלקל, מיטת תינוק ולול. הקשת כוללת דמויות בד רכות, רעשנים, מרקמים שונים וטבעות משחק שיעסיקו את התינוק לאורך זמן ויעודדו תנועת ידיים, תפיסה וקואורדינציה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784718059794-3605wb.webp
 
 ---
 

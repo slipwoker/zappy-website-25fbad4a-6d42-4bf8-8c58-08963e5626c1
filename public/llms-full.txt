@@ -4185,6 +4185,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### תפוס ת'מיקרופון
+URL: https://parktoys.co.il/product/tpvs-tmykrvpvn-5qtgan
+Price: 120.00 ILS
+Availability: In stock
+
+---
+
 ### היטסטר
 URL: https://parktoys.co.il/product/hytstr-ymmcaj
 Price: 120.00 ILS
