@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 480** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### גולבול
-https://parktoys.co.il/product/gvlbvl-oyt6ib
+https://parktoys.co.il/product/gvlbvl-i79sxk
 - Price: 60.00 ILS
 - Availability: In stock
 - Category: משחקי יצירה
