@@ -1,29 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-17T13:17:33.834Z",
+  "generated_at": "2026-08-17T13:24:38.776Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 470,
   "products": [
     {
       "id": "96a7d11f-e0df-4c6c-bd4f-2e1d42aa4e07",
-      "slug": "st-2-pazlym-shl-prvzn-am-dpy-mmv-yqwyue",
+      "slug": "st-2-pazlym-shl-prvzn-am-dpy-mmv-2v191e",
       "name": "סט 2 פאזלים של פרוזן עם דפי ממו",
       "name_translations": {},
-      "description": "",
-      "short_description": null,
+      "description": "<p>סט של שני פאזלים של פרוזן אחד 30 חלקים ואחד 48 חלקים בצירוף 24 דפי ממו</p>",
+      "short_description": "סט של 2 פאזלים של פרוזן 30 חלקים ו 48 חלקים עם דפי ממו",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 49.99,
+      "base_price": 49.99,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786972760100-mzhvsr.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/st-2-pazlym-shl-prvzn-am-dpy-mmv-yqwyue",
-      "categories": [],
-      "updated_at": "2026-08-17T13:16:59.218Z"
+      "url": "https://parktoys.co.il/product/st-2-pazlym-shl-prvzn-am-dpy-mmv-2v191e",
+      "categories": [
+        "פאזלים"
+      ],
+      "updated_at": "2026-08-17T13:24:01.196Z"
     },
     {
       "id": "4f9fb324-78b6-4874-a52a-4704f7eac5ba",

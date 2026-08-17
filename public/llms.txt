@@ -79,9 +79,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 470** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### סט 2 פאזלים של פרוזן עם דפי ממו
-https://parktoys.co.il/product/st-2-pazlym-shl-prvzn-am-dpy-mmv-yqwyue
-- Price: 0.00 ILS
+https://parktoys.co.il/product/st-2-pazlym-shl-prvzn-am-dpy-mmv-2v191e
+- Price: 49.99 ILS
 - Availability: In stock
+- Category: פאזלים
+- Description: סט של 2 פאזלים של פרוזן 30 חלקים ו 48 חלקים עם דפי ממו
+- Image: https://parktoys.co.il/assets/product-enhanced-1786972760100-mzhvsr.webp
 
 ### סט 3 פאזלים בקופסא של סמי הכבאי
 https://parktoys.co.il/product/st-3-pazlym-bkvpsa-shl-smy-hkbay-v4svf3

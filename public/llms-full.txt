@@ -4186,9 +4186,11 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 ## Product Catalog
 
 ### סט 2 פאזלים של פרוזן עם דפי ממו
-URL: https://parktoys.co.il/product/st-2-pazlym-shl-prvzn-am-dpy-mmv-yqwyue
-Price: 0.00 ILS
+URL: https://parktoys.co.il/product/st-2-pazlym-shl-prvzn-am-dpy-mmv-2v191e
+Price: 49.99 ILS
 Availability: In stock
+
+סט של שני פאזלים של פרוזן אחד 30 חלקים ואחד 48 חלקים בצירוף 24 דפי ממו
 
 ---
 
