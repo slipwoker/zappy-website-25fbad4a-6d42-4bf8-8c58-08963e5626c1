@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-17T16:28:27.019Z",
+  "generated_at": "2026-08-17T16:42:12.446Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 477,
+  "count": 478,
   "products": [
+    {
+      "id": "0988bee8-acbc-403b-9d21-376030e74cfd",
+      "slug": "hytstr-ymmcaj",
+      "name": "היטסטר",
+      "name_translations": {},
+      "description": "",
+      "short_description": "היטסטר מבית ג'אמבו - Hitster - הלהיט העולמי, המשחק שמככב בראש רבי המכר משנת 2023 במדינות רבות בעולם, הגיע לישראל. היטסטר עושה את המסיבה עם משחק חברתי כיפי, מקורי, קל ללמידה וחוצה דורות.\n\nמהות המשחק: בנו ציר זמן של להיטים מ-100 השנים האחרונות, כולל להיטים ישראלים מכל הזמנים. מקשיבים לשירים, מסדרים אותם לפי סדר כרונולוגי על ציר הזמן שלכם ויוצרים מסיבה. השירים גם בעברית וגם באנגלית.\n\nאפליקציה ייחודית: למשחק יש אפליקציה מיוחדת חינמית המתבססת על ספוטיפיי. קהל יעד: בעיקר גילאי 20-40, אבל מתאים לכולם! ",
+      "sku": null,
+      "brand": null,
+      "price": 120,
+      "base_price": 120,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786984869761-da8rdb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/hytstr-ymmcaj",
+      "categories": [
+        "משחקי חברה"
+      ],
+      "updated_at": "2026-08-17T16:41:37.852Z"
+    },
     {
       "id": "3c39644b-9125-46f7-87ad-13a86f1dd8c4",
       "slug": "hytstr-byngv-hitster-bingo-f8wrnc",

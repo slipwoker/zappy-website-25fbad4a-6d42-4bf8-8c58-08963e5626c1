@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 477** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 478** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### היטסטר
+https://parktoys.co.il/product/hytstr-ymmcaj
+- Price: 120.00 ILS
+- Availability: In stock
+- Category: משחקי חברה
+- Description: היטסטר מבית ג'אמבו - Hitster - הלהיט העולמי, המשחק שמככב בראש רבי המכר משנת 2023 במדינות רבות בעולם, הגיע לישראל. היטסטר עושה את המסיבה עם משחק חברתי כיפי, מקורי, קל ללמידה וחוצה דורות. מהות המשחק: בנו ציר זמן של להיטים מ-100 השנים האחרונות, כולל להיטים ישראלים מכל הזמנים. מקשיבים לשירים, מסדרים אותם לפי סדר כרונולוגי על ציר הזמן שלכם ויוצרים מסיבה. השירים גם בעברית וגם באנגלית. אפליקציה ייחודית: למשחק יש אפליקציה מיוחדת חינמית המתבססת על ספוטיפיי. קהל יעד: בעיקר גילאי 20-40, אבל מתאים לכולם!
+- Image: https://parktoys.co.il/assets/product-enhanced-1786984869761-da8rdb.webp
 
 ### היטסטר בינגו - Hitster Bingo
 https://parktoys.co.il/product/hytstr-byngv-hitster-bingo-f8wrnc
@@ -1664,14 +1672,6 @@ https://parktoys.co.il/product/ksht-htptchvt-mc3sc2
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: קשת פעילות צבעונית ורכה הכוללת צעצועים תלויים, רעשנים ודמויות מתוקות לעידוד משחק, סקרנות ופיתוח החושים מגיל לידה. מתאימה לחיבור לעגלה, סלקל, מיטת תינוק ולול. הקשת כוללת דמויות בד רכות, רעשנים, מרקמים שונים וטבעות משחק שיעסיקו את התינוק לאורך זמן ויעודדו תנועת ידיים, תפיסה וקואורדינציה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784718059794-3605wb.webp
-
-### קשת פעילות חיות וחיוכים
-https://parktoys.co.il/product/ksht-paylvt-chyvt-vchyvkym-qc167d
-- Price: 139.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: חיות וחיוכים והקטנים שמחים! קשת פעילות צבעונית ומאירת עיניים המתחברת בקלות לעגלה, לטרמפולינה ולסל-קל, עם שלוש דמויות חייכניות ושמש מראה, המזמינות להושיט יד ולגעת בהן, למשש, למשוך ולהניע מצד לצד. מסייעת להתפתחות באמצעות הפעלות צבעים ודמויות כוללת צעצועים בעלי הפעלות מגוונות לפיתוח חושים והיכולות המוטוריות של התינוק.
-- Image: https://parktoys.co.il/assets/product-1784714685778-cvwlu.webp
 
 ---
 
