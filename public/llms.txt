@@ -76,7 +76,12 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 469** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 470** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### סט 2 פאזלים של פרוזן עם דפי ממו
+https://parktoys.co.il/product/st-2-pazlym-shl-prvzn-am-dpy-mmv-yqwyue
+- Price: 0.00 ILS
+- Availability: In stock
 
 ### סט 3 פאזלים בקופסא של סמי הכבאי
 https://parktoys.co.il/product/st-3-pazlym-bkvpsa-shl-smy-hkbay-v4svf3
@@ -1662,14 +1667,6 @@ https://parktoys.co.il/product/glvbvs-hchyvt-hksvm-5joot1
 - Availability: In stock
 - Description: גלובוס החיות הקסום אינטראקטיבי ! מסביב לעולם -7 יבשות מופלאות 7 יבשות 7 שירי ילדים עשרות משפטים לימודיים קלידים וחלקים נשלפים מתאים לגילאי 18 חודשים ומעלה
 - Image: https://parktoys.co.il/assets/product-1784711306299-hn3fgq.webp
-
-### הגה ההפתעות – דובר עברית
-https://parktoys.co.il/product/hgh-hhptavt-dvbr-abryt-1yhgym
-- Price: 139.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: מתניעים, נוסעים, ולומדים מגוון נושאים. ממש כמו ההגה באוטו של אבא ואמא, אבל הרבה יותר משעשע ולימודי… צאו עם הגה ההפתעות לנסיעה מלאה בתכנים ובחוויות משעשעות - משפטים וצלילים מעולם המכוניות, משחקי היכרות עם בעלי חיים, צורות, צבעים, פירות ועוד, שירים בעברית, אורות וצלילים. נסיעה טובה, מהנה ובטוחה לכולם! הגה אינטראקטיבי דובר עברית!! 5 שירים קלאסיים 6 נושאי לימוד 2 עוצמות קול 5 שירים בעברית אורות וצלילים
-- Image: https://parktoys.co.il/assets/product-1784711151027-5t14kc.webp
 
 ---
 

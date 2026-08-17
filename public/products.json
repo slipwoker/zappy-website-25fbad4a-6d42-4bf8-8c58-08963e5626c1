@@ -1,10 +1,30 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-17T12:48:34.596Z",
+  "generated_at": "2026-08-17T13:17:33.834Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 469,
+  "count": 470,
   "products": [
+    {
+      "id": "96a7d11f-e0df-4c6c-bd4f-2e1d42aa4e07",
+      "slug": "st-2-pazlym-shl-prvzn-am-dpy-mmv-yqwyue",
+      "name": "סט 2 פאזלים של פרוזן עם דפי ממו",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/st-2-pazlym-shl-prvzn-am-dpy-mmv-yqwyue",
+      "categories": [],
+      "updated_at": "2026-08-17T13:16:59.218Z"
+    },
     {
       "id": "4f9fb324-78b6-4874-a52a-4704f7eac5ba",
       "slug": "st-3-pazlym-bkvpsa-shl-smy-hkbay-v4svf3",
