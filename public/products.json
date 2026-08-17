@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-17T12:39:37.777Z",
+  "generated_at": "2026-08-17T12:46:57.137Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 468,
+  "count": 469,
   "products": [
+    {
+      "id": "4f9fb324-78b6-4874-a52a-4704f7eac5ba",
+      "slug": "st-3-pazlym-bkvpsa-shl-smy-hkbay-l1w74e",
+      "name": "סט 3 פאזלים בקופסא של סמי הכבאי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סט 3 פאזלים של סמי הכבאי. 20,36 ו50 חלקים",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1786970575854-zbunjp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/st-3-pazlym-bkvpsa-shl-smy-hkbay-l1w74e",
+      "categories": [],
+      "updated_at": "2026-08-17T12:46:17.101Z"
+    },
     {
       "id": "8dd3fd2d-631a-4f1f-8471-36370a46ef3b",
       "slug": "marz-3-pazlym-b-1-spyydrmn-7how7w",

@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 468** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 469** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### סט 3 פאזלים בקופסא של סמי הכבאי
+https://parktoys.co.il/product/st-3-pazlym-bkvpsa-shl-smy-hkbay-l1w74e
+- Price: 50.00 ILS
+- Availability: In stock
+- Description: סט 3 פאזלים של סמי הכבאי. 20,36 ו50 חלקים
+- Image: https://parktoys.co.il/assets/product-enhanced-1786970575854-zbunjp.webp
 
 ### מארז 3 פאזלים ב 1 ספיידרמן
 https://parktoys.co.il/product/marz-3-pazlym-b-1-spyydrmn-7how7w
@@ -1662,14 +1669,6 @@ https://parktoys.co.il/product/hgh-hhptavt-dvbr-abryt-1yhgym
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: מתניעים, נוסעים, ולומדים מגוון נושאים. ממש כמו ההגה באוטו של אבא ואמא, אבל הרבה יותר משעשע ולימודי… צאו עם הגה ההפתעות לנסיעה מלאה בתכנים ובחוויות משעשעות - משפטים וצלילים מעולם המכוניות, משחקי היכרות עם בעלי חיים, צורות, צבעים, פירות ועוד, שירים בעברית, אורות וצלילים. נסיעה טובה, מהנה ובטוחה לכולם! הגה אינטראקטיבי דובר עברית!! 5 שירים קלאסיים 6 נושאי לימוד 2 עוצמות קול 5 שירים בעברית אורות וצלילים
 - Image: https://parktoys.co.il/assets/product-1784711151027-5t14kc.webp
-
-### פעלולון חיות – הצפרדע
-https://parktoys.co.il/product/palvlvn-chyvt-htsprda-ziu5e2
-- Price: 89.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: האריה שואג, הציפור מצייצת, והצפרדע שבפעלולון - קורצת! פעלולון מדליק לקטנטנים, עם חרוזים וצורות בשלל צבעים וטקסטורות ומשפטים משעשעים בעברית. מגיל 6 חודשים
-- Image: https://parktoys.co.il/assets/product-1784710680147-64lih.webp
 
 ---
 
