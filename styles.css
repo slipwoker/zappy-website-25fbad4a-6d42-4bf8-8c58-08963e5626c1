@@ -23242,6 +23242,29 @@ main,
 }
 
 /* ==END ZAPPY V2 E-COMMERCE THEME CSS== */
+
+.featured-products-section .product-price,
+.featured-products-section .price,
+.featured-products-section .sale-price,
+.featured-products-section .original-price,
+.featured-products-section .product-card-price,
+.products-section .product-price,
+.products-section .price,
+.products-section .sale-price,
+.products-section .original-price,
+.products-section .product-card-price {
+  font-size: 1rem !important;
+  white-space: nowrap !important;
+  line-height: 1.2 !important;
+}
+
+.featured-products-section .product-price *,
+.featured-products-section .price *,
+.products-section .product-price *,
+.products-section .price * {
+  font-size: inherit !important;
+  white-space: nowrap !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
@@ -23591,6 +23614,25 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
   max-width: 48px !important;
   padding: 0 !important;
 }
+
+/* ZAPPY_CARD_TAG_COLORS */
+.product-tag.tag-sale { background: #ef4444 !important; color: #fff !important; }
+.product-tag.tag-new { background: #22c55e !important; color: #fff !important; }
+.product-tag.tag-featured { background: #f59e0b !important; color: #fff !important; }
+.product-tag.tag-bestseller { background: #a855f7 !important; color: #fff !important; }
+.product-tag.tag-limited { background: #f43f5e !important; color: #fff !important; }
+.product-tag.tag-eco-friendly { background: #14b8a6 !important; color: #fff !important; }
+.product-tag.tag-color-green { background: #22c55e !important; color: #fff !important; }
+.product-tag.tag-color-red { background: #ef4444 !important; color: #fff !important; }
+.product-tag.tag-color-amber { background: #f59e0b !important; color: #fff !important; }
+.product-tag.tag-color-purple { background: #a855f7 !important; color: #fff !important; }
+.product-tag.tag-color-rose { background: #f43f5e !important; color: #fff !important; }
+.product-tag.tag-color-teal { background: #14b8a6 !important; color: #fff !important; }
+.product-tag.tag-color-sky { background: #0ea5e9 !important; color: #fff !important; }
+.product-tag.tag-color-indigo { background: #6366f1 !important; color: #fff !important; }
+.product-tag.tag-color-orange { background: #f97316 !important; color: #fff !important; }
+.product-tag.tag-color-pink { background: #ec4899 !important; color: #fff !important; }
+.product-tag.tag-color-slate { background: #64748b !important; color: #fff !important; }
 
 
 /* zappy-nav-child-indent */
