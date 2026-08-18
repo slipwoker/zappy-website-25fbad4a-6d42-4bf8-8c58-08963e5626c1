@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 485** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 486** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בובספוג נידו
+https://parktoys.co.il/product/bvbspvg-nydv-g4xafn
+- Price: 15.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Image: https://parktoys.co.il/assets/product-enhanced-1787049400432-xc5h0i.webp
 
 ### חמאה ספוג צבעונית 
 https://parktoys.co.il/product/chmah-spvg-tsbavnyt-kbl0l4
@@ -1662,13 +1669,6 @@ https://parktoys.co.il/product/tsvllvt-kq1neo
 - Availability: In stock
 - Description: הכנה לקרב ימי התכוננו לקרב ימי מותח עם משחק הצוללות הקלאסי! זהו משחק אסטרטגיה, חשיבה ומזל שבו כל שחקן מנסה להטביע את צי הצוללות של היריב. אסטרטגיה וחוכמה מקמו את הצוללות שלכם בחוכמה על לוח המשחק, ונסו לחשוף את מיקום צוללות היריב. המשחק מסייע לפתח חשיבה טקטית, מעודד הסקת מסקנות וחיזוק יכולת ההבחנה. מתח והתרגשות כל תור הוא הזדמנות לפגוע במטרה או להחטיא, מה שמוסיף מתח והתרגשות למשחק. זהו אתגר מושלם שנועד לחדד את כושר הריכוז. מנצח הקרב המנצח הוא השחקן הראשון שמצליח להטביע את כל צי היריב
 - Image: https://parktoys.co.il/assets/product-enhanced-1784720619939-fo1ooz.webp
-
-### בובה אינטראקטיבית בצורת דב קוטב תינוק Club Petz 
-https://parktoys.co.il/product/bvbh-ayntraktybyt-btsvrt-db-kvtb-tynvk-club-petz-coc7h4
-- Price: 150.00 ILS
-- Availability: In stock
-- Description: הכירו את ארטי (Artie), בובת הפרווה האינטראקטיבית, הרכה והמתוקה ביותר שתהפוך מיד לחבר הכי טוב של הקטנטנים שלכם (מגיל שנה ומעלה)! ארטי המקסים מיוצר מחומרים איכותיים ובטוחים לחלוטין לילדים, ומביא איתו חוויית משחק אינטראקטיבית, חמה ומשעשעת המלווה באפקטים קוליים מדליקים: בלחיצה על כף רגלו השמאלית הוא ישמיע קולות מתוקים, ובלחיצה נוספת - או אם תאכילו אותו בקצת יותר מדי מהגלידה האהובה עליו (המקסימה והכלולה בערכה) - הוא יתחיל לרעוד מקור בצורה משעשעת ממש כאילו הוא נמצא בעיצומו של החורף בקוטב הצפוני! כדי ל
-- Image: https://parktoys.co.il/assets/product-enhanced-1784720083009-0vkxi.webp
 
 ---
 
