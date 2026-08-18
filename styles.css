@@ -23299,6 +23299,12 @@ main,
   grid-template-columns: 1fr !important;
   gap: 20px !important;
 }
+
+#tph-hero-slider .home-section-0-section__hero,
+#tph-hero-slider .home-section-0-section__promo,
+#tph-hero-slider .home-section-0-section__trending {
+  background: var(--background-color, var(--background, var(--bg-light, #ffffff))) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
