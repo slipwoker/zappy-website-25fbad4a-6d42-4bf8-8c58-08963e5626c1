@@ -664,6 +664,12 @@
 .home-section-0-section__hero-content {
   position: relative;
   z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  text-align: center;
+  grid-row: 2;
 }
 
 .home-section-0-section__hero-title {
@@ -687,6 +693,7 @@
   border-radius: 20px;
   overflow: hidden;
   box-shadow: 0 16px 48px rgba(0,0,0,0.12);
+  grid-row: 1;
 }
 
 .home-section-0-section__hero-img {
@@ -742,8 +749,9 @@
 .home-section-0-section__promo-content {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
-  gap: 12px;
+  align-items: center;
+  gap: 16px;
+  text-align: center;
 }
 
 .home-section-0-section__promo-title {
@@ -776,8 +784,10 @@
 .home-section-0-section__trending-content {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
-  gap: 12px;
+  align-items: center;
+  gap: 16px;
+  text-align: center;
+  grid-row: 2;
 }
 
 .home-section-0-section__trending-title {
@@ -799,6 +809,7 @@
   border-radius: 16px;
   overflow: hidden;
   box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+  grid-row: 1;
 }
 
 .home-section-0-section__trending-img {
@@ -1101,41 +1112,32 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     
 
     <!-- Hero Summer Banner -->
-    <div class="home-section-0-section__hero">
+    <div class="home-section-0-section__hero"><div class="home-section-0-section__hero-media">
+        <img loading="eager" fetchpriority="high" alt="מוצרי קיץ בפארק הצעצועים" class="home-section-0-section__hero-img" src="/assets/image-1786625434565-ryco8z.webp?v=1786625434565" data-element-type="image" decoding="async" />
+      </div>
       <div class="home-section-0-section__hero-content">
-        <h2 class="home-section-0-section__hero-title">הקיץ הגיע לפארק הצעצועים!</h2>
         <p class="home-section-0-section__hero-text">בריכות, אבובים, גלגלים וכל מה שצריך לכיף במים</p>
         <a href="/category/summer-products" class="home-section-0-section__btn home-section-0-section__btn--primary">לכל מוצרי הקיץ</a>
       </div>
-      <div class="home-section-0-section__hero-media">
-        <img loading="eager" fetchpriority="high" alt="מוצרי קיץ בפארק הצעצועים" class="home-section-0-section__hero-img" src="/assets/image-1786625434565-ryco8z.webp?v=1786625434565" data-placeholder="toy-park-summer-banner" data-context="קולאז׳ קיצי צבעוני עם בריכות מתנפחות, אבובים, גלגלים וצעצועי מים על רקע חוף ים עם דקלים. אווירת קיץ שמחה ואנרגטית, צבעים בוהקים של צהוב, טורקיז וכתום." style="width: 100%; height: 100%; object-fit: cover; object-position: center;" decoding="async" />
-      </div>
-      <div class="home-section-0-section__hero-confetti" aria-hidden="true"></div>
-    </div>
+      <div class="home-section-0-section__hero-confetti" aria-hidden="true"></div></div>
 
     <!-- Scooter Category Card -->
-    <div class="home-section-0-section__promo">
-      <div class="home-section-0-section__promo-media">
-        <img alt="קורקינטים אקרובטיים בפארק הצעצועים" class="home-section-0-section__promo-img" src="/assets/image-1786528131387-w73cvh.webp?v=1786528131387" data-placeholder="toy-park-stunt-scooters-banner" data-context="ילדים מבצעים פעלולים על קורקינטים בסקייטפארק עירוני בשקיעה. אווירת אקסטרים אנרגטית עם תאורה דרמטית, גוונים של שחור, כתום זוהר וכחול חשמלי." style="width: 100%; height: 100%; object-fit: cover; object-position: center;" decoding="async" />
+    <div class="home-section-0-section__promo"><div class="home-section-0-section__promo-media">
+        <img alt="קורקינטים אקרובטיים בפארק הצעצועים" class="home-section-0-section__promo-img" src="/assets/image-1786528131387-w73cvh.webp?v=1786528131387" data-element-type="image" decoding="async" />
       </div>
       <div class="home-section-0-section__promo-content">
-        <h2 class="home-section-0-section__promo-title">קורקינטים אקרובטיים – רק בפארק הצעצועים</h2>
         <p class="home-section-0-section__promo-text">המותגים המובילים במחירים שוברי שוק</p>
-        <a href="/category/wheels" class="home-section-0-section__btn home-section-0-section__btn--secondary" style="color: #1A1A1A !important">לכל הקורקינטים</a>
-      </div>
-    </div>
+        <a href="/category/wheels" class="home-section-0-section__btn home-section-0-section__btn--secondary">לכל הקורקינטים</a>
+      </div></div>
 
     <!-- Trending Card -->
-    <div class="home-section-0-section__trending">
+    <div class="home-section-0-section__trending"><div class="home-section-0-section__trending-media">
+        <img alt="הטרנדים הכי חמים בפארק הצעצועים" class="home-section-0-section__trending-img" src="/assets/image-1786528155616-mib0oq.webp?v=1786528155616" data-element-type="image" decoding="async" />
+      </div>
       <div class="home-section-0-section__trending-content">
-        <h2 class="home-section-0-section__trending-title">כל הטרנדים הכי חמים – רק בפארק הצעצועים!</h2>
         <p class="home-section-0-section__trending-text">סקווישי, דמפלינג, נידו ועוד</p>
         <a href="/category/trending-in-israel" class="home-section-0-section__btn home-section-0-section__btn--accent">לגלות את הטרנדים</a>
-      </div>
-      <div class="home-section-0-section__trending-media">
-        <img alt="הטרנדים הכי חמים בפארק הצעצועים" class="home-section-0-section__trending-img" src="/assets/image-1786528155616-mib0oq.webp?v=1786528155616" data-placeholder="toy-park-trendy-toys-banner" data-context="פיצוץ של צעצועים טרנדיים צבעוניים על רקע גרדיאנט ורוד-סגול-צהוב עז. סקווישים, בובות דמפלינג, צעצועי נידו ועוד. אווירה כיפית, מודרנית, צעירה ומלאת אנרגיה." style="width: 100%; height: 100%; object-fit: cover; object-position: center;" decoding="async" />
-      </div>
-    </div>
+      </div></div>
   </div>
 </section>
 <section class="featured-categories-section" id="featured-categories" data-zappy-dynamic="true"> <div class="container"> <h2 class="section-title">קנו לפי קטגוריה</h2> <div class="category-blocks" id="zappy-featured-categories"><div class="loading-categories"></div></div> </div> </section>
