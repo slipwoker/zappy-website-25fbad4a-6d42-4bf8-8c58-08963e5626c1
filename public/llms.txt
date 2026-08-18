@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 486** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 487** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### פטריק נידו
+https://parktoys.co.il/product/ptryk-nydv-9ncp60
+- Price: 15.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Image: https://parktoys.co.il/assets/product-enhanced-1787049476726-jbsu3.webp
 
 ### בובספוג נידו
 https://parktoys.co.il/product/bvbspvg-nydv-g4xafn
@@ -1662,13 +1669,6 @@ https://parktoys.co.il/product/hmyrvts-larmvn-anlpr2
 - Category: משחקי חברה
 - Description: מירוץ לארמון משחק לפיתוח יכולת מילוי הוראות ולפיתוח המיומנויות החברתיות. המשחק תורם לשיפור התפיסה החזותית מרחבית ולחיזוק קשר עין-יד. המשחק מכיל לוח, 4 כלי משחק וקובייה. כהכנה למשחק הרכיבו את לוח המשחק והניחו אותו על גבי משטח יציב.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784720878678-hk907s.webp
-
-### צוללות
-https://parktoys.co.il/product/tsvllvt-kq1neo
-- Price: 50.00 ILS
-- Availability: In stock
-- Description: הכנה לקרב ימי התכוננו לקרב ימי מותח עם משחק הצוללות הקלאסי! זהו משחק אסטרטגיה, חשיבה ומזל שבו כל שחקן מנסה להטביע את צי הצוללות של היריב. אסטרטגיה וחוכמה מקמו את הצוללות שלכם בחוכמה על לוח המשחק, ונסו לחשוף את מיקום צוללות היריב. המשחק מסייע לפתח חשיבה טקטית, מעודד הסקת מסקנות וחיזוק יכולת ההבחנה. מתח והתרגשות כל תור הוא הזדמנות לפגוע במטרה או להחטיא, מה שמוסיף מתח והתרגשות למשחק. זהו אתגר מושלם שנועד לחדד את כושר הריכוז. מנצח הקרב המנצח הוא השחקן הראשון שמצליח להטביע את כל צי היריב
-- Image: https://parktoys.co.il/assets/product-enhanced-1784720619939-fo1ooz.webp
 
 ---
 

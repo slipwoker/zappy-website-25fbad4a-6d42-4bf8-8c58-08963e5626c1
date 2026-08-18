@@ -4185,6 +4185,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### פטריק נידו
+URL: https://parktoys.co.il/product/ptryk-nydv-9ncp60
+Price: 15.00 ILS
+Availability: In stock
+
+---
+
 ### בובספוג נידו
 URL: https://parktoys.co.il/product/bvbspvg-nydv-g4xafn
 Price: 15.00 ILS
