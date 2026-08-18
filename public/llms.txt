@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 482** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 483** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### 1.KIDI TOUCH 5 דגם גלובלי
+https://parktoys.co.il/product/1kidi-touch-5-dgm-glvbly-xeqbvc
+- Price: 99.00 ILS (sale, was 149.00 ILS)
+- Availability: In stock
+- Description: מותג שעוני הילדים המוביל בעולם מתפקד כטלפון הראשון לילדים בגילאים 3-12 מתחבר לאפליקציה ייעודית במכשיר הטלפון של ההורה ומאפשר מגוון פעולות לתקשורת ואיתור הילד/ה
+- Image: https://parktoys.co.il/assets/product-enhanced-1787042983960-doz3or.webp
 
 ### 1.KIDI TOUCH 5 דגם גלובלי
 https://parktoys.co.il/product/1kidi-touch-5-dgm-glvbly-yswjxp
@@ -1663,14 +1670,6 @@ https://parktoys.co.il/product/marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-1
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: מארז צעצועי התפתחות מעץ מבית Polar B, אוסף של צעצועי עץ איכותיים ומעוצבים בקפידה, שנוצרו במיוחד כדי ללוות את ילדכם בשלבי ההתפתחות החשובים ביותר. המארז מעודד למידה דרך משחק, מפתח חשיבה, מוטוריקה ויצירתיות, ומשלב הנאה, דמיון והתפתחות בכל רגע של משחק. עשוי עץ טבעי וצבעים בטוחים - מתנה מושלמת לילדים סקרנים שאוהבים לגלות, ללמוד וליצור.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784719568076-3p0std.webp
-
-### בייבי דרייבר מבית Bizi Top
-https://parktoys.co.il/product/byyby-dryybr-mbyt-bizi-top-oux1yw
-- Price: 89.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: בייבי דרייבר מבית Bizi Top הגה פעילות אינטראקטיבי ואורקולי לתינוק, מתחבר בקלות בעזרת טבעות למשענת הרכב. בעל מראה, שלל איורים, ידית העברת הילוכים, צלילים ואורות וכמובן צופר.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784719294201-e488dj.webp
 
 ---
 

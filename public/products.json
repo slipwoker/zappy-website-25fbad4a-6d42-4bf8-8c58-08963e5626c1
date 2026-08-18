@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-18T08:47:55.708Z",
+  "generated_at": "2026-08-18T08:51:37.522Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 482,
+  "count": 483,
   "products": [
+    {
+      "id": "ecf91535-03f9-41ed-82a3-51ab504c4296",
+      "slug": "1kidi-touch-5-dgm-glvbly-xeqbvc",
+      "name": "1.KIDI TOUCH 5 דגם גלובלי",
+      "name_translations": {},
+      "description": "<ul><li>שיחות קוליות למספרים מוגדרים מראש אמא, אבא, סבתא.. עד 10 אנשי קשר שאתם כהורים מגדירים באפליקציה.</li><li> שיחות וידאו</li><li> LBS איתור מיקום לפי אנטנת סלולר</li><li> לשיחות חירום/לחצן מצוקה/ כפתור SOS</li><li> צ’אט קולי בין השעון לאפליקציה</li><li> אפשרות האזנה מרחוק לנעשה בסביבת השעון</li><li> חסימת שיחות והודעות מזרים</li><li> אופציה לנעילת השעון זמן בית ספר/חוג</li><li> שעון מעורר</li><li> מצלמה</li><li> אלבום תמונות</li><li> שליחת לבבות</li><li> כולל סים ישראלי מוכן להפעלה</li><li> אחריות שנה יבואן רשמי</li><li> מסך מגע צבעוני</li><li> משחק חשבון</li><li> סטופר</li><li>תומך בחו&quot;ל <strong>( השימוש בחול כרוך בהפעלת החבילה מתאימה )</strong></li></ul><p><strong><u>מארז מכיל</u></strong>:</p><ul><li>שעון kidiwatch</li><li>כבל טעינה</li><li>SIM – מוכן להפעלה</li><li>חוברת הוראות</li><li>תעודת אחריות לשנה</li></ul><p><strong>באישור משרד התקשורת</strong></p><p><strong>מתחבר לאפליקציית KIDIWATCH במכשיר הטלפון של ההורה לביצוע הגדרות וקבלת התראות מהמכשיר.</strong></p><p><strong>השימוש בשעון מותנה בחבילת שירות חודשית הכוללת: שירות ,שימוש באפליקציה ייחודית וחבילה סלולרית.</strong></p>",
+      "short_description": "מותג שעוני הילדים המוביל בעולם מתפקד כטלפון הראשון לילדים בגילאים 3-12\nמתחבר לאפליקציה ייעודית במכשיר הטלפון של ההורה ומאפשר מגוון פעולות לתקשורת ואיתור הילד/ה",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 149,
+      "sale_price": 99,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1787042983960-doz3or.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/1kidi-touch-5-dgm-glvbly-xeqbvc",
+      "categories": [],
+      "updated_at": "2026-08-18T08:50:59.407Z"
+    },
     {
       "id": "19684450-7c06-4bfb-b5e0-ab391cc92258",
       "slug": "1kidi-touch-5-dgm-glvbly-yswjxp",
