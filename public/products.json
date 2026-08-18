@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-18T13:21:37.477Z",
+  "generated_at": "2026-08-18T20:33:33.922Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 488,
+  "count": 489,
   "products": [
+    {
+      "id": "ac2623e2-17a2-443f-b7b5-4f4719a26a0f",
+      "slug": "damplyng-ank-sykrt-bhptah-iaxqot",
+      "name": "דאמפלינג ענק סיקרט בהפתעה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "דאמפלינג ענק וסופר כיפי ",
+      "sku": null,
+      "brand": null,
+      "price": 80,
+      "base_price": 80,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1787085030463-8c8i28.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/damplyng-ank-sykrt-bhptah-iaxqot",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-08-18T20:32:57.053Z"
+    },
     {
       "id": "68a44d51-71fa-4ae4-8bfb-01e81e224dd1",
       "slug": "dvby-nydv-rsrzmz",

@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 488** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 489** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### דאמפלינג ענק סיקרט בהפתעה
+https://parktoys.co.il/product/damplyng-ank-sykrt-bhptah-iaxqot
+- Price: 80.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: דאמפלינג ענק וסופר כיפי
+- Image: https://parktoys.co.il/assets/product-enhanced-1787085030463-8c8i28.webp
 
 ### דובי נידו 
 https://parktoys.co.il/product/dvby-nydv-rsrzmz
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/avlm-4-hmshchkym-tewgg8
 - Category: משחקי חברה
 - Description: ולם המשחקים – ארבעה משחקים בקופסא אחת! משחקים התורמים לפיתוח כושר הריכוז והזיכרון המספרי והקניית מיומנויות חברתיות חוויה והנאה לכל המשפחה!
 - Image: https://parktoys.co.il/assets/product-1784722127683-q8vel9.webp
-
-### ארץ עיר 
-https://parktoys.co.il/product/arts-ayr-n4us76
-- Price: 50.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: צאו למסע מרתק של ידע ומהירות מחשבה עם המשחק הקלאסי 'ארץ עיר'! המשחק מפתח את הריכוז והידע האישי בנושאים נרחבים, מחדד את הזיכרון ומחזק את מיומנות שליפת המידע. המטרה פשוטה ומהנה: זורקים קובייה, מתקדמים על הלוח לנושא כמו ארץ, עיר, בעלי חיים או מקצוע, מסובבים את מחוג האותיות ומוצאים מילה מתאימה. הראשון שיודע את התשובה הנכונה מניח אסימון! יתרונות המשחק: המשחק תורם לשיפור התפיסה החזותית וקשר עין-יד, ומבטיח חוויה משפחתית מהנה, מאתגרת ומרחיבת אופקים. האם תהיו הראשונים להניח את כל האסימונים שלכם על הלוח
-- Image: https://parktoys.co.il/assets/product-1784721895055-3ntt49.webp
 
 ---
 
