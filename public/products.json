@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-18T20:33:33.922Z",
+  "generated_at": "2026-08-18T21:03:26.168Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 489,
+  "count": 490,
   "products": [
+    {
+      "id": "19f6a4a1-c592-4949-b04f-c7b743e68086",
+      "slug": "skvvyshy-nydv-chmah-s2vwlq",
+      "name": "סקווישי נידו חמאה ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סקווישי נידו חמאה נעים בטירוף בצבעים ורוד ירוק וצהוב",
+      "sku": null,
+      "brand": null,
+      "price": 20,
+      "base_price": 20,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1787086834633-ugs2vq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/skvvyshy-nydv-chmah-s2vwlq",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-08-18T21:02:51.005Z"
+    },
     {
       "id": "ac2623e2-17a2-443f-b7b5-4f4719a26a0f",
       "slug": "damplyng-ank-sykrt-bhptah-iaxqot",

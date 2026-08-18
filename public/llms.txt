@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 489** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 490** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### סקווישי נידו חמאה 
+https://parktoys.co.il/product/skvvyshy-nydv-chmah-s2vwlq
+- Price: 20.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: סקווישי נידו חמאה נעים בטירוף בצבעים ורוד ירוק וצהוב
+- Image: https://parktoys.co.il/assets/product-enhanced-1787086834633-ugs2vq.webp
 
 ### דאמפלינג ענק סיקרט בהפתעה
 https://parktoys.co.il/product/damplyng-ank-sykrt-bhptah-iaxqot
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/svlmvt-vchblym-avlym-bsvlmvt-vgvlshym-bchblym-ad-
 - Category: משחקי חברה
 - Description: הכירו את המשחק המרהיב של הילדות הקלאסית 'סולמות וחבלים', שיספק שעות של הנאה לכל המשפחה! המשחק תורם רבות להתפתחות הילד, משפר את כושר הריכוז והזיכרון המספרי, ומחזק את התפיסה החזותית-מרחבית. כללי המשחק פשוטים: כל שחקן מטיל קובייה ומתקדם על הלוח. אם תגיעו למשבצת עם סולם, תטפסו במהירות למעלה ותתקרבו לניצחון. אך אם תנחתו על משבצת עם חבל, תיאלצו לרדת למטה. המנצח הוא הראשון שיגיע למשבצת הסיום. איכות החומרים: המשחק עשוי מקרטון איכותי ועמיד ומבטיח הנאה לאורך זמן.
 - Image: https://parktoys.co.il/assets/product-1784722405791-lxyyq.webp
-
-### עולם 4 המשחקים
-https://parktoys.co.il/product/avlm-4-hmshchkym-tewgg8
-- Price: 50.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: ולם המשחקים – ארבעה משחקים בקופסא אחת! משחקים התורמים לפיתוח כושר הריכוז והזיכרון המספרי והקניית מיומנויות חברתיות חוויה והנאה לכל המשפחה!
-- Image: https://parktoys.co.il/assets/product-1784722127683-q8vel9.webp
 
 ---
 
