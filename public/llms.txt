@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 484** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 485** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חמאה ספוג צבעונית 
+https://parktoys.co.il/product/chmah-spvg-tsbavnyt-kbl0l4
+- Price: 15.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Image: https://parktoys.co.il/assets/product-1787049111835-b7tohq.webp
 
 ### חמאה ספוג 
 https://parktoys.co.il/product/chmah-spvg-h14mcj
@@ -1662,13 +1669,6 @@ https://parktoys.co.il/product/bvbh-ayntraktybyt-btsvrt-db-kvtb-tynvk-club-petz-
 - Availability: In stock
 - Description: הכירו את ארטי (Artie), בובת הפרווה האינטראקטיבית, הרכה והמתוקה ביותר שתהפוך מיד לחבר הכי טוב של הקטנטנים שלכם (מגיל שנה ומעלה)! ארטי המקסים מיוצר מחומרים איכותיים ובטוחים לחלוטין לילדים, ומביא איתו חוויית משחק אינטראקטיבית, חמה ומשעשעת המלווה באפקטים קוליים מדליקים: בלחיצה על כף רגלו השמאלית הוא ישמיע קולות מתוקים, ובלחיצה נוספת - או אם תאכילו אותו בקצת יותר מדי מהגלידה האהובה עליו (המקסימה והכלולה בערכה) - הוא יתחיל לרעוד מקור בצורה משעשעת ממש כאילו הוא נמצא בעיצומו של החורף בקוטב הצפוני! כדי ל
 - Image: https://parktoys.co.il/assets/product-enhanced-1784720083009-0vkxi.webp
-
-### מארז צעצועי התפתחות מעץ מבית Polar B - לגילאי 12-18 חודשים
-https://parktoys.co.il/product/marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-12-18-chvdshym-mf5ro5
-- Price: 200.00 ILS
-- Availability: In stock
-- Description: מארז צעצועי התפתחות מעץ מבית Polar B, אוסף של צעצועי עץ איכותיים ומעוצבים בקפידה, שנוצרו במיוחד כדי ללוות את ילדכם בשלבי ההתפתחות החשובים ביותר. המארז מעודד למידה דרך משחק, מפתח חשיבה, מוטוריקה ויצירתיות, ומשלב הנאה, דמיון והתפתחות בכל רגע של משחק. עשוי עץ טבעי וצבעים בטוחים - מתנה מושלמת לילדים סקרנים שאוהבים לגלות, ללמוד
-- Image: https://parktoys.co.il/assets/product-enhanced-1784719847542-4g7gvd.webp
 
 ---
 
