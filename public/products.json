@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-18T07:52:13.902Z",
+  "generated_at": "2026-08-18T08:46:01.176Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 482,
@@ -10899,7 +10899,7 @@
     },
     {
       "id": "2c356a83-1fad-4ed0-90d7-7292d40696f2",
-      "slug": "nydv-bnnh-anky-znpfcv",
+      "slug": "nydv-bnnh-anky-dw374f",
       "name": "נידו בננה ענקי ",
       "name_translations": {},
       "description": "",
@@ -10913,11 +10913,11 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1782718372579-uwdopb.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/nydv-bnnh-anky-znpfcv",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://parktoys.co.il/product/nydv-bnnh-anky-dw374f",
       "categories": [],
-      "updated_at": "2026-06-29T07:34:34.830Z"
+      "updated_at": "2026-08-18T08:45:25.514Z"
     },
     {
       "id": "40778ac0-423e-4e02-a26f-18ae47b08820",
