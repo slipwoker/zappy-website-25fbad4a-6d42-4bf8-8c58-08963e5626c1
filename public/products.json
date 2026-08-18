@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-18T10:40:59.988Z",
+  "generated_at": "2026-08-18T10:43:37.574Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 487,
+  "count": 488,
   "products": [
+    {
+      "id": "68a44d51-71fa-4ae4-8bfb-01e81e224dd1",
+      "slug": "dvby-nydv-rsrzmz",
+      "name": "דובי נידו ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1787049763787-1sc484.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/dvby-nydv-rsrzmz",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-08-18T10:43:03.947Z"
+    },
     {
       "id": "7fe23504-d624-4282-bbe4-86a2d36c2b90",
       "slug": "ptryk-nydv-9ncp60",

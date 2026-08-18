@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 487** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 488** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### דובי נידו 
+https://parktoys.co.il/product/dvby-nydv-rsrzmz
+- Price: 15.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Image: https://parktoys.co.il/assets/product-enhanced-1787049763787-1sc484.webp
 
 ### פטריק נידו
 https://parktoys.co.il/product/ptryk-nydv-9ncp60
@@ -1661,14 +1668,6 @@ https://parktoys.co.il/product/arts-ayr-n4us76
 - Category: משחקי חברה
 - Description: צאו למסע מרתק של ידע ומהירות מחשבה עם המשחק הקלאסי 'ארץ עיר'! המשחק מפתח את הריכוז והידע האישי בנושאים נרחבים, מחדד את הזיכרון ומחזק את מיומנות שליפת המידע. המטרה פשוטה ומהנה: זורקים קובייה, מתקדמים על הלוח לנושא כמו ארץ, עיר, בעלי חיים או מקצוע, מסובבים את מחוג האותיות ומוצאים מילה מתאימה. הראשון שיודע את התשובה הנכונה מניח אסימון! יתרונות המשחק: המשחק תורם לשיפור התפיסה החזותית וקשר עין-יד, ומבטיח חוויה משפחתית מהנה, מאתגרת ומרחיבת אופקים. האם תהיו הראשונים להניח את כל האסימונים שלכם על הלוח
 - Image: https://parktoys.co.il/assets/product-1784721895055-3ntt49.webp
-
-### המירוץ לארמון
-https://parktoys.co.il/product/hmyrvts-larmvn-anlpr2
-- Price: 50.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: מירוץ לארמון משחק לפיתוח יכולת מילוי הוראות ולפיתוח המיומנויות החברתיות. המשחק תורם לשיפור התפיסה החזותית מרחבית ולחיזוק קשר עין-יד. המשחק מכיל לוח, 4 כלי משחק וקובייה. כהכנה למשחק הרכיבו את לוח המשחק והניחו אותו על גבי משטח יציב.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784720878678-hk907s.webp
 
 ---
 
