@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 483** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 484** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חמאה ספוג 
+https://parktoys.co.il/product/chmah-spvg-h14mcj
+- Price: 15.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Image: https://parktoys.co.il/assets/product-1787048993625-8jm26m.webp
 
 ### 1.KIDI TOUCH 5 דגם גלובלי
 https://parktoys.co.il/product/1kidi-touch-5-dgm-glvbly-xeqbvc
@@ -1662,14 +1669,6 @@ https://parktoys.co.il/product/marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-1
 - Availability: In stock
 - Description: מארז צעצועי התפתחות מעץ מבית Polar B, אוסף של צעצועי עץ איכותיים ומעוצבים בקפידה, שנוצרו במיוחד כדי ללוות את ילדכם בשלבי ההתפתחות החשובים ביותר. המארז מעודד למידה דרך משחק, מפתח חשיבה, מוטוריקה ויצירתיות, ומשלב הנאה, דמיון והתפתחות בכל רגע של משחק. עשוי עץ טבעי וצבעים בטוחים - מתנה מושלמת לילדים סקרנים שאוהבים לגלות, ללמוד
 - Image: https://parktoys.co.il/assets/product-enhanced-1784719847542-4g7gvd.webp
-
-### מארז צעצועי התפתחות מעץ מבית Polar B - לגילאי 18-24 חודשים
-https://parktoys.co.il/product/marz-tsatsvay-htptchvt-mats-mbyt-polar-b-lgylay-18-24-chvdshym-gcbe60
-- Price: 200.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: מארז צעצועי התפתחות מעץ מבית Polar B, אוסף של צעצועי עץ איכותיים ומעוצבים בקפידה, שנוצרו במיוחד כדי ללוות את ילדכם בשלבי ההתפתחות החשובים ביותר. המארז מעודד למידה דרך משחק, מפתח חשיבה, מוטוריקה ויצירתיות, ומשלב הנאה, דמיון והתפתחות בכל רגע של משחק. עשוי עץ טבעי וצבעים בטוחים - מתנה מושלמת לילדים סקרנים שאוהבים לגלות, ללמוד וליצור.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784719568076-3p0std.webp
 
 ---
 
