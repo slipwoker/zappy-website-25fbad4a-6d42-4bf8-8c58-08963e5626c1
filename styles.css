@@ -23413,6 +23413,10 @@ main,
 #tph-hero-slider .cat-product-strip { display: grid !important; }
 #tph-hero-slider .cat-product-strip { grid-template-columns: repeat(5, 1fr) !important; }
 
+
+#featured-products {
+  display: none !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
