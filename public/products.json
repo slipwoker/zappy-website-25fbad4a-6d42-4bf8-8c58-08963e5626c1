@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-19T13:49:24.388Z",
+  "generated_at": "2026-08-19T13:54:04.449Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 496,
+  "count": 497,
   "products": [
+    {
+      "id": "54610256-5d1b-46ae-ad4b-06a0c81900ca",
+      "slug": "lymvn-nydv-am-prtsvp-njrbuj",
+      "name": "לימון נידו עם פרצוף ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1787147575460-tw5f3gl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/lymvn-nydv-am-prtsvp-njrbuj",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-08-19T13:53:28.696Z"
+    },
     {
       "id": "cd9e4feb-a072-4b96-9723-3cffc489c09b",
       "slug": "rymvn-nydv-v7bpbr",

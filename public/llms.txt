@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 496** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 497** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### לימון נידו עם פרצוף 
+https://parktoys.co.il/product/lymvn-nydv-am-prtsvp-njrbuj
+- Price: 15.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Image: https://parktoys.co.il/assets/product-enhanced-1787147575460-tw5f3gl.webp
 
 ### רימון נידו 
 https://parktoys.co.il/product/rymvn-nydv-v7bpbr
@@ -1657,14 +1664,6 @@ https://parktoys.co.il/product/mshchk-htamvt-lymvdy-hmktsva-shly-vsok91
 - Category: משחקי חברה
 - Description: המקצוע שלי משחק ללימוד שמות בעלי המקצוע והכלים המשמשים אותם בעבודתם. משחק לפיתוח כושר ההתבוננות בתמונה ויכולת ההתאמה ופיתוח הזיכרון החזותי. המשחק מרחיב אופקים ומעשיר את אוצר המילים של הילד. תוכן המשחק במשחק 24 כרטיסים המרכיבים 12 זוגות של בעלי מקצוע והכלים המשמשים אותם. בכרטיס אחד מופיעה תמונה של בעל המקצוע ובכרטיס השני מופיעות תמונות של הכלים בהם עליו להשתמש במהלך עבודתו, לדוגמה: בכרטיס אחד מופיעה תמונה של רופא ובכרטיס השני מופיעה תמונה עם מזרק, סטטוסקופ ואמבולנס.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784724487800-7qosd.webp
-
-### הלוטו הראשון שלי
-https://parktoys.co.il/product/hlvtv-hrashvn-shly-ouj6wz
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: הלוטו הראשון שלי מבית ישראטויס – משחק לוטו לפיתוח יכולת ההתאמה החזותית, כושר הריכוז ויכולת הזיהוי והמיון.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784724256108-iur6y.webp
 
 ---
 
