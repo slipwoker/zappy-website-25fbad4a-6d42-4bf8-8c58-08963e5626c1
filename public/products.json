@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-19T13:40:03.848Z",
+  "generated_at": "2026-08-19T13:43:08.889Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 493,
+  "count": 494,
   "products": [
+    {
+      "id": "b9187ddc-8f7f-40ee-87c3-be9438b1b9d3",
+      "slug": "prtsvp-nydv-am-shyar-hda883",
+      "name": "פרצוף נידו עם שיער",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1787146907445-ufw4rs.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/prtsvp-nydv-am-shyar-hda883",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-08-19T13:42:32.483Z"
+    },
     {
       "id": "bcca9c25-cc2c-4913-b65c-dfc07ca7e776",
       "slug": "kvbyh-nydv-zqhp7t",

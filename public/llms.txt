@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 493** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 494** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### פרצוף נידו עם שיער
+https://parktoys.co.il/product/prtsvp-nydv-am-shyar-hda883
+- Price: 15.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Image: https://parktoys.co.il/assets/product-enhanced-1787146907445-ufw4rs.webp
 
 ### קוביה נידו 
 https://parktoys.co.il/product/kvbyh-nydv-zqhp7t
@@ -1659,14 +1666,6 @@ https://parktoys.co.il/product/tysh-501-z8gqy1
 - Category: משחקי חברה
 - Description: על המשחק חלמתם פעם לטוס מעל רכסי הרים קסומים או נהרות סוערים? חלמתם פעם לבקר בערים אקזוטיות השומרות על תרבויותיהן העתיקות? חלמתם פעם לטייל בערים הרוחשות סכנה והרפתקאות? לא צריך יותר לחלום! הדקו את החגורות! טיסה 501 של קודקוד ממריאה לחוויה בלתי נשכחת! מתכננים נתיבי טיסה ונשמעים להוראות מגדל הפיקוח! ויש הפתעות! רוח גבית - מקצרת את הטיסה, דלק סילוני חדיש - מאיץ אותה ותדלוק אווירי מאפשר להמשיך ללא נחיתות ביניים! תודה שטסתם בטיסה 501 של קודקוד, וחברת התעופה הלאומית של ישראל, נתראה בטיסה הבאה! מינימום…
 - Image: https://parktoys.co.il/assets/product-1784723645149-83qhs.webp
-
-### טיפול נמרץ
-https://parktoys.co.il/product/typvl-nmrts-sjly2v
-- Price: 129.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: על המשחק יש רופא בבית? סם מרגיש לא טוב! תוכלו לנתח אותו כדי שמצבו ישתפר ומהר ? בחרו קלף כדי לראות איזו בעיה רפואית מצחיקה עליכם לרפא הפעם, כדי לטפל בבעיה "נתחו" בזהירות והיזהרו מהזמזם.. מינימום משתתפים: 1, מקסימום משתתפים: אין מי המנצח המנתח אשר הרוויח את הכום הגבוה ביותר בסוף המשחק מה בקופסה לוח משחק מפלסטיק ומלקחיים, 12 בעיות רפואיות מצחיקות מפלסטיק כולל גומיה ושקית אחסון, 12 קלפים מקרטון, הוראות משחק
-- Image: https://parktoys.co.il/assets/product-1784723482908-5ralp.webp
 
 ---
 
