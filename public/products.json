@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-19T13:34:23.677Z",
+  "generated_at": "2026-08-19T13:40:03.848Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 492,
+  "count": 493,
   "products": [
+    {
+      "id": "bcca9c25-cc2c-4913-b65c-dfc07ca7e776",
+      "slug": "kvbyh-nydv-zqhp7t",
+      "name": "קוביה נידו ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1787146735938-fiwlvr.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kvbyh-nydv-zqhp7t",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-08-19T13:39:29.926Z"
+    },
     {
       "id": "bfe86215-92ee-44ab-b12d-cf1fadaacf15",
       "slug": "spvg-lchm-chmah-1e78cq",

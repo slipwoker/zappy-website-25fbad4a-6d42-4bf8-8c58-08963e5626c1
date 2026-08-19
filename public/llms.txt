@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 492** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 493** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קוביה נידו 
+https://parktoys.co.il/product/kvbyh-nydv-zqhp7t
+- Price: 15.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Image: https://parktoys.co.il/assets/product-enhanced-1787146735938-fiwlvr.webp
 
 ### ספוג לחם חמאה
 https://parktoys.co.il/product/spvg-lchm-chmah-1e78cq
@@ -1660,14 +1667,6 @@ https://parktoys.co.il/product/typvl-nmrts-sjly2v
 - Category: משחקי חברה
 - Description: על המשחק יש רופא בבית? סם מרגיש לא טוב! תוכלו לנתח אותו כדי שמצבו ישתפר ומהר ? בחרו קלף כדי לראות איזו בעיה רפואית מצחיקה עליכם לרפא הפעם, כדי לטפל בבעיה "נתחו" בזהירות והיזהרו מהזמזם.. מינימום משתתפים: 1, מקסימום משתתפים: אין מי המנצח המנתח אשר הרוויח את הכום הגבוה ביותר בסוף המשחק מה בקופסה לוח משחק מפלסטיק ומלקחיים, 12 בעיות רפואיות מצחיקות מפלסטיק כולל גומיה ושקית אחסון, 12 קלפים מקרטון, הוראות משחק
 - Image: https://parktoys.co.il/assets/product-1784723482908-5ralp.webp
-
-### מונפול סופר בנקאות אלקטרונית - קודקוד
-https://parktoys.co.il/product/mvnpvl-svpr-bnkavt-alktrvnyt-kvdkvd-afsqyw
-- Price: 259.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: על המשחק גירסה חדשה לאחד המשחקים הפופולריים ביותר בעולם, שמטרתו לצבור נכסים רבים ככל שאפשר ולא לפשוט את הרגל. צעדו על גבי הלוח, קנו נכסים, גבו דמי שכירות - וקבלו על כך הטבות! המשחק מסתיים כשכל הנכסים נרכשו. המשתתף שצבר הכי הרבה כסף הוא המנצח! פיתוח מיומנויות מפתח מיומנויות חזותיות, מפתח מוטוריקה עדינה, מפתח חשיבה. מינימום משתתפים: 2 מקסימום משתתפים: 4
-- Image: https://parktoys.co.il/assets/product-enhanced-1784723112857-h0vh1.webp
 
 ---
 
