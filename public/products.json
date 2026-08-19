@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-19T13:58:24.295Z",
+  "generated_at": "2026-08-19T14:28:50.832Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 497,
@@ -11185,7 +11185,7 @@
     },
     {
       "id": "894ce3f7-5e7d-441f-8d07-ecb5611e39e4",
-      "slug": "nydv-htynvk-shl-bmbh-v7mgou",
+      "slug": "nydv-htynvk-shl-bmbh-j691jp",
       "name": "נידו התינוק של במבה",
       "name_translations": {},
       "description": "",
@@ -11199,13 +11199,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-1782720473052-steldk.webp"
       ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
-      "url": "https://parktoys.co.il/product/nydv-htynvk-shl-bmbh-v7mgou",
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/nydv-htynvk-shl-bmbh-j691jp",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
-      "updated_at": "2026-08-13T12:47:51.627Z"
+      "updated_at": "2026-08-19T14:28:15.578Z"
     },
     {
       "id": "09955f04-dd39-472c-9795-eb7d263cbb1a",
