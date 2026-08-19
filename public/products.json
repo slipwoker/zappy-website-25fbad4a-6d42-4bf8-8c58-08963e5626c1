@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-19T13:45:44.114Z",
+  "generated_at": "2026-08-19T13:49:24.388Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 495,
+  "count": 496,
   "products": [
+    {
+      "id": "cd9e4feb-a072-4b96-9723-3cffc489c09b",
+      "slug": "rymvn-nydv-v7bpbr",
+      "name": "רימון נידו ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "נעים בטירוףף",
+      "sku": null,
+      "brand": null,
+      "price": 20,
+      "base_price": 20,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1787147300406-jrud3.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/rymvn-nydv-v7bpbr",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-08-19T13:48:50.660Z"
+    },
     {
       "id": "d3d5fa37-90ee-4f5f-83f3-b317166f5642",
       "slug": "mpltst-nydv-ankyt-mn09a4",

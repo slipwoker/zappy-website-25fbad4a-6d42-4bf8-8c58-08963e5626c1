@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 495** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 496** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### רימון נידו 
+https://parktoys.co.il/product/rymvn-nydv-v7bpbr
+- Price: 20.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: נעים בטירוףף
+- Image: https://parktoys.co.il/assets/product-enhanced-1787147300406-jrud3.webp
 
 ### מפלצת נידו ענקית 
 https://parktoys.co.il/product/mpltst-nydv-ankyt-mn09a4
@@ -1657,14 +1665,6 @@ https://parktoys.co.il/product/hlvtv-hrashvn-shly-ouj6wz
 - Category: משחקי חברה
 - Description: הלוטו הראשון שלי מבית ישראטויס – משחק לוטו לפיתוח יכולת ההתאמה החזותית, כושר הריכוז ויכולת הזיהוי והמיון.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784724256108-iur6y.webp
-
-### היגיון מהיר 
-https://parktoys.co.il/product/hygyvn-mhyr-yxp4qw
-- Price: 99.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: משחק פיתוח יכולת תיכנון מהלכים לצעירים
-- Image: https://parktoys.co.il/assets/product-1784723848585-x98f4.webp
 
 ---
 
