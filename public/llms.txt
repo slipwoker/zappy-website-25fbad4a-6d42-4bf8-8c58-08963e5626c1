@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 491** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 492** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ספוג לחם חמאה
+https://parktoys.co.il/product/spvg-lchm-chmah-1e78cq
+- Price: 20.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: לחיץ כיפי ונעים
+- Image: https://parktoys.co.il/assets/product-enhanced-1787146374877-gxqwd.webp
 
 ### קוקידו-עוגיה סקווישי מסתורית
 https://parktoys.co.il/product/kvkydv-avgyh-skvvyshy-mstvryt-p8gz2u
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/mvnpvl-svpr-bnkavt-alktrvnyt-kvdkvd-afsqyw
 - Category: משחקי חברה
 - Description: על המשחק גירסה חדשה לאחד המשחקים הפופולריים ביותר בעולם, שמטרתו לצבור נכסים רבים ככל שאפשר ולא לפשוט את הרגל. צעדו על גבי הלוח, קנו נכסים, גבו דמי שכירות - וקבלו על כך הטבות! המשחק מסתיים כשכל הנכסים נרכשו. המשתתף שצבר הכי הרבה כסף הוא המנצח! פיתוח מיומנויות מפתח מיומנויות חזותיות, מפתח מוטוריקה עדינה, מפתח חשיבה. מינימום משתתפים: 2 מקסימום משתתפים: 4
 - Image: https://parktoys.co.il/assets/product-enhanced-1784723112857-h0vh1.webp
-
-### מונופול קלאסי 2023
-https://parktoys.co.il/product/mvnvpvl-klasy-2023-454vz1
-- Price: 139.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: משחק העסקים המוכר והכיפי – מונופול מבית קודקוד! רוכשים נדל"ן ומבצעים עסקאות במשחק העסקים הקלאסי והאהוב ביותר בעולם! בואו לבנות בתים ומלונות, להשתתף במכירות פומביות ולנצל את כל ההזדמנויות במרוץ לעושר הנכסף. ההצלחה שלכם תלוי בבחירות שתעשו, אבל גם קצת במזל… המשתתף האחרון שלא פשט את הרגל הוא המנצח! מתאים ל- 2-6 משתתפים, מומלץ לגילאי 8 ומעלה. מק"ט 1756 התמונה להמחשה בלבד, עשויה להציג מוצרי השלמה שאינם מגיעים במוצר הבסיס. זוזו בין הערים באמצעות הטלת קוביות עם דמויות בשלל צורות, קנו רחובות, השיג
-- Image: https://parktoys.co.il/assets/product-1784722698063-1wm83f.webp
 
 ---
 
