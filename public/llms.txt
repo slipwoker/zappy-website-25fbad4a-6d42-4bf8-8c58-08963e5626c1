@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 494** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 495** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מפלצת נידו ענקית 
+https://parktoys.co.il/product/mpltst-nydv-ankyt-mn09a4
+- Price: 20.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Image: https://parktoys.co.il/assets/product-enhanced-1787147079514-lap582.webp
 
 ### פרצוף נידו עם שיער
 https://parktoys.co.il/product/prtsvp-nydv-am-shyar-hda883
@@ -1658,14 +1665,6 @@ https://parktoys.co.il/product/hygyvn-mhyr-yxp4qw
 - Category: משחקי חברה
 - Description: משחק פיתוח יכולת תיכנון מהלכים לצעירים
 - Image: https://parktoys.co.il/assets/product-1784723848585-x98f4.webp
-
-### טיסה 501
-https://parktoys.co.il/product/tysh-501-z8gqy1
-- Price: 119.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: על המשחק חלמתם פעם לטוס מעל רכסי הרים קסומים או נהרות סוערים? חלמתם פעם לבקר בערים אקזוטיות השומרות על תרבויותיהן העתיקות? חלמתם פעם לטייל בערים הרוחשות סכנה והרפתקאות? לא צריך יותר לחלום! הדקו את החגורות! טיסה 501 של קודקוד ממריאה לחוויה בלתי נשכחת! מתכננים נתיבי טיסה ונשמעים להוראות מגדל הפיקוח! ויש הפתעות! רוח גבית - מקצרת את הטיסה, דלק סילוני חדיש - מאיץ אותה ותדלוק אווירי מאפשר להמשיך ללא נחיתות ביניים! תודה שטסתם בטיסה 501 של קודקוד, וחברת התעופה הלאומית של ישראל, נתראה בטיסה הבאה! מינימום…
-- Image: https://parktoys.co.il/assets/product-1784723645149-83qhs.webp
 
 ---
 
