@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 490** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 491** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קוקידו-עוגיה סקווישי מסתורית
+https://parktoys.co.il/product/kvkydv-avgyh-skvvyshy-mstvryt-p8gz2u
+- Price: 20.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: עוגיית נידו מסתורית נמתחת ודביקה
+- Image: https://parktoys.co.il/assets/product-1787146157328-5hzxjw.webp
 
 ### סקווישי נידו חמאה 
 https://parktoys.co.il/product/skvvyshy-nydv-chmah-s2vwlq
@@ -1660,14 +1668,6 @@ https://parktoys.co.il/product/mvnvpvl-klasy-2023-454vz1
 - Category: משחקי חברה
 - Description: משחק העסקים המוכר והכיפי – מונופול מבית קודקוד! רוכשים נדל"ן ומבצעים עסקאות במשחק העסקים הקלאסי והאהוב ביותר בעולם! בואו לבנות בתים ומלונות, להשתתף במכירות פומביות ולנצל את כל ההזדמנויות במרוץ לעושר הנכסף. ההצלחה שלכם תלוי בבחירות שתעשו, אבל גם קצת במזל… המשתתף האחרון שלא פשט את הרגל הוא המנצח! מתאים ל- 2-6 משתתפים, מומלץ לגילאי 8 ומעלה. מק"ט 1756 התמונה להמחשה בלבד, עשויה להציג מוצרי השלמה שאינם מגיעים במוצר הבסיס. זוזו בין הערים באמצעות הטלת קוביות עם דמויות בשלל צורות, קנו רחובות, השיג
 - Image: https://parktoys.co.il/assets/product-1784722698063-1wm83f.webp
-
-### סולמות וחבלים - עולים בסולמות וגולשים בחבלים עד שמנצחים
-https://parktoys.co.il/product/svlmvt-vchblym-avlym-bsvlmvt-vgvlshym-bchblym-ad-shmntschym-xtsixm
-- Price: 50.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: הכירו את המשחק המרהיב של הילדות הקלאסית 'סולמות וחבלים', שיספק שעות של הנאה לכל המשפחה! המשחק תורם רבות להתפתחות הילד, משפר את כושר הריכוז והזיכרון המספרי, ומחזק את התפיסה החזותית-מרחבית. כללי המשחק פשוטים: כל שחקן מטיל קובייה ומתקדם על הלוח. אם תגיעו למשבצת עם סולם, תטפסו במהירות למעלה ותתקרבו לניצחון. אך אם תנחתו על משבצת עם חבל, תיאלצו לרדת למטה. המנצח הוא הראשון שיגיע למשבצת הסיום. איכות החומרים: המשחק עשוי מקרטון איכותי ועמיד ומבטיח הנאה לאורך זמן.
-- Image: https://parktoys.co.il/assets/product-1784722405791-lxyyq.webp
 
 ---
 
