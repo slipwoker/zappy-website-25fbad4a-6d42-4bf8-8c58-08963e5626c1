@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-20T13:31:16.144Z",
+  "generated_at": "2026-08-20T13:31:31.327Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 499,
@@ -468,9 +468,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/mks-staks-32iwal",
       "categories": [
-        "משחקי חברה"
+        "משחקי חברה",
+        "מתנות עד 99ש\"ח"
       ],
-      "updated_at": "2026-08-17T17:17:33.627Z"
+      "updated_at": "2026-08-20T13:31:30.550Z"
     },
     {
       "id": "d993ab2e-8938-4ab1-89b2-9560118a0e32",
@@ -492,9 +493,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/gvlbvl-i79sxk",
       "categories": [
-        "משחקי יצירה"
+        "משחקי יצירה",
+        "מתנות עד 99ש\"ח"
       ],
-      "updated_at": "2026-08-17T17:04:44.838Z"
+      "updated_at": "2026-08-20T13:31:30.751Z"
     },
     {
       "id": "9e91472e-fd31-4eb3-b65d-9f2ff66d6673",
