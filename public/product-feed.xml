@@ -4,7 +4,7 @@
     <title>פארק הצעצועים</title>
     <link>https://parktoys.co.il</link>
     <description>Product feed for פארק הצעצועים</description>
-    <lastBuildDate>Thu, 20 Aug 2026 13:29:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:30:11 GMT</lastBuildDate>
     <item>
       <g:id>843c3bd9-d035-403c-84bf-55c783ca9b7f</g:id>
       <g:title>נטע טסט</g:title>
@@ -224,6 +224,7 @@
       <g:condition>new</g:condition>
       <g:brand>פארק הצעצועים</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מתנות עד 199ש&quot;ח</g:product_type>
     </item>
     <item>
       <g:id>19684450-7c06-4bfb-b5e0-ab391cc92258</g:id>
@@ -237,6 +238,7 @@
       <g:condition>new</g:condition>
       <g:brand>פארק הצעצועים</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מתנות עד 199ש&quot;ח</g:product_type>
     </item>
     <item>
       <g:id>8cff3421-d177-40a7-8b7d-692de0f523e9</g:id>
