@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-20T13:34:46.342Z",
+  "generated_at": "2026-08-20T13:35:51.714Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 499,
@@ -877,7 +877,7 @@
     },
     {
       "id": "1cf8a248-f044-485b-b10e-f15c832a13d3",
-      "slug": "kdvrgl-mkby-tl-abyb-hkm34v",
+      "slug": "kdvrgl-mkby-tl-abyb-x70opp",
       "name": "כדורגל מכבי תל אביב",
       "name_translations": {},
       "description": "",
@@ -893,12 +893,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kdvrgl-mkby-tl-abyb-hkm34v",
+      "url": "https://parktoys.co.il/product/kdvrgl-mkby-tl-abyb-x70opp",
       "categories": [
-        "גלגלים",
         "מוצרי ספורט"
       ],
-      "updated_at": "2026-08-13T10:10:41.392Z"
+      "updated_at": "2026-08-20T13:35:14.786Z"
     },
     {
       "id": "91dd619b-6744-4f11-ae27-4eb9d10f7347",
