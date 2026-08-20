@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-20T13:31:31.327Z",
+  "generated_at": "2026-08-20T13:32:06.277Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 499,
@@ -518,9 +518,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/tpvs-tmykrvpvn-5qtgan",
       "categories": [
-        "משחקי חברה"
+        "משחקי חברה",
+        "מתנות עד 199ש\"ח"
       ],
-      "updated_at": "2026-08-17T16:51:53.395Z"
+      "updated_at": "2026-08-20T13:32:02.716Z"
     },
     {
       "id": "0988bee8-acbc-403b-9d21-376030e74cfd",
@@ -542,9 +543,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/hytstr-ymmcaj",
       "categories": [
-        "משחקי חברה"
+        "משחקי חברה",
+        "מתנות עד 199ש\"ח"
       ],
-      "updated_at": "2026-08-17T16:41:37.852Z"
+      "updated_at": "2026-08-20T13:32:02.513Z"
     },
     {
       "id": "3c39644b-9125-46f7-87ad-13a86f1dd8c4",
