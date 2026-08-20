@@ -25688,7 +25688,7 @@ main,
 #tph-hero-slider .cat-product-chip .chip-price {
   font-size: 0.9rem;
   font-weight: 800;
-  color: var(--secondary, #FF6B6B);
+  color: var(--primary, #60A5FA);
 }
 
 #tph-hero-slider .cat-product-strip {
@@ -25746,7 +25746,7 @@ main,
 #tph-hero-slider .cat-product-chip .chip-price {
   font-size: 0.9rem;
   font-weight: 800;
-  color: var(--secondary, #FF6B6B);
+  color: var(--primary, #60A5FA);
 }
 
 @media (max-width: 768px) {
