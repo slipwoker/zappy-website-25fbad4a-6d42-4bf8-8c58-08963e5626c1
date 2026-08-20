@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-20T13:28:06.212Z",
+  "generated_at": "2026-08-20T13:29:06.160Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 499,
@@ -252,7 +252,7 @@
     },
     {
       "id": "ac2623e2-17a2-443f-b7b5-4f4719a26a0f",
-      "slug": "damplyng-ank-sykrt-bhptah-iaxqot",
+      "slug": "damplyng-ank-sykrt-bhptah-8f73m6",
       "name": "דאמפלינג ענק סיקרט בהפתעה",
       "name_translations": {},
       "description": "",
@@ -268,15 +268,16 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/damplyng-ank-sykrt-bhptah-iaxqot",
+      "url": "https://parktoys.co.il/product/damplyng-ank-sykrt-bhptah-8f73m6",
       "categories": [
-        "הטרנדים הכי חזקים בישראל "
+        "הטרנדים הכי חזקים בישראל ",
+        "מתנות עד 99ש\"ח"
       ],
-      "updated_at": "2026-08-18T20:32:57.053Z"
+      "updated_at": "2026-08-20T13:28:07.264Z"
     },
     {
       "id": "68a44d51-71fa-4ae4-8bfb-01e81e224dd1",
-      "slug": "dvby-nydv-rsrzmz",
+      "slug": "dvby-nydv-gliin2",
       "name": "דובי נידו ",
       "name_translations": {},
       "description": "",
@@ -292,15 +293,16 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/dvby-nydv-rsrzmz",
+      "url": "https://parktoys.co.il/product/dvby-nydv-gliin2",
       "categories": [
-        "הטרנדים הכי חזקים בישראל "
+        "הטרנדים הכי חזקים בישראל ",
+        "מתנות עד 99ש\"ח"
       ],
-      "updated_at": "2026-08-18T10:43:03.947Z"
+      "updated_at": "2026-08-20T13:28:28.954Z"
     },
     {
       "id": "7fe23504-d624-4282-bbe4-86a2d36c2b90",
-      "slug": "ptryk-nydv-9ncp60",
+      "slug": "ptryk-nydv-3fmldp",
       "name": "פטריק נידו",
       "name_translations": {},
       "description": "",
@@ -316,11 +318,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/ptryk-nydv-9ncp60",
+      "url": "https://parktoys.co.il/product/ptryk-nydv-3fmldp",
       "categories": [
-        "הטרנדים הכי חזקים בישראל "
+        "הטרנדים הכי חזקים בישראל ",
+        "מתנות עד 99ש\"ח"
       ],
-      "updated_at": "2026-08-18T10:39:31.882Z"
+      "updated_at": "2026-08-20T13:28:42.105Z"
     },
     {
       "id": "1a6897e9-8baa-42b4-8d25-b6895b99328d",
