@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-20T13:29:06.160Z",
+  "generated_at": "2026-08-20T13:29:41.282Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 499,
@@ -345,9 +345,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/bvbspvg-nydv-g4xafn",
       "categories": [
-        "הטרנדים הכי חזקים בישראל "
+        "הטרנדים הכי חזקים בישראל ",
+        "מתנות עד 99ש\"ח"
       ],
-      "updated_at": "2026-08-18T10:37:04.616Z"
+      "updated_at": "2026-08-20T13:29:07.904Z"
     },
     {
       "id": "aa7bb93a-cdc0-4594-972a-acc94d3a7dbe",
@@ -369,9 +370,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/chmah-spvg-tsbavnyt-kbl0l4",
       "categories": [
-        "הטרנדים הכי חזקים בישראל "
+        "הטרנדים הכי חזקים בישראל ",
+        "מתנות עד 99ש\"ח"
       ],
-      "updated_at": "2026-08-18T10:32:22.574Z"
+      "updated_at": "2026-08-20T13:29:08.103Z"
     },
     {
       "id": "e344b650-e6e8-4e33-a5c8-22520c3cb520",
@@ -393,9 +395,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/chmah-spvg-h14mcj",
       "categories": [
-        "הטרנדים הכי חזקים בישראל "
+        "הטרנדים הכי חזקים בישראל ",
+        "מתנות עד 99ש\"ח"
       ],
-      "updated_at": "2026-08-18T10:30:40.523Z"
+      "updated_at": "2026-08-20T13:29:36.002Z"
     },
     {
       "id": "ecf91535-03f9-41ed-82a3-51ab504c4296",
