@@ -14806,6 +14806,46 @@ async function loadRelatedProducts(currentProduct, t) {
 })();
 /* ZAPPY_CUSTOM_JS_END:07b748f73d79 */
 
+/* ZAPPY_CUSTOM_JS_START:9040cb95c0a3 */
+(function () {
+  function __zappyCustomInit() {
+    try {
+(function () {
+  var bar = document.getElementById('free-shipping-bar');
+  var footer = document.querySelector('.site-footer');
+  if (!bar || !footer) return;
+
+  function update() {
+    var footerTop = footer.getBoundingClientRect().top;
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+    // Hide the bar once the footer's top edge reaches the bottom of the viewport
+    if (footerTop <= vh) {
+      bar.style.transform = 'translateY(100%)';
+      bar.style.opacity = '0';
+      bar.style.pointerEvents = 'none';
+    } else {
+      bar.style.transform = 'translateY(0)';
+      bar.style.opacity = '1';
+      bar.style.pointerEvents = 'auto';
+    }
+  }
+
+  window.addEventListener('scroll', update, { passive: true });
+  window.addEventListener('resize', update);
+  update();
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:9040cb95c0a3 */
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
