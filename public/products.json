@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-20T13:32:36.282Z",
+  "generated_at": "2026-08-20T13:33:41.581Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 499,
@@ -568,9 +568,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/hytstr-byngv-hitster-bingo-f8wrnc",
       "categories": [
-        "משחקי חברה"
+        "משחקי חברה",
+        "מתנות עד 299ש\"ח"
       ],
-      "updated_at": "2026-08-17T16:27:51.496Z"
+      "updated_at": "2026-08-20T13:33:08.701Z"
     },
     {
       "id": "5f113e06-0f56-4798-9318-aba5e07fa569",
