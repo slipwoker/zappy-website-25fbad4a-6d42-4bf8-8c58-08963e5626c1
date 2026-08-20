@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-20T13:27:06.424Z",
+  "generated_at": "2026-08-20T13:28:06.212Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 499,
@@ -202,7 +202,7 @@
     },
     {
       "id": "57a5e69e-9a80-49eb-8a19-0dd182ada532",
-      "slug": "kvkydv-avgyh-skvvyshy-mstvryt-p8gz2u",
+      "slug": "kvkydv-avgyh-skvvyshy-mstvryt-ahgxmx",
       "name": "קוקידו-עוגיה סקווישי מסתורית",
       "name_translations": {},
       "description": "",
@@ -218,15 +218,16 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kvkydv-avgyh-skvvyshy-mstvryt-p8gz2u",
+      "url": "https://parktoys.co.il/product/kvkydv-avgyh-skvvyshy-mstvryt-ahgxmx",
       "categories": [
-        "הטרנדים הכי חזקים בישראל "
+        "הטרנדים הכי חזקים בישראל ",
+        "מתנות עד 99ש\"ח"
       ],
-      "updated_at": "2026-08-19T13:30:38.019Z"
+      "updated_at": "2026-08-20T13:27:31.476Z"
     },
     {
       "id": "19f6a4a1-c592-4949-b04f-c7b743e68086",
-      "slug": "skvvyshy-nydv-chmah-s2vwlq",
+      "slug": "skvvyshy-nydv-chmah-2w0p3y",
       "name": "סקווישי נידו חמאה ",
       "name_translations": {},
       "description": "",
@@ -242,11 +243,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/skvvyshy-nydv-chmah-s2vwlq",
+      "url": "https://parktoys.co.il/product/skvvyshy-nydv-chmah-2w0p3y",
       "categories": [
-        "הטרנדים הכי חזקים בישראל "
+        "הטרנדים הכי חזקים בישראל ",
+        "מתנות עד 99ש\"ח"
       ],
-      "updated_at": "2026-08-18T21:02:51.005Z"
+      "updated_at": "2026-08-20T13:27:49.184Z"
     },
     {
       "id": "ac2623e2-17a2-443f-b7b5-4f4719a26a0f",
