@@ -8262,7 +8262,7 @@ html body .featured-categories-section .category-blocks { display: grid !importa
 }
 
 .featured-products-section .product-card .price {
-  color: #1F2937;
+  color: #F4C542;
   font-weight: 800;
   background: #FEF3C7;
   padding: 8px 14px;
@@ -8272,7 +8272,7 @@ html body .featured-categories-section .category-blocks { display: grid !importa
 }
 
 .featured-products-section .product-card .original-price {
-  color: #9CA3AF !important;
+  color: #F4C542;
   font-size: 14px !important;
   text-decoration: line-through;
   margin-right: 6px;
@@ -8297,13 +8297,13 @@ html body .featured-categories-section .category-blocks { display: grid !importa
 .featured-products-section .product-card-footer .price {
   font-size: 24px;
   font-weight: 800;
-  color: var(--primary-color, var(--primary, #60A5FA));
+  color: #F4C542;
 }
 
 .featured-products-section .product-card .price {
   font-size: 22px !important;
   font-weight: 900 !important;
-  color: var(--background-color, var(--background, var(--bg-light, #1F2937))) !important;
+  color: #F4C542;
   background: #FEF3C7 !important;
   padding: 10px 18px !important;
   border-radius: 10px !important;
@@ -8314,18 +8314,18 @@ html body .featured-categories-section .category-blocks { display: grid !importa
 .featured-products-section .product-card-footer .price {
   font-size: 26px !important;
   font-weight: 900 !important;
-  color: var(--primary-color, var(--primary, #60A5FA)) !important;
+  color: #F4C542;
 }
 
 .featured-products-section .product-card .original-price {
-  color: #9CA3AF !important;
+  color: #F4C542;
   font-size: 15px !important;
   text-decoration: line-through !important;
   margin-right: 8px !important;
 }
 
 .featured-products-section .product-card .original-price {
-  color: var(--background-color, var(--background, var(--bg-light, #1F2937))) !important;
+  color: #F4C542;
 }
 
 .products-section .product-card .price {
@@ -8356,7 +8356,7 @@ html body .featured-categories-section .category-blocks { display: grid !importa
 .featured-products-section .product-card .price {
   font-size: 1.5em !important;
   font-weight: 800 !important;
-  color: #db0000 !important;
+  color: #F4C542;
   background: rgba(225, 29, 72, 0.1) !important;
   padding: 8px 16px !important;
   border-radius: 999px !important;
@@ -8371,11 +8371,11 @@ html body .featured-categories-section .category-blocks { display: grid !importa
 }
 
 .featured-products-section .product-card .original-price {
-  color: #e50000 !important;
+  color: #F4C542;
 }
 
 .featured-products-section .product-card-footer .price {
-  color: #e50000 !important;
+  color: #F4C542;
 }
 
 .products-section .product-card-footer .price,
@@ -25825,15 +25825,25 @@ main,
 }
 
 .featured-products-section .product-card .original-price {
-  color: var(--accent-color, var(--accent, #F4C542)) !important;
+  color: #F4C542;
 }
 
 .featured-products-section .product-card .price {
-  color: var(--accent-color, var(--accent, #F4C542)) !important;
+  color: #F4C542;
 }
 
 .featured-products-section .product-card-footer .price {
-  color: var(--accent-color, var(--accent, #F4C542)) !important;
+  color: #F4C542;
+}
+
+.featured-products-section .product-card .add-to-cart-btn,
+.featured-products-section .product-card .add-to-cart,
+.featured-products-section .product-card .btn,
+.featured-products-section .product-card button,
+.featured-products-section .product-card [class*="add"] {
+  background-color: var(--accent-color, var(--accent, #F4C542)) !important;
+  background-image: none !important;
+  border-color: var(--accent-color, var(--accent, #F4C542)) !important;
 }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
