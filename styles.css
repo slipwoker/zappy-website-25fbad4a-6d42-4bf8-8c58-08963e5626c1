@@ -25845,6 +25845,17 @@ main,
   background-image: none !important;
   border-color: var(--accent-color, var(--accent, #F4C542)) !important;
 }
+
+#tph-hero-slider .cat-product-chip .chip-price {
+  color: var(--accent-color, var(--accent, #F4C542)) !important;
+}
+
+#tph-hero-slider .home-section-0-section__btn--accent {
+  background-color: var(--accent-color, var(--accent, #F4C542)) !important;
+  background-image: none !important;
+  border-color: var(--accent-color, var(--accent, #F4C542)) !important;
+  color: var(--text-color, var(--text, var(--text-dark, #4a4a4a))) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
