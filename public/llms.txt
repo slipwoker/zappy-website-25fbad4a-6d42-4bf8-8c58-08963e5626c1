@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 497** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 498** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### פטס אלייב – פולי הציפור הקסומה
+https://parktoys.co.il/product/pts-alyyb-pvly-htsypvr-hksvmh-kp3mxr
+- Price: 149.00 ILS (sale, was 199.00 ILS)
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: התכוננו לחוויה קסומה עם פולי הציפור הקסומה! בעזרת קסם פשוט, היא מתעוררת לחיים, שרה, זזה ואפילו חוזרת על מה שאתם אומרים. פולי מגיעה גם עם גוזל מקסים שניתן לבקוע בו, מה שמוסיף עוד יותר קסם להנאה.
+- Image: https://parktoys.co.il/assets/product-1787208938157-qx493i.webp
 
 ### לימון נידו עם פרצוף 
 https://parktoys.co.il/product/lymvn-nydv-am-prtsvp-njrbuj
@@ -1656,14 +1664,6 @@ https://parktoys.co.il/product/avnybrsyth-lgn-1-jc2sz8
 - Category: משחקי חברה
 - Description: ערכת הכנה לגן חובה לפיתוח החשיבה ולהעשרת הידע! המשחק הראשון בסדרת אוניברסיטה לגן כולל 9 משחקים שונים של התאמה ביניהם. התאמות צורות וצבעים, קטן-בינוני-גדול, צללים, שייכות עצמים ועוד. משחק מעולה להכנה לגן חובה, הכולל בתוכו גם כיף גדול לקטנטנים.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784725772163-qvnksn.webp
-
-### משחק התאמות לימודי - המקצוע שלי
-https://parktoys.co.il/product/mshchk-htamvt-lymvdy-hmktsva-shly-vsok91
-- Price: 50.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: המקצוע שלי משחק ללימוד שמות בעלי המקצוע והכלים המשמשים אותם בעבודתם. משחק לפיתוח כושר ההתבוננות בתמונה ויכולת ההתאמה ופיתוח הזיכרון החזותי. המשחק מרחיב אופקים ומעשיר את אוצר המילים של הילד. תוכן המשחק במשחק 24 כרטיסים המרכיבים 12 זוגות של בעלי מקצוע והכלים המשמשים אותם. בכרטיס אחד מופיעה תמונה של בעל המקצוע ובכרטיס השני מופיעות תמונות של הכלים בהם עליו להשתמש במהלך עבודתו, לדוגמה: בכרטיס אחד מופיעה תמונה של רופא ובכרטיס השני מופיעה תמונה עם מזרק, סטטוסקופ ואמבולנס.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784724487800-7qosd.webp
 
 ---
 
