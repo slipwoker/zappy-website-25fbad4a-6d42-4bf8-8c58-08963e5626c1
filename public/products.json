@@ -1,10 +1,30 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-20T11:59:32.486Z",
+  "generated_at": "2026-08-20T12:01:14.872Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 498,
+  "count": 499,
   "products": [
+    {
+      "id": "843c3bd9-d035-403c-84bf-55c783ca9b7f",
+      "slug": "nta-tst-tpgn7q",
+      "name": "נטע טסט",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/nta-tst-tpgn7q",
+      "categories": [],
+      "updated_at": "2026-08-20T12:00:42.332Z"
+    },
     {
       "id": "e5aa4b1d-aa3e-4632-afe0-5f6d748f9f79",
       "slug": "pts-alyyb-pvly-htsypvr-hksvmh-9zayfs",
