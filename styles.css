@@ -25798,6 +25798,43 @@ main,
 
 /* zappy-self-heal */
 #tph-hero-slider .cat-product-chip .chip-price s { text-decoration: line-through !important; }
+
+#tph-hero-slider .home-section-0-section__promo .cat-product-chip .chip-price {
+  color: #5DA3FA !important;
+}
+
+#tph-hero-slider .home-section-0-section__promo .cat-product-chip .chip-price s {
+  color: #9aa0a6 !important;
+}
+
+#tph-hero-slider .home-section-0-section__promo .home-section-0-section__btn--secondary {
+  background: #5DA3FA !important;
+}
+
+.featured-products-section .product-card .product-price,
+.featured-products-section .product-card .price,
+.featured-products-section .product-card [class*="price"] {
+  color: var(--accent-color, var(--accent, #F4C542)) !important;
+}
+
+.featured-products-section .product-card .add-to-cart-btn,
+.featured-products-section .product-card [class*="add-to-cart"],
+.featured-products-section .product-card [class*="cart-btn"],
+.featured-products-section .product-card button {
+  background-color: var(--accent-color, var(--accent, #F4C542)) !important;
+}
+
+.featured-products-section .product-card .original-price {
+  color: var(--accent-color, var(--accent, #F4C542)) !important;
+}
+
+.featured-products-section .product-card .price {
+  color: var(--accent-color, var(--accent, #F4C542)) !important;
+}
+
+.featured-products-section .product-card-footer .price {
+  color: var(--accent-color, var(--accent, #F4C542)) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
