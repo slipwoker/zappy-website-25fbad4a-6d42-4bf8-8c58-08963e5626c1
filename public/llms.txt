@@ -79,8 +79,8 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 499** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### נטע טסט
-https://parktoys.co.il/product/nta-tst-tpgn7q
-- Price: 0.00 ILS
+https://parktoys.co.il/product/nta-tst-cwyuow
+- Price: 1.00 ILS
 - Availability: In stock
 
 ### פטס אלייב – פולי הציפור הקסומה
