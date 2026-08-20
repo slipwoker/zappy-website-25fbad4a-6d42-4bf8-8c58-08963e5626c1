@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-20T13:26:26.224Z",
+  "generated_at": "2026-08-20T13:27:06.424Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 499,
@@ -152,7 +152,7 @@
     },
     {
       "id": "bcca9c25-cc2c-4913-b65c-dfc07ca7e776",
-      "slug": "kvbyh-nydv-zqhp7t",
+      "slug": "kvbyh-nydv-h5cguv",
       "name": "קוביה נידו ",
       "name_translations": {},
       "description": "",
@@ -168,15 +168,16 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kvbyh-nydv-zqhp7t",
+      "url": "https://parktoys.co.il/product/kvbyh-nydv-h5cguv",
       "categories": [
-        "הטרנדים הכי חזקים בישראל "
+        "הטרנדים הכי חזקים בישראל ",
+        "מתנות עד 99ש\"ח"
       ],
-      "updated_at": "2026-08-19T13:39:29.926Z"
+      "updated_at": "2026-08-20T13:26:32.632Z"
     },
     {
       "id": "bfe86215-92ee-44ab-b12d-cf1fadaacf15",
-      "slug": "spvg-lchm-chmah-1e78cq",
+      "slug": "spvg-lchm-chmah-uol34d",
       "name": "ספוג לחם חמאה",
       "name_translations": {},
       "description": "",
@@ -192,11 +193,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/spvg-lchm-chmah-1e78cq",
+      "url": "https://parktoys.co.il/product/spvg-lchm-chmah-uol34d",
       "categories": [
-        "הטרנדים הכי חזקים בישראל "
+        "הטרנדים הכי חזקים בישראל ",
+        "מתנות עד 99ש\"ח"
       ],
-      "updated_at": "2026-08-19T13:33:45.542Z"
+      "updated_at": "2026-08-20T13:27:04.193Z"
     },
     {
       "id": "57a5e69e-9a80-49eb-8a19-0dd182ada532",
