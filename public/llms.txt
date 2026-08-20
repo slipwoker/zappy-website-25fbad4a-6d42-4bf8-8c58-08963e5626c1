@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 498** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### פטס אלייב – פולי הציפור הקסומה
-https://parktoys.co.il/product/pts-alyyb-pvly-htsypvr-hksvmh-kp3mxr
+https://parktoys.co.il/product/pts-alyyb-pvly-htsypvr-hksvmh-9zayfs
 - Price: 149.00 ILS (sale, was 199.00 ILS)
 - Availability: In stock
 - Category: בובות/ברבי
