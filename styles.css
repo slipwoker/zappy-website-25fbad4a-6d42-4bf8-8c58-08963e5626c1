@@ -23420,6 +23420,16 @@ main,
 .nav-cta-btn { color: #333333 !important; }
 /* === BUTTON TEXT OVERRIDES END === */
 
+
+#tph-hero-slider .cat-product-chip .chip-price s {
+  font-weight: 400;
+  color: var(--text-secondary, var(--text-secondary-color, var(--text-secondary, var(--text-muted, #707070))));
+  text-decoration: line-through;
+  text-decoration-color: var(--text-secondary, var(--text-secondary-color, var(--text-secondary, var(--text-muted, #707070))));
+}
+/* zappy-self-heal */
+#tph-hero-slider .cat-product-chip .chip-price s { text-decoration: line-through !important; }
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
