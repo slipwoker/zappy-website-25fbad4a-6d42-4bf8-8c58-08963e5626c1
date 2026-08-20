@@ -7929,7 +7929,7 @@ html body .deals-section .deals-grid { display: grid !important; }
 
 .featured-categories-section .category-blocks {
   display: grid !important;
-  grid-template-columns: repeat(2, 1fr) !important;
+  grid-template-columns: repeat(3, 1fr);
   gap: 24px !important;
 }
 
@@ -7940,8 +7940,10 @@ html body .deals-section .deals-grid { display: grid !important; }
 }
 }
 
-/* zappy-self-heal */
-.featured-categories-section .category-blocks { display: grid !important; }
+.featured-categories-section .category-blocks {
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr);
+}
 
 /* zappy-self-heal */
 html body .featured-categories-section .category-blocks { display: grid !important; }
