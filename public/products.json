@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-26T07:45:25.989Z",
+  "generated_at": "2026-08-26T13:16:31.411Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 499,
+  "count": 500,
   "products": [
+    {
+      "id": "3c2a6620-f9c2-4246-ae0b-341bcfab21f6",
+      "slug": "arkt-slyym-mart-hknt-atsbavt-gbynh-avnh-2-zuru-tzsds7",
+      "name": "ערכת סליים Mart – הכנת אצבעות גבינה (עונה 2) ZURU",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הכירו את ערכת היצירה המושלמת לחובבי סליים ומשחקי תחושה: ערכת סליים מארט לעיצוב והכנת אצבעות גבינת מוצרלה ריאליסטיות ומגרות מבית המותג העולמי ZURU.\nערכה ייחודית זו מאפשרת לילדים ולילדות להיכנס לנעליו של שף סליים אמיתי, לפתוח שקית הפתעות מגוונת ולרקוח מנה שנראית אמיתית לחלוטין.\nבאמצעות שילוב של סוגי סליים שונים, חומרי טקסטורה ותוספות, יוצרים את המראה הקראנצ’י והמתיחה המושלמת של גבינה מותכת, ללא צורך באפייה או בישול אמיתי.\nהמשחק מעניק חוויה חושית מרגיעה ומספקת, ומאפשר שעות של הנאה יצירתית הרחק מהמס",
+      "sku": null,
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1787750031109-ifi66.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/arkt-slyym-mart-hknt-atsbavt-gbynh-avnh-2-zuru-tzsds7",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-08-26T13:15:53.044Z"
+    },
     {
       "id": "e734278b-8f8b-4090-ab45-b60e502f6db5",
       "slug": "skvvshy-bnnh-i1zzfa",

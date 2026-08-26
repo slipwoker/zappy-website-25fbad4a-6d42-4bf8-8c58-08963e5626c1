@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 499** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 500** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ערכת סליים Mart – הכנת אצבעות גבינה (עונה 2) ZURU
+https://parktoys.co.il/product/arkt-slyym-mart-hknt-atsbavt-gbynh-avnh-2-zuru-tzsds7
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: הכירו את ערכת היצירה המושלמת לחובבי סליים ומשחקי תחושה: ערכת סליים מארט לעיצוב והכנת אצבעות גבינת מוצרלה ריאליסטיות ומגרות מבית המותג העולמי ZURU. ערכה ייחודית זו מאפשרת לילדים ולילדות להיכנס לנעליו של שף סליים אמיתי, לפתוח שקית הפתעות מגוונת ולרקוח מנה שנראית אמיתית לחלוטין. באמצעות שילוב של סוגי סליים שונים, חומרי טקסטורה ותוספות, יוצרים את המראה הקראנצ’י והמתיחה המושלמת של גבינה מותכת, ללא צורך באפייה או בישול אמיתי. המשחק מעניק חוויה חושית מרגיעה ומספקת, ומאפשר שעות של הנאה יצירתית הרחק מהמס
+- Image: https://parktoys.co.il/assets/product-1787750031109-ifi66.webp
 
 ### סקוושי בננה 
 https://parktoys.co.il/product/skvvshy-bnnh-i1zzfa
@@ -1658,14 +1666,6 @@ https://parktoys.co.il/product/mshchk-zykrvn-48-krtysym-mprts-hrptkavt-d29pvj
 - Category: משחקי חברה
 - Description: משחק זיכרון עם תמונות מבית מפרץ ההרפתקאות משחק חשיבה לפיתוח הזיכרון ויכולת ההתאמה החזותית מחזק את מיומנות תיאום קשר עין-יד ומפתח את יכולת התאמת פריטים לכמות המשחק מכיל כרטיסים איכותיים עם תמונות צבעוניות מהסדרה מפרץ ההרפתקאות
 - Image: https://parktoys.co.il/assets/product-enhanced-1784728607859-tprexz.webp
-
-### מה עובר עליך?
-https://parktoys.co.il/product/mh-avbr-alyk-b80x27
-- Price: 100.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: מה עובר עליך הוא משחק תחרותי, מלהיב ומשעשע לכל גיל. המשימות בו מלהיבות את הדמיון, מעודדות יצירתיות ותורמות לפיתוח אינטליגנציה ותקשורת רגשית. קצב ההתקדמות שלכם במרוץ תלוי ביכולתכם להביע רגשות בקול ובתנועה, וביכולתכם לקלוט ולהבין רגשות של אחרים. כי זה לא חשוב מה עושים, חשוב איך מרגישים!
-- Image: https://parktoys.co.il/assets/product-enhanced-1784726137478-rzi17c.webp
 
 ---
 
