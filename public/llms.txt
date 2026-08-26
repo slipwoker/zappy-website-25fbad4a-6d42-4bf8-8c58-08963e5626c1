@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 500** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 501** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ערכת סליים Mart – הכנת מאפי סליים סינמון רול (עונה 2) ZURU
+https://parktoys.co.il/product/arkt-slyym-mart-hknt-mapy-slyym-synmvn-rvl-avnh-2-zuru-14xxew
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Image: https://parktoys.co.il/assets/product-1787750206111-cfdo9s.webp
 
 ### ערכת סליים Mart – הכנת אצבעות גבינה (עונה 2) ZURU
 https://parktoys.co.il/product/arkt-slyym-mart-hknt-atsbavt-gbynh-avnh-2-zuru-tzsds7
@@ -1658,14 +1665,6 @@ https://parktoys.co.il/product/htsba-hrashvn-shly-wdm7kq
 - Category: משחקי חברה
 - Description: הכירו את 'הצבע הראשון שלי', משחק התאמה מקסים המלמד ילדים לזהות ולהבחין בין צבעים שונים. המשחק, המיועד לפיתוח כושר ההתבוננות ויכולת ההתאמה, כולל 24 כרטיסים היוצרים 12 זוגות צבעוניים. כל זוג מורכב מכרטיס צבע וכרטיס תמונה תואם, כמו לימון צהוב או תות אדום. דרך המשחק, ילדיכם ילמדו 12 צבעים בסיסיים וייהנו משתי אפשרויות משחק מרתקות: משחק התאמות קלאסי או משחק זיכרון תחרותי לכל המשפחה. זוהי דרך נהדרת לשלב למידה והנאה ולפתח את הזיכרון החזותי.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784730794870-y6qt6e.webp
-
-### משחק זיכרון 48 כרטיסים – מפרץ הרפתקאות
-https://parktoys.co.il/product/mshchk-zykrvn-48-krtysym-mprts-hrptkavt-d29pvj
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: משחק זיכרון עם תמונות מבית מפרץ ההרפתקאות משחק חשיבה לפיתוח הזיכרון ויכולת ההתאמה החזותית מחזק את מיומנות תיאום קשר עין-יד ומפתח את יכולת התאמת פריטים לכמות המשחק מכיל כרטיסים איכותיים עם תמונות צבעוניות מהסדרה מפרץ ההרפתקאות
-- Image: https://parktoys.co.il/assets/product-enhanced-1784728607859-tprexz.webp
 
 ---
 
