@@ -4165,13 +4165,6 @@ Availability: In stock
 
 ---
 
-### נטע טסט
-URL: https://parktoys.co.il/product/nta-tst-cwyuow
-Price: 1.00 ILS
-Availability: In stock
-
----
-
 ### פטס אלייב – פולי הציפור הקסומה
 URL: https://parktoys.co.il/product/pts-alyyb-pvly-htsypvr-hksvmh-554uaz
 Price: 149.00 ILS (sale, was 199.00 ILS)
