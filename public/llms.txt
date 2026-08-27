@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 501** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 502** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### בימבה חשמלית לילדים
+https://parktoys.co.il/product/bymbh-chshmlyt-lyldym-zbrrnx
+- Price: 249.00 ILS (sale, was 349.00 ILS)
+- Availability: In stock
+- Category: גלגלים
+- Description: הכירו את הלהיט החדש שכבש את העולם: בימבה חשמלית עוצמתית, עם שלט רחוק לשליטה על ידי הורה מרחוק. שילוב מושלם של כיף, בטיחות וטכנולוגיה מתקדמת שמעניקה לילדים שלכם חוויית נהיגה אולטימטיבית. בזכות העיצוב החדשני שלו, הוא מאפשר לילדים לשלוט בקלות על הנסיעה, להסתובב 360 מעלות לנוסע במקומות צפופים תוך כדי שהם יושבים בנוחות ובבטחה. הילד עדיין לא שולט בנהיגה על הבימבה? אין בעיה בלחיצת כפתור אתם מכוונים את הנסיעה של הבימבה ומסיעים את הילד שאן שרק תבחרו, מוצר מושלם בכל בית מתאים לגילאי 2-5 עובד על שלט וגם יד
+- Image: https://parktoys.co.il/assets/product-1787843099908-d0yjzb.webp
 
 ### ערכת סליים Mart – הכנת מאפי סליים סינמון רול (עונה 2) ZURU
 https://parktoys.co.il/product/arkt-slyym-mart-hknt-mapy-slyym-synmvn-rvl-avnh-2-zuru-14xxew
@@ -1657,14 +1665,6 @@ https://parktoys.co.il/product/avnybrsyth-lgn-3-7m61qz
 - Category: משחקי חברה
 - Description: ערכת הכנה לגן חובה המכינה את ילדכם ומפתחת כישורי למידה, חשיבה, חשבון ויצירתיות. המשחק מכיל 9 לוחות משחק ו108 כרטיסי משחק בעלי ביקורת עצמית. כל לוח עוסק בנושא אחר ויש לו כרטיסים מתאימים. על הילדים להתאים את הכרטיסים למיקומם בלוח. על הילדים להתאים בין תמונת המשולש לתמונה של תמרור בצורת משולש להתאים בין עיגול לכדור וכן הלאה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784732221145-ddmty.webp
-
-### הצבע הראשון שלי
-https://parktoys.co.il/product/htsba-hrashvn-shly-wdm7kq
-- Price: 50.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: הכירו את 'הצבע הראשון שלי', משחק התאמה מקסים המלמד ילדים לזהות ולהבחין בין צבעים שונים. המשחק, המיועד לפיתוח כושר ההתבוננות ויכולת ההתאמה, כולל 24 כרטיסים היוצרים 12 זוגות צבעוניים. כל זוג מורכב מכרטיס צבע וכרטיס תמונה תואם, כמו לימון צהוב או תות אדום. דרך המשחק, ילדיכם ילמדו 12 צבעים בסיסיים וייהנו משתי אפשרויות משחק מרתקות: משחק התאמות קלאסי או משחק זיכרון תחרותי לכל המשפחה. זוהי דרך נהדרת לשלב למידה והנאה ולפתח את הזיכרון החזותי.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784730794870-y6qt6e.webp
 
 ---
 

@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-27T14:00:17.402Z",
+  "generated_at": "2026-08-27T15:07:10.013Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 501,
+  "count": 502,
   "products": [
+    {
+      "id": "d9bdaf31-6f83-4429-9471-176d645ddd83",
+      "slug": "bymbh-chshmlyt-lyldym-zbrrnx",
+      "name": "בימבה חשמלית לילדים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הכירו את הלהיט החדש שכבש את העולם: בימבה חשמלית עוצמתית, עם שלט רחוק לשליטה על ידי הורה מרחוק.\nשילוב מושלם של כיף, בטיחות וטכנולוגיה מתקדמת שמעניקה לילדים שלכם חוויית נהיגה אולטימטיבית. בזכות העיצוב החדשני שלו, הוא מאפשר לילדים לשלוט בקלות על הנסיעה, להסתובב 360 מעלות לנוסע במקומות צפופים תוך כדי שהם יושבים בנוחות ובבטחה.\nהילד עדיין לא שולט בנהיגה על הבימבה? אין בעיה בלחיצת כפתור אתם מכוונים את הנסיעה של הבימבה ומסיעים את הילד שאן שרק תבחרו, מוצר מושלם בכל בית מתאים לגילאי 2-5 עובד על שלט וגם יד",
+      "sku": null,
+      "brand": null,
+      "price": 249,
+      "base_price": 349,
+      "sale_price": 249,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1787843099908-d0yjzb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/bymbh-chshmlyt-lyldym-zbrrnx",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-08-27T15:06:32.207Z"
+    },
     {
       "id": "b7e3be14-c13a-4eee-abcd-9ae695b7e599",
       "slug": "arkt-slyym-mart-hknt-mapy-slyym-synmvn-rvl-avnh-2-zuru-14xxew",
