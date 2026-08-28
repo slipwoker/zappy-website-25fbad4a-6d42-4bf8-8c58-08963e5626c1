@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 504** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 505** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מכונית חשמלית לילדים דגם BMW i4 12 V מחיר מיוחד!
+https://parktoys.co.il/product/mkvnyt-chshmlyt-lyldym-dgm-bmw-i4-12-v-mchyr-myvchd-kp0238
+- Price: 1099.00 ILS (sale, was 1400.00 ILS)
+- Availability: In stock
+- Category: גלגלים
+- Description: גלגלים איכותיים לנסיעה שקטה - דלתות נפתחות - עיצוב מיוחד - סוללה 12V מנוע חזק. - שלט הורים חכם לשליטה מלאה על הרכב - מערכת מולטימדיה עם שירים ומנגינות מובנות כולל חיבורי AUX ו USB - נסיעה עם בקרה המאפשרת התחלה איטית של הרכב ובהמשך הגדלת המהירות, למניעת “הצלפה”. - חגורת בטיחות - בולמי זעזועים - תאורת לד מובנת - מהירות מירבית עד כ – 10 קמ”ש
+- Image: https://parktoys.co.il/assets/product-1787899439828-s0qsvc.webp
 
 ### ממונע לילדים BMW i4 12vדגם מקורי כולל שלט חכם - צבע שחור
 https://parktoys.co.il/product/mmvna-lyldym-bmw-i4-12vdgm-mkvry-kvll-shlt-chkm-tsba-shchvr-0b98ms
@@ -1657,14 +1665,6 @@ https://parktoys.co.il/product/my-zh-shm-myk1w6
 - Category: משחקי חברה
 - Description: משחק דמויות אסטרטגי מרתק! בוחרים דמות, שואלים שאלות, מגלים מי הדמות שהיריב בחר ומנצחים!
 - Image: https://parktoys.co.il/assets/product-enhanced-1784734035875-pxn2wl.webp
-
-### משחק זיכרון
-https://parktoys.co.il/product/mshchk-zykrvn-qkxtk1
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: משחק חשיבה לפיתוח הזכרון ויכולת ההתאמה החזותית. מחזק את מיומנות תיאום קשר עין-יד, מרחיב את אוצר המילים ומקנה מושגים כללים. המשחק מכיל כרטיסים איכותיים עם תמונות צבעוניות מעולם הילדים.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784733399406-jmr9p9.webp
 
 ---
 

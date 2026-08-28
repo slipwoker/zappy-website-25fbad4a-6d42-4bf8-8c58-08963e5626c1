@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-28T06:44:02.345Z",
+  "generated_at": "2026-08-28T06:48:09.963Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 504,
+  "count": 505,
   "products": [
+    {
+      "id": "316da9f5-091e-4043-b03c-bbf90fefb727",
+      "slug": "mkvnyt-chshmlyt-lyldym-dgm-bmw-i4-12-v-mchyr-myvchd-kp0238",
+      "name": "מכונית חשמלית לילדים דגם BMW i4 12 V מחיר מיוחד!",
+      "name_translations": {},
+      "description": "",
+      "short_description": "גלגלים איכותיים לנסיעה שקטה\n- דלתות נפתחות\n- עיצוב מיוחד\n- סוללה 12V מנוע חזק.\n- שלט הורים חכם לשליטה מלאה על הרכב\n- מערכת מולטימדיה עם שירים ומנגינות מובנות כולל חיבורי AUX ו USB\n- נסיעה עם בקרה המאפשרת התחלה איטית של הרכב ובהמשך הגדלת המהירות, למניעת “הצלפה”.\n- חגורת בטיחות\n- בולמי זעזועים\n- תאורת לד מובנת\n- מהירות מירבית עד כ – 10 קמ”ש",
+      "sku": null,
+      "brand": null,
+      "price": 1099,
+      "base_price": 1400,
+      "sale_price": 1099,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1787899439828-s0qsvc.webp",
+        "https://parktoys.co.il/assets/product-1787899452537-q027ym.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mkvnyt-chshmlyt-lyldym-dgm-bmw-i4-12-v-mchyr-myvchd-kp0238",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-08-28T06:47:26.060Z"
+    },
     {
       "id": "9ecf2dec-de11-4ac1-98ae-31b821229080",
       "slug": "mmvna-lyldym-bmw-i4-12vdgm-mkvry-kvll-shlt-chkm-tsba-shchvr-0b98ms",
