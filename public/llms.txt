@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 503** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 504** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ממונע לילדים BMW i4 12vדגם מקורי כולל שלט חכם - צבע שחור
+https://parktoys.co.il/product/mmvna-lyldym-bmw-i4-12vdgm-mkvry-kvll-shlt-chkm-tsba-shchvr-844syw
+- Price: 1099.00 ILS (sale, was 1400.00 ILS)
+- Availability: In stock
+- Category: גלגלים
+- Description: ממונע לילדים BMW i4 דגם מקורי כולל שלט חכם – צבע שחור – דגם מקורי ברמה הגבוהה ביותר כולל שלט חכם ובקרת הורים מלאה
+- Image: https://parktoys.co.il/assets/product-1787899019141-fegp2d.webp
 
 ### רכב שטח באגי 24V
 https://parktoys.co.il/product/rkb-shtch-bagy-24v-zwiaa4
@@ -1657,14 +1665,6 @@ https://parktoys.co.il/product/mshchk-zykrvn-qkxtk1
 - Category: משחקי חברה
 - Description: משחק חשיבה לפיתוח הזכרון ויכולת ההתאמה החזותית. מחזק את מיומנות תיאום קשר עין-יד, מרחיב את אוצר המילים ומקנה מושגים כללים. המשחק מכיל כרטיסים איכותיים עם תמונות צבעוניות מעולם הילדים.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784733399406-jmr9p9.webp
-
-###  אותיות מתאימים ומילים מרכיבים
-https://parktoys.co.il/product/avtyvt-mtaymym-vmylym-mrkybym-bqzlfq
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: משחק להכרת האותיות ולפיתוח מיומנויות בהרכבת מילים. המשחק מפתח את הזיכרון החזותי, מחזק את יכולת זיהוי הצלילים וכושר הריכוז. במשחק 18 לוחות. בכל לוח מופיע ציור מעולם הילדים ומתחתיו כתובה המילה בחלוקה לאותיות על המשתתף לזהות את התמונה, לחלק את המילה לצלילים והבהרות, לאתר את האותיות הנכונות ולהניחן על גבי הלוח במקום המתאים.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784733171654-5f87jf.webp
 
 ---
 
