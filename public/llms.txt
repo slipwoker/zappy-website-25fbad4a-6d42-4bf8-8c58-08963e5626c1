@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 505** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 506** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ממונע MERCEDES G63 12V -צבע שחור 
+https://parktoys.co.il/product/mmvna-mercedes-g63-12v-tsba-shchvr-36c7u9
+- Price: 1099.00 ILS (sale, was 1400.00 ILS)
+- Availability: In stock
+- Category: גלגלים
+- Description: גלגלי פס איכותיים מאפשרים נסיעה שקטה ומונעים החלקה מושב מפואר לנוחות מירבית שלט הורים חכם 2 מנועים 12 וולט חזקים ואיכותיים 3 מהירויות קדימה ואחורה מערכת מולטמדיה חגורת בטיחות דלתות נפתחות דוושת גז לנסיעה בולמי זעזועים מידות הרכב אורך 120 סמ רוחב 75 סמ הרכב כולל שלט חכם לשליטת ההורים על המכונית באופן מושלם כולל כפתור לעצירת חירום בזמן סכנה ומאפשר שליטה עד למרחק של 35 מטר. רמקולים מובנים כולל שרים מובנים כמו כן כולל חיבור AUX לחיבור לאנדרואיד או לאייפון הרכב כולל מערכת בקרת משיכה שמאפשרת התחלת נס
+- Image: https://parktoys.co.il/assets/product-1787900959016-x8q7dd.webp
 
 ### מכונית חשמלית לילדים דגם BMW i4 12 V מחיר מיוחד!
 https://parktoys.co.il/product/mkvnyt-chshmlyt-lyldym-dgm-bmw-i4-12-v-mchyr-myvchd-kp0238
@@ -1657,14 +1665,6 @@ https://parktoys.co.il/product/hpkym-dn045j
 - Category: משחקי חברה
 - Description: משחק ללימוד הפכים, לפיתוח כושר ההתבוננות בתמונה ויכולת ההתאמה. המשחק תורם לשיפור הזיכרון החזותי, העשרת השפה, הקניית מושגים והרחבת אוצר המילים.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784734632469-o1nfga.webp
-
-### מי זה שם?
-https://parktoys.co.il/product/my-zh-shm-myk1w6
-- Price: 80.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: משחק דמויות אסטרטגי מרתק! בוחרים דמות, שואלים שאלות, מגלים מי הדמות שהיריב בחר ומנצחים!
-- Image: https://parktoys.co.il/assets/product-enhanced-1784734035875-pxn2wl.webp
 
 ---
 
