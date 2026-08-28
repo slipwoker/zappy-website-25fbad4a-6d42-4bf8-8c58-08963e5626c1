@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 502** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 503** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### רכב שטח באגי 24V
+https://parktoys.co.il/product/rkb-shtch-bagy-24v-zwiaa4
+- Price: 1799.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: רכב שטח באגי ספורט לילדים + דגלים *סוללה:24V 7AH / מנוע: 70W*2 *שלט חכם 2.4G שליטה במכונית להורים *זמן טעינה: 8-10שעות *זמן נסיעה: 60 דקות *2 מקומות אמיתיים *דלתות נפתחות *גלגל EVA *נוסע קדימה ואחורה – 2 מהירויות *מנגינות/MP3/AUX/CD CARD *תאורה מקדימה ומאחורה *מתאים מגיל 2 ומעלה *בולמי זעזועים אמיתיים *קל להרכבה נוח לשימוש
+- Image: https://parktoys.co.il/assets/product-1787898518767-jkurcz.webp
 
 ### בימבה חשמלית לילדים
 https://parktoys.co.il/product/bymbh-chshmlyt-lyldym-zbrrnx
@@ -1657,14 +1665,6 @@ https://parktoys.co.il/product/avtyvt-mtaymym-vmylym-mrkybym-bqzlfq
 - Category: משחקי חברה
 - Description: משחק להכרת האותיות ולפיתוח מיומנויות בהרכבת מילים. המשחק מפתח את הזיכרון החזותי, מחזק את יכולת זיהוי הצלילים וכושר הריכוז. במשחק 18 לוחות. בכל לוח מופיע ציור מעולם הילדים ומתחתיו כתובה המילה בחלוקה לאותיות על המשתתף לזהות את התמונה, לחלק את המילה לצלילים והבהרות, לאתר את האותיות הנכונות ולהניחן על גבי הלוח במקום המתאים.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784733171654-5f87jf.webp
-
-### אוניברסיטה לגן 3
-https://parktoys.co.il/product/avnybrsyth-lgn-3-7m61qz
-- Price: 50.00 ILS
-- Availability: In stock
-- Category: משחקי חברה
-- Description: ערכת הכנה לגן חובה המכינה את ילדכם ומפתחת כישורי למידה, חשיבה, חשבון ויצירתיות. המשחק מכיל 9 לוחות משחק ו108 כרטיסי משחק בעלי ביקורת עצמית. כל לוח עוסק בנושא אחר ויש לו כרטיסים מתאימים. על הילדים להתאים את הכרטיסים למיקומם בלוח. על הילדים להתאים בין תמונת המשולש לתמונה של תמרור בצורת משולש להתאים בין עיגול לכדור וכן הלאה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784732221145-ddmty.webp
 
 ---
 
