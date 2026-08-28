@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 504** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### ממונע לילדים BMW i4 12vדגם מקורי כולל שלט חכם - צבע שחור
-https://parktoys.co.il/product/mmvna-lyldym-bmw-i4-12vdgm-mkvry-kvll-shlt-chkm-tsba-shchvr-844syw
+https://parktoys.co.il/product/mmvna-lyldym-bmw-i4-12vdgm-mkvry-kvll-shlt-chkm-tsba-shchvr-0b98ms
 - Price: 1099.00 ILS (sale, was 1400.00 ILS)
 - Availability: In stock
 - Category: גלגלים

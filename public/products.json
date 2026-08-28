@@ -1,16 +1,16 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-28T06:40:32.464Z",
+  "generated_at": "2026-08-28T06:44:02.345Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 504,
   "products": [
     {
       "id": "9ecf2dec-de11-4ac1-98ae-31b821229080",
-      "slug": "mmvna-lyldym-bmw-i4-12vdgm-mkvry-kvll-shlt-chkm-tsba-shchvr-844syw",
+      "slug": "mmvna-lyldym-bmw-i4-12vdgm-mkvry-kvll-shlt-chkm-tsba-shchvr-0b98ms",
       "name": "ממונע לילדים BMW i4 12vדגם מקורי כולל שלט חכם - צבע שחור",
       "name_translations": {},
-      "description": "",
+      "description": "<p></p><p>מכונית חשמלית לילדים דגם BMW i4 12 V מחיר מיוחד!</p><p></p><p>- גלגלים איכותיים לנסיעה שקטה</p><p>- דלתות נפתחות</p><p>- עיצוב מיוחד</p><p>- סוללה 12V מנוע חזק.</p><p>- שלט הורים חכם לשליטה מלאה על הרכב</p><p>- מערכת מולטימדיה עם שירים ומנגינות מובנות כולל חיבורי AUX ו USB</p><p>- נסיעה עם בקרה המאפשרת התחלה איטית של הרכב ובהמשך הגדלת המהירות, למניעת “הצלפה”.</p><p>- חגורת בטיחות</p><p>- בולמי זעזועים</p><p>- תאורת לד מובנת</p><p>- מהירות מירבית עד כ – 10 קמ”ש</p><p></p><p>- צבעים: שחור, לבן</p><p></p><p>- מומלץ לגילאי 3-6 שנים</p>",
       "short_description": "ממונע לילדים BMW i4 דגם מקורי כולל שלט חכם – צבע שחור – דגם מקורי ברמה הגבוהה ביותר כולל שלט חכם ובקרת הורים מלאה",
       "sku": null,
       "brand": null,
@@ -25,11 +25,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mmvna-lyldym-bmw-i4-12vdgm-mkvry-kvll-shlt-chkm-tsba-shchvr-844syw",
+      "url": "https://parktoys.co.il/product/mmvna-lyldym-bmw-i4-12vdgm-mkvry-kvll-shlt-chkm-tsba-shchvr-0b98ms",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-08-28T06:39:58.313Z"
+      "updated_at": "2026-08-28T06:43:26.706Z"
     },
     {
       "id": "d7642b81-a39c-4ce4-ab28-711cd8f02d0d",
