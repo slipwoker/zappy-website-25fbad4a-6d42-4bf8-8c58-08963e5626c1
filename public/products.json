@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-30T14:37:56.416Z",
+  "generated_at": "2026-08-30T14:39:07.748Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 515,
+  "count": 516,
   "products": [
+    {
+      "id": "aabf36d6-84b1-4edd-a9a9-cdf6d3f44927",
+      "slug": "mprts-hhrptkavt-ay-hdynvzavrym-mtvs-sylvn-chylvts-dynv-am-dmvt-skyy-vdynvzavr-k8wjvy",
+      "name": "  מפרץ ההרפתקאות: אי הדינוזאורים - מטוס סילון חילוץ דינו עם דמות סקיי ודינוזאור",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 89,
+      "base_price": 89,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1788100688430-jao6u.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mprts-hhrptkavt-ay-hdynvzavrym-mtvs-sylvn-chylvts-dynv-am-dmvt-skyy-vdynvzavr-k8wjvy",
+      "categories": [
+        "צעוצעים לבנים /דמויות/מותגים"
+      ],
+      "updated_at": "2026-08-30T14:38:32.411Z"
+    },
     {
       "id": "a20cfc89-9c36-41ec-a557-335e30bc9060",
       "slug": "mprts-hhrptkavt-ay-hdynvzavrym-nyydt-mshtrh-dynv-am-dmvt-tsyys-vdynvzavr-knmbps",

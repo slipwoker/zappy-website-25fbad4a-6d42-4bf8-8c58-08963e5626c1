@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 515** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 516** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+###   מפרץ ההרפתקאות: אי הדינוזאורים - מטוס סילון חילוץ דינו עם דמות סקיי ודינוזאור
+https://parktoys.co.il/product/mprts-hhrptkavt-ay-hdynvzavrym-mtvs-sylvn-chylvts-dynv-am-dmvt-skyy-vdynvzavr-k8wjvy
+- Price: 89.00 ILS
+- Availability: In stock
+- Category: צעוצעים לבנים /דמויות/מותגים
+- Image: https://parktoys.co.il/assets/product-1788100688430-jao6u.webp
 
 ### מפרץ ההרפתקאות: אי הדינוזאורים - ניידת משטרה דינו עם דמות צ'ייס ודינוזאור
 https://parktoys.co.il/product/mprts-hhrptkavt-ay-hdynvzavrym-nyydt-mshtrh-dynv-am-dmvt-tsyys-vdynvzavr-knmbps
@@ -1652,14 +1659,6 @@ https://parktoys.co.il/product/ayntks-mzrvn-kvsvt-am-krytl-mtnpch-yi5s2j
 - Category: מוצרי קיץ 
 - Description: זהו מזרן ים מתנפח Intex 18-Pocket Fashion Mat (דגם 58890) בצבע ירוק שקוף. המזרן כולל כרית ראש מובנית ו-18 שקעים ("כיסים") שמתמלאים במים כדי לקרר את הגוף בזמן הציפה. מידות המזרן הן 188 ס"מ אורך ו-71 ס"מ רוחב, והוא עשוי ויניל בעובי 0.28 מ"מ
 - Image: https://parktoys.co.il/assets/product-enhanced-1784809651977-votes.webp
-
-### בריכת קונוס מתנפחת לילדים בקוטר 188X46 ס"מ - Intex
-https://parktoys.co.il/product/brykt-kvnvs-mtnpcht-lyldym-bkvtr-188x46-sm-intex-2b7fan
-- Price: 120.00 ILS
-- Availability: In stock
-- Category: מוצרי קיץ 
-- Description: בריכת קונוס מתנפחת לילדים בקוטר 188X46 ס מ מבית אינטקס Intex - Inflatable cone pool for children בריכת קונוס מתנפחת לילדים – יותר מקום, יותר כיף עם Intex! הכניסו צבע, מים והמון חיוכים לחצר הביתית עם בריכת קונוס רחבה, חזקה ומתאימה במיוחד לקטנטנים. יתרונות:✅ עיצוב עגול וקלאסי שמתאים לפעוטות✅ 3 טבעות אוויר רחבות לחיזוק✅ חומר PVC עמיד✅ מתנפחת ומתנקזת בקלות מה הבריכה כוללת: שלוש טבעות עבות שסתומי אוויר בטיחותיים ערכת תיקון כלולה גודל:קוטר 188 ס מ | גובה 46 ס מ | נפח מים: כ-666 ליטר
-- Image: https://parktoys.co.il/assets/product-enhanced-1784804330495-q9gjy.webp
 
 ---
 
