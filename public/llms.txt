@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 516** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 517** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מפרץ ההרפתקאות סרט דינו - רכב דינו מגזאורוס
+https://parktoys.co.il/product/mprts-hhrptkavt-srt-dynv-rkb-dynv-mgzavrvs-veo8v2
+- Price: 339.00 ILS
+- Availability: In stock
+- Category: צעוצעים לבנים /דמויות/מותגים
+- Description: דינוזאור ענק מגזאורוס מסרט מפרץ ההרפתקאות מגיע + רכב מרהיב + דמות מצוות ההצלה! צעצוע זה משלב דמות דינוזאור אדיר עם רכב מעוצב בקפידה, מושלם לילדים שאוהבים הרפתקאות פרהיסטוריות. הרכב מציע שעות של משחק יצירתי - ילדים יכולים לנהוג בו, להעמיד דמויות עליו, או לשלב אותו עם צעצועים נוספים מהסדרה. העיצוב מפורט ותוקף מעניין, עם צבעים תוססים שמושכים את העיניים. מתאים לילדים מגיל 3 ומעלה. צעצוע אידיאלי למתנה, לאוסף, או להרחבת עולם המשחק של סדרת מפרץ ההרפתקאות.
+- Image: https://parktoys.co.il/assets/product-1788101344271-jlul27.webp
 
 ###   מפרץ ההרפתקאות: אי הדינוזאורים - מטוס סילון חילוץ דינו עם דמות סקיי ודינוזאור
 https://parktoys.co.il/product/mprts-hhrptkavt-ay-hdynvzavrym-mtvs-sylvn-chylvts-dynv-am-dmvt-skyy-vdynvzavr-k8wjvy
@@ -1651,14 +1659,6 @@ https://parktoys.co.il/product/mzrvn-ym-vrd-advm-p42y58
 - Category: מוצרי קיץ 
 - Description: מזרון ים בצורת ורד אדום במידות 1.37מטר על 1.32 מטר המתאים לים ולבריכה ובמיוחד למסיבות ואירועים, מסיבת רווקות / רווקים, בר מצווה, בת מצווה, ימי הולדת, הפקות ואירועי חברה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784810506809-y16trn.webp
-
-### אינטקס מזרון כוסות עם כריתל מתנפח
-https://parktoys.co.il/product/ayntks-mzrvn-kvsvt-am-krytl-mtnpch-yi5s2j
-- Price: 70.00 ILS
-- Availability: In stock
-- Category: מוצרי קיץ 
-- Description: זהו מזרן ים מתנפח Intex 18-Pocket Fashion Mat (דגם 58890) בצבע ירוק שקוף. המזרן כולל כרית ראש מובנית ו-18 שקעים ("כיסים") שמתמלאים במים כדי לקרר את הגוף בזמן הציפה. מידות המזרן הן 188 ס"מ אורך ו-71 ס"מ רוחב, והוא עשוי ויניל בעובי 0.28 מ"מ
-- Image: https://parktoys.co.il/assets/product-enhanced-1784809651977-votes.webp
 
 ---
 

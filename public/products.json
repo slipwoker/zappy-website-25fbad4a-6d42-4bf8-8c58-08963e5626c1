@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-30T14:39:07.748Z",
+  "generated_at": "2026-08-30T14:52:41.738Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 516,
+  "count": 517,
   "products": [
+    {
+      "id": "859711f4-7e01-43fb-8cd6-6a27e016a111",
+      "slug": "mprts-hhrptkavt-srt-dynv-rkb-dynv-mgzavrvs-veo8v2",
+      "name": "מפרץ ההרפתקאות סרט דינו - רכב דינו מגזאורוס",
+      "name_translations": {},
+      "description": "",
+      "short_description": "דינוזאור ענק מגזאורוס מסרט מפרץ ההרפתקאות מגיע + רכב מרהיב + דמות מצוות ההצלה! צעצוע זה משלב דמות דינוזאור אדיר עם רכב מעוצב בקפידה, מושלם לילדים שאוהבים הרפתקאות פרהיסטוריות. הרכב מציע שעות של משחק יצירתי - ילדים יכולים לנהוג בו, להעמיד דמויות עליו, או לשלב אותו עם צעצועים נוספים מהסדרה. העיצוב מפורט ותוקף מעניין, עם צבעים תוססים שמושכים את העיניים. מתאים לילדים מגיל 3 ומעלה. צעצוע אידיאלי למתנה, לאוסף, או להרחבת עולם המשחק של סדרת מפרץ ההרפתקאות.",
+      "sku": null,
+      "brand": null,
+      "price": 339,
+      "base_price": 339,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1788101344271-jlul27.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mprts-hhrptkavt-srt-dynv-rkb-dynv-mgzavrvs-veo8v2",
+      "categories": [
+        "צעוצעים לבנים /דמויות/מותגים"
+      ],
+      "updated_at": "2026-08-30T14:52:08.758Z"
+    },
     {
       "id": "aabf36d6-84b1-4edd-a9a9-cdf6d3f44927",
       "slug": "mprts-hhrptkavt-ay-hdynvzavrym-mtvs-sylvn-chylvts-dynv-am-dmvt-skyy-vdynvzavr-k8wjvy",
