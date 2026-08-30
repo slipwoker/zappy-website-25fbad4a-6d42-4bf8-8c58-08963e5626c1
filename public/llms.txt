@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 519** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 520** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מפרץ ההרפתקאות – סרט דינו – סט משחק הרמה ומירוץ Out
+https://parktoys.co.il/product/mprts-hhrptkavt-srt-dynv-st-mshchk-hrmh-vmyrvts-out-cg3qrs
+- Price: 179.00 ILS
+- Availability: In stock
+- Category: צעוצעים לבנים /דמויות/מותגים
+- Description: צאו להרפתקה פרהיסטורית קצבית ומסעירה עם יחידת החילוץ האהובה! הכירו את ערכת המשחק הרשמית של מפרץ ההרפתקאות מסדרת הדינוזאורים האהובה. הערכה מביאה את כל האקשן של הסרט והסדרה ישירות לחדר הילדים. במרכז הערכה ניצב דינוזאור ברכיוזאורוס ענקי ואינטראקטיבי בגובה של כ-25 ס&quot;מ, המצויד במנגנון הרמה ייחודי. איך משחקים? מציבים את רכב המיני של מרשל על גב הדינוזאור, מריצים אותו למעלה בעזרת צוואר הדינוזאור הזז אל פלטפורמת השיגור, ומשחררים אותו למרוץ מטורף מטה בתוך שניות! למה הילדים (וההורים) יעפו על זה? מנגנו…
+- Image: https://parktoys.co.il/assets/product-1788105319885-8inimn.webp
 
 ### כבאית חילוץ דינו מפרץ ההרפתקאות: אי הדינוזאורים באורך מעל 25.4 ס״מ עם מרשל, סולם נפתח ומשגר 3 קליעים – PAW Patrol
 https://parktoys.co.il/product/kbayt-chylvts-dynv-mprts-hhrptkavt-ay-hdynvzavrym-bavrk-mal-254-sm-am-mrshl-svlm-nptch-vmshgr-3-klyaym-paw-patrol-whi4kl
@@ -1651,14 +1659,6 @@ https://parktoys.co.il/product/brykh-mtnpcht-svnyk-3hjwli
 - Category: מוצרי קיץ 
 - Description: הילדים מעריצים את סוניק? עכשיו הם יכולים לקפוץ לתוך האקשן! בריכת הפעוטות של Sonic Prime מביאה את האנרגיה המטורפת של הקיפוד הכחול היישר לחצר או למרפסת שלכם.מה הופך אותה ללהיט של הקיץ?לחובבי סוניק המושבעים: איורים צבעוניים ומלאי חיים של סוניק והחברים שמוסיפים המון אופי וסטייל לסביבת המשחק.יציבות ובטיחות: מבנה של 3 טבעות מתנפחות המעניק חוזק יציבות ושמירה על צורת הבריכה גם בזמן משחק פעיל.מרווחת ומהנה: עם קוטר של 120 ס"מ ועומק של 30 ס"מ יש לקטנטנים המון מקום להשתכשך בכיף
 - Image: https://parktoys.co.il/assets/product-enhanced-1784820174564-gl2qmw.webp
-
-### מזרון קמפינג מתנפח 22*73*191 ס"מ
-https://parktoys.co.il/product/mzrvn-kmpyng-mtnpch-2273191-sm-sftu87
-- Price: 80.00 ILS
-- Availability: In stock
-- Category: מוצרי קיץ 
-- Description: מזרן קמפינג מתנפח איכותי המציע את השילוב המושלם בין נוחות ביתית, עמידות גבוהה וניידות מקסימלית בתנאי שטח. המזרן מעוצב במבנה ארגונומי חכם המפזר את משקל הגוף בצורה אחידה ומבודד אותו ביעילות מהרצפה הקרה או משטח לא ישר, מה שמבטיח שינה עמוקה ונוחה בכל טיול, מחנה או אירוח ביתי. המזרן מיוצר מחומרים חזקים ועמידים במיוחד בפני שחיקה ותקרים, והוא קל מאוד לניקוי ותחזוקה. בזכות שסתום אוויר מתקדם, המזרן מאפשר ניפוח מהיר וריקון קל ופשוט בתוך דקות ספורות. בסיום השימוש הוא מתקפל לגודל קומפקטי וקל משקל,
-- Image: https://parktoys.co.il/assets/product-enhanced-1784811803150-n7j60q.webp
 
 ---
 

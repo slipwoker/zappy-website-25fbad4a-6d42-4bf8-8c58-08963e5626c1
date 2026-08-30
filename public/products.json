@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-30T15:53:23.885Z",
+  "generated_at": "2026-08-30T15:56:38.828Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 519,
+  "count": 520,
   "products": [
+    {
+      "id": "5dee8cba-cede-4b42-981d-415cf0fe2e15",
+      "slug": "mprts-hhrptkavt-srt-dynv-st-mshchk-hrmh-vmyrvts-out-cg3qrs",
+      "name": "מפרץ ההרפתקאות – סרט דינו – סט משחק הרמה ומירוץ Out",
+      "name_translations": {},
+      "description": "<p>צאו להרפתקה פרהיסטורית קצבית ומסעירה עם יחידת החילוץ האהובה!</p><p></p><p>הכירו את ערכת המשחק הרשמית של מפרץ ההרפתקאות מסדרת הדינוזאורים האהובה. הערכה מביאה את כל האקשן של הסרט והסדרה ישירות לחדר הילדים. במרכז הערכה ניצב דינוזאור ברכיוזאורוס ענקי ואינטראקטיבי בגובה של כ-25 ס&quot;מ, המצויד במנגנון הרמה ייחודי.</p><p></p><p>איך משחקים? מציבים את רכב המיני של מרשל על גב הדינוזאור, מריצים אותו למעלה בעזרת צוואר הדינוזאור הזז אל פלטפורמת השיגור, ומשחררים אותו למרוץ מטורף מטה בתוך שניות!</p><p></p><p></p><p>למה הילדים (וההורים) יעפו על זה?</p><p></p><p>מנגנון הרמה מכני מדליק: מפעילים את צוואר הדינוזאור כדי להרים את הרכבים לפסגה – ללא צורך בסוללות!</p><p>מסלולי מרוץ כפולים: הרכב יכול לבחור בשני כיווני גלישה שונים, לרבות רמפת קפיצה אקסטרימית בסוף המסלול.</p><p>מוכן למשחק מהקופסה: המארז כולל את רכב המיני הבלעדי של מרשל (Marshall Pup Squad Racer) ודמות דינוזאור קטנה וחמודה (רוברב).</p><p>תאימות מושלמת: המסלול מותאם ועובד בצורה חלקה עם כל רכבי ה-Pup Squad של מפרץ ההרפתקאות (נמכרים בנפרד).</p><p>פיתוח מיומנויות: מעודד דמיון, משחק תפקידים, מוטוריקה עדינה והבנה של קשר סיבה-תוצאה.</p><p></p><p>מפרט טכני:</p><p></p><p>מותג: Spin Master (ספין מאסטר)</p><p>גיל מומלץ: 3 שנים ומעלה (מתאים לגילאי גן)</p><p>מידות הדינוזאור: גובה של כ-25 ס&quot;מ</p><p>תכולת האריזה: מסלול ברכיוזאורוס, רכב מיני מרשל, דמות דינוזאור, דף מדבקות לעיצוב המסלול.</p><p>ברקוד (UPC): 681147113466</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 179,
+      "base_price": 179,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1788105319885-8inimn.webp",
+        "https://parktoys.co.il/assets/product-1788105328813-qgucq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mprts-hhrptkavt-srt-dynv-st-mshchk-hrmh-vmyrvts-out-cg3qrs",
+      "categories": [
+        "צעוצעים לבנים /דמויות/מותגים"
+      ],
+      "updated_at": "2026-08-30T15:56:01.178Z"
+    },
     {
       "id": "1f3e1e5b-b3cc-4bd2-896b-0f7e0063d0f9",
       "slug": "kbayt-chylvts-dynv-mprts-hhrptkavt-ay-hdynvzavrym-bavrk-mal-254-sm-am-mrshl-svlm-nptch-vmshgr-3-klyaym-paw-patrol-whi4kl",
