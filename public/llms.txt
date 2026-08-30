@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 508** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 509** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ריינבוקורן - מגיקורן גדול
+https://parktoys.co.il/product/ryynbvkvrn-mgykvrn-gdvl-lhsif2
+- Price: 150.00 ILS
+- Availability: In stock
+- Category: בובות/ברבי
+- Description: בובת פרווה ומארז הפתעות ענק ZURU Rainbocorns Magic Potion Surpriseהכירו את הלהיט המכשף של חברת ZURU! מארז ענק בצורת כלי שיקויים מסתורי, המשלב חוויית פתיחה אינטראקטיבית עם מעל 35 הפתעות מדליקות. ערבבו את אבקת הקסם, צרו אפקט בועות מרהיב וחשפו בובת חד-קרן פרוותית, ענקית ורכה במיוחד לחיבוק. הערכה כוללת חומרי יצירה להכנת צמידים, אביזרי אופנה מנצנצים, שרביט ובובת הפתעה קטנה. מתנה מושלמת ומלאת דמיון לילדים מגיל 3 ומעלה. הזמינו עכשיו והכניסו קסם לבית!
+- Image: https://parktoys.co.il/assets/product-enhanced-1788089443450-v20yrd.webp
 
 ### אוזניות בלוטוס צבעוניות עם כיסוי סיליקון קיי פופ
 https://parktoys.co.il/product/avznyvt-blvtvs-tsbavnyvt-am-kysvy-sylykvn-kyy-pvp-vuu1f5
@@ -1656,14 +1664,6 @@ https://parktoys.co.il/product/brykh-mtnpcht-agvlh-mprts-hrptkavt-12030-sm-ikryr
 - Category: מוצרי קיץ 
 - Description: הלהיט שכל ילד וילדה חולמים עליו הגיע! בריכת הפעוטות הרשמית של מפרץ ההרפתקאות (Paw Patrol) תהפוך את הגינה או המרפסת שלכם למטה החילוץ הכי מרענן בשכונה. עם הדמויות האהובות - צ'ייס סקיי וחברים - כל טבילה במים הופכת להרפתקה דמיונית מלאה בכיף.למה הילדים יתאהבו בה?המותג האהוב בעולם: עיצוב צבעוני ומרהיב עם הגיבורים מהסדרה שילדים מעריצים.מבנה 3 טבעות יציב: מעניק תמיכה מקסימלית ועמידות לאורך זמן גם כשהמשחק הופך לסוער.מידות מושלמות: קוטר של 120 ס"מ ועומק של 30 ס"מ - השילוב האידיאלי בין מרחב משחק לבטיחות ונ
 - Image: https://parktoys.co.il/assets/product-enhanced-1784799542533-fov4z.webp
-
-### משאית עם שלט צבי הנינגה-יורה פיצות
-https://parktoys.co.il/product/mshayt-am-shlt-tsby-hnyngh-yvrh-pytsvt-qe957s
-- Price: 159.00 ILS
-- Availability: In stock
-- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
-- Description: משאית עם שלט בצורה פיצה של צבי הנינגה נוסעת ויורה פיצות
-- Image: https://parktoys.co.il/assets/product-1784790434369-6jaksue.webp
 
 ---
 

@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-30T07:22:02.269Z",
+  "generated_at": "2026-08-30T11:32:00.613Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 508,
+  "count": 509,
   "products": [
+    {
+      "id": "6cde1a86-3027-4469-a3f7-700449ac5c64",
+      "slug": "ryynbvkvrn-mgykvrn-gdvl-lhsif2",
+      "name": "ריינבוקורן - מגיקורן גדול",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בובת פרווה ומארז הפתעות ענק ZURU Rainbocorns Magic Potion Surpriseהכירו את הלהיט המכשף של חברת ZURU! מארז ענק בצורת כלי שיקויים מסתורי, המשלב חוויית פתיחה אינטראקטיבית עם מעל 35 הפתעות מדליקות. ערבבו את אבקת הקסם, צרו אפקט בועות מרהיב וחשפו בובת חד-קרן פרוותית, ענקית ורכה במיוחד לחיבוק. הערכה כוללת חומרי יצירה להכנת צמידים, אביזרי אופנה מנצנצים, שרביט ובובת הפתעה קטנה. מתנה מושלמת ומלאת דמיון לילדים מגיל 3 ומעלה. הזמינו עכשיו והכניסו קסם לבית!",
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 150,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1788089443450-v20yrd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/ryynbvkvrn-mgykvrn-gdvl-lhsif2",
+      "categories": [
+        "בובות/ברבי"
+      ],
+      "updated_at": "2026-08-30T11:31:21.217Z"
+    },
     {
       "id": "f75ee723-e1ad-421f-a17f-062ce4da4d69",
       "slug": "avznyvt-blvtvs-tsbavnyvt-am-kysvy-sylykvn-kyy-pvp-vuu1f5",
