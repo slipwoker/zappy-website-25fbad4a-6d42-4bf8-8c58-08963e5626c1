@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-30T14:21:26.510Z",
+  "generated_at": "2026-08-30T14:25:21.601Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 513,
+  "count": 514,
   "products": [
+    {
+      "id": "5bc56ad5-1ca2-4404-bd7f-050521933631",
+      "slug": "mprts-hhrptkavt-srt-dynv-rkb-bsysy-rvky-fgrvhd",
+      "name": "מפרץ ההרפתקאות סרט דינו – רכב בסיסי רוקי",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 89,
+      "base_price": 89,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1788099833099-9kms7w.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mprts-hhrptkavt-srt-dynv-rkb-bsysy-rvky-fgrvhd",
+      "categories": [
+        "צעוצעים לבנים /דמויות/מותגים"
+      ],
+      "updated_at": "2026-08-30T14:24:47.364Z"
+    },
     {
       "id": "0a39e97c-fe3b-49ee-9274-94201427e055",
       "slug": "mprts-hhrptkavt-srt-dynv-rkb-bsysy-rabl-54cklk",

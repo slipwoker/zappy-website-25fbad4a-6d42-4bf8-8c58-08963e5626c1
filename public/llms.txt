@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 513** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 514** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מפרץ ההרפתקאות סרט דינו – רכב בסיסי רוקי
+https://parktoys.co.il/product/mprts-hhrptkavt-srt-dynv-rkb-bsysy-rvky-fgrvhd
+- Price: 89.00 ILS
+- Availability: In stock
+- Category: צעוצעים לבנים /דמויות/מותגים
+- Image: https://parktoys.co.il/assets/product-1788099833099-9kms7w.webp
 
 ### מפרץ ההרפתקאות סרט דינו – רכב בסיסי ראבל
 https://parktoys.co.il/product/mprts-hhrptkavt-srt-dynv-rkb-bsysy-rabl-54cklk
@@ -1654,14 +1661,6 @@ https://parktoys.co.il/product/mzrvn-brykh-btsvrt-hmbvrgr-6ql9dl
 - Category: מוצרי קיץ 
 - Description: אי המבורגר המתנפח הזה כולל הדפסה מציאותית שתגרום לך להזיל ריר לתוך הבריכה מידות 144.8 ס"מ X 142.2 ס"מ עם מבנה ויניל מד 11 כולל 2 ידיות חזקות כולל טלאי תיקון
 - Image: https://parktoys.co.il/assets/product-enhanced-1784802189265-542qi.webp
-
-### בריכת ריסוס קשת בענן Intex, בריכת ילדים מתנפחת, לגילאי שנתיים +
-https://parktoys.co.il/product/brykt-rysvs-ksht-bann-intex-brykt-yldym-mtnpcht-lgylay-shntyym-csei2g
-- Price: 200.00 ILS
-- Availability: In stock
-- Category: מוצרי קיץ 
-- Description: בריכת פעילות קשת כולל מזרקה אורן 1.47 ס"מ רוחב 1.30 ס"מ גובה 86 ס"מ מיועד לשימוש כמשחק בריכה . ניתן לחבר צינור גינה על מנת להשפריץ מים לרענון! INTEX חברת הבריכות הטובה בעולם מתאים לשימוש לילדים בגיל 2 ומעלה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784801660092-mv7up.webp
 
 ---
 
