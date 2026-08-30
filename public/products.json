@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-08-30T15:47:03.486Z",
+  "generated_at": "2026-08-30T15:53:23.885Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 518,
+  "count": 519,
   "products": [
+    {
+      "id": "1f3e1e5b-b3cc-4bd2-896b-0f7e0063d0f9",
+      "slug": "kbayt-chylvts-dynv-mprts-hhrptkavt-ay-hdynvzavrym-bavrk-mal-254-sm-am-mrshl-svlm-nptch-vmshgr-3-klyaym-paw-patrol-whi4kl",
+      "name": "כבאית חילוץ דינו מפרץ ההרפתקאות: אי הדינוזאורים באורך מעל 25.4 ס״מ עם מרשל, סולם נפתח ומשגר 3 קליעים – PAW Patrol",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מאפיינים בולטים:\n🚒 כבאית חילוץ דינו מהסרט מפרץ ההרפתקאות: אי הדינוזאורים\n🐾 כוללת דמות פעולה של Marshall למשימות כבאות והצלה\n🦖 עיצוב בהשראת עולם הדינוזאורים של הסרט החדש\n📏 רכב גדול באורך מעל 25.4 ס״מ\n🎯 כולל 3 קליעי מים למשחקי חילוץ ואקשן\n🚿 משגר קליעים נסתר נפתח מתחת לתא הנהג\n🔄 מנגנון סיבוב לכיוון המשגר לפני הירי\n🪜 סולם חילוץ נפתח להגעה למקומות גבוהים במשחק\n✨ גימור מטאלי ייחודי למראה מרשים וחוויית מגע מעניינת\n🤲 פעולות טעינה, כיוון ושיגור מחזקות מוטוריקה עדינה\n👀 מסייע בפיתוח תיאום עין־יד ",
+      "sku": null,
+      "brand": null,
+      "price": 179,
+      "base_price": 179,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1788105064097-sbs6rf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kbayt-chylvts-dynv-mprts-hhrptkavt-ay-hdynvzavrym-bavrk-mal-254-sm-am-mrshl-svlm-nptch-vmshgr-3-klyaym-paw-patrol-whi4kl",
+      "categories": [
+        "צעוצעים לבנים /דמויות/מותגים"
+      ],
+      "updated_at": "2026-08-30T15:52:47.755Z"
+    },
     {
       "id": "ec317ae3-28a8-4d1e-8828-e16a62e3bac3",
       "slug": "mprts-hhrptkavt-ay-hdynvzavrym-rkb-gryrh-al-shlt-sx24gt",

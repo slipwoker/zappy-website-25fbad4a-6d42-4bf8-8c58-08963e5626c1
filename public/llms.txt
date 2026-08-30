@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 518** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 519** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### כבאית חילוץ דינו מפרץ ההרפתקאות: אי הדינוזאורים באורך מעל 25.4 ס״מ עם מרשל, סולם נפתח ומשגר 3 קליעים – PAW Patrol
+https://parktoys.co.il/product/kbayt-chylvts-dynv-mprts-hhrptkavt-ay-hdynvzavrym-bavrk-mal-254-sm-am-mrshl-svlm-nptch-vmshgr-3-klyaym-paw-patrol-whi4kl
+- Price: 179.00 ILS
+- Availability: In stock
+- Category: צעוצעים לבנים /דמויות/מותגים
+- Description: מאפיינים בולטים: 🚒 כבאית חילוץ דינו מהסרט מפרץ ההרפתקאות: אי הדינוזאורים 🐾 כוללת דמות פעולה של Marshall למשימות כבאות והצלה 🦖 עיצוב בהשראת עולם הדינוזאורים של הסרט החדש 📏 רכב גדול באורך מעל 25.4 ס״מ 🎯 כולל 3 קליעי מים למשחקי חילוץ ואקשן 🚿 משגר קליעים נסתר נפתח מתחת לתא הנהג 🔄 מנגנון סיבוב לכיוון המשגר לפני הירי 🪜 סולם חילוץ נפתח להגעה למקומות גבוהים במשחק ✨ גימור מטאלי ייחודי למראה מרשים וחוויית מגע מעניינת 🤲 פעולות טעינה, כיוון ושיגור מחזקות מוטוריקה עדינה 👀 מסייע בפיתוח תיאום עין־יד
+- Image: https://parktoys.co.il/assets/product-1788105064097-sbs6rf.webp
 
 ### מפרץ ההרפתקאות אי הדינוזאורים - רכב גרירה על שלט
 https://parktoys.co.il/product/mprts-hhrptkavt-ay-hdynvzavrym-rkb-gryrh-al-shlt-sx24gt
@@ -1651,14 +1659,6 @@ https://parktoys.co.il/product/mzrvn-kmpyng-mtnpch-2273191-sm-sftu87
 - Category: מוצרי קיץ 
 - Description: מזרן קמפינג מתנפח איכותי המציע את השילוב המושלם בין נוחות ביתית, עמידות גבוהה וניידות מקסימלית בתנאי שטח. המזרן מעוצב במבנה ארגונומי חכם המפזר את משקל הגוף בצורה אחידה ומבודד אותו ביעילות מהרצפה הקרה או משטח לא ישר, מה שמבטיח שינה עמוקה ונוחה בכל טיול, מחנה או אירוח ביתי. המזרן מיוצר מחומרים חזקים ועמידים במיוחד בפני שחיקה ותקרים, והוא קל מאוד לניקוי ותחזוקה. בזכות שסתום אוויר מתקדם, המזרן מאפשר ניפוח מהיר וריקון קל ופשוט בתוך דקות ספורות. בסיום השימוש הוא מתקפל לגודל קומפקטי וקל משקל,
 - Image: https://parktoys.co.il/assets/product-enhanced-1784811803150-n7j60q.webp
-
-### ערסל מים שקוף של INTEX: צף בריכה מתנפח – 172.7 ס"מ x 89 ס"מ – קיבולת משקל 220 - משטח אחד, הצבע עשוי להשתנות
-https://parktoys.co.il/product/arsl-mym-shkvp-shl-intex-tsp-brykh-mtnpch-1727-sm-x-89-sm-kybvlt-mshkl-220-mshtch-achd-htsba-ashvy-lhshtnvt-t9vr07
-- Price: 80.00 ILS
-- Availability: In stock
-- Category: מוצרי קיץ 
-- Description: מזרני הערסל המתנפחים של INTEX מוסיפים נגיעה צבעונית ושמחה לכל שחייה. בין אם בים או בבריכה זהו האביזר המושלם לרגעים של רוגע והתפנקות בקיץ. העיצוב החכם מאפשר למים לזרום בעדינות דרך המשענת הגלית, כך שתוכלו להתרענן בזמן שאתם משתזפים. הצבע לפי המלאי בחנות!!
-- Image: https://parktoys.co.il/assets/product-enhanced-1784810867632-vk0xak.webp
 
 ---
 
