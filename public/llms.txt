@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 509** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### ריינבוקורן - מגיקורן גדול
-https://parktoys.co.il/product/ryynbvkvrn-mgykvrn-gdvl-zltn2e
+https://parktoys.co.il/product/ryynbvkvrn-mgykvrn-gdvl-trru7t
 - Price: 150.00 ILS
 - Availability: In stock
 - Category: בובות/ברבי
