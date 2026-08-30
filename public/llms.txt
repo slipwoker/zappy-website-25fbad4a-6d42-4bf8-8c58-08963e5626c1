@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 517** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 518** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מפרץ ההרפתקאות אי הדינוזאורים - רכב גרירה על שלט
+https://parktoys.co.il/product/mprts-hhrptkavt-ay-hdynvzavrym-rkb-gryrh-al-shlt-sx24gt
+- Price: 235.00 ILS
+- Availability: In stock
+- Category: צעוצעים לבנים /דמויות/מותגים
+- Description: • מסייע לילדים לפתח תיאום עין יד בזמן שליטה ברכב • מאפשר נסיעה קדימה, אחורה ולצדדים בעזרת שלט פשוט ונוח • מעודד משחק דמיוני דרך משימות חילוץ • מאפשר להכניס את דמות Chase למושב הנהג וליצור תחושת משחק אמיתית יותר • עוזר לילדים לשחזר רגעים מהסרט או להמציא סיפורים חדשים • המבנה העמיד מתאים למשימות משחק חוזרות • מתאים לילדים שאוהבים רכבי שלט, דינוזאורים והרפתקאות PAW Patrol
+- Image: https://parktoys.co.il/assets/product-1788104702419-at28ke.webp
 
 ### מפרץ ההרפתקאות סרט דינו - רכב דינו מגזאורוס
 https://parktoys.co.il/product/mprts-hhrptkavt-srt-dynv-rkb-dynv-mgzavrvs-veo8v2
@@ -1651,14 +1659,6 @@ https://parktoys.co.il/product/arsl-mym-shkvp-shl-intex-tsp-brykh-mtnpch-1727-sm
 - Category: מוצרי קיץ 
 - Description: מזרני הערסל המתנפחים של INTEX מוסיפים נגיעה צבעונית ושמחה לכל שחייה. בין אם בים או בבריכה זהו האביזר המושלם לרגעים של רוגע והתפנקות בקיץ. העיצוב החכם מאפשר למים לזרום בעדינות דרך המשענת הגלית, כך שתוכלו להתרענן בזמן שאתם משתזפים. הצבע לפי המלאי בחנות!!
 - Image: https://parktoys.co.il/assets/product-enhanced-1784810867632-vk0xak.webp
-
-### מזרון ים ורד אדום
-https://parktoys.co.il/product/mzrvn-ym-vrd-advm-p42y58
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: מוצרי קיץ 
-- Description: מזרון ים בצורת ורד אדום במידות 1.37מטר על 1.32 מטר המתאים לים ולבריכה ובמיוחד למסיבות ואירועים, מסיבת רווקות / רווקים, בר מצווה, בת מצווה, ימי הולדת, הפקות ואירועי חברה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784810506809-y16trn.webp
 
 ---
 
