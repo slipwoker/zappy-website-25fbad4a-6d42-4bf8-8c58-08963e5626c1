@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 511** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 512** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### זומא מפרץ ההרפתקאות סרט דינו - רכב בסיסי
+https://parktoys.co.il/product/zvma-mprts-hhrptkavt-srt-dynv-rkb-bsysy-30qm0y
+- Price: 89.00 ILS
+- Availability: In stock
+- Category: צעוצעים לבנים /דמויות/מותגים
+- Image: https://parktoys.co.il/assets/product-1788099313342-fydsbl.webp
 
 ### אופנוע ספיידרמן 6v עם גלגלי עזר
 https://parktoys.co.il/product/avpnva-spyydrmn-6v-am-glgly-azr-z8ub5r
@@ -1656,14 +1663,6 @@ https://parktoys.co.il/product/brykt-amvdym-myny-bgvdl-122x122x30-sm-57173-intex
 - Category: מוצרי קיץ 
 - Description: בריכת עמודים מיני בגודל 122X122X30 ס מ מבית אינטקס Intex - Column pool בריכת עמודים מיני Intex – הקטנה שמביאה הרבה שמחה! לילדים הקטנים מגיע מקום בטוח ונוח להתרענן בו – בריכת עמודים חזקה, קומפקטית וקלה לשימוש. יתרונות:✅ שלדת מתכת עמידה ליציבות גבוהה✅ יריעת PVC מחוזקת✅ קלה להרכבה, ללא צורך בכלים✅ מתאימה גם לחצרות קטנות במיוחד מה הבריכה כוללת: מסגרת מתכתית עמידה יריעת PVC איכותית פקק ריקון מובנה גודל:אורך 122 ס מ | רוחב 122 ס מ | גובה 30 ס מ | נפח מים: כ-342 ליטר שימוש:מעולה לפעוטות ולילדים צעירים,
 - Image: https://parktoys.co.il/assets/product-enhanced-1784801418963-wdj2q.webp
-
-### בריכה מתנפחת 120*30 קוקומלון
-https://parktoys.co.il/product/brykh-mtnpcht-12030-kvkvmlvn-aaqyem
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: מוצרי קיץ 
-- Description: בריכה מתנפחת צבעונית ומהנה בעיצוב הדמויות האהובות של קוקומלון, מושלמת לימי הקיץ החמים ולשעות של כיף לילדים. הבריכה כוללת 3 טבעות מתנפחות ליציבות ונוחות ומספקת חוויית משחק מרעננת בחצר, במרפסת או בגינה עשויה חומר איכותי ועמיד ומתאימה לשימוש ביתי לילדים. העיצוב הצבעוני והאהוב הופך כל יום קיץ למהנה במיוחד מידות: קוטר 120 ס״מ עומק: 30 ס״מ 3 טבעות מתנפחות עיצוב: קוקומלון מתאים לילדים ולפעילויות קיץ ומשחק מים
-- Image: https://parktoys.co.il/assets/product-1784800479930-8j92o51.webp
 
 ---
 
