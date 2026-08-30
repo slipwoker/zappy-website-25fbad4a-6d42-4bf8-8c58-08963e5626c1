@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 512** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 513** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מפרץ ההרפתקאות סרט דינו – רכב בסיסי ראבל
+https://parktoys.co.il/product/mprts-hhrptkavt-srt-dynv-rkb-bsysy-rabl-54cklk
+- Price: 89.00 ILS
+- Availability: In stock
+- Category: צעוצעים לבנים /דמויות/מותגים
+- Image: https://parktoys.co.il/assets/product-1788099546916-55gw1.webp
 
 ### זומא מפרץ ההרפתקאות סרט דינו - רכב בסיסי
 https://parktoys.co.il/product/zvma-mprts-hhrptkavt-srt-dynv-rkb-bsysy-30qm0y
@@ -1655,14 +1662,6 @@ https://parktoys.co.il/product/brykt-rysvs-ksht-bann-intex-brykt-yldym-mtnpcht-l
 - Category: מוצרי קיץ 
 - Description: בריכת פעילות קשת כולל מזרקה אורן 1.47 ס"מ רוחב 1.30 ס"מ גובה 86 ס"מ מיועד לשימוש כמשחק בריכה . ניתן לחבר צינור גינה על מנת להשפריץ מים לרענון! INTEX חברת הבריכות הטובה בעולם מתאים לשימוש לילדים בגיל 2 ומעלה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784801660092-mv7up.webp
-
-### בריכת עמודים מיני בגודל 122X122X30 ס"מ 57173 - Intex
-https://parktoys.co.il/product/brykt-amvdym-myny-bgvdl-122x122x30-sm-57173-intex-t9rort
-- Price: 219.99 ILS
-- Availability: In stock
-- Category: מוצרי קיץ 
-- Description: בריכת עמודים מיני בגודל 122X122X30 ס מ מבית אינטקס Intex - Column pool בריכת עמודים מיני Intex – הקטנה שמביאה הרבה שמחה! לילדים הקטנים מגיע מקום בטוח ונוח להתרענן בו – בריכת עמודים חזקה, קומפקטית וקלה לשימוש. יתרונות:✅ שלדת מתכת עמידה ליציבות גבוהה✅ יריעת PVC מחוזקת✅ קלה להרכבה, ללא צורך בכלים✅ מתאימה גם לחצרות קטנות במיוחד מה הבריכה כוללת: מסגרת מתכתית עמידה יריעת PVC איכותית פקק ריקון מובנה גודל:אורך 122 ס מ | רוחב 122 ס מ | גובה 30 ס מ | נפח מים: כ-342 ליטר שימוש:מעולה לפעוטות ולילדים צעירים,
-- Image: https://parktoys.co.il/assets/product-enhanced-1784801418963-wdj2q.webp
 
 ---
 
