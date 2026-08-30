@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 514** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 515** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מפרץ ההרפתקאות: אי הדינוזאורים - ניידת משטרה דינו עם דמות צ'ייס ודינוזאור
+https://parktoys.co.il/product/mprts-hhrptkavt-ay-hdynvzavrym-nyydt-mshtrh-dynv-am-dmvt-tsyys-vdynvzavr-knmbps
+- Price: 89.00 ILS
+- Availability: In stock
+- Category: צעוצעים לבנים /דמויות/מותגים
+- Image: https://parktoys.co.il/assets/product-1788100571417-qriej.webp
 
 ### מפרץ ההרפתקאות סרט דינו – רכב בסיסי רוקי
 https://parktoys.co.il/product/mprts-hhrptkavt-srt-dynv-rkb-bsysy-rvky-fgrvhd
@@ -1653,14 +1660,6 @@ https://parktoys.co.il/product/brykt-kvnvs-mtnpcht-lyldym-bkvtr-188x46-sm-intex-
 - Category: מוצרי קיץ 
 - Description: בריכת קונוס מתנפחת לילדים בקוטר 188X46 ס מ מבית אינטקס Intex - Inflatable cone pool for children בריכת קונוס מתנפחת לילדים – יותר מקום, יותר כיף עם Intex! הכניסו צבע, מים והמון חיוכים לחצר הביתית עם בריכת קונוס רחבה, חזקה ומתאימה במיוחד לקטנטנים. יתרונות:✅ עיצוב עגול וקלאסי שמתאים לפעוטות✅ 3 טבעות אוויר רחבות לחיזוק✅ חומר PVC עמיד✅ מתנפחת ומתנקזת בקלות מה הבריכה כוללת: שלוש טבעות עבות שסתומי אוויר בטיחותיים ערכת תיקון כלולה גודל:קוטר 188 ס מ | גובה 46 ס מ | נפח מים: כ-666 ליטר
 - Image: https://parktoys.co.il/assets/product-enhanced-1784804330495-q9gjy.webp
-
-### מזרון בריכה בצורת המבורגר
-https://parktoys.co.il/product/mzrvn-brykh-btsvrt-hmbvrgr-6ql9dl
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: מוצרי קיץ 
-- Description: אי המבורגר המתנפח הזה כולל הדפסה מציאותית שתגרום לך להזיל ריר לתוך הבריכה מידות 144.8 ס"מ X 142.2 ס"מ עם מבנה ויניל מד 11 כולל 2 ידיות חזקות כולל טלאי תיקון
-- Image: https://parktoys.co.il/assets/product-enhanced-1784802189265-542qi.webp
 
 ---
 
