@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 521** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 522** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ערכת סליים עיצוב וקישוט בהשראת Netflix KPop Demon Hunters עם דמות, סליים, כלי, 3 תוספות קישוט ומדליון לאיסוף – Gui Gui Beautify Your Slime
+https://parktoys.co.il/product/arkt-slyym-aytsvb-vkyshvt-bhshrat-netflix-kpop-demon-hunters-am-dmvt-slyym-kly-3-tvspvt-kyshvt-vmdlyvn-laysvp-gui-gui-beautify-your-slime-6xo7rm
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: ערכת סליים עיצוב וקישוט בהשראת Netflix KPop Demon Hunters עם דמות, סליים, כלי, 3 תוספות קישוט ומדליון לאיסוף – Gui Gui Beautify Your Slime ערכת סליים עיצוב וקישוט בהשראת Netflix KPop Demon Hunters עם דמות, סליים, כלי, 3 תוספות קישוט ומדליון לאיסוף – Gui Gui Beautify Your Slime ערכת Gui Gui Beautify Your Slime בהשראת Netflix KPop Demon Hunters משלבת סליים צבעוני, דמות אספנות, תוספות קישוט ותהליך עיצוב ייחודי ב־5 שלבים: חושפים את הסליים, מערבבים בוסטר, מקשטים בצ׳ארמס, מגלים מדליון ומוסיפים נצנוץ ל…
+- Image: https://parktoys.co.il/assets/product-1788257298745-3jz9v.webp
 
 ### ביוטי סליים מבית Gui Gui - רומי
 https://parktoys.co.il/product/byvty-slyym-mbyt-gui-gui-rvmy-x2uuda
@@ -1651,14 +1659,6 @@ https://parktoys.co.il/product/zvg-mtsvpym-mtnpchym-batmn-23x15-sm-ezh4kf
 - Category: מוצרי קיץ 
 - Description: מחפשים דרך מהנה ובטוחה לקפוץ למים? זוג המצופים המתנפחים בעיצוב באטמן יעניק לילדיכם חוויית שחייה מופלאה ומלאת ביטחון! הזוג מגיע בגודל של 23×15 ס"מ, מיועד לילדים בגילאי 3–6 ובמשקל של 18–30 ק"ג. המצופים מיוצרים מחומרים עמידים ואיכותיים לשמירה על בטיחות מירבית בבריכה ובים, לצד נוחות מלאה בזמן התנועה במים. עם מראה גיבור-העל האהוב, כל רחצה הופכת לחוויה מהנה במיוחד!
 - Image: https://parktoys.co.il/assets/product-enhanced-1784824077303-reg1ght.webp
-
-### כדור ים מתנפח לילדים - עיצוב מפרץ ההרפתקאות
-https://parktoys.co.il/product/kdvr-ym-mtnpch-lyldym-aytsvb-mprts-hhrptkavt-8zbcw2
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: מוצרי קיץ 
-- Description: הצטרפו ליחידת החילוץ האהובה בבילוי הבא שלכם במים! כדור הים הצבעוני בעיצוב “מפרץ ההרפתקאות” מביא את צ’ייס, סקאי ושאר החברים מהסדרה הפופולרית ישירות לבריכה או לים. הכדור קל משקל, נוח לניפוח ומספק שעות של הנאה אקטיבית לילדים.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784823494378-0wf0r.webp
 
 ---
 
