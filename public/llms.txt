@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 520** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 521** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ביוטי סליים מבית Gui Gui - רומי
+https://parktoys.co.il/product/byvty-slyym-mbyt-gui-gui-rvmy-x2uuda
+- Price: 79.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: ביוטי סליים מבית Gui Gui שיתוף הפעולה בין KPop Demon Hunters ל־Gui Gui משלב את הדמויות האהובות עם חוויית יצירה ועיצוב של סליים. כל ערכה כוללת סליים בעל גוון ומרקם בהשראת אחת הדמויות, לצד תוספות המאפשרות לעבור את שגרת העיצוב הייחודית של Gui Gui בחמישה שלבים: 1. חושפים את הסליים. 2. מערבבים לתוכו את הבוסטר להוספת מרקם, נפח ותנועה. 3. מקשטים אותו בקישוטים בהשראת הדמות. 4. חושפים את המדליון ומשלבים אותו בעיצוב. 5. מוסיפים נצנצים להשלמת המראה. בסדרה ארבעה סליימים שונים לאיסוף, וביניהם מסתתרים 1,000 ס…
+- Image: https://parktoys.co.il/assets/product-1788257038131-0ap83q.webp
 
 ### מפרץ ההרפתקאות – סרט דינו – סט משחק הרמה ומירוץ Out
 https://parktoys.co.il/product/mprts-hhrptkavt-srt-dynv-st-mshchk-hrmh-vmyrvts-out-cg3qrs
@@ -1651,14 +1659,6 @@ https://parktoys.co.il/product/kdvr-ym-mtnpch-lyldym-aytsvb-mprts-hhrptkavt-8zbc
 - Category: מוצרי קיץ 
 - Description: הצטרפו ליחידת החילוץ האהובה בבילוי הבא שלכם במים! כדור הים הצבעוני בעיצוב “מפרץ ההרפתקאות” מביא את צ’ייס, סקאי ושאר החברים מהסדרה הפופולרית ישירות לבריכה או לים. הכדור קל משקל, נוח לניפוח ומספק שעות של הנאה אקטיבית לילדים.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784823494378-0wf0r.webp
-
-### בריכה מתנפחת סוניק
-https://parktoys.co.il/product/brykh-mtnpcht-svnyk-3hjwli
-- Price: 60.00 ILS
-- Availability: In stock
-- Category: מוצרי קיץ 
-- Description: הילדים מעריצים את סוניק? עכשיו הם יכולים לקפוץ לתוך האקשן! בריכת הפעוטות של Sonic Prime מביאה את האנרגיה המטורפת של הקיפוד הכחול היישר לחצר או למרפסת שלכם.מה הופך אותה ללהיט של הקיץ?לחובבי סוניק המושבעים: איורים צבעוניים ומלאי חיים של סוניק והחברים שמוסיפים המון אופי וסטייל לסביבת המשחק.יציבות ובטיחות: מבנה של 3 טבעות מתנפחות המעניק חוזק יציבות ושמירה על צורת הבריכה גם בזמן משחק פעיל.מרווחת ומהנה: עם קוטר של 120 ס"מ ועומק של 30 ס"מ יש לקטנטנים המון מקום להשתכשך בכיף
-- Image: https://parktoys.co.il/assets/product-enhanced-1784820174564-gl2qmw.webp
 
 ---
 
