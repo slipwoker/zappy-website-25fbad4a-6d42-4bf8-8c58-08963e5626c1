@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-02T14:55:56.535Z",
+  "generated_at": "2026-09-02T14:58:26.405Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 522,
+  "count": 521,
   "products": [
     {
       "id": "85d34143-602a-4f8a-a87e-e273ac399595",
@@ -9252,30 +9252,6 @@
         "הטרנדים הכי חזקים בישראל "
       ],
       "updated_at": "2026-07-13T12:56:44.352Z"
-    },
-    {
-      "id": "c37f9963-ac86-4663-8637-183fbbe1bb22",
-      "slug": "skvvshy-tyrs-ank-nydv-ank-r3h8yy",
-      "name": "סקוושי תירס ענק נידו ענק",
-      "name_translations": {},
-      "description": "",
-      "short_description": "סקוושי תירס ענק נידו ענק",
-      "sku": null,
-      "brand": null,
-      "price": 40,
-      "base_price": 40,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1783946832889-a4we7.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/skvvshy-tyrs-ank-nydv-ank-r3h8yy",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-13T12:47:59.246Z"
     },
     {
       "id": "f19a4758-0e96-47d2-b6da-f14b72dc428f",
