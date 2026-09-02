@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-01T10:09:09.961Z",
+  "generated_at": "2026-09-02T14:52:11.934Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 522,
@@ -12403,16 +12403,16 @@
     },
     {
       "id": "2e285199-67be-4a63-91a6-bc6d2e45c5f3",
-      "slug": "skvvshy-ban-damplyng-larvcht-dym-sam-btsknyt-bshll-tsbaym-tsba-bhptah-q4ljd0",
+      "slug": "skvvshy-ban-damplyng-larvcht-dym-sam-btsknyt-bshll-tsbaym-tsba-bhptah-0v9olu",
       "name": "סקוושי באן דאמפלינג לארוחת דים סאם (בצקנית) בשלל צבעים (צבע בהפתעה) ",
       "name_translations": {},
       "description": "",
       "short_description": "הכירו את הטרנד שמשגע את הילדים והנוער – סקווישי באן של מאכל הרחוב האהוב!\nהמשחק החושי המושלם שמשלב את אלמנט ההפתעה יחד עם חוויית מעיכה מרגיעה וממכרת.\nכל מארז מעוצב כלחמניית באן חמודה וקורצת, ובתוכה מסתתר דאמפלינג (כיסון) צבעוני ובמרקם של דים סאם אמיתי.\nהמשחק מציע מגוון רחב של צבעים\nאיזה צבע מחכה לכם בפנים? פתחו את הלחמנייה וגלו סקווישי מדליק\n\nגילאים מומלצים: 3 ומעלה.\nיחידה אחת בקופסא (נשלח לפי זמינות) – מגוון צבעים, מגוון הבעות פנים, קופסא בגווני חום",
       "sku": null,
       "brand": null,
-      "price": 30,
+      "price": 20,
       "base_price": 30,
-      "sale_price": null,
+      "sale_price": 20,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-1782374384993-20am9o.webp",
@@ -12420,11 +12420,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/skvvshy-ban-damplyng-larvcht-dym-sam-btsknyt-bshll-tsbaym-tsba-bhptah-q4ljd0",
+      "url": "https://parktoys.co.il/product/skvvshy-ban-damplyng-larvcht-dym-sam-btsknyt-bshll-tsbaym-tsba-bhptah-0v9olu",
       "categories": [
         "הטרנדים הכי חזקים בישראל "
       ],
-      "updated_at": "2026-06-25T08:04:10.051Z"
+      "updated_at": "2026-09-02T14:51:35.950Z"
     },
     {
       "id": "33edc97b-3c03-44be-ac41-e984257cb84b",
