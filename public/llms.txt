@@ -76,7 +76,13 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 521** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 522** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### כדורגל מונדיאל 
+https://parktoys.co.il/product/kdvrgl-mvndyal-xzgtum
+- Price: 50.00 ILS
+- Availability: In stock
+- Image: https://parktoys.co.il/assets/product-enhanced-1788767974063-5hsmx.webp
 
 ### סליים ביוטי gui gui
 https://parktoys.co.il/product/slyym-byvty-gui-gui-pn2k4j
@@ -1651,14 +1657,6 @@ https://parktoys.co.il/product/mtsvpym-baytsvb-hsdrh-byt-hbvbvt-shl-gby-ir0v7g
 - Category: מוצרי קיץ 
 - Description: מצופים מתנפחים 15*23 ס''מ בעיצוב הסדרה האהובה בית הבובות של גבי להשלמת החוויה הקייצית של ילדכם בבריכה או בחוף הים.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784824912006-aog7z2.webp
-
-### זוג מצופים מתנפחים באטמן 23X15 ס"מ
-https://parktoys.co.il/product/zvg-mtsvpym-mtnpchym-batmn-23x15-sm-ezh4kf
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: מוצרי קיץ 
-- Description: מחפשים דרך מהנה ובטוחה לקפוץ למים? זוג המצופים המתנפחים בעיצוב באטמן יעניק לילדיכם חוויית שחייה מופלאה ומלאת ביטחון! הזוג מגיע בגודל של 23×15 ס"מ, מיועד לילדים בגילאי 3–6 ובמשקל של 18–30 ק"ג. המצופים מיוצרים מחומרים עמידים ואיכותיים לשמירה על בטיחות מירבית בבריכה ובים, לצד נוחות מלאה בזמן התנועה במים. עם מראה גיבור-העל האהוב, כל רחצה הופכת לחוויה מהנה במיוחד!
-- Image: https://parktoys.co.il/assets/product-enhanced-1784824077303-reg1ght.webp
 
 ---
 
