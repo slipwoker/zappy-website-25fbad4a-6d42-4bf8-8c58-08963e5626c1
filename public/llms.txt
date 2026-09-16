@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 522** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 523** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת כדורגל פורטוגל רונאלדו 
+https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-rvnaldv-68fp7f
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Image: https://parktoys.co.il/assets/product-1789573921952-tpny1p.webp
 
 ### כדורגל מונדיאל 
 https://parktoys.co.il/product/kdvrgl-mvndyal-xzgtum
@@ -1649,14 +1656,6 @@ https://parktoys.co.il/product/kdvr-mtnpch-baytsvb-hsdrh-svnyk-50-sm-s23s11
 - Category: מוצרי קיץ 
 - Description: כדור ים מתנפח 50 ס''מ בעיצוב הסדרה האהובה סוניק להשלמת החוויה הקיצית של ילדכם בבריכה או בחוף הים.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784825091299-ppl6kb.webp
-
-### מצופים בעיצוב הסדרה בית הבובות של גבי
-https://parktoys.co.il/product/mtsvpym-baytsvb-hsdrh-byt-hbvbvt-shl-gby-ir0v7g
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: מוצרי קיץ 
-- Description: מצופים מתנפחים 15*23 ס''מ בעיצוב הסדרה האהובה בית הבובות של גבי להשלמת החוויה הקייצית של ילדכם בבריכה או בחוף הים.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784824912006-aog7z2.webp
 
 ---
 
