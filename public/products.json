@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-16T14:54:15.876Z",
+  "generated_at": "2026-09-16T14:55:45.398Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 522,
@@ -1964,13 +1964,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1786434262433-i7zgg.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-pvrtvgl-rvnaldv-y2j9dq",
       "categories": [
         "מוצרי ספורט"
       ],
-      "updated_at": "2026-08-16T10:52:57.813Z"
+      "updated_at": "2026-09-16T14:55:12.524Z"
     },
     {
       "id": "3f127608-da22-4bab-aa93-cc6c6cc8a760",
@@ -4682,13 +4682,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-1785083608826-resn2d.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/st-byysbvl-lyldym-am-mshgr-kdvrym-chvvyyt-mshchk-spvrtybyt-vmhnh-qzp0ju",
       "categories": [
         "מוצרי ספורט"
       ],
-      "updated_at": "2026-08-02T07:23:37.486Z"
+      "updated_at": "2026-09-16T14:55:12.524Z"
     },
     {
       "id": "bbee8c38-53bc-4f96-a722-b902dbc64592",
