@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-07T08:00:24.459Z",
+  "generated_at": "2026-09-16T14:54:15.876Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 522,
@@ -1878,7 +1878,7 @@
     },
     {
       "id": "918e8659-5bd7-4e69-bf3e-f84abd45045c",
-      "slug": "chlypt-kdvrgl-mvndyal-2026-tsrpt-ambph-f79f67",
+      "slug": "chlypt-kdvrgl-mvndyal-2026-tsrpt-ambph-6nuorn",
       "name": "חליפת כדורגל מונדיאל 2026 צרפת אמבפה",
       "name_translations": {},
       "description": "",
@@ -1892,13 +1892,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-1786437744420-7es2ak.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-tsrpt-ambph-f79f67",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-tsrpt-ambph-6nuorn",
       "categories": [
         "מוצרי ספורט"
       ],
-      "updated_at": "2026-08-16T10:49:57.177Z"
+      "updated_at": "2026-09-16T14:53:41.468Z"
     },
     {
       "id": "3e39cd0e-6eba-475e-8dd4-9c4abfa16d74",
