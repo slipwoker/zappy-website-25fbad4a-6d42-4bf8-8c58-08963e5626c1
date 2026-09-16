@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-16T15:53:23.050Z",
+  "generated_at": "2026-09-16T15:54:37.875Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 523,
   "products": [
     {
       "id": "064c9840-ef63-4877-b664-5b8252b5ed02",
-      "slug": "chlypt-kdvrgl-pvrtvgl-rvnaldv-68fp7f",
+      "slug": "chlypt-kdvrgl-pvrtvgl-rvnaldv-q3plxj",
       "name": "חליפת כדורגל פורטוגל רונאלדו ",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-rvnaldv-68fp7f",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-rvnaldv-q3plxj",
       "categories": [
         "מוצרי ספורט"
       ],
-      "updated_at": "2026-09-16T15:52:47.760Z"
+      "updated_at": "2026-09-16T15:54:22.950Z"
     },
     {
       "id": "855729a4-3850-4ffc-8e59-9a46fcb78327",
