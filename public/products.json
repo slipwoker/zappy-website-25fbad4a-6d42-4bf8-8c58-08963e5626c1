@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-25T11:51:42.264Z",
+  "generated_at": "2026-09-25T11:54:42.176Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 530,
+  "count": 531,
   "products": [
+    {
+      "id": "de6c2225-1ab9-4600-818e-301231c234bf",
+      "slug": "tsayp-mkby-tl-abyb-cintbl",
+      "name": "צעיף מכבי תל אביב",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1790337171777-aeobt.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/tsayp-mkby-tl-abyb-cintbl",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-09-25T11:54:05.702Z"
+    },
     {
       "id": "30d0d327-fe80-42cb-9052-41a8bb43aaec",
       "slug": "tsayp-mkby-chyph-kqhasn",

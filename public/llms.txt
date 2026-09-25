@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 530** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 531** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### צעיף מכבי תל אביב
+https://parktoys.co.il/product/tsayp-mkby-tl-abyb-cintbl
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Image: https://parktoys.co.il/assets/product-enhanced-1790337171777-aeobt.webp
 
 ### צעיף מכבי חיפה 
 https://parktoys.co.il/product/tsayp-mkby-chyph-kqhasn
@@ -1643,14 +1650,6 @@ https://parktoys.co.il/product/slyym-mart-tart-dvbdbnym-hkq6w4
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: סליים מארט - טארט דובדבנים, חוויית הסליים הרך החדשה והחדשנית שמאפשרת לילדים ולילדים להכין יצירות משלהם בסגנון אוכל ריאליסטיות במיוחד! אפשר לעצב, לשלב ולקשט את תרכובת הסליים ולעצב כך שייראה כמו אוכל אמיתי! אבל אל תתבלבלו – זה לא למאכל!!! רכות, כיף חושי, נימתח בקלות, לאחר שהכנתם את המאכל שאתם אוהבים –מחצו אותו... והכייף לא יפסיק
 - Image: https://parktoys.co.il/assets/product-enhanced-1785158095926-bedsmu.webp
-
-### סליים מארט - שקית עוגת גבינה ותותים
-https://parktoys.co.il/product/slyym-mart-shkyt-avgt-gbynh-vtvtym-vpaoch
-- Price: 49.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: סליים מארט - שקית עוגת גבינה ותותים, חוויית הסליים הרך החדשה והחדשנית שמאפשרת לילדים ולילדים להכין יצירות משלהם בסגנון אוכל ריאליסטיות במיוחד! אפשר לעצב, לשלב ולקשט את תרכובת הסליים ולעצב כך שייראה כמו אוכל אמיתי! אבל אל תתבלבלו – זה לא למאכל!!! רכות, כיף חושי, נימתח בקלות, לאחר שהכנתם את המאכל שאתם אוהבים –מחצו אותו... והכייף לא יפסיק
-- Image: https://parktoys.co.il/assets/product-enhanced-1785084828284-rlcgr.webp
 
 ---
 

@@ -4158,6 +4158,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### צעיף מכבי תל אביב
+URL: https://parktoys.co.il/product/tsayp-mkby-tl-abyb-cintbl
+Price: 49.00 ILS
+Availability: In stock
+
+---
+
 ### צעיף מכבי חיפה 
 URL: https://parktoys.co.il/product/tsayp-mkby-chyph-kqhasn
 Price: 49.00 ILS
