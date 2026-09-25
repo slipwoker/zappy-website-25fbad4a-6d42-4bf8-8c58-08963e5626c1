@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 525** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 526** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### כרית בית"ר ירושלים
+https://parktoys.co.il/product/kryt-bytr-yrvshlym-wo1qa6
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Image: https://parktoys.co.il/assets/product-enhanced-1790334773059-micspp.webp
 
 ### כרית של מכבי תל אביב
 https://parktoys.co.il/product/kryt-shl-mkby-tl-abyb-fz22mr
@@ -1648,14 +1655,6 @@ https://parktoys.co.il/product/ama-pylh-vpylvnym-bhptah-pets-alive-mbyt-zuru-7bm
 - Category: בובות/ברבי
 - Description: אמא פילה ופילונים בהפתעה Pets Alive מבית Zuru משפחת הפילים של Pets Alive משלבת הפתעה, תנועה וצלילים במשחק אחד. בכל מארז מסתתרים 2, 3 או 4 פילונים, כך שרק בעת הפתיחה מגלים כמה מהם הצטרפו לאמא פילה. אמא פילה הולכת ומשמיעה קולות של פיל, והחלקים הנעים מעניקים לה תנועה מציאותית יותר. הפילונים מתחברים זה לזה ולאמא באמצעות החדקים ויוצרים שיירה משפחתית ההולכת בעקבותיה. הציפוי הרך והמשחק סביב גילוי הפילונים מעודדים דמיון, המצאת סיפורים, איסוף ומשחקי משפחה וטיפול בבעלי חיים.
 - Image: https://parktoys.co.il/assets/product-enhanced-1785082465929-r16qu.webp
-
-###   Pets Alive בובת ארנבת אמא 10 קולות וצלילים וגורים בהפתעה ZURU
-https://parktoys.co.il/product/pets-alive-bvbt-arnbt-ama-10-kvlvt-vtslylym-vgvrym-bhptah-zuru-kw8alm
-- Price: 129.00 ILS (sale, was 149.00 ILS)
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: ארנבת אמא ותינוקות בהפתעה מסדרת Pets Alive של ZURU מציעה חוויית משחק מתוקה, אינטראקטיבית ומלאת הפתעות. הערכה כוללת ארנבת אמא אינטראקטיבית, פרוותית ורכה, לצד כלוב נשיאה מעוצב. האמא מתעוררת לחיים עם למעלה מ-10 קולות וצלילים חמודים, ומגיעה עם אביזר גזר למשחק האכלה מהנה. הכיף הגדול מגיע עם גילוי התינוקות: בתוך הערכה מסתתרים תינוקות ארנב קטנים בהפתעה (כמות התינוקות משתנה בין ערכה לערכה – בין 2, 3, 4 ואפילו 5 תינוקות!), כולל אפשרות לגלות תינוקות נדירים במיוחד. הערכה כוללת גם אביזרי טיפול קטנים כמו בקב
-- Image: https://parktoys.co.il/assets/product-enhanced-1785082120799-h330d.webp
 
 ---
 
