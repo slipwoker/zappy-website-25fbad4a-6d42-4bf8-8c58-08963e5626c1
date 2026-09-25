@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 523** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 524** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+###  כרית מזמרת ליגת האלופות
+https://parktoys.co.il/product/kryt-mzmrt-lygt-halvpvt-hx3jz5
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: כרית עגולה ומפנקת בעיצוב ליגת האלופות. מנגנון מוזיקלי הכרית כוללת מנגנון מוזיקלי המשמיע את מנגינת המנון ליגת האלופות בלחיצה, והופכת כל חדר לאווירת משחק אמיתית. מתאימה כמתנה מתאימה כמתנה לילדים, בני נוער, אוהדי כדורגל וחובבי ליגת האלופות. ברקוד מוצר: 7291049252779
+- Image: https://parktoys.co.il/assets/product-1790334481055-1zxnn.webp
 
 ### חליפת כדורגל פורטוגל רונאלדו 
 https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-rvnaldv-q3plxj
@@ -1649,14 +1657,6 @@ https://parktoys.co.il/product/mtsvpym-baytsvb-hsdrh-kvkvmlvn-15x23-sm-b9u3gt
 - Category: מוצרי קיץ 
 - Description: מצופים מתנפחים 15*23 ס''מ בעיצוב הסדרה האהובה קוקומלון להשלמת החוויה הקייצית של ילדכם בבריכה או בחוף הים.
 - Image: https://parktoys.co.il/assets/product-enhanced-1784825514648-9zv1o.webp
-
-### כדור מתנפח בעיצוב הסדרה סוניק 50 ס''מ
-https://parktoys.co.il/product/kdvr-mtnpch-baytsvb-hsdrh-svnyk-50-sm-s23s11
-- Price: 14.99 ILS
-- Availability: In stock
-- Category: מוצרי קיץ 
-- Description: כדור ים מתנפח 50 ס''מ בעיצוב הסדרה האהובה סוניק להשלמת החוויה הקיצית של ילדכם בבריכה או בחוף הים.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784825091299-ppl6kb.webp
 
 ---
 
