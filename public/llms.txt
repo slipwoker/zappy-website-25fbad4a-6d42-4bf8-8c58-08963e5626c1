@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 528** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 529** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### צעיף בית"ר ירושלים
+https://parktoys.co.il/product/tsayp-bytr-yrvshlym-gxphvc
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Image: https://parktoys.co.il/assets/product-enhanced-1790336870593-5fx19.webp
 
 ### כרית כדור רכה 
 https://parktoys.co.il/product/kryt-kdvr-rkh-w0u08d
@@ -1645,14 +1652,6 @@ https://parktoys.co.il/product/st-byysbvl-lyldym-am-mshgr-kdvrym-chvvyyt-mshchk-
 - Category: מוצרי ספורט
 - Description: הכירו את סט הבייסבול המושלם לילדים – דרך נהדרת לפתח קואורדינציה, דיוק וביטחון עצמי תוך כדי משחק פעיל ומהנה. הסט כולל מחבט קל משקל, משגר כדורים עם דוושת הפעלה ו-3 כדורי משחק, כך שכל ילד יכול להרגיש כמו שחקן בייסבול אמיתי. המשגר מרים את הכדור באופן אוטומטי בלחיצה על הדוושה, מה שמאפשר לילדים להתאמן גם לבד ולשפר את יכולת החבטה שלהם בצורה מהנה ובטוחה. יתרונות המוצר: ⚾ משגר כדורים עם דוושת הפעלה קלה לשימוש. 🏏 מחבט קל ונוח לאחיזה. 🎯 מסייע בפיתוח קואורדינציה, ריכוז ומוטוריקה. 👦 מתאים למשחק יחיד או עם
 - Image: https://parktoys.co.il/assets/product-1785083608826-resn2d.webp
-
-### סט מחבטי פיקלבול עם רשת – ערכה מלאה למשחק בכל מקום
-https://parktoys.co.il/product/st-mchbty-pyklbvl-am-rsht-arkh-mlah-lmshchk-bkl-mkvm-rc7rtn
-- Price: 149.00 ILS
-- Availability: In stock
-- Category: מוצרי ספורט
-- Description: הכניסו את הכיף והאקשן לחצר, לגינה, לפארק או לחוף הים עם ערכת הפיקלבול המלאה! הערכה כוללת את כל מה שצריך כדי להתחיל לשחק תוך דקות ומתאימה לילדים, בני נוער ומבוגרים. מה כוללת הערכה? ✅ 2 מחבטי פיקלבול איכותיים ✅ 2 כדורי פיקלבול ✅ רשת משחק באורך כ-3 מטר (118 אינץ') ✅ סטנד ורגליים לייצוב הרשת יתרונות המוצר: ידיות אחיזה נוחות עם ציפוי ספוג. הרכבה פשוטה ומהירה ללא צורך בכלים מיוחדים. רשת יציבה עם בסיסים חזקים למשחק בטוח. מתאים למשחק בחצר, בגינה, בפארק ובשטחים פתוחים. דרך מצוינת לפעילות ספורטיבית מהנה ל
-- Image: https://parktoys.co.il/assets/product-1785083271529-wmll8m.webp
 
 ---
 

@@ -4158,6 +4158,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### צעיף בית"ר ירושלים
+URL: https://parktoys.co.il/product/tsayp-bytr-yrvshlym-gxphvc
+Price: 49.00 ILS
+Availability: In stock
+
+---
+
 ### כרית כדור רכה 
 URL: https://parktoys.co.il/product/kryt-kdvr-rkh-w0u08d
 Price: 49.00 ILS
