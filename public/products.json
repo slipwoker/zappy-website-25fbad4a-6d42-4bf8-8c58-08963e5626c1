@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-25T11:15:30.857Z",
+  "generated_at": "2026-09-25T11:17:45.879Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 527,
+  "count": 528,
   "products": [
+    {
+      "id": "169e746c-bd5b-4a2d-bb1a-c99c6861309d",
+      "slug": "kryt-kdvr-rkh-w0u08d",
+      "name": "כרית כדור רכה ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1790334971226-9py2a.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kryt-kdvr-rkh-w0u08d",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-09-25T11:17:11.413Z"
+    },
     {
       "id": "b1e72bbb-f07f-4b6c-ba1c-187571e80859",
       "slug": "kryt-shl-mkby-chyph-6v0cva",

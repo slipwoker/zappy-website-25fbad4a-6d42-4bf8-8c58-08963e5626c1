@@ -4,7 +4,20 @@
     <title>פארק הצעצועים</title>
     <link>https://parktoys.co.il</link>
     <description>Product feed for פארק הצעצועים</description>
-    <lastBuildDate>Fri, 25 Sep 2026 11:15:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:17:45 GMT</lastBuildDate>
+    <item>
+      <g:id>169e746c-bd5b-4a2d-bb1a-c99c6861309d</g:id>
+      <g:title>כרית כדור רכה </g:title>
+      <g:description>כרית כדור רכה</g:description>
+      <g:link>https://parktoys.co.il/product/kryt-kdvr-rkh-w0u08d</g:link>
+      <g:image_link>https://parktoys.co.il/assets/product-1790334971226-9py2a.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>49.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מוצרי ספורט</g:product_type>
+    </item>
     <item>
       <g:id>b1e72bbb-f07f-4b6c-ba1c-187571e80859</g:id>
       <g:title>כרית של מכבי חיפה</g:title>
