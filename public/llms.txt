@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 524** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 525** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### כרית של מכבי תל אביב
+https://parktoys.co.il/product/kryt-shl-mkby-tl-abyb-fz22mr
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Image: https://parktoys.co.il/assets/product-enhanced-1790334666413-u080il.webp
 
 ###  כרית מזמרת ליגת האלופות
 https://parktoys.co.il/product/kryt-mzmrt-lygt-halvpvt-hx3jz5
@@ -1649,14 +1656,6 @@ https://parktoys.co.il/product/pets-alive-bvbt-arnbt-ama-10-kvlvt-vtslylym-vgvry
 - Category: בובות/ברבי
 - Description: ארנבת אמא ותינוקות בהפתעה מסדרת Pets Alive של ZURU מציעה חוויית משחק מתוקה, אינטראקטיבית ומלאת הפתעות. הערכה כוללת ארנבת אמא אינטראקטיבית, פרוותית ורכה, לצד כלוב נשיאה מעוצב. האמא מתעוררת לחיים עם למעלה מ-10 קולות וצלילים חמודים, ומגיעה עם אביזר גזר למשחק האכלה מהנה. הכיף הגדול מגיע עם גילוי התינוקות: בתוך הערכה מסתתרים תינוקות ארנב קטנים בהפתעה (כמות התינוקות משתנה בין ערכה לערכה – בין 2, 3, 4 ואפילו 5 תינוקות!), כולל אפשרות לגלות תינוקות נדירים במיוחד. הערכה כוללת גם אביזרי טיפול קטנים כמו בקב
 - Image: https://parktoys.co.il/assets/product-enhanced-1785082120799-h330d.webp
-
-### מצופים בעיצוב הסדרה קוקומלון 15x23 ס''מ
-https://parktoys.co.il/product/mtsvpym-baytsvb-hsdrh-kvkvmlvn-15x23-sm-b9u3gt
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: מוצרי קיץ 
-- Description: מצופים מתנפחים 15*23 ס''מ בעיצוב הסדרה האהובה קוקומלון להשלמת החוויה הקייצית של ילדכם בבריכה או בחוף הים.
-- Image: https://parktoys.co.il/assets/product-enhanced-1784825514648-9zv1o.webp
 
 ---
 

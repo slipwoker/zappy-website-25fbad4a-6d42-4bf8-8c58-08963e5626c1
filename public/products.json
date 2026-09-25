@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-25T11:09:26.731Z",
+  "generated_at": "2026-09-25T11:12:15.819Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 524,
+  "count": 525,
   "products": [
+    {
+      "id": "6fb400af-3f3c-4709-8650-1ab3ea54a1a9",
+      "slug": "kryt-shl-mkby-tl-abyb-fz22mr",
+      "name": "כרית של מכבי תל אביב",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1790334666413-u080il.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kryt-shl-mkby-tl-abyb-fz22mr",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-09-25T11:11:40.427Z"
+    },
     {
       "id": "8d87b22b-d26f-4e79-aeae-6882bc4aa85d",
       "slug": "kryt-mzmrt-lygt-halvpvt-hx3jz5",
