@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-25T11:13:46.011Z",
+  "generated_at": "2026-09-25T11:15:30.857Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 526,
+  "count": 527,
   "products": [
+    {
+      "id": "b1e72bbb-f07f-4b6c-ba1c-187571e80859",
+      "slug": "kryt-shl-mkby-chyph-6v0cva",
+      "name": "כרית של מכבי חיפה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1790334876174-btqqde.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kryt-shl-mkby-chyph-6v0cva",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-09-25T11:14:54.359Z"
+    },
     {
       "id": "fb0361f3-b997-44c4-88df-f58ba0527092",
       "slug": "kryt-bytr-yrvshlym-wo1qa6",

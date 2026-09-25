@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 526** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 527** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### כרית של מכבי חיפה
+https://parktoys.co.il/product/kryt-shl-mkby-chyph-6v0cva
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Image: https://parktoys.co.il/assets/product-enhanced-1790334876174-btqqde.webp
 
 ### כרית בית"ר ירושלים
 https://parktoys.co.il/product/kryt-bytr-yrvshlym-wo1qa6
@@ -1647,14 +1654,6 @@ https://parktoys.co.il/product/kpybrh-ama-vtynvkvt-bhptah-kpybrh-rvbvtyt-hvlkt-a
 - Category: בובות/ברבי
 - Description: קפיברה אמא ותינוקות בהפתעה Pets Alive Mommy Capybara and Baby Surprise מבית ZURU היא צעצוע אינטראקטיבי מתוק, מצחיק ומלא הפתעה לילדים שאוהבים חיות, בובות פרווה, תינוקות קטנים ומשחקי דמיון פותחים את האריזה ומגלים הפתעה מרגשת: האם מצאתם 2 או 3 תינוקות קפיברה חמודים שמתחבאים בפנים? אמא קפיברה הולכת באמת באמצעות מנגנון תנועה המופעל בסוללות, משמיעה קולות חמודים, מכוסה בפרווה נעימה למגע, והתינוקות הקטנים יכולים להתחבר אליה וליצור רכבת משפחתית מתוקה שהולכת אחריה בזמן שהיא מתקדמת. כך הילדים מקבלים חוויי
 - Image: https://parktoys.co.il/assets/product-enhanced-1785082722301-ia3p7i.webp
-
-### אמא פילה ופילונים בהפתעה Pets Alive מבית Zuru
-https://parktoys.co.il/product/ama-pylh-vpylvnym-bhptah-pets-alive-mbyt-zuru-7bm20p
-- Price: 249.00 ILS
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: אמא פילה ופילונים בהפתעה Pets Alive מבית Zuru משפחת הפילים של Pets Alive משלבת הפתעה, תנועה וצלילים במשחק אחד. בכל מארז מסתתרים 2, 3 או 4 פילונים, כך שרק בעת הפתיחה מגלים כמה מהם הצטרפו לאמא פילה. אמא פילה הולכת ומשמיעה קולות של פיל, והחלקים הנעים מעניקים לה תנועה מציאותית יותר. הפילונים מתחברים זה לזה ולאמא באמצעות החדקים ויוצרים שיירה משפחתית ההולכת בעקבותיה. הציפוי הרך והמשחק סביב גילוי הפילונים מעודדים דמיון, המצאת סיפורים, איסוף ומשחקי משפחה וטיפול בבעלי חיים.
-- Image: https://parktoys.co.il/assets/product-enhanced-1785082465929-r16qu.webp
 
 ---
 
