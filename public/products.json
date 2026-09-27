@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-27T12:26:58.087Z",
+  "generated_at": "2026-09-27T12:28:23.166Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 536,
+  "count": 537,
   "products": [
+    {
+      "id": "57b3cbef-d32b-44bb-bc71-03951cf96d58",
+      "slug": "shrshrt-bytr-yrvshlym-edmg0e",
+      "name": "שרשרת ביתר ירושלים",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1790512042932-s5tdu.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/shrshrt-bytr-yrvshlym-edmg0e",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-09-27T12:27:45.606Z"
+    },
     {
       "id": "b275f2bb-5b31-41b0-a28e-f76b09c11f4c",
       "slug": "shrshrt-mkby-tl-abyb-4dck2r",

@@ -4158,6 +4158,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### שרשרת ביתר ירושלים
+URL: https://parktoys.co.il/product/shrshrt-bytr-yrvshlym-edmg0e
+Price: 25.00 ILS
+Availability: In stock
+
+---
+
 ### שרשרת מכבי תל אביב 
 URL: https://parktoys.co.il/product/shrshrt-mkby-tl-abyb-4dck2r
 Price: 25.00 ILS
