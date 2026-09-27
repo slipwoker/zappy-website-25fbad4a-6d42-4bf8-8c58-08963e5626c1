@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-25T12:20:53.881Z",
+  "generated_at": "2026-09-27T10:46:40.177Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 531,
+  "count": 532,
   "products": [
+    {
+      "id": "458a4796-30c8-4883-9be8-d3473de56af7",
+      "slug": "aryh-prvvh-25-sm-kryt-bytr-yrvshlym-mngn-a2tswl",
+      "name": "אריה פרווה 25 ס\"מ כרית בית\"ר ירושלים מנגן",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בובת אריה מנגן שיר של הקהל של בית\"ר\n",
+      "sku": null,
+      "brand": null,
+      "price": 69.9,
+      "base_price": 69.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1790505918177-q60e97.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/aryh-prvvh-25-sm-kryt-bytr-yrvshlym-mngn-a2tswl",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-09-27T10:45:58.100Z"
+    },
     {
       "id": "de6c2225-1ab9-4600-818e-301231c234bf",
       "slug": "tsayp-mkby-tl-abyb-cintbl",
