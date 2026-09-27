@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 542** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 543** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### כדורסל חכם 
+https://parktoys.co.il/product/kdvrsl-chkm-4n7avh
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: כדור ספוג כדורסל
+- Image: https://parktoys.co.il/assets/product-1790525961331-wnyqiq.webp
 
 ### כדור מכבי תל אביב 
 https://parktoys.co.il/product/kdvr-mkby-tl-abyb-71c6t0
@@ -1634,15 +1642,6 @@ https://parktoys.co.il/product/lgv-syty-tchnt-atsyrh-vtsvvt-tykvnym-60443-qzdtx4
 - SKU:  200-128432
 - Description: התכוננו לאקשן במהירות גבוהה בתחנת עצירה של F1® Ferrari! הזעיקו את צוות התיקונים והציעו לנהג ה-Ferrari לבצע שירות במהירות הבזק. בדקו את המנוע, החליפו צמיגים, ולאחר מכן, שגרו עצמכם מהתחנה וחזרו למרוץ להקפה שוברת שיאים
 - Image: https://parktoys.co.il/assets/product-1785335744937-hjuw1f.webp
-
-### לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415
-https://parktoys.co.il/product/lgv-syty-mrdp-mkvnyt-mshtrh-vmkvnyt-al-60415-ijpbw4
-- Price: 99.00 ILS (sale, was 149.00 ILS)
-- Availability: In stock
-- Category: לגו-lego
-- SKU: 5702017583679
-- Description: לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415 לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415 היכונו לכיף והתרגשות במהירות גבוהה עם ערכת משחק מכונית משטרה לילדים מגיל 6 ומעלה. ערכת 'מרדף מכונית משטרה ומכונית-על' (60415) מסדרת LEGO® City כוללת מיירט משטרתי מגניב ורכב מילוט, בתו
-- Image: https://parktoys.co.il/assets/product-1785335227865-pj3vpj.webp
 
 ---
 

@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-27T16:00:27.923Z",
+  "generated_at": "2026-09-27T16:20:11.288Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 542,
+  "count": 543,
   "products": [
+    {
+      "id": "e598218b-efd1-40ab-b81c-341041422751",
+      "slug": "kdvrsl-chkm-4n7avh",
+      "name": "כדורסל חכם ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כדור ספוג כדורסל ",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1790525961331-wnyqiq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kdvrsl-chkm-4n7avh",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-09-27T16:19:38.123Z"
+    },
     {
       "id": "28b33c05-df18-40aa-b3d1-6c02c50a8fb9",
       "slug": "kdvr-mkby-tl-abyb-71c6t0",
