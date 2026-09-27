@@ -4158,6 +4158,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### צעיף ברצלונה 
+URL: https://parktoys.co.il/product/tsayp-brtslvnh-eq2h5d
+Price: 49.00 ILS
+Availability: In stock
+
+---
+
 ### צעיף ריאל מדריד 
 URL: https://parktoys.co.il/product/tsayp-ryal-mdryd-qfbmrv
 Price: 49.00 ILS

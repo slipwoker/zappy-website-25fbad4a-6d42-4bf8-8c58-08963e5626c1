@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 538** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 539** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### צעיף ברצלונה 
+https://parktoys.co.il/product/tsayp-brtslvnh-eq2h5d
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Image: https://parktoys.co.il/assets/product-1790512293033-x2vh3l.webp
 
 ### צעיף ריאל מדריד 
 https://parktoys.co.il/product/tsayp-ryal-mdryd-qfbmrv
@@ -1639,13 +1646,6 @@ https://parktoys.co.il/product/lgv-marvel-krb-ayykvny-halkbastr-ngd-hank-hyrvk-7
 - Category: לגו-lego
 - Description: הפיחו חיים באקשן מתוך הנוקמים: עידן אולטרון של אולפני מארוול עם סט הבנייה (76343) קרב אֶפִּי: האלקבאסטר נגד הענק הירוק מסדרת LEGO Marvel® לילדים וילדות בגילאי 9 ומעלה. סט הבנייה המדהים הזה הכולל מיני-דמויות של איירון מן והענק הירוק, פלוס שריון האלקבאסטר האייקוני שמציע לילדים אינסוף הזדמנויות למשחקי תפקידים דמיוניים ותצוגה יצירתית.
 - Image: https://parktoys.co.il/assets/product-enhanced-1785333261647-0mno4s.webp
-
-### מצלמה מדפיסה לילדים -ורוד בלבד
-https://parktoys.co.il/product/mtslmh-mdpysh-lyldym-vrvd-blbd-xp1c04
-- Price: 130.00 ILS
-- Availability: In stock
-- Description: מצלמת ילדים מדפיסה שחור לבן -זיפאין ליין טויס מצלמה ייחודית שמתאימה לילדים וכוללת תכונות שהופכות את חווית הצילום
-- Image: https://parktoys.co.il/assets/product-enhanced-1785228226173-s9n51.webp
 
 ---
 
