@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 541** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 542** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### כדור מכבי תל אביב 
+https://parktoys.co.il/product/kdvr-mkby-tl-abyb-71c6t0
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Image: https://parktoys.co.il/assets/product-1790523894001-gwzh4b.webp
 
 ### כדור מכבי חיפה
 https://parktoys.co.il/product/kdvr-mkby-chyph-htuovw
@@ -1636,14 +1643,6 @@ https://parktoys.co.il/product/lgv-syty-mrdp-mkvnyt-mshtrh-vmkvnyt-al-60415-ijpb
 - SKU: 5702017583679
 - Description: לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415 לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415לגו סיטי - מרדף מכונית משטרה ומכונית-על 60415 היכונו לכיף והתרגשות במהירות גבוהה עם ערכת משחק מכונית משטרה לילדים מגיל 6 ומעלה. ערכת 'מרדף מכונית משטרה ומכונית-על' (60415) מסדרת LEGO® City כוללת מיירט משטרתי מגניב ורכב מילוט, בתו
 - Image: https://parktoys.co.il/assets/product-1785335227865-pj3vpj.webp
-
-###  לגו סוניק ציקלון נגד מטל סוניק 77002
-https://parktoys.co.il/product/lgv-svnyk-tsyklvn-ngd-mtl-svnyk-77002-mg235u
-- Price: 159.00 ILS (sale, was 199.00 ILS)
-- Availability: In stock
-- Category: לגו-lego
-- Description: עזרו לטיילס לשמור על הציקלון שלו מוכן לפעולה. שימו לב, מטאל סוניק מגיע כדי לתפוס את טיילס! קפצו לתא המפעיל של הציקלון עם טיילס ובחרו את המצב שבו תרצו להתחיל: על הקרקע או באוויר. למטאל סוניק יש יתרון מובהק של מהירות והוא מתכוון לתפוס את הציקלון. הגיע הזמן להחליף מצבים ולהביס אותו אחת ולתמיד!
-- Image: https://parktoys.co.il/assets/product-enhanced-1785334593945-eptb0i.webp
 
 ---
 

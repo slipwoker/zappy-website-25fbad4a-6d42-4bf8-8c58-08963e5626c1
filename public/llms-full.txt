@@ -4158,6 +4158,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### כדור מכבי תל אביב 
+URL: https://parktoys.co.il/product/kdvr-mkby-tl-abyb-71c6t0
+Price: 50.00 ILS
+Availability: In stock
+
+---
+
 ### כדור מכבי חיפה
 URL: https://parktoys.co.il/product/kdvr-mkby-chyph-htuovw
 Price: 50.00 ILS
