@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-27T10:46:40.177Z",
+  "generated_at": "2026-09-27T11:00:31.326Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 532,
+  "count": 533,
   "products": [
+    {
+      "id": "3fb010ae-7706-4775-b250-ef901f5fedf6",
+      "slug": "kryt-kdvr-rkh-shl-kbvtst-hkdvrgl-bytr-yrvshlym-d4hy6t",
+      "name": "כרית כדור רכה של קבוצת הכדורגל ביתר ירושלים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כרית כדור רכה של קבוצת הכדורגל האהובה\nכיפית להתחבק במיטה או משחק בבית",
+      "sku": null,
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1790506772627-7ocslc.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kryt-kdvr-rkh-shl-kbvtst-hkdvrgl-bytr-yrvshlym-d4hy6t",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-09-27T10:59:54.665Z"
+    },
     {
       "id": "458a4796-30c8-4883-9be8-d3473de56af7",
       "slug": "aryh-prvvh-25-sm-kryt-bytr-yrvshlym-mngn-a2tswl",
