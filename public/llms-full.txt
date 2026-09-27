@@ -4158,6 +4158,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### צעיף ריאל מדריד 
+URL: https://parktoys.co.il/product/tsayp-ryal-mdryd-qfbmrv
+Price: 49.00 ILS
+Availability: In stock
+
+---
+
 ### שרשרת ביתר ירושלים
 URL: https://parktoys.co.il/product/shrshrt-bytr-yrvshlym-edmg0e
 Price: 25.00 ILS

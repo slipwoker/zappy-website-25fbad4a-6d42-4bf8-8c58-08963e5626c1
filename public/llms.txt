@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 537** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 538** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### צעיף ריאל מדריד 
+https://parktoys.co.il/product/tsayp-ryal-mdryd-qfbmrv
+- Price: 49.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Image: https://parktoys.co.il/assets/product-1790512179850-mpmem.webp
 
 ### שרשרת ביתר ירושלים
 https://parktoys.co.il/product/shrshrt-bytr-yrvshlym-edmg0e
@@ -1639,14 +1646,6 @@ https://parktoys.co.il/product/mtslmh-mdpysh-lyldym-vrvd-blbd-xp1c04
 - Availability: In stock
 - Description: מצלמת ילדים מדפיסה שחור לבן -זיפאין ליין טויס מצלמה ייחודית שמתאימה לילדים וכוללת תכונות שהופכות את חווית הצילום
 - Image: https://parktoys.co.il/assets/product-enhanced-1785228226173-s9n51.webp
-
-### לולי – בובה אינטראקטיבית גדולה
-https://parktoys.co.il/product/lvly-bvbh-ayntraktybyt-gdvlh-15vq7u
-- Price: 149.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: רק בקע מהביצה והופ! - מהמסך יצא! לולי האפרוח האהוב מערוץ הטלויזיה ילווה אתכם בכל שעות היממה - במצב יום תוכלו להאזין למגוון תכני משחק והתפתחות בעברית, ובמצב לילה - לתכנים מרגיעים שירדימו אתכם בנעימים. בובת לולי מופעלת באמצעות חיישן תנועה ולחצן בטן. 2 מצבי פעולה: מצב יום / לילה
-- Image: https://parktoys.co.il/assets/product-1785153199810-f4je.webp
 
 ---
 
