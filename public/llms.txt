@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 539** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 540** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### כדור ביתר ירושלים
+https://parktoys.co.il/product/kdvr-bytr-yrvshlym-1ipl1z
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Image: https://parktoys.co.il/assets/product-1790520744839-3ft3bp.webp
 
 ### צעיף ברצלונה 
 https://parktoys.co.il/product/tsayp-brtslvnh-eq2h5d
@@ -1638,14 +1645,6 @@ https://parktoys.co.il/product/lgv-sonic-the-hedgehog-krb-bmdvrh-shl-svnyk-77001
 - Category: לגו-lego
 - Description: עימות במדורה של LEGO Sonic the Hedgehog 77001 Sonic סט הבנייה ™LEGO® Sonic the Hedgehog מציע הרפתקה מרגשת לילדים מגיל 7 ומעלה. עם דמויות אייקוניות, משגר מהירות ואביזרי משחק ייחודיים. הילדים ייהנו משעות של יצירה, משחק ואקשן. ניתן לשלב עם סטים נוספים ולהעצים את הכיף! ערכת בנייה זו כוללת מבנה מדורה, משגר כדור מהירות וכדור מהירות, לצד אביזרים כמו Chaos Emerald ושלוש טבעות זהב. הסט מכיל גם 4 דמויות מסוניק: מיני דמות של סוניק, רחפן רובוט מעופף מסוג G.U.N. Beetle, דמות רובוט מתכווננת מסוג G.U.N. Hunter
 - Image: https://parktoys.co.il/assets/product-enhanced-1785333672454-qcgbl7.webp
-
-### לגו Marvel – קרב אייקוני: האלקבאסטר נגד הענק הירוק (76343)
-https://parktoys.co.il/product/lgv-marvel-krb-ayykvny-halkbastr-ngd-hank-hyrvk-76343-var2xt
-- Price: 239.00 ILS (sale, was 299.00 ILS)
-- Availability: In stock
-- Category: לגו-lego
-- Description: הפיחו חיים באקשן מתוך הנוקמים: עידן אולטרון של אולפני מארוול עם סט הבנייה (76343) קרב אֶפִּי: האלקבאסטר נגד הענק הירוק מסדרת LEGO Marvel® לילדים וילדות בגילאי 9 ומעלה. סט הבנייה המדהים הזה הכולל מיני-דמויות של איירון מן והענק הירוק, פלוס שריון האלקבאסטר האייקוני שמציע לילדים אינסוף הזדמנויות למשחקי תפקידים דמיוניים ותצוגה יצירתית.
-- Image: https://parktoys.co.il/assets/product-enhanced-1785333261647-0mno4s.webp
 
 ---
 
