@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-27T11:00:31.326Z",
+  "generated_at": "2026-09-27T11:03:21.167Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 533,
+  "count": 534,
   "products": [
+    {
+      "id": "defc79a9-529e-446e-aa92-00e72a0d11c5",
+      "slug": "dvby-prvvh-am-shmykh-mkby-tl-abyb-vbla5x",
+      "name": "דובי פרווה עם שמיכה – מכבי תל אביב",
+      "name_translations": {},
+      "description": "",
+      "short_description": "דובי פרווה עם שמיכה של המותג מכבי תל אביב.\nהדובי בצבעים כחול וצהוב עם הדפס סמל הקבוצה ושמיכה צהובה.\nפריט מושלם לחדרי ילדים, בני נוער, משרדים או פינת אוהדים.",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1790506924456-oc6h3.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/dvby-prvvh-am-shmykh-mkby-tl-abyb-vbla5x",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-09-27T11:02:47.774Z"
+    },
     {
       "id": "3fb010ae-7706-4775-b250-ef901f5fedf6",
       "slug": "kryt-kdvr-rkh-shl-kbvtst-hkdvrgl-bytr-yrvshlym-d4hy6t",
