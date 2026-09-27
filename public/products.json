@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-27T12:25:04.013Z",
+  "generated_at": "2026-09-27T12:26:58.087Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 535,
+  "count": 536,
   "products": [
+    {
+      "id": "b275f2bb-5b31-41b0-a28e-f76b09c11f4c",
+      "slug": "shrshrt-mkby-tl-abyb-4dck2r",
+      "name": "שרשרת מכבי תל אביב ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1790511965802-i3h52.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/shrshrt-mkby-tl-abyb-4dck2r",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-09-27T12:26:23.477Z"
+    },
     {
       "id": "734f671a-5ea1-456c-a3e8-ad3e8fedeb8f",
       "slug": "shrshrt-mkby-chyph-y9hyhk",
