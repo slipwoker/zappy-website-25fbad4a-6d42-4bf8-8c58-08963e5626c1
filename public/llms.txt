@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 540** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 541** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### כדור מכבי חיפה
+https://parktoys.co.il/product/kdvr-mkby-chyph-htuovw
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Image: https://parktoys.co.il/assets/product-1790523577166-8uthn.webp
 
 ### כדור ביתר ירושלים
 https://parktoys.co.il/product/kdvr-bytr-yrvshlym-1ipl1z
@@ -1637,14 +1644,6 @@ https://parktoys.co.il/product/lgv-svnyk-tsyklvn-ngd-mtl-svnyk-77002-mg235u
 - Category: לגו-lego
 - Description: עזרו לטיילס לשמור על הציקלון שלו מוכן לפעולה. שימו לב, מטאל סוניק מגיע כדי לתפוס את טיילס! קפצו לתא המפעיל של הציקלון עם טיילס ובחרו את המצב שבו תרצו להתחיל: על הקרקע או באוויר. למטאל סוניק יש יתרון מובהק של מהירות והוא מתכוון לתפוס את הציקלון. הגיע הזמן להחליף מצבים ולהביס אותו אחת ולתמיד!
 - Image: https://parktoys.co.il/assets/product-enhanced-1785334593945-eptb0i.webp
-
-### לגו ™Sonic the Hedgehog – קרב במדורה של סוניק (77001)
-https://parktoys.co.il/product/lgv-sonic-the-hedgehog-krb-bmdvrh-shl-svnyk-77001-b5tw9x
-- Price: 99.00 ILS (sale, was 149.00 ILS)
-- Availability: In stock
-- Category: לגו-lego
-- Description: עימות במדורה של LEGO Sonic the Hedgehog 77001 Sonic סט הבנייה ™LEGO® Sonic the Hedgehog מציע הרפתקה מרגשת לילדים מגיל 7 ומעלה. עם דמויות אייקוניות, משגר מהירות ואביזרי משחק ייחודיים. הילדים ייהנו משעות של יצירה, משחק ואקשן. ניתן לשלב עם סטים נוספים ולהעצים את הכיף! ערכת בנייה זו כוללת מבנה מדורה, משגר כדור מהירות וכדור מהירות, לצד אביזרים כמו Chaos Emerald ושלוש טבעות זהב. הסט מכיל גם 4 דמויות מסוניק: מיני דמות של סוניק, רחפן רובוט מעופף מסוג G.U.N. Beetle, דמות רובוט מתכווננת מסוג G.U.N. Hunter
-- Image: https://parktoys.co.il/assets/product-enhanced-1785333672454-qcgbl7.webp
 
 ---
 

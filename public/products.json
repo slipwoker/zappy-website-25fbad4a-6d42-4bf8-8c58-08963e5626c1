@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-27T14:53:24.288Z",
+  "generated_at": "2026-09-27T15:40:44.618Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 540,
+  "count": 541,
   "products": [
+    {
+      "id": "b842e404-fbf2-44f3-b2ab-c92de962e33e",
+      "slug": "kdvr-mkby-chyph-htuovw",
+      "name": "כדור מכבי חיפה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1790523577166-8uthn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kdvr-mkby-chyph-htuovw",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-09-27T15:40:11.431Z"
+    },
     {
       "id": "7d0ca660-20b3-4775-9db5-50768e3c8d60",
       "slug": "kdvr-bytr-yrvshlym-1ipl1z",
