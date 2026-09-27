@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-27T11:03:21.167Z",
+  "generated_at": "2026-09-27T12:25:04.013Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 534,
+  "count": 535,
   "products": [
+    {
+      "id": "734f671a-5ea1-456c-a3e8-ad3e8fedeb8f",
+      "slug": "shrshrt-mkby-chyph-y9hyhk",
+      "name": "שרשרת מכבי חיפה ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1790511837305-cof29.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/shrshrt-mkby-chyph-y9hyhk",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-09-27T12:24:29.731Z"
+    },
     {
       "id": "defc79a9-529e-446e-aa92-00e72a0d11c5",
       "slug": "dvby-prvvh-am-shmykh-mkby-tl-abyb-vbla5x",

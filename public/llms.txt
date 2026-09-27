@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 534** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 535** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### שרשרת מכבי חיפה 
+https://parktoys.co.il/product/shrshrt-mkby-chyph-y9hyhk
+- Price: 25.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Image: https://parktoys.co.il/assets/product-enhanced-1790511837305-cof29.webp
 
 ### דובי פרווה עם שמיכה – מכבי תל אביב
 https://parktoys.co.il/product/dvby-prvvh-am-shmykh-mkby-tl-abyb-vbla5x
@@ -1642,14 +1649,6 @@ https://parktoys.co.il/product/bvbt-myky-ayntraktybyt-vdecl0
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: בובת מיקי אינטראקטיבית Spark Toys בובת מיקי דוברת עברית,יפה ואיכותית, עשירה בתכנים האהובים של מיקי! הבובה שרה שירים ואומרת מגוון משפטים. הבובה מיקי שואלת: מה נשמע? מה נשמי? מה נשמיקי?
 - Image: https://parktoys.co.il/assets/product-1785152982285-p54got.webp
-
-### בובה גדולה יובל המבולבל מנגנת
-https://parktoys.co.il/product/bvbh-gdvlh-yvbl-hmbvlbl-mngnt-waheyo
-- Price: 149.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: בובת יובל המבולבל מדברת ושרה 40 ס"מ 8 שירים של יובל 10משפטים של יובל 2 עוצמות קול לחצן כוכב נדלק
-- Image: https://parktoys.co.il/assets/product-1785152322020-5jmzq8.webp
 
 ---
 
