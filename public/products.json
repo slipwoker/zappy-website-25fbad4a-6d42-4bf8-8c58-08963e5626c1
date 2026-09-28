@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-28T09:35:41.518Z",
+  "generated_at": "2026-09-28T09:37:31.946Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 544,
+  "count": 545,
   "products": [
+    {
+      "id": "a4fbf8d1-9c87-42e2-a586-335427008765",
+      "slug": "kspt-mkby-tl-abyb-7a9foz",
+      "name": "כספת מכבי תל אביב ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כספת איכותית עם מפתח וקוד ",
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1790588199746-f7dfpw.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kspt-mkby-tl-abyb-7a9foz",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-09-28T09:36:56.784Z"
+    },
     {
       "id": "22fc3c7a-827e-45ad-9194-bd6d32c4d11f",
       "slug": "kspt-ryal-mdryd-oovhgm",

@@ -4158,6 +4158,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### כספת מכבי תל אביב 
+URL: https://parktoys.co.il/product/kspt-mkby-tl-abyb-7a9foz
+Price: 59.00 ILS
+Availability: In stock
+
+---
+
 ### כספת ריאל מדריד 
 URL: https://parktoys.co.il/product/kspt-ryal-mdryd-oovhgm
 Price: 59.00 ILS

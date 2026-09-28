@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 544** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 545** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### כספת מכבי תל אביב 
+https://parktoys.co.il/product/kspt-mkby-tl-abyb-7a9foz
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: כספת איכותית עם מפתח וקוד
+- Image: https://parktoys.co.il/assets/product-enhanced-1790588199746-f7dfpw.webp
 
 ### כספת ריאל מדריד 
 https://parktoys.co.il/product/kspt-ryal-mdryd-oovhgm
@@ -1633,14 +1641,6 @@ https://parktoys.co.il/product/ptycht-mdyh-2-bmvdl-lego-lgv-syty-ambvlns-lshat-c
 - Category: לגו-lego
 - Description: אה-הו! גולשת הסקייטבורד שנפלה זקוקה לעזרה. הצטרפו לחובש וצאו להצלה. קפלו את לוחות הצד ופתחו את הדלתות האחוריות כדי לגשת לאלונקה ולציוד הרפואי. הרפתקאות הצלה מרגשות מחכות ב-LEGO® City!
 - Image: https://parktoys.co.il/assets/product-1785336915751-padvc7.webp
-
-###  Lego לגו סיטי משאית רכב שטח 60447
-https://parktoys.co.il/product/lego-lgv-syty-mshayt-rkb-shtch-60447-p51wh8
-- Price: 99.00 ILS (sale, was 149.00 ILS)
-- Availability: In stock
-- Category: לגו-lego
-- Description: צאו להרפתקאות אפיות עם רכב שטח 4×4 לנסיעה בהרים של LEGO® City! טפסו על מדרונות תלולים וסעו בזהירות מעל תעלות.
-- Image: https://parktoys.co.il/assets/product-1785335949289-dpgu06.webp
 
 ---
 
