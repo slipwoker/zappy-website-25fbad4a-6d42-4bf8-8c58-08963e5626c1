@@ -76,7 +76,13 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 545** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 546** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### ריבאונדר
+https://parktoys.co.il/product/rybavndr-aydyzq
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: הריבאונדר משמש ככלי אימון חיוני עבור שחקני כדורגל מקצועיים וחובבנים כאחד. בעזרת הריבאונדר תוכלו לשפר את הטכניקה, הקואורדינציה והזריזות שלכם, ולפתח שליטה טובה יותר בכדור.
 
 ### כספת מכבי תל אביב 
 https://parktoys.co.il/product/kspt-mkby-tl-abyb-7a9foz
@@ -1633,14 +1639,6 @@ https://parktoys.co.il/product/lgv-syty-mrdp-al-avpnva-mshtrh-60455-ngbde2
 - Category: לגו-lego
 - Description: הנוכל המבוקש גנב את הכסף מהכספומט ונוא מנסה לברוח. קחו את אופנוע המשטרה וצאו למרדף מלא אקשן. האם תאתרו את הכסף הגנוב ותצילו את המצב? מרדפי מהירות מרגשים מצפים לכם בדגמים של LEGO® City!
 - Image: https://parktoys.co.il/assets/product-1785337185485-ula1ax.webp
-
-###   פתיחת מדיה 2 במודל Lego לגו סיטי אמבולנס לשעת חירום 60451
-https://parktoys.co.il/product/ptycht-mdyh-2-bmvdl-lego-lgv-syty-ambvlns-lshat-chyrvm-60451-c7ie9e
-- Price: 99.00 ILS (sale, was 149.00 ILS)
-- Availability: In stock
-- Category: לגו-lego
-- Description: אה-הו! גולשת הסקייטבורד שנפלה זקוקה לעזרה. הצטרפו לחובש וצאו להצלה. קפלו את לוחות הצד ופתחו את הדלתות האחוריות כדי לגשת לאלונקה ולציוד הרפואי. הרפתקאות הצלה מרגשות מחכות ב-LEGO® City!
-- Image: https://parktoys.co.il/assets/product-1785336915751-padvc7.webp
 
 ---
 
