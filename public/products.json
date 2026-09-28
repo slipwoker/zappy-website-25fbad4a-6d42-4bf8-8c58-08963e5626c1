@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-28T11:31:10.670Z",
+  "generated_at": "2026-09-28T11:59:32.004Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 546,
+  "count": 547,
   "products": [
+    {
+      "id": "84b87901-0560-47ae-bfed-82354f16202d",
+      "slug": "st-kdvrgl-lgynh-mbyt-viper-t0i8dv",
+      "name": "סט כדורגל לגינה מבית VIPER",
+      "name_translations": {},
+      "description": "",
+      "short_description": "\nשער כדורגל מבית VIPER\nהפכו כל חצר, גינה או פארק למגרש כדורגל אמיתי עם שער כדורגל נייד של VIPER - הסט המושלם לפעילות ספורטיבית מהנה ובריאה לכל המשפחה!\nהשער קל להרכבה ולפירוק ומתאים לכל מקום - בין אם זה בבית, בחצר, בגינה או בפארק.\nהוא עשוי חומרים עמידים במיוחד, עם מסגרת חזקה ורשת איכותית שמבטיחה שימוש לאורך זמן.\nבזכות העיצוב הקומפקטי, אפשר לאחסן ולשאת אותו בקלות ממקום למקום.\nהמשחק עם שער VIPER מעניק פעילות ספורטיבית, מפתחת וכיפית לילדים ולמבוגרים.",
+      "sku": null,
+      "brand": null,
+      "price": 200,
+      "base_price": 200,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1790596659143-acv98g.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/st-kdvrgl-lgynh-mbyt-viper-t0i8dv",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-09-28T11:58:55.234Z"
+    },
     {
       "id": "3c16d74f-f90f-450b-8509-a630e0b00c29",
       "slug": "rybavndr-jwv6oj",

@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 546** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 547** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### סט כדורגל לגינה מבית VIPER
+https://parktoys.co.il/product/st-kdvrgl-lgynh-mbyt-viper-t0i8dv
+- Price: 200.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: שער כדורגל מבית VIPER הפכו כל חצר, גינה או פארק למגרש כדורגל אמיתי עם שער כדורגל נייד של VIPER - הסט המושלם לפעילות ספורטיבית מהנה ובריאה לכל המשפחה! השער קל להרכבה ולפירוק ומתאים לכל מקום - בין אם זה בבית, בחצר, בגינה או בפארק. הוא עשוי חומרים עמידים במיוחד, עם מסגרת חזקה ורשת איכותית שמבטיחה שימוש לאורך זמן. בזכות העיצוב הקומפקטי, אפשר לאחסן ולשאת אותו בקלות ממקום למקום. המשחק עם שער VIPER מעניק פעילות ספורטיבית, מפתחת וכיפית לילדים ולמבוגרים.
+- Image: https://parktoys.co.il/assets/product-1790596659143-acv98g.webp
 
 ### ריבאונדר
 https://parktoys.co.il/product/rybavndr-jwv6oj
@@ -1633,14 +1641,6 @@ https://parktoys.co.il/product/lgv-syty-mrdp-al-syrt-mshtrh-60456-ra3jbk
 - Category: לגו-lego
 - Description: נוכל ערמומי שט במהירות בסירת הדוגית ומתרחק מהנמל של LEGO® City כשהוא גורר אחריו אבן אודם גנובה. הצטרפו לפעולת השוטרים על סיפון סירת המשטרה!
 - Image: https://parktoys.co.il/assets/product-enhanced-1785337766606-aaxipa.webp
-
-### לגו סיטי מרדף על אופנוע משטרה 60455
-https://parktoys.co.il/product/lgv-syty-mrdp-al-avpnva-mshtrh-60455-ngbde2
-- Price: 59.00 ILS (sale, was 79.00 ILS)
-- Availability: In stock
-- Category: לגו-lego
-- Description: הנוכל המבוקש גנב את הכסף מהכספומט ונוא מנסה לברוח. קחו את אופנוע המשטרה וצאו למרדף מלא אקשן. האם תאתרו את הכסף הגנוב ותצילו את המצב? מרדפי מהירות מרגשים מצפים לכם בדגמים של LEGO® City!
-- Image: https://parktoys.co.il/assets/product-1785337185485-ula1ax.webp
 
 ---
 
