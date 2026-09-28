@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 547** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 548** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### זוג שערי כדורגל עם יתדות מבית Viper
+https://parktoys.co.il/product/zvg-shary-kdvrgl-am-ytdvt-mbyt-viper-hnkyvn
+- Price: 160.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: הפכו כל חצר, גינה או פארק למגרש כדורגל אמיתי עם שער כדורגל נייד של VIPER - הסט המושלם לפעילות ספורטיבית מהנה ובריאה לכל המשפחה!
+- Image: https://parktoys.co.il/assets/product-enhanced-1790614039340-x4vy4.webp
 
 ### סט כדורגל לגינה מבית VIPER
 https://parktoys.co.il/product/st-kdvrgl-lgynh-mbyt-viper-t0i8dv
@@ -1633,14 +1641,6 @@ https://parktoys.co.il/product/lgv-syty-mtvs-ambvlns-chyrvm-avvyry-60465-8lp4uo
 - Category: לגו-lego
 - Description: הניחו לדמיונם של ילדים להמריא עם ערכת המשחקים (60465) של מטוס אמבולנס אווירי למקרי חירום מסדרת LEGO City® לילדים בגילאי 6 ומעלה. מטוס דו-מנועי זה השופע בפרטים מגניבים לחובבי דגמי מטוסים, כולל מדרגות עליה למטוס מתקפלות ומעבדה רפואית במטוס. הערכה כוללת גם אופנוע שלג וסצנה בשדה תעופה קטן עם שרוול רוח צעצוע, פלוס אביזרי צעצוע של עזרה ראשונה ומיני-דמויות של טייס, רופא, פרמדיק וגולש סקי למשחק במשימות חילוץ מלאות אקשן. מטוס הצעצוע של LEGO City כולל הוראות דיגיטליות ביישום LEGO Builder. כאן, ילדים יכולי
 - Image: https://parktoys.co.il/assets/product-1785338666973-um8yzn.webp
-
-### לגו סיטי מרדף על סירת משטרה 60456
-https://parktoys.co.il/product/lgv-syty-mrdp-al-syrt-mshtrh-60456-ra3jbk
-- Price: 149.00 ILS (sale, was 199.00 ILS)
-- Availability: In stock
-- Category: לגו-lego
-- Description: נוכל ערמומי שט במהירות בסירת הדוגית ומתרחק מהנמל של LEGO® City כשהוא גורר אחריו אבן אודם גנובה. הצטרפו לפעולת השוטרים על סיפון סירת המשטרה!
-- Image: https://parktoys.co.il/assets/product-enhanced-1785337766606-aaxipa.webp
 
 ---
 
