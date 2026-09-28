@@ -1,29 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-28T11:23:40.296Z",
+  "generated_at": "2026-09-28T11:31:00.740Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 546,
   "products": [
     {
       "id": "3c16d74f-f90f-450b-8509-a630e0b00c29",
-      "slug": "rybavndr-aydyzq",
+      "slug": "rybavndr-jwv6oj",
       "name": "ריבאונדר",
       "name_translations": {},
       "description": "",
       "short_description": "הריבאונדר משמש ככלי אימון חיוני עבור שחקני כדורגל מקצועיים וחובבנים כאחד. בעזרת הריבאונדר תוכלו לשפר את הטכניקה, הקואורדינציה והזריזות שלכם, ולפתח שליטה טובה יותר בכדור.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 200,
+      "base_price": 200,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1790595021898-4ceuch.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/rybavndr-aydyzq",
-      "categories": [],
-      "updated_at": "2026-09-28T11:23:04.299Z"
+      "url": "https://parktoys.co.il/product/rybavndr-jwv6oj",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-09-28T11:30:35.677Z"
     },
     {
       "id": "a4fbf8d1-9c87-42e2-a586-335427008765",

@@ -79,10 +79,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 546** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### ריבאונדר
-https://parktoys.co.il/product/rybavndr-aydyzq
-- Price: 0.00 ILS
+https://parktoys.co.il/product/rybavndr-jwv6oj
+- Price: 200.00 ILS
 - Availability: In stock
+- Category: מוצרי ספורט
 - Description: הריבאונדר משמש ככלי אימון חיוני עבור שחקני כדורגל מקצועיים וחובבנים כאחד. בעזרת הריבאונדר תוכלו לשפר את הטכניקה, הקואורדינציה והזריזות שלכם, ולפתח שליטה טובה יותר בכדור.
+- Image: https://parktoys.co.il/assets/product-enhanced-1790595021898-4ceuch.webp
 
 ### כספת מכבי תל אביב 
 https://parktoys.co.il/product/kspt-mkby-tl-abyb-7a9foz
