@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 543** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 544** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### כספת ריאל מדריד 
+https://parktoys.co.il/product/kspt-ryal-mdryd-oovhgm
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: כספת איכותית עם מפתח וקוד
+- Image: https://parktoys.co.il/assets/product-enhanced-1790588077375-ekvx4h.webp
 
 ### כדורסל חכם 
 https://parktoys.co.il/product/kdvrsl-chkm-4n7avh
@@ -1633,15 +1641,6 @@ https://parktoys.co.il/product/lego-lgv-syty-mshayt-rkb-shtch-60447-p51wh8
 - Category: לגו-lego
 - Description: צאו להרפתקאות אפיות עם רכב שטח 4×4 לנסיעה בהרים של LEGO® City! טפסו על מדרונות תלולים וסעו בזהירות מעל תעלות.
 - Image: https://parktoys.co.il/assets/product-1785335949289-dpgu06.webp
-
-###  לגו סיטי תחנת עצירה וצוות תיקונים 60443
-https://parktoys.co.il/product/lgv-syty-tchnt-atsyrh-vtsvvt-tykvnym-60443-qzdtx4
-- Price: 149.00 ILS (sale, was 199.00 ILS)
-- Availability: In stock
-- Category: לגו-lego
-- SKU:  200-128432
-- Description: התכוננו לאקשן במהירות גבוהה בתחנת עצירה של F1® Ferrari! הזעיקו את צוות התיקונים והציעו לנהג ה-Ferrari לבצע שירות במהירות הבזק. בדקו את המנוע, החליפו צמיגים, ולאחר מכן, שגרו עצמכם מהתחנה וחזרו למרוץ להקפה שוברת שיאים
-- Image: https://parktoys.co.il/assets/product-1785335744937-hjuw1f.webp
 
 ---
 

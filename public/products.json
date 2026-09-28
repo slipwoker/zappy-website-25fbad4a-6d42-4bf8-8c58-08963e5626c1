@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-27T16:20:10.684Z",
+  "generated_at": "2026-09-28T09:35:41.518Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 543,
+  "count": 544,
   "products": [
+    {
+      "id": "22fc3c7a-827e-45ad-9194-bd6d32c4d11f",
+      "slug": "kspt-ryal-mdryd-oovhgm",
+      "name": "כספת ריאל מדריד ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "כספת איכותית עם מפתח וקוד ",
+      "sku": null,
+      "brand": null,
+      "price": 59,
+      "base_price": 59,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1790588077375-ekvx4h.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kspt-ryal-mdryd-oovhgm",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-09-28T09:35:08.228Z"
+    },
     {
       "id": "e598218b-efd1-40ab-b81c-341041422751",
       "slug": "kdvrsl-chkm-4n7avh",
