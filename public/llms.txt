@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 549** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 550** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### שולחן כדורגל מכבי חיפה
+https://parktoys.co.il/product/shvlchn-kdvrgl-mkby-chyph-47o2vo
+- Price: 120.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: משחק כדורגל שולחני מעוצב עם סמל מכבי חיפה – חוויה מושלמת לכל אוהד! 🟢 כולל שני כדורים ⚫⚪ עיצוב רשמי בצבעי הקבוצה עם לוגו בסיס עם וואקום ליציבות מרבית על שולחן
+- Image: https://parktoys.co.il/assets/product-enhanced-1790763587198-tdyxib.webp
 
 ### זוג שערים כדורגל מתקפלים אורך 91 סמ לילדים Viper
 https://parktoys.co.il/product/zvg-sharym-kdvrgl-mtkplym-avrk-91-sm-lyldym-viper-jsyi8h
@@ -1632,14 +1640,6 @@ https://parktoys.co.il/product/mtvs-sylvn-ngd-mkvnyt-lego-city-60489-2m80mx
 - Category: לגו-lego
 - Description: סט המשחק הכפול עם צעצועי כלי הרכב (60489) של מטוס סילון נגד מכונית מסדרת LEGO® City כולל מכונית-על אלגנטית ומטוס סילון על-קולי לחוויית דמיונית של מרוץ כיפי. מטוס הצעצוע כולל כנפיים משוכות לאחור, זוג סנפירים אנכיים ומייצבים. ילדים יכולים להזיז ידית כדי להפעיל את צינורות המבערים של הסילון ולפתוח את תא הנהג של מכונית-העל לקבלת גישה לחלל הפנים המפורט, הכולל מושב מרוץ. פשוט הוסיפו את המיני-דמויות של הטייס ונהג המרוצים לשעות משחק רבות של אקשן מרוץ אפי.
 - Image: https://parktoys.co.il/assets/product-1785339728523-496qup.webp
-
-### לגו סיטי – רכב משטרתי להובלת אסירים 60479
-https://parktoys.co.il/product/lgv-syty-rkb-mshtrty-lhvblt-asyrym-60479-stox3l
-- Price: 119.00 ILS (sale, was 149.00 ILS)
-- Availability: In stock
-- Category: לגו-lego
-- Description: התכוננו להרפתקאות בריחה מרגשות עם סט הבנייה (60479) של רכב משטרתי להובלת אסירים בואן מסדרת LEGO® City לילדים בגילאי 6 ומעלה. דגם הרכב המשטרתי כולל תא נהג מפורט ותא מעצר עם מקום ל-2 נוכלים.
-- Image: https://parktoys.co.il/assets/product-1785339435846-377t27.webp
 
 ---
 
