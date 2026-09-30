@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 550** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 551** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### שולחן כדורגל מכבי תל אביב
+https://parktoys.co.il/product/shvlchn-kdvrgl-mkby-tl-abyb-1y7y5b
+- Price: 120.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Description: שולחן כדורגל מעוצב מכבי תל אביב לחוויית משחק כחולה אמיתית. מתנה מדליקה לילדים שאוהבים את מכבי תל אביב. השולחן בעיצוב רשמי של מועדון מכבי תל אביב. מושלם לחדרי ילדים וכל חובב כחול בנשמה. מתאים לגילאי 5 פלוס הן כמתנת יום הולדת והן כמתנה אישית. מאפיינים: שולחן כדורגל מעוצב מכבי תל אביב. שולחן בעיצוב רשמי של מועדון מכבי תל אביב. מתאים ל-2 משתתפים. מגיע עם 2 כדורים. ידיות נוחות לאחזיה ומשחק. כולל לוח משחק בגודל 55 ס"מ אורך * 45 ס"מ רוחב * 9 ס"מ גובה. 11 שחקנים לכל קבוצה כולל שוער. מגיע מורכב.
+- Image: https://parktoys.co.il/assets/product-enhanced-1790763884866-om3yqb.webp
 
 ### שולחן כדורגל מכבי חיפה
 https://parktoys.co.il/product/shvlchn-kdvrgl-mkby-chyph-47o2vo
@@ -1632,14 +1640,6 @@ https://parktoys.co.il/product/lgv-ninjago-mkvnyt-hmyrvts-shl-kay-71780-g79tzn
 - Category: לגו-lego
 - Description: בואו לשנות את מכונית מרוץ נינג‘ה של קאי למכונית מגניבה וצאו להרפתקאות מהירות ומרתקות בעיר נינג'ה-גו‎! שבו בתא הנהג וסעו ברכב שטח עם גלגלי ענק וספוילר-כנף בצבע זהב. עיצרו את המכונית, החליפו גלגלים ושדרגו למכונית מרוצי כבישים מהירה! תוכלו לעזור לקאי להגיע לשיא המהירות ולנצח? גילאי: 6+ / מידות: 14.1X19.1X4.6 ס"מ / ארץ ייצור: צ'כיה / מס' חלקים: 94
 - Image: https://parktoys.co.il/assets/product-enhanced-1785340244109-2re9kr.webp
-
-### מטוס סילון נגד מכונית LEGO City 60489
-https://parktoys.co.il/product/mtvs-sylvn-ngd-mkvnyt-lego-city-60489-2m80mx
-- Price: 189.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: סט המשחק הכפול עם צעצועי כלי הרכב (60489) של מטוס סילון נגד מכונית מסדרת LEGO® City כולל מכונית-על אלגנטית ומטוס סילון על-קולי לחוויית דמיונית של מרוץ כיפי. מטוס הצעצוע כולל כנפיים משוכות לאחור, זוג סנפירים אנכיים ומייצבים. ילדים יכולים להזיז ידית כדי להפעיל את צינורות המבערים של הסילון ולפתוח את תא הנהג של מכונית-העל לקבלת גישה לחלל הפנים המפורט, הכולל מושב מרוץ. פשוט הוסיפו את המיני-דמויות של הטייס ונהג המרוצים לשעות משחק רבות של אקשן מרוץ אפי.
-- Image: https://parktoys.co.il/assets/product-1785339728523-496qup.webp
 
 ---
 
