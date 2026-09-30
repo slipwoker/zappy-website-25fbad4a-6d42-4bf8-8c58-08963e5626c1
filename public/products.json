@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-30T07:51:49.647Z",
+  "generated_at": "2026-09-30T07:58:59.960Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 548,
+  "count": 549,
   "products": [
+    {
+      "id": "46f0d3e4-7166-416b-a439-647522bdbcae",
+      "slug": "zvg-sharym-kdvrgl-mtkplym-avrk-91-sm-lyldym-viper-jsyi8h",
+      "name": "זוג שערים כדורגל מתקפלים אורך 91 סמ לילדים Viper",
+      "name_translations": {},
+      "description": "",
+      "short_description": "זוג שערי כדורגל מתקפלים כולל מגוון אביזרים:\n\nמשאבה\nכדור\nיתדות לדשא\nמידות: 61*61*91 ס\"מ.",
+      "sku": null,
+      "brand": null,
+      "price": 200,
+      "base_price": 200,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1790755060021-0vubt.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/zvg-sharym-kdvrgl-mtkplym-avrk-91-sm-lyldym-viper-jsyi8h",
+      "categories": [],
+      "updated_at": "2026-09-30T07:58:25.819Z"
+    },
     {
       "id": "73f02b2e-31b5-4b58-911b-ac8832a16a9b",
       "slug": "zvg-shary-kdvrgl-am-ytdvt-mbyt-viper-lrzzqj",
