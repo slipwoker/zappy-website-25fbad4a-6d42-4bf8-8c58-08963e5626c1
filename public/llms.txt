@@ -79,11 +79,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 548** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### זוג שערי כדורגל עם יתדות מבית Viper
-https://parktoys.co.il/product/zvg-shary-kdvrgl-am-ytdvt-mbyt-viper-hnkyvn
+https://parktoys.co.il/product/zvg-shary-kdvrgl-am-ytdvt-mbyt-viper-lrzzqj
 - Price: 160.00 ILS
 - Availability: In stock
 - Category: מוצרי ספורט
-- Description: הפכו כל חצר, גינה או פארק למגרש כדורגל אמיתי עם שער כדורגל נייד של VIPER - הסט המושלם לפעילות ספורטיבית מהנה ובריאה לכל המשפחה!
+- Description: הפכו כל חצר, גינה או פארק למגרש כדורגל אמיתי עם שער כדורגל נייד של VIPER - הסט המושלם לפעילות ספורטיבית מהנה ובריאה לכל המשפחה! גודל כל שער 50X44X44 ס"מ
 - Image: https://parktoys.co.il/assets/product-enhanced-1790614039340-x4vy4.webp
 
 ### סט כדורגל לגינה מבית VIPER

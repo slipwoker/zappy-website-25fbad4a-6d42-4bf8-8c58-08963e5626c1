@@ -1,17 +1,17 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-09-29T18:06:42.984Z",
+  "generated_at": "2026-09-30T07:50:08.411Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 548,
   "products": [
     {
       "id": "73f02b2e-31b5-4b58-911b-ac8832a16a9b",
-      "slug": "zvg-shary-kdvrgl-am-ytdvt-mbyt-viper-hnkyvn",
+      "slug": "zvg-shary-kdvrgl-am-ytdvt-mbyt-viper-lrzzqj",
       "name": "זוג שערי כדורגל עם יתדות מבית Viper",
       "name_translations": {},
       "description": "",
-      "short_description": "הפכו כל חצר, גינה או פארק למגרש כדורגל אמיתי עם שער כדורגל נייד של VIPER - הסט המושלם לפעילות ספורטיבית מהנה ובריאה לכל המשפחה!",
+      "short_description": "הפכו כל חצר, גינה או פארק למגרש כדורגל אמיתי עם שער כדורגל נייד של VIPER - הסט המושלם לפעילות ספורטיבית מהנה ובריאה לכל המשפחה!  גודל כל שער 50X44X44 ס\"מ",
       "sku": null,
       "brand": null,
       "price": 160,
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/zvg-shary-kdvrgl-am-ytdvt-mbyt-viper-hnkyvn",
+      "url": "https://parktoys.co.il/product/zvg-shary-kdvrgl-am-ytdvt-mbyt-viper-lrzzqj",
       "categories": [
         "מוצרי ספורט"
       ],
-      "updated_at": "2026-09-28T16:48:04.860Z"
+      "updated_at": "2026-09-30T07:49:30.678Z"
     },
     {
       "id": "84b87901-0560-47ae-bfed-82354f16202d",
