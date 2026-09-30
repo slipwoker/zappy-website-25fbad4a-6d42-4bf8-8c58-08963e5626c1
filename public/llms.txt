@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 551** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### שולחן כדורגל מכבי תל אביב
-https://parktoys.co.il/product/shvlchn-kdvrgl-mkby-tl-abyb-1y7y5b
+https://parktoys.co.il/product/shvlchn-kdvrgl-mkby-tl-abyb-l8298a
 - Price: 120.00 ILS
 - Availability: In stock
 - Category: מוצרי ספורט
