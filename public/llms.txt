@@ -76,7 +76,13 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 551** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 552** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מוצר טסט
+https://parktoys.co.il/product/mvtsr-tst-1qo3uc
+- Price: 1.00 ILS
+- Availability: In stock
+- Description: מוצר טסט לבדיקה פנימית
 
 ### שולחן כדורגל מכבי תל אביב
 https://parktoys.co.il/product/shvlchn-kdvrgl-mkby-tl-abyb-l8298a
@@ -1632,14 +1638,6 @@ https://parktoys.co.il/product/lgv-nynggv-rvbvt-ysvdvt-hash-shl-kay-71808-1wjw8o
 - Category: לגו-lego
 - Description: לדים בגיל 7+ יכולים לשחזר סיפורים מעונה 2 של ‘עליית הדרקונים’ של NINJAGO עם דגם הנינג’ה ׳רובוט יסודות האש של קאי׳ (71808). לרובוט הצעצוע יש ידיים ורגליים מתכווננות הניתנות להטיה וסיבוב לעמדות קרב דרמטיות, תא טייסים למיני-דמויות של נינג’ה ואביזר של חרב מוזהבת גדולה לקרבות משחקי תפקידים נגד רובוט הזאב. הרובוט הניתן להתאמה אישית הזה מאפשר גם לילדים להרכיב רובוט משלהם! ניתן לשלב את הרגליים, הזרועות ופלג הגוף העליון הניתנים להסרה שלו עם חלקים משני רובוטים אחרים: ׳רובוט יסודות האדמה של קול (71806) וע
 - Image: https://parktoys.co.il/assets/product-enhanced-1785340691633-silteg.webp
-
-### לגו NINJAGO מכונית המירוץ של קאי 71780
-https://parktoys.co.il/product/lgv-ninjago-mkvnyt-hmyrvts-shl-kay-71780-g79tzn
-- Price: 49.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: בואו לשנות את מכונית מרוץ נינג‘ה של קאי למכונית מגניבה וצאו להרפתקאות מהירות ומרתקות בעיר נינג'ה-גו‎! שבו בתא הנהג וסעו ברכב שטח עם גלגלי ענק וספוילר-כנף בצבע זהב. עיצרו את המכונית, החליפו גלגלים ושדרגו למכונית מרוצי כבישים מהירה! תוכלו לעזור לקאי להגיע לשיא המהירות ולנצח? גילאי: 6+ / מידות: 14.1X19.1X4.6 ס"מ / ארץ ייצור: צ'כיה / מס' חלקים: 94
-- Image: https://parktoys.co.il/assets/product-enhanced-1785340244109-2re9kr.webp
 
 ---
 

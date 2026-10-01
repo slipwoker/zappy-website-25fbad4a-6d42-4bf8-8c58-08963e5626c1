@@ -4219,6 +4219,15 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### מוצר טסט
+URL: https://parktoys.co.il/product/mvtsr-tst-1qo3uc
+Price: 1.00 ILS
+Availability: In stock
+
+מוצר טסט לבדיקה פנימית
+
+---
+
 ### שולחן כדורגל מכבי תל אביב
 URL: https://parktoys.co.il/product/shvlchn-kdvrgl-mkby-tl-abyb-l8298a
 Price: 120.00 ILS

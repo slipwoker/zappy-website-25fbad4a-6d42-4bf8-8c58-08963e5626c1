@@ -4,7 +4,18 @@
     <title>פארק הצעצועים</title>
     <link>https://parktoys.co.il</link>
     <description>Product feed for פארק הצעצועים</description>
-    <lastBuildDate>Wed, 30 Sep 2026 13:14:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 07:47:24 GMT</lastBuildDate>
+    <item>
+      <g:id>3163dbf5-486e-495f-b902-2fca1ee405fd</g:id>
+      <g:title>מוצר טסט</g:title>
+      <g:description>מוצר טסט לבדיקה פנימית</g:description>
+      <g:link>https://parktoys.co.il/product/mvtsr-tst-1qo3uc</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
     <item>
       <g:id>40c8a287-ecb1-4673-8200-6d82084862d2</g:id>
       <g:title>שולחן כדורגל מכבי תל אביב</g:title>
