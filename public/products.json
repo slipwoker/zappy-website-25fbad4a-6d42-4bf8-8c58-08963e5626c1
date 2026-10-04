@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-04T15:22:02.360Z",
+  "generated_at": "2026-10-04T15:25:32.438Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 552,
+  "count": 553,
   "products": [
+    {
+      "id": "4f39b983-3e94-41ed-8e15-fdbad434b3e8",
+      "slug": "chlyph-kdvrgl-argtynh-hnpt-gbya-wbat3h",
+      "name": "חליפה כדורגל ארגטינה הנפת גביע ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חליפת כדורגל איכותית של ארגטינה ממשחק הגמר מניפים גביע ",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 99,
+      "sale_price": 69,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1791127409911-wxv3pr.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chlyph-kdvrgl-argtynh-hnpt-gbya-wbat3h",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-10-04T15:24:59.224Z"
+    },
     {
       "id": "3163dbf5-486e-495f-b902-2fca1ee405fd",
       "slug": "mvtsr-tst-1qo3uc",
