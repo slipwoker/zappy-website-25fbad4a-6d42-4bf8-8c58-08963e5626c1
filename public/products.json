@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-04T15:27:16.926Z",
+  "generated_at": "2026-10-04T15:29:42.655Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 553,
+  "count": 554,
   "products": [
+    {
+      "id": "d5df7ba0-70c1-4194-bfe7-a7d6576e68e6",
+      "slug": "chlypt-kdvrgl-myamy-msy-s5jz6q",
+      "name": "חליפת כדורגל מיאמי מסי ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 68.97,
+      "base_price": 99,
+      "sale_price": 68.97,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1791127707444-rz2nhb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-myamy-msy-s5jz6q",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-10-04T15:29:38.752Z"
+    },
     {
       "id": "4f39b983-3e94-41ed-8e15-fdbad434b3e8",
       "slug": "chlyph-kdvrgl-argtynh-hnpt-gbya-wbat3h",
