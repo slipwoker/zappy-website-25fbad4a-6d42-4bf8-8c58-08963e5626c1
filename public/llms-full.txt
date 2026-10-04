@@ -3166,6 +3166,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -4910,7 +4912,7 @@ Availability: In stock
 ---
 
 ### חליפת כדורגל אצילי ביתר ירושלים
-URL: https://parktoys.co.il/product/chlypt-kdvrgl-atsyly-bytr-yrvshlym-y4bypj
+URL: https://parktoys.co.il/product/chlypt-kdvrgl-atsyly-bytr-yrvshlym-4geyyy
 Price: 69.00 ILS (sale, was 99.00 ILS)
 Availability: In stock
 
