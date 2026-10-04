@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 555** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### חליפת כדורגל מכבי חיפה מלמד 
-https://parktoys.co.il/product/chlypt-kdvrgl-mkby-chyph-mlmd-lkm9id
+https://parktoys.co.il/product/chlypt-kdvrgl-mkby-chyph-mlmd-2vms8k
 - Price: 69.00 ILS (sale, was 99.00 ILS)
 - Availability: In stock
 - Category: מוצרי ספורט
