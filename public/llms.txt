@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 554** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 555** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת כדורגל מכבי חיפה מלמד 
+https://parktoys.co.il/product/chlypt-kdvrgl-mkby-chyph-mlmd-lkm9id
+- Price: 69.00 ILS (sale, was 99.00 ILS)
+- Availability: In stock
+- Category: מוצרי ספורט
+- Image: https://parktoys.co.il/assets/product-enhanced-1791132125071-1ln7l9.webp
 
 ### חליפת כדורגל מיאמי מסי 
 https://parktoys.co.il/product/chlypt-kdvrgl-myamy-msy-frcnyz
@@ -1629,14 +1636,6 @@ https://parktoys.co.il/product/lgv-nyngh-gv-rvbvt-krb-spyngytsv-shl-aryn-71839-3
 - Category: לגו-lego
 - Description: אוהדי נינג'ה בגילאי 7 ומעלה יכולים לגלם דמויות וסצנות מעונה 3 של תוכנית הטלוויזיה NINJAGO® עליית הדרקונים עם הצעצוע (71839) של רובוט קרב ספינג'יטסו של ארין מסדרת LEGO ®NINJAGO®. ערכת בנייה זו לילדים כוללת את הרובוט NINJAGO עם זרועות ורגליים מתכווננות, שאפשר להטות ולסובב לקבלת תנוחות שונות, פלג גוף עליון מסתובב, חזה נפתח שאפשר להושיב בתוכו מיני-דמות ו-2 אביזרי חרב גדולים. בנוסף, ילדים יכולים ליצור רובוט אולטימטיבי משלהם על ידי החלפת חלקי גוף של רובוט קרב ספינג'יטסו של ארין בחלקים מרובוטים הניתנים
 - Image: https://parktoys.co.il/assets/product-enhanced-1785342973547-aux74.webp
-
-### לגו נינג'גו אופנוע המירוץ של קאי 71838 | Lego
-https://parktoys.co.il/product/lgv-nynggv-avpnva-hmyrvts-shl-kay-71838-lego-csgi4c
-- Price: 59.00 ILS
-- Availability: Out of stock
-- Category: לגו-lego
-- Description: הסט "מירוץ האופנועים המהיר של קאי" מבית לגו נינג’גו מאפשר לבנים ולבנות מגיל 6 ומעלה לשחזר סצנות מרוץ מסעירות מתוך עונה 3 של סדרת הטלוויזיה NINJAGO: Dragons Rising. הסט כולל שני אופנועים נינג’ה עם גלגלים נעים: אופנוע המירוץ של קאי – מעוטר בשני פגיונות אופנוע שדים של סייר הדרקונים הרפאים – מלא באקשן ואווירה אפלה בנוסף תמצאו בסט 2 דמויות מיני-פיגור: קאי – מצויד בלהב שקוף ייחודי ובשתי חרבות קטאנה מוזהבות סייר דרקונים רפאים – מגיע עם חרב לקרבות בין טוב לרע הילדים יכולים ליהנות ממשחק דמיון לבד
-- Image: https://parktoys.co.il/assets/product-1785342612898-c8eq4d.webp
 
 ---
 
