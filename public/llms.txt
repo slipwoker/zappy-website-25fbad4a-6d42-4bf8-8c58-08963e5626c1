@@ -79,8 +79,8 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 554** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### חליפת כדורגל מיאמי מסי 
-https://parktoys.co.il/product/chlypt-kdvrgl-myamy-msy-s5jz6q
-- Price: 68.97 ILS (sale, was 99.00 ILS)
+https://parktoys.co.il/product/chlypt-kdvrgl-myamy-msy-frcnyz
+- Price: 69.00 ILS (sale, was 99.00 ILS)
 - Availability: In stock
 - Category: מוצרי ספורט
 - Image: https://parktoys.co.il/assets/product-enhanced-1791127707444-rz2nhb.webp
