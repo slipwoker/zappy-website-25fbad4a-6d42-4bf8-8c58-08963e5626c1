@@ -3166,6 +3166,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -7834,7 +7836,7 @@ Availability: In stock
 ---
 
 ### רחפן מתקפל עם מצלמה ו – WIFI לצילום חוויתי – IPOP
-URL: https://parktoys.co.il/product/rchpn-mtkpl-am-mtslmh-v-wifi-ltsylvm-chvvyty-ipop-x8g8ge
+URL: https://parktoys.co.il/product/rchpn-mtkpl-am-mtslmh-v-wifi-ltsylvm-chvvyty-ipop-8gd7jq
 Price: 119.00 ILS (sale, was 249.00 ILS)
 Availability: In stock
 
