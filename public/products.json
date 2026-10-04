@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-04T08:44:55.612Z",
+  "generated_at": "2026-10-04T09:06:58.100Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 552,
@@ -12059,7 +12059,7 @@
     },
     {
       "id": "8739a86b-cced-45ac-a92e-24f458aa5e7e",
-      "slug": "rchpn-mtkpl-am-mtslmh-v-wifi-ltsylvm-chvvyty-ipop-8gd7jq",
+      "slug": "rchpn-mtkpl-am-mtslmh-v-wifi-ltsylvm-chvvyty-ipop-y7g8td",
       "name": "רחפן מתקפל עם מצלמה ו – WIFI לצילום חוויתי – IPOP",
       "name_translations": {},
       "description": "",
@@ -12071,15 +12071,16 @@
       "sale_price": 119,
       "currency": "ILS",
       "images": [
+        "https://parktoys.co.il/assets/product-1791104765037-8rj57yi.webp",
         "https://parktoys.co.il/assets/product-1791103423802-v87n7.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/rchpn-mtkpl-am-mtslmh-v-wifi-ltsylvm-chvvyty-ipop-8gd7jq",
+      "url": "https://parktoys.co.il/product/rchpn-mtkpl-am-mtslmh-v-wifi-ltsylvm-chvvyty-ipop-y7g8td",
       "categories": [
         "צעצועי שלט/מסלולי מכוניות/מכוניות "
       ],
-      "updated_at": "2026-10-04T08:44:03.133Z"
+      "updated_at": "2026-10-04T09:06:23.474Z"
     },
     {
       "id": "ecafec59-ef9c-4613-815c-ca25818c2e0b",
