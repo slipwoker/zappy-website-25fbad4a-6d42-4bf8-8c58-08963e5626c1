@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-07T15:17:57.424Z",
+  "generated_at": "2026-10-08T14:54:33.072Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 555,
+  "count": 556,
   "products": [
+    {
+      "id": "c644e708-8bb0-4286-acfb-89dd62b2b0ce",
+      "slug": "shlychh-mchdsh-zg8i9r",
+      "name": "שליחה מחדש",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0.1,
+      "base_price": 0.1,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/shlychh-mchdsh-zg8i9r",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-10-08T14:54:08.118Z"
+    },
     {
       "id": "52b81ac5-e1dc-4841-ae94-1c8427edca63",
       "slug": "chlypt-kdvrgl-mkby-chyph-mlmd-2vms8k",

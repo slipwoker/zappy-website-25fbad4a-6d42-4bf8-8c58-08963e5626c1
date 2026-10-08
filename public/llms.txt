@@ -76,7 +76,13 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 555** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 556** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### שליחה מחדש
+https://parktoys.co.il/product/shlychh-mchdsh-zg8i9r
+- Price: 0.10 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
 
 ### חליפת כדורגל מכבי חיפה מלמד 
 https://parktoys.co.il/product/chlypt-kdvrgl-mkby-chyph-mlmd-2vms8k
@@ -1628,14 +1634,6 @@ https://parktoys.co.il/product/lgv-nyngh-gv-marz-krb-rvbvt-hdrkvn-shl-kay-71851-
 - Category: לגו-lego
 - Description: בנים, בנות ומעריצי סדרת הטלוויזיה NINJAGO Dragons Rising מגיל 6 ומעלה יכולים ליהנות משעות של משחק דמיוני עם ערכת הבנייה LEGO NINJAGO חבילת קרב מכונת הדרקון של קאי (71851). ערכת המשחק כוללת מכונת דרקון עם רגליים ניתנות להזזה, כנפיים גדולות, ידיים עם טפרים וחלק גוף עליון שמסתובב 360 מעלות, וכן תא טייס להצבת מיניפיגור בפנים. ערכת נינג’ה משתלמת זו כוללת גם 3 מיניפיגור: קאי עם 2 אביזרי חרב, סורה עם 2 חרבות ומפלצת אדמה עם ידיים טפריות, ומאפשרת לילדים ליהנות משעות של הרפתקאות תוך שחזור סצנות מעונה 4 של…
 - Image: https://parktoys.co.il/assets/product-1785428962661-t8s6nk.webp
-
-### לגו נינג'ה גו - רובוט קרב ספינג'יטסו של ארין 71839
-https://parktoys.co.il/product/lgv-nyngh-gv-rvbvt-krb-spyngytsv-shl-aryn-71839-3dpahy
-- Price: 99.00 ILS (sale, was 139.00 ILS)
-- Availability: In stock
-- Category: לגו-lego
-- Description: אוהדי נינג'ה בגילאי 7 ומעלה יכולים לגלם דמויות וסצנות מעונה 3 של תוכנית הטלוויזיה NINJAGO® עליית הדרקונים עם הצעצוע (71839) של רובוט קרב ספינג'יטסו של ארין מסדרת LEGO ®NINJAGO®. ערכת בנייה זו לילדים כוללת את הרובוט NINJAGO עם זרועות ורגליים מתכווננות, שאפשר להטות ולסובב לקבלת תנוחות שונות, פלג גוף עליון מסתובב, חזה נפתח שאפשר להושיב בתוכו מיני-דמות ו-2 אביזרי חרב גדולים. בנוסף, ילדים יכולים ליצור רובוט אולטימטיבי משלהם על ידי החלפת חלקי גוף של רובוט קרב ספינג'יטסו של ארין בחלקים מרובוטים הניתנים
-- Image: https://parktoys.co.il/assets/product-enhanced-1785342973547-aux74.webp
 
 ---
 
