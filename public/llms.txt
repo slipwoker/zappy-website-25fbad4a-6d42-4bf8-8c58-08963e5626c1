@@ -58,6 +58,9 @@ https://parktoys.co.il/category/:slug
 https://parktoys.co.il/thank-you
 פארק הצעצועים - תודה שפניתם אלינו
 
+### Page
+https://parktoys.co.il/childrens-soccer-suits
+
 ## Legal & Policy
 
 ### Privacy Policy
