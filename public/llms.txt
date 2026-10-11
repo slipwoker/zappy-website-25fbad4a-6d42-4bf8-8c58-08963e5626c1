@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 563** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 564** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מצלמה מדפיסה ברבי
+https://parktoys.co.il/product/mtslmh-mdpysh-brby-ft4frj
+- Price: 138.99 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: מצלמה דיגיטלית המשלבת צילום ויצירה בחוויה אחת, ומאפשרת לתעד רגעים מהיום־יום בתמונות ובסרטונים. ההדפסה המיידית בשחור־לבן מאפשרת להפוך את הצילומים למזכרות מוחשיות ישירות מהמצלמה, ללא צורך במחשב. התמונות המודפסות הופכות לבסיס ליצירה אישית: ניתן לצבוע אותן, להוסיף ציורים וקישוטים ולתת לכל תמונה מראה ייחודי בעזרת הטושים המצורפים. כרטיס הזיכרון מאפשר לשמור תמונות וסרטונים, וגלילי הנייר המצורפים משלימים את חוויית ההדפסה והיצירה. השילוב בין בחירת נושאי הצילום לקישוט התמונות מעודד התבוננות בסביבה וביטוי
+- Image: https://parktoys.co.il/assets/product-1791729351270-s6tqv.webp
 
 ### מצלמה מדפיסה סטיץ
 https://parktoys.co.il/product/mtslmh-mdpysh-styts-dfw2gm
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/lgv-kryatvr-mabvrt-chll-31134-lego-tv1tw7
 - Category: לגו-lego
 - Description: הרפתקני חלל יכולים ליהנות מפעולה בין-גלקטית מרגשת עם מערכת המשחקים הזו של מעבורת החלל 3 ב-1 של לגו.הסט כולל צעצוע של מעבורת חלל עם צוהר פתיחה המכיל לוויין על זרוע הניתנת להרחבה. ניתן גם לנתק את הלוויין לכיף נוסף.מתנה מושלמת לאוהבי חלל.ישנן 3
 - Image: https://parktoys.co.il/assets/product-1785487153530-mnosmq.webp
-
-### לגו סיטי ניידת משטרה 60312 - Lego
-https://parktoys.co.il/product/lgv-syty-nyydt-mshtrh-60312-lego-68ivpe
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: ניידת המשטרה עם החישוקים הרחבים, הפגושים המעוצבים והפנסים המגניבים משיגה את כל הנוכלים של לגו סיטי!אין להם סיכוי כשהם עוצרים להתפעל מהמכונית.הדליקו את הפנס, שימו את כובע השוטרים, עלו על המכונית וסעו לעוד מרדפים אחר הנוכלים בעיר! לגילאי 5 ומעלה 94 חלקים סדרה לגו סיטי Lego Cityמידות האריזה 14.1X15.7X4.5 ס"מP
-- Image: https://parktoys.co.il/assets/product-1785486953515-mafjqh.webp
 
 ---
 
