@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 564** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 565** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מצלמה מדפיסה סוניר 
+https://parktoys.co.il/product/mtslmh-mdpysh-svnyr-ne6g4i
+- Price: 139.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: מצלמה דיגיטלית המשלבת צילום ויצירה בחוויה אחת, ומאפשרת לתעד רגעים מהיום־יום בתמונות ובסרטונים. ההדפסה המיידית בשחור־לבן מאפשרת להפוך את הצילומים למזכרות מוחשיות ישירות מהמצלמה, ללא צורך במחשב. התמונות המודפסות הופכות לבסיס ליצירה אישית: ניתן לצבוע אותן, להוסיף ציורים וקישוטים ולתת לכל תמונה מראה ייחודי בעזרת הטושים המצורפים. כרטיס הזיכרון מאפשר לשמור תמונות וסרטונים, וגלילי הנייר המצורפים משלימים את חוויית ההדפסה והיצירה. השילוב בין בחירת נושאי הצילום לקישוט התמונות מעודד התבוננות בסביבה וביטוי
+- Image: https://parktoys.co.il/assets/product-1791730036911-irz049.webp
 
 ### מצלמה מדפיסה ברבי
 https://parktoys.co.il/product/mtslmh-mdpysh-brby-ft4frj
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/lgv-one-piece-bkth-bkpr-tchnt-hrvch-75636-lego-3i
 - Category: לגו-lego
 - Description: עזרו למאקינו לנהל את החנות העמוסה שלה על חוף הים. שאנקס מסתכל בלוח מודעות המפרסם פרטים של “מבוקשים” על הקיר תוך כדי שטיפת הרצפה. בחוץ, לופי נתקל בפרי השטן גומו-גומו שמוחבא בין קופסאות ליד הסירה. אילו הרפתקאות פיראטים פראיות נוספות מסדרת האנימציה וואן פיס צפויות להתרחש? ההחלטה היא בידיכם!
 - Image: https://parktoys.co.il/assets/product-enhanced-1785487450773-sybj27.webp
-
-### לגו קריאטור מעבורת חלל 31134 - Lego
-https://parktoys.co.il/product/lgv-kryatvr-mabvrt-chll-31134-lego-tv1tw7
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: הרפתקני חלל יכולים ליהנות מפעולה בין-גלקטית מרגשת עם מערכת המשחקים הזו של מעבורת החלל 3 ב-1 של לגו.הסט כולל צעצוע של מעבורת חלל עם צוהר פתיחה המכיל לוויין על זרוע הניתנת להרחבה. ניתן גם לנתק את הלוויין לכיף נוסף.מתנה מושלמת לאוהבי חלל.ישנן 3
-- Image: https://parktoys.co.il/assets/product-1785487153530-mnosmq.webp
 
 ---
 
