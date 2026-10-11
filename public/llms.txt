@@ -76,7 +76,13 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 558** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 559** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### כדור כדורגל לבחירה
+https://parktoys.co.il/product/kdvr-kdvrgl-lbchyrh-5bgip1
+- Price: 50.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
 
 ### מנצסטר סיטי הלאנד
 https://parktoys.co.il/product/mntsstr-syty-hland-12bt54
@@ -1624,14 +1630,6 @@ https://parktoys.co.il/product/lgv-marvel-krb-ayykvny-spyydrmn-ngd-aysh-hchvl-76
 - Category: לגו-lego
 - Description: הסתערו לתוך האקשן עם הרפתקה הניתנת לבנייה היישר מתוך הסרט “ספיידרמן “3 של אולפני מארוול! כשאיש החול מתרומם מעל ההריסות, ספיידרמן מגיח על חבל רשת כדי להפיל אותו. אבל חכו – גם ונום נמצא כאן, עם זרועות התמנון המפחידות שלו שמוכנות למתקפה! ומה קורה אחר כך? אתם יכולים להעמיד את הדגם שופע האקשן לתצוגה בחדר שלכם או לפרק את המיני-דמויות עבור הרפתקאות גיבורי-על משלכם.
 - Image: https://parktoys.co.il/assets/product-1785429574382-xe5rk9.webp
-
-### לגו נינג'ה גו - חגיגות 15 שנה לרכב X-1 הנינג‘ה המסתער 71867
-https://parktoys.co.il/product/lgv-nyngh-gv-chgygvt-15-shnh-lrkb-x-1-hnyngh-hmstar-71867-fbcy6g
-- Price: 329.00 ILS (sale, was 399.00 ILS)
-- Availability: In stock
-- Category: לגו-lego
-- Description: חגגו את יום השנה ה-15 של סדרת הטלוויזיה ®LEGO® NINJAGO עם רכב ה-2 ב-1 המדהים הזה של X-1 נינג'ה המסתער (71867), גרסה מחודשת של X-1 הנינג'ה המסתער המקורי (70727). רכב צעצוע זה מציע לחובבים בגילאי 14 ומעלה אפשרויות משחק ותצוגה דינמיות ללא סוף.
-- Image: https://parktoys.co.il/assets/product-1785429434821-z4721.webp
 
 ---
 
