@@ -1,13 +1,37 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-11T12:43:06.345Z",
+  "generated_at": "2026-10-11T12:51:42.386Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 559,
+  "count": 560,
   "products": [
     {
+      "id": "2b91a88f-f282-44a5-b337-293311528a1c",
+      "slug": "ryal-mdryd-ambph-kchvl-b3fsml",
+      "name": "ריאל מדריד אמבפה כחול",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1791723010938-gmye2p.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/ryal-mdryd-ambph-kchvl-b3fsml",
+      "categories": [
+        "חליפות כדורגל לילדים"
+      ],
+      "updated_at": "2026-10-11T12:51:27.684Z"
+    },
+    {
       "id": "7ff7137b-60df-452e-be7c-89863a0f8858",
-      "slug": "kdvr-kdvrgl-lbchyrh-u69tgj",
+      "slug": "kdvr-kdvrgl-lbchyrh-40rwtt",
       "name": "כדור כדורגל לבחירה",
       "name_translations": {},
       "description": "",
@@ -18,14 +42,16 @@
       "base_price": 50,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://parktoys.co.il/assets/product-1791723071015-crmjt4.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kdvr-kdvrgl-lbchyrh-u69tgj",
+      "url": "https://parktoys.co.il/product/kdvr-kdvrgl-lbchyrh-40rwtt",
       "categories": [
         "מוצרי ספורט"
       ],
-      "updated_at": "2026-10-11T12:42:31.264Z"
+      "updated_at": "2026-10-11T12:51:26.868Z"
     },
     {
       "id": "d24237b2-9da4-42a7-bead-de9e790edb3c",

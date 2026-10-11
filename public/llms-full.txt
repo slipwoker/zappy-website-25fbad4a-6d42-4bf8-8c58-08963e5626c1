@@ -4169,8 +4169,15 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### ריאל מדריד אמבפה כחול
+URL: https://parktoys.co.il/product/ryal-mdryd-ambph-kchvl-b3fsml
+Price: 69.00 ILS
+Availability: In stock
+
+---
+
 ### כדור כדורגל לבחירה
-URL: https://parktoys.co.il/product/kdvr-kdvrgl-lbchyrh-u69tgj
+URL: https://parktoys.co.il/product/kdvr-kdvrgl-lbchyrh-40rwtt
 Price: 50.00 ILS
 Availability: In stock
 
