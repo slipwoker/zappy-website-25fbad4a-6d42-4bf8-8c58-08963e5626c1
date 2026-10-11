@@ -3166,6 +3166,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -4166,6 +4168,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 ---
 
 ## Product Catalog
+
+### מנצסטר סיטי הלאנד
+URL: https://parktoys.co.il/product/mntsstr-syty-hland-12bt54
+Price: 69.00 ILS
+Availability: In stock
+
+---
 
 ### חליפת כדורגל נבחרת ישראל סולומון 
 URL: https://parktoys.co.il/product/chlypt-kdvrgl-nbchrt-yshral-svlvmvn-szb2n2

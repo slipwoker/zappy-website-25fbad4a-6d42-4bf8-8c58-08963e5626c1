@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 557** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 558** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מנצסטר סיטי הלאנד
+https://parktoys.co.il/product/mntsstr-syty-hland-12bt54
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: חליפות כדורגל לילדים
+- Image: https://parktoys.co.il/assets/product-enhanced-1791721097842-b9wogh.webp
 
 ### חליפת כדורגל נבחרת ישראל סולומון 
 https://parktoys.co.il/product/chlypt-kdvrgl-nbchrt-yshral-svlvmvn-szb2n2
@@ -1625,14 +1632,6 @@ https://parktoys.co.il/product/lgv-nyngh-gv-chgygvt-15-shnh-lrkb-x-1-hnyngh-hmst
 - Category: לגו-lego
 - Description: חגגו את יום השנה ה-15 של סדרת הטלוויזיה ®LEGO® NINJAGO עם רכב ה-2 ב-1 המדהים הזה של X-1 נינג'ה המסתער (71867), גרסה מחודשת של X-1 הנינג'ה המסתער המקורי (70727). רכב צעצוע זה מציע לחובבים בגילאי 14 ומעלה אפשרויות משחק ותצוגה דינמיות ללא סוף.
 - Image: https://parktoys.co.il/assets/product-1785429434821-z4721.webp
-
-### לגו נינג'ה-גו - מכוניתו של ג'יי שמשנה צורה לדרקון 71856 | Lego
-https://parktoys.co.il/product/lgv-nyngh-gv-mkvnytv-shl-gyy-shmshnh-tsvrh-ldrkvn-71856-lego-p12h7q
-- Price: 239.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: בנים ובנות מגיל 8 ומעלה יכולים ליהנות משעות של אקשן מהיר עם ערכת הבנייה LEGO NINJAGO המכונית המשתנה של ג’יי (71856). צעצוע מרוץ נינג’ה זה כולל רכב 2-ב-1 שניתן לשחק ולהציג בשני מצבים: מצב רגיל או מצב דרקון על ידי הפיכת החלק הקדמי, החושף טפרים מוזהבים, ראש דרקון ושוריקנים מסתובבים. ערכת ההרפתקה כוללת משגר קפיצי עם 2 חיצים, שניתן לנתק ולהציב על מבנה צדדי מכוסה צמחייה לקרבות. הערכה כוללת גם 5 מיניפיגור: ג’יי, ניה וקאי בצורת דרקון, וכן מפלצת אדמה ומנהיג נאמן לקרבות טוב נגד רע. הילדים יכולים לבנות בבי
-- Image: https://parktoys.co.il/assets/product-1785429181100-lt6xd.webp
 
 ---
 
