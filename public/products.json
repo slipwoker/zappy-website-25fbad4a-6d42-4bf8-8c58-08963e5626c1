@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-11T14:32:13.183Z",
+  "generated_at": "2026-10-11T14:35:02.916Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 562,
+  "count": 563,
   "products": [
+    {
+      "id": "948c218f-6d79-4ea6-a22d-5029c9c66b19",
+      "slug": "mtslmh-mdpysh-styts-dfw2gm",
+      "name": "מצלמה מדפיסה סטיץ",
+      "name_translations": {},
+      "description": "<p class=\"ql-align-right\">• מצלמה דיגיטלית לצילום תמונות ולתיעוד רגעים מהיום־יום</p><p class=\"ql-align-right\">• רזולוציית צילום של 48 מגה־פיקסל</p><p class=\"ql-align-right\">• אפשרות להקלטת וידאו לצילום סרטונים לצד תמונות</p><p class=\"ql-align-right\">• הדפסה מיידית בשחור־לבן ישירות מהמצלמה, ללא צורך במחשב</p><p class=\"ql-align-right\">• כרטיס זיכרון בנפח 8GB כלול לשמירת תמונות וסרטונים</p><p class=\"ql-align-right\">• 4 גלילי נייר להדפסה כלולים בערכה</p><p class=\"ql-align-right\">• 6 טושים צבעוניים לצביעה ולקישוט התמונות המודפסות</p><p class=\"ql-align-right\">• רצועת נשיאה לנשיאת המצלמה בנוחות</p><p class=\"ql-align-right\">• משלבת צילום ויצירה ומעודדת התבוננות בסביבה וביטוי אישי</p><p class=\"ql-align-right\">תכולה</p><p class=\"ql-align-right\">✔ מצלמה דיגיטלית מדפיסה</p><p class=\"ql-align-right\">✔ 4 גלילי נייר להדפסה</p><p class=\"ql-align-right\">✔ 6 טושים צבעוניים</p><p class=\"ql-align-right\">✔ כרטיס זיכרון בנפח 8GB</p><p class=\"ql-align-right\">✔ רצועת נשיאה</p><p class=\"ql-align-right\">✔ כבל USB</p><p class=\"ql-align-right\">✔ הוראות הפעלה</p><p></p>",
+      "short_description": "מצלמה דיגיטלית המשלבת צילום ויצירה בחוויה אחת, ומאפשרת לתעד רגעים מהיום־יום בתמונות ובסרטונים. ההדפסה המיידית בשחור־לבן מאפשרת להפוך את הצילומים למזכרות מוחשיות ישירות מהמצלמה, ללא צורך במחשב.\nהתמונות המודפסות הופכות לבסיס ליצירה אישית: ניתן לצבוע אותן, להוסיף ציורים וקישוטים ולתת לכל תמונה מראה ייחודי בעזרת הטושים המצורפים.\nכרטיס הזיכרון מאפשר לשמור תמונות וסרטונים, וגלילי הנייר המצורפים משלימים את חוויית ההדפסה והיצירה. השילוב בין בחירת נושאי הצילום לקישוט התמונות מעודד התבוננות בסביבה וביטוי ",
+      "sku": null,
+      "brand": null,
+      "price": 139,
+      "base_price": 139,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1791729244646-1ovifb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/mtslmh-mdpysh-styts-dfw2gm",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל "
+      ],
+      "updated_at": "2026-10-11T14:34:25.221Z"
+    },
     {
       "id": "edbb7f9a-590e-4787-815b-afee89225742",
       "slug": "mtslmh-mdpysh-spyydrmn-u4hrkd",
