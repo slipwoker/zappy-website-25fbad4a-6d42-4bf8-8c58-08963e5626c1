@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-11T11:27:45.821Z",
+  "generated_at": "2026-10-11T12:06:24.379Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 556,
+  "count": 557,
   "products": [
+    {
+      "id": "e3dd167d-4d2d-4a44-a2c7-18abf8ef91d9",
+      "slug": "chlypt-kdvrgl-nbchrt-yshral-svlvmvn-szb2n2",
+      "name": "חליפת כדורגל נבחרת ישראל סולומון ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1791720254714-5gnl0j.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-nbchrt-yshral-svlvmvn-szb2n2",
+      "categories": [
+        "מוצרי ספורט"
+      ],
+      "updated_at": "2026-10-11T12:05:47.972Z"
+    },
     {
       "id": "c644e708-8bb0-4286-acfb-89dd62b2b0ce",
       "slug": "shlychh-mchdsh-zg8i9r",

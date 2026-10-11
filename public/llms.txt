@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 556** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 557** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת כדורגל נבחרת ישראל סולומון 
+https://parktoys.co.il/product/chlypt-kdvrgl-nbchrt-yshral-svlvmvn-szb2n2
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: מוצרי ספורט
+- Image: https://parktoys.co.il/assets/product-enhanced-1791720254714-5gnl0j.webp
 
 ### שליחה מחדש
 https://parktoys.co.il/product/shlychh-mchdsh-zg8i9r
@@ -1626,14 +1633,6 @@ https://parktoys.co.il/product/lgv-nyngh-gv-mkvnytv-shl-gyy-shmshnh-tsvrh-ldrkvn
 - Category: לגו-lego
 - Description: בנים ובנות מגיל 8 ומעלה יכולים ליהנות משעות של אקשן מהיר עם ערכת הבנייה LEGO NINJAGO המכונית המשתנה של ג’יי (71856). צעצוע מרוץ נינג’ה זה כולל רכב 2-ב-1 שניתן לשחק ולהציג בשני מצבים: מצב רגיל או מצב דרקון על ידי הפיכת החלק הקדמי, החושף טפרים מוזהבים, ראש דרקון ושוריקנים מסתובבים. ערכת ההרפתקה כוללת משגר קפיצי עם 2 חיצים, שניתן לנתק ולהציב על מבנה צדדי מכוסה צמחייה לקרבות. הערכה כוללת גם 5 מיניפיגור: ג’יי, ניה וקאי בצורת דרקון, וכן מפלצת אדמה ומנהיג נאמן לקרבות טוב נגד רע. הילדים יכולים לבנות בבי
 - Image: https://parktoys.co.il/assets/product-1785429181100-lt6xd.webp
-
-### לגו נינג'ה-גו - מארז קרב רובוט הדרקון של קאי 71851 | Lego
-https://parktoys.co.il/product/lgv-nyngh-gv-marz-krb-rvbvt-hdrkvn-shl-kay-71851-lego-wqko4b
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: בנים, בנות ומעריצי סדרת הטלוויזיה NINJAGO Dragons Rising מגיל 6 ומעלה יכולים ליהנות משעות של משחק דמיוני עם ערכת הבנייה LEGO NINJAGO חבילת קרב מכונת הדרקון של קאי (71851). ערכת המשחק כוללת מכונת דרקון עם רגליים ניתנות להזזה, כנפיים גדולות, ידיים עם טפרים וחלק גוף עליון שמסתובב 360 מעלות, וכן תא טייס להצבת מיניפיגור בפנים. ערכת נינג’ה משתלמת זו כוללת גם 3 מיניפיגור: קאי עם 2 אביזרי חרב, סורה עם 2 חרבות ומפלצת אדמה עם ידיים טפריות, ומאפשרת לילדים ליהנות משעות של הרפתקאות תוך שחזור סצנות מעונה 4 של…
-- Image: https://parktoys.co.il/assets/product-1785428962661-t8s6nk.webp
 
 ---
 
