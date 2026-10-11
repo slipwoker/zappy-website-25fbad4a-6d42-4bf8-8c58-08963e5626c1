@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 561** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 562** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מצלמה מדפיסה ספיידרמן 
+https://parktoys.co.il/product/mtslmh-mdpysh-spyydrmn-u4hrkd
+- Price: 139.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: מצלמה דיגיטלית המשלבת צילום ויצירה בחוויה אחת, ומאפשרת לתעד רגעים מהיום־יום בתמונות ובסרטונים. ההדפסה המיידית בשחור־לבן מאפשרת להפוך את הצילומים למזכרות מוחשיות ישירות מהמצלמה, ללא צורך במחשב. התמונות המודפסות הופכות לבסיס ליצירה אישית: ניתן לצבוע אותן, להוסיף ציורים וקישוטים ולתת לכל תמונה מראה ייחודי בעזרת הטושים המצורפים. כרטיס הזיכרון מאפשר לשמור תמונות וסרטונים, וגלילי הנייר המצורפים משלימים את חוויית ההדפסה והיצירה. השילוב בין בחירת נושאי הצילום לקישוט התמונות מעודד התבוננות בסביבה וביטוי
+- Image: https://parktoys.co.il/assets/product-1791728432599-5d7yze.webp
 
 ### חליפת כדורגל פריז סן זרמן דמבלה
 https://parktoys.co.il/product/chlypt-kdvrgl-pryz-sn-zrmn-dmblh-gxa2mg
@@ -1621,14 +1629,6 @@ https://parktoys.co.il/product/lgv-tkny-avpnva-tshvb-42225-jt57g6
 - Category: לגו-lego
 - Description: התפרצו לתוך משחק עם צעצוע אופנוע זה לילדים וילדות בגילאי 7 ומעלה. ילדים יכולים ליהנות מאוד מבניית הסט (42225) של אופנוע צהוב מסדרת LEGO® Technic. זה הזמן לאקשן תוך כדי שהם מנסים את ההיגוי ובוחנים את מנוע 3 הבוכנות. סט הבנייה הזה של מקצועות ה-STEM משמש כרעיון למתנה נפלאה לילדים שנהנים לבנות ולשחק עם צעצועי רכב. סטים של LEGO Technic מתאפיינים במנגנונים מציאותיים של תנועה והפעלה המציגים בפני בנאי LEGO צעירים את יקום ההנדסה באופן מוחשי ומציאותי. ילדים יכולים לבנות עם תחושת בטחון בעזרת אפליקציית LEGO
 - Image: https://parktoys.co.il/assets/product-1785486782266-b9f7z.webp
-
-### לגו ספיידרמן במכונית נגד וונומייזר וולברין 76336 Lego
-https://parktoys.co.il/product/lgv-spyydrmn-bmkvnyt-ngd-vvnvmyyzr-vvlbryn-76336-lego-364y04
-- Price: 119.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: מהרו לעמוד בקצב האקשן והקרבות של גיבורי-על! דגם הבנייה של ספיידרמן במכונית נגד וונומייזד וולברין לילדים וילדות בגיל 7 ומעלה. דגם הבנייה הזה של רכב מצויד לקרב עם המיני-דמויות ספיידרמן ווונומייזד וולברין עם שעות של משחקי פעולה מרתקים. זהו המוצר הממותג הראשון של מארוול LEGO ǀ Marvel הכולל מיני-דמות של וונומייזד וולברין. אקשן קרבות בתוך המכונית ומסביבה המכונית מאובזרת עם לחצן אחורי שבאמצעותו ניתן להפעיל 2 משגרי קפיץ מהחזית. רעיון מתנה נהדר הדגם הזה משמש כרעיון נהדר למתנה לימי הולדת של גיבורות וגיבור…
-- Image: https://parktoys.co.il/assets/product-1785429817407-zlxm6a.webp
 
 ---
 
