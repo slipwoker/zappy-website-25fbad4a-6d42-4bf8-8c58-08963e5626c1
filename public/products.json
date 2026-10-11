@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-11T14:49:07.289Z",
+  "generated_at": "2026-10-11T14:53:08.229Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 565,
@@ -2966,7 +2966,7 @@
     },
     {
       "id": "44fbe410-9f3c-43c0-8662-beea8b36ae5d",
-      "slug": "chlypt-kdvrgl-mvndyal-2026-argntynh-msy-n1sno6",
+      "slug": "chlypt-kdvrgl-mvndyal-2026-argntynh-msy-uva765",
       "name": "חליפת כדורגל מונדיאל 2026 ארגנטינה מסי",
       "name_translations": {},
       "description": "",
@@ -2980,14 +2980,14 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1786434812906-44gsb6.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-argntynh-msy-n1sno6",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-argntynh-msy-uva765",
       "categories": [
         "מוצרי ספורט",
         "חליפות כדורגל לילדים"
       ],
-      "updated_at": "2026-10-11T11:27:22.279Z"
+      "updated_at": "2026-10-11T14:52:33.866Z"
     },
     {
       "id": "56af679e-e8c8-4cb2-8fcd-ff8e90f54b58",
