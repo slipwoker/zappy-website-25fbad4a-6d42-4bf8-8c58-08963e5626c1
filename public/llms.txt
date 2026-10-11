@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 559** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### כדור כדורגל לבחירה
-https://parktoys.co.il/product/kdvr-kdvrgl-lbchyrh-5bgip1
+https://parktoys.co.il/product/kdvr-kdvrgl-lbchyrh-u69tgj
 - Price: 50.00 ILS
 - Availability: In stock
 - Category: מוצרי ספורט
