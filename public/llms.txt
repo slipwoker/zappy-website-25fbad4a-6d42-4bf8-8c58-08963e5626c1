@@ -76,7 +76,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 565** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 523** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### מצלמה מדפיסה סוניר 
 https://parktoys.co.il/product/mtslmh-mdpysh-svnyr-ne6g4i
@@ -563,21 +563,6 @@ https://parktoys.co.il/product/bymbh-chshmlyt-lyldym-zbrrnx
 - Description: הכירו את הלהיט החדש שכבש את העולם: בימבה חשמלית עוצמתית, עם שלט רחוק לשליטה על ידי הורה מרחוק. שילוב מושלם של כיף, בטיחות וטכנולוגיה מתקדמת שמעניקה לילדים שלכם חוויית נהיגה אולטימטיבית. בזכות העיצוב החדשני שלו, הוא מאפשר לילדים לשלוט בקלות על הנסיעה, להסתובב 360 מעלות לנוסע במקומות צפופים תוך כדי שהם יושבים בנוחות ובבטחה. הילד עדיין לא שולט בנהיגה על הבימבה? אין בעיה בלחיצת כפתור אתם מכוונים את הנסיעה של הבימבה ומסיעים את הילד שאן שרק תבחרו, מוצר מושלם בכל בית מתאים לגילאי 2-5 עובד על שלט וגם יד
 - Image: https://parktoys.co.il/assets/product-1787843099908-d0yjzb.webp
 
-### ערכת סליים Mart – הכנת מאפי סליים סינמון רול (עונה 2) ZURU
-https://parktoys.co.il/product/arkt-slyym-mart-hknt-mapy-slyym-synmvn-rvl-avnh-2-zuru-14xxew
-- Price: 49.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Image: https://parktoys.co.il/assets/product-1787750206111-cfdo9s.webp
-
-### ערכת סליים Mart – הכנת אצבעות גבינה (עונה 2) ZURU
-https://parktoys.co.il/product/arkt-slyym-mart-hknt-atsbavt-gbynh-avnh-2-zuru-tzsds7
-- Price: 49.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: הכירו את ערכת היצירה המושלמת לחובבי סליים ומשחקי תחושה: ערכת סליים מארט לעיצוב והכנת אצבעות גבינת מוצרלה ריאליסטיות ומגרות מבית המותג העולמי ZURU. ערכה ייחודית זו מאפשרת לילדים ולילדות להיכנס לנעליו של שף סליים אמיתי, לפתוח שקית הפתעות מגוונת ולרקוח מנה שנראית אמיתית לחלוטין. באמצעות שילוב של סוגי סליים שונים, חומרי טקסטורה ותוספות, יוצרים את המראה הקראנצ’י והמתיחה המושלמת של גבינה מותכת, ללא צורך באפייה או בישול אמיתי. המשחק מעניק חוויה חושית מרגיעה ומספקת, ומאפשר שעות של הנאה יצירתית הרחק מהמס
-- Image: https://parktoys.co.il/assets/product-1787750031109-ifi66.webp
-
 ### סקוושי בננה 
 https://parktoys.co.il/product/skvvshy-bnnh-i1zzfa
 - Price: 20.00 ILS
@@ -616,28 +601,6 @@ https://parktoys.co.il/product/mpltst-nydv-ankyt-ssdw76
 - Category: הטרנדים הכי חזקים בישראל 
 - Image: https://parktoys.co.il/assets/product-enhanced-1787147079514-lap582.webp
 
-### פרצוף נידו עם שיער
-https://parktoys.co.il/product/prtsvp-nydv-am-shyar-5ntypd
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Image: https://parktoys.co.il/assets/product-enhanced-1787146907445-ufw4rs.webp
-
-### קוביה נידו 
-https://parktoys.co.il/product/kvbyh-nydv-h5cguv
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Image: https://parktoys.co.il/assets/product-enhanced-1787146735938-fiwlvr.webp
-
-### ספוג לחם חמאה
-https://parktoys.co.il/product/spvg-lchm-chmah-uol34d
-- Price: 20.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: לחיץ כיפי ונעים
-- Image: https://parktoys.co.il/assets/product-enhanced-1787146374877-gxqwd.webp
-
 ### קוקידו-עוגיה סקווישי מסתורית
 https://parktoys.co.il/product/kvkydv-avgyh-skvvyshy-mstvryt-ahgxmx
 - Price: 20.00 ILS
@@ -645,14 +608,6 @@ https://parktoys.co.il/product/kvkydv-avgyh-skvvyshy-mstvryt-ahgxmx
 - Category: הטרנדים הכי חזקים בישראל 
 - Description: עוגיית נידו מסתורית נמתחת ודביקה
 - Image: https://parktoys.co.il/assets/product-1787146157328-5hzxjw.webp
-
-### סקווישי נידו חמאה 
-https://parktoys.co.il/product/skvvyshy-nydv-chmah-2w0p3y
-- Price: 20.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Description: סקווישי נידו חמאה נעים בטירוף בצבעים ורוד ירוק וצהוב
-- Image: https://parktoys.co.il/assets/product-enhanced-1787086834633-ugs2vq.webp
 
 ### דאמפלינג ענק סיקרט בהפתעה
 https://parktoys.co.il/product/damplyng-ank-sykrt-bhptah-8f73m6
@@ -682,20 +637,6 @@ https://parktoys.co.il/product/bvbspvg-nydv-g4xafn
 - Availability: In stock
 - Category: הטרנדים הכי חזקים בישראל 
 - Image: https://parktoys.co.il/assets/product-enhanced-1787049400432-xc5h0i.webp
-
-### חמאה ספוג צבעונית 
-https://parktoys.co.il/product/chmah-spvg-tsbavnyt-kbl0l4
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Image: https://parktoys.co.il/assets/product-1787049111835-b7tohq.webp
-
-### חמאה ספוג 
-https://parktoys.co.il/product/chmah-spvg-h14mcj
-- Price: 15.00 ILS
-- Availability: In stock
-- Category: הטרנדים הכי חזקים בישראל 
-- Image: https://parktoys.co.il/assets/product-1787048993625-8jm26m.webp
 
 ### 1.KIDI TOUCH 5 דגם גלובלי
 https://parktoys.co.il/product/1kidi-touch-5-dgm-glvbly-0jndxs
@@ -1629,6 +1570,70 @@ https://parktoys.co.il/product/lgv-one-piece-bkth-bkpr-tchnt-hrvch-75636-lego-3i
 - Category: לגו-lego
 - Description: עזרו למאקינו לנהל את החנות העמוסה שלה על חוף הים. שאנקס מסתכל בלוח מודעות המפרסם פרטים של “מבוקשים” על הקיר תוך כדי שטיפת הרצפה. בחוץ, לופי נתקל בפרי השטן גומו-גומו שמוחבא בין קופסאות ליד הסירה. אילו הרפתקאות פיראטים פראיות נוספות מסדרת האנימציה וואן פיס צפויות להתרחש? ההחלטה היא בידיכם!
 - Image: https://parktoys.co.il/assets/product-enhanced-1785487450773-sybj27.webp
+
+### לגו קריאטור מעבורת חלל 31134 - Lego
+https://parktoys.co.il/product/lgv-kryatvr-mabvrt-chll-31134-lego-tv1tw7
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: הרפתקני חלל יכולים ליהנות מפעולה בין-גלקטית מרגשת עם מערכת המשחקים הזו של מעבורת החלל 3 ב-1 של לגו.הסט כולל צעצוע של מעבורת חלל עם צוהר פתיחה המכיל לוויין על זרוע הניתנת להרחבה. ניתן גם לנתק את הלוויין לכיף נוסף.מתנה מושלמת לאוהבי חלל.ישנן 3
+- Image: https://parktoys.co.il/assets/product-1785487153530-mnosmq.webp
+
+### לגו סיטי ניידת משטרה 60312 - Lego
+https://parktoys.co.il/product/lgv-syty-nyydt-mshtrh-60312-lego-68ivpe
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: ניידת המשטרה עם החישוקים הרחבים, הפגושים המעוצבים והפנסים המגניבים משיגה את כל הנוכלים של לגו סיטי!אין להם סיכוי כשהם עוצרים להתפעל מהמכונית.הדליקו את הפנס, שימו את כובע השוטרים, עלו על המכונית וסעו לעוד מרדפים אחר הנוכלים בעיר! לגילאי 5 ומעלה 94 חלקים סדרה לגו סיטי Lego Cityמידות האריזה 14.1X15.7X4.5 ס"מP
+- Image: https://parktoys.co.il/assets/product-1785486953515-mafjqh.webp
+
+### לגו טכני אופנוע צהוב 42225
+https://parktoys.co.il/product/lgv-tkny-avpnva-tshvb-42225-jt57g6
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: התפרצו לתוך משחק עם צעצוע אופנוע זה לילדים וילדות בגילאי 7 ומעלה. ילדים יכולים ליהנות מאוד מבניית הסט (42225) של אופנוע צהוב מסדרת LEGO® Technic. זה הזמן לאקשן תוך כדי שהם מנסים את ההיגוי ובוחנים את מנוע 3 הבוכנות. סט הבנייה הזה של מקצועות ה-STEM משמש כרעיון למתנה נפלאה לילדים שנהנים לבנות ולשחק עם צעצועי רכב. סטים של LEGO Technic מתאפיינים במנגנונים מציאותיים של תנועה והפעלה המציגים בפני בנאי LEGO צעירים את יקום ההנדסה באופן מוחשי ומציאותי. ילדים יכולים לבנות עם תחושת בטחון בעזרת אפליקציית LEGO
+- Image: https://parktoys.co.il/assets/product-1785486782266-b9f7z.webp
+
+### לגו ספיידרמן במכונית נגד וונומייזר וולברין 76336 Lego
+https://parktoys.co.il/product/lgv-spyydrmn-bmkvnyt-ngd-vvnvmyyzr-vvlbryn-76336-lego-364y04
+- Price: 119.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: מהרו לעמוד בקצב האקשן והקרבות של גיבורי-על! דגם הבנייה של ספיידרמן במכונית נגד וונומייזד וולברין לילדים וילדות בגיל 7 ומעלה. דגם הבנייה הזה של רכב מצויד לקרב עם המיני-דמויות ספיידרמן ווונומייזד וולברין עם שעות של משחקי פעולה מרתקים. זהו המוצר הממותג הראשון של מארוול LEGO ǀ Marvel הכולל מיני-דמות של וונומייזד וולברין. אקשן קרבות בתוך המכונית ומסביבה המכונית מאובזרת עם לחצן אחורי שבאמצעותו ניתן להפעיל 2 משגרי קפיץ מהחזית. רעיון מתנה נהדר הדגם הזה משמש כרעיון נהדר למתנה לימי הולדת של גיבורות וגיבור…
+- Image: https://parktoys.co.il/assets/product-1785429817407-zlxm6a.webp
+
+### לגו מרוול ספיידרמן נגד גוסט ריידר על אופנוע 76335 | Lego
+https://parktoys.co.il/product/lgv-mrvvl-spyydrmn-ngd-gvst-ryydr-al-avpnva-76335-lego-1hpody
+- Price: 59.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: Brickland 0 ביתלגו מרוול ספיידרמן נגד גוסט ריידר על אופנוע 76335 | Lego המלאי אזל לגו מרוול ספיידרמן נגד גוסט ריידר על אופנוע 76335 | Lego 44.90 ₪ לגו מארוול - ספיידרמן נגד אופנוע גוסט ריידר 76335 | Lego התניעו פעולת מרדף של גיבורי-על במהירות גבוהה עם צעצוע הבנייה ספיידרמן נגד אופנוע גוסט ריידר (76335) לבנים ובנות בגילאי 6 ומעלה. אופנוע הקרב של סט LEGO מארוול ו-2 המיני-פיגורות הדינמיות של ספיידרמן וגוסט ריידר מתדלקים את משחק הדמיון של...קרא עוד אזל במלאי עדכנו אותי כשמוצר זמין יצרן: LEGO סוג מוצ…
+- Image: https://parktoys.co.il/assets/product-1785429733168-vn3xv.webp
+
+### לגו Marvel – קרב אייקוני: ספיידרמן נגד איש החול (76334)
+https://parktoys.co.il/product/lgv-marvel-krb-ayykvny-spyydrmn-ngd-aysh-hchvl-76334-zzpx76
+- Price: 169.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: הסתערו לתוך האקשן עם הרפתקה הניתנת לבנייה היישר מתוך הסרט “ספיידרמן “3 של אולפני מארוול! כשאיש החול מתרומם מעל ההריסות, ספיידרמן מגיח על חבל רשת כדי להפיל אותו. אבל חכו – גם ונום נמצא כאן, עם זרועות התמנון המפחידות שלו שמוכנות למתקפה! ומה קורה אחר כך? אתם יכולים להעמיד את הדגם שופע האקשן לתצוגה בחדר שלכם או לפרק את המיני-דמויות עבור הרפתקאות גיבורי-על משלכם.
+- Image: https://parktoys.co.il/assets/product-1785429574382-xe5rk9.webp
+
+### לגו נינג'ה גו - חגיגות 15 שנה לרכב X-1 הנינג‘ה המסתער 71867
+https://parktoys.co.il/product/lgv-nyngh-gv-chgygvt-15-shnh-lrkb-x-1-hnyngh-hmstar-71867-fbcy6g
+- Price: 329.00 ILS (sale, was 399.00 ILS)
+- Availability: In stock
+- Category: לגו-lego
+- Description: חגגו את יום השנה ה-15 של סדרת הטלוויזיה ®LEGO® NINJAGO עם רכב ה-2 ב-1 המדהים הזה של X-1 נינג'ה המסתער (71867), גרסה מחודשת של X-1 הנינג'ה המסתער המקורי (70727). רכב צעצוע זה מציע לחובבים בגילאי 14 ומעלה אפשרויות משחק ותצוגה דינמיות ללא סוף.
+- Image: https://parktoys.co.il/assets/product-1785429434821-z4721.webp
+
+### לגו נינג'ה-גו - מכוניתו של ג'יי שמשנה צורה לדרקון 71856 | Lego
+https://parktoys.co.il/product/lgv-nyngh-gv-mkvnytv-shl-gyy-shmshnh-tsvrh-ldrkvn-71856-lego-p12h7q
+- Price: 239.00 ILS
+- Availability: In stock
+- Category: לגו-lego
+- Description: בנים ובנות מגיל 8 ומעלה יכולים ליהנות משעות של אקשן מהיר עם ערכת הבנייה LEGO NINJAGO המכונית המשתנה של ג’יי (71856). צעצוע מרוץ נינג’ה זה כולל רכב 2-ב-1 שניתן לשחק ולהציג בשני מצבים: מצב רגיל או מצב דרקון על ידי הפיכת החלק הקדמי, החושף טפרים מוזהבים, ראש דרקון ושוריקנים מסתובבים. ערכת ההרפתקה כוללת משגר קפיצי עם 2 חיצים, שניתן לנתק ולהציב על מבנה צדדי מכוסה צמחייה לקרבות. הערכה כוללת גם 5 מיניפיגור: ג’יי, ניה וקאי בצורת דרקון, וכן מפלצת אדמה ומנהיג נאמן לקרבות טוב נגד רע. הילדים יכולים לבנות בבי
+- Image: https://parktoys.co.il/assets/product-1785429181100-lt6xd.webp
 
 ---
 

@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-11T14:53:08.229Z",
+  "generated_at": "2026-10-11T14:57:07.642Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 565,
+  "count": 523,
   "products": [
     {
       "id": "f56a2b34-2c69-48cd-b73a-102c64ff18d9",
@@ -1569,54 +1569,6 @@
       "updated_at": "2026-08-27T15:06:32.207Z"
     },
     {
-      "id": "b7e3be14-c13a-4eee-abcd-9ae695b7e599",
-      "slug": "arkt-slyym-mart-hknt-mapy-slyym-synmvn-rvl-avnh-2-zuru-14xxew",
-      "name": "ערכת סליים Mart – הכנת מאפי סליים סינמון רול (עונה 2) ZURU",
-      "name_translations": {},
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 49,
-      "base_price": 49,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-1787750206111-cfdo9s.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/arkt-slyym-mart-hknt-mapy-slyym-synmvn-rvl-avnh-2-zuru-14xxew",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-08-26T13:22:20.562Z"
-    },
-    {
-      "id": "3c2a6620-f9c2-4246-ae0b-341bcfab21f6",
-      "slug": "arkt-slyym-mart-hknt-atsbavt-gbynh-avnh-2-zuru-tzsds7",
-      "name": "ערכת סליים Mart – הכנת אצבעות גבינה (עונה 2) ZURU",
-      "name_translations": {},
-      "description": "",
-      "short_description": "הכירו את ערכת היצירה המושלמת לחובבי סליים ומשחקי תחושה: ערכת סליים מארט לעיצוב והכנת אצבעות גבינת מוצרלה ריאליסטיות ומגרות מבית המותג העולמי ZURU.\nערכה ייחודית זו מאפשרת לילדים ולילדות להיכנס לנעליו של שף סליים אמיתי, לפתוח שקית הפתעות מגוונת ולרקוח מנה שנראית אמיתית לחלוטין.\nבאמצעות שילוב של סוגי סליים שונים, חומרי טקסטורה ותוספות, יוצרים את המראה הקראנצ’י והמתיחה המושלמת של גבינה מותכת, ללא צורך באפייה או בישול אמיתי.\nהמשחק מעניק חוויה חושית מרגיעה ומספקת, ומאפשר שעות של הנאה יצירתית הרחק מהמס",
-      "sku": null,
-      "brand": null,
-      "price": 49,
-      "base_price": 49,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-1787750031109-ifi66.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/arkt-slyym-mart-hknt-atsbavt-gbynh-avnh-2-zuru-tzsds7",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-08-26T13:15:53.044Z"
-    },
-    {
       "id": "e734278b-8f8b-4090-ab45-b60e502f6db5",
       "slug": "skvvshy-bnnh-i1zzfa",
       "name": "סקוושי בננה ",
@@ -1741,81 +1693,6 @@
       "updated_at": "2026-08-20T13:26:04.923Z"
     },
     {
-      "id": "b9187ddc-8f7f-40ee-87c3-be9438b1b9d3",
-      "slug": "prtsvp-nydv-am-shyar-5ntypd",
-      "name": "פרצוף נידו עם שיער",
-      "name_translations": {},
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 15,
-      "base_price": 15,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1787146907445-ufw4rs.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/prtsvp-nydv-am-shyar-5ntypd",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל ",
-        "מתנות עד 99ש\"ח"
-      ],
-      "updated_at": "2026-08-20T13:26:18.584Z"
-    },
-    {
-      "id": "bcca9c25-cc2c-4913-b65c-dfc07ca7e776",
-      "slug": "kvbyh-nydv-h5cguv",
-      "name": "קוביה נידו ",
-      "name_translations": {},
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 15,
-      "base_price": 15,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1787146735938-fiwlvr.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kvbyh-nydv-h5cguv",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל ",
-        "מתנות עד 99ש\"ח"
-      ],
-      "updated_at": "2026-08-20T13:26:32.632Z"
-    },
-    {
-      "id": "bfe86215-92ee-44ab-b12d-cf1fadaacf15",
-      "slug": "spvg-lchm-chmah-uol34d",
-      "name": "ספוג לחם חמאה",
-      "name_translations": {},
-      "description": "",
-      "short_description": "לחיץ כיפי ונעים ",
-      "sku": null,
-      "brand": null,
-      "price": 20,
-      "base_price": 20,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1787146374877-gxqwd.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/spvg-lchm-chmah-uol34d",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל ",
-        "מתנות עד 99ש\"ח"
-      ],
-      "updated_at": "2026-08-20T13:27:04.193Z"
-    },
-    {
       "id": "57a5e69e-9a80-49eb-8a19-0dd182ada532",
       "slug": "kvkydv-avgyh-skvvyshy-mstvryt-ahgxmx",
       "name": "קוקידו-עוגיה סקווישי מסתורית",
@@ -1839,31 +1716,6 @@
         "מתנות עד 99ש\"ח"
       ],
       "updated_at": "2026-08-20T13:27:31.476Z"
-    },
-    {
-      "id": "19f6a4a1-c592-4949-b04f-c7b743e68086",
-      "slug": "skvvyshy-nydv-chmah-2w0p3y",
-      "name": "סקווישי נידו חמאה ",
-      "name_translations": {},
-      "description": "",
-      "short_description": "סקווישי נידו חמאה נעים בטירוף בצבעים ורוד ירוק וצהוב",
-      "sku": null,
-      "brand": null,
-      "price": 20,
-      "base_price": 20,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1787086834633-ugs2vq.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/skvvyshy-nydv-chmah-2w0p3y",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל ",
-        "מתנות עד 99ש\"ח"
-      ],
-      "updated_at": "2026-08-20T13:27:49.184Z"
     },
     {
       "id": "ac2623e2-17a2-443f-b7b5-4f4719a26a0f",
@@ -1964,56 +1816,6 @@
         "מתנות עד 99ש\"ח"
       ],
       "updated_at": "2026-08-20T13:29:07.904Z"
-    },
-    {
-      "id": "aa7bb93a-cdc0-4594-972a-acc94d3a7dbe",
-      "slug": "chmah-spvg-tsbavnyt-kbl0l4",
-      "name": "חמאה ספוג צבעונית ",
-      "name_translations": {},
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 15,
-      "base_price": 15,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-1787049111835-b7tohq.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chmah-spvg-tsbavnyt-kbl0l4",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל ",
-        "מתנות עד 99ש\"ח"
-      ],
-      "updated_at": "2026-08-20T13:29:08.103Z"
-    },
-    {
-      "id": "e344b650-e6e8-4e33-a5c8-22520c3cb520",
-      "slug": "chmah-spvg-h14mcj",
-      "name": "חמאה ספוג ",
-      "name_translations": {},
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 15,
-      "base_price": 15,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-1787048993625-8jm26m.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chmah-spvg-h14mcj",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל ",
-        "מתנות עד 99ש\"ח"
-      ],
-      "updated_at": "2026-08-20T13:29:36.002Z"
     },
     {
       "id": "ecf91535-03f9-41ed-82a3-51ab504c4296",
@@ -5633,80 +5435,6 @@
         "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
       ],
       "updated_at": "2026-07-27T11:36:38.236Z"
-    },
-    {
-      "id": "f639a744-68fd-4189-93b8-d1bbe367760f",
-      "slug": "slyym-mart-avgt-yvm-hvldt-vxvira",
-      "name": "סליים מארט -עוגת יום הולדת",
-      "name_translations": {},
-      "description": "",
-      "short_description": "סליים מארט - עוגת יום הולדת, חוויית הסליים הרך החדשה והחדשנית שמאפשרת לילדים ולילדים להכין יצירות משלהם בסגנון אוכל ריאליסטיות במיוחד!\nאפשר לעצב, לשלב ולקשט את תרכובת הסליים ולעצב כך שייראה כמו אוכל אמיתי! אבל אל תתבלבלו – זה לא למאכל!!!\nרכות, כיף חושי, נימתח בקלות,\nלאחר שהכנתם את המאכל שאתם אוהבים –מחצו אותו... והכייף לא יפסיק",
-      "sku": null,
-      "brand": null,
-      "price": 50,
-      "base_price": 50,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1785157608676-y1z8tn.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/slyym-mart-avgt-yvm-hvldt-vxvira",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-08-02T07:19:56.416Z"
-    },
-    {
-      "id": "50b4ec6d-5a9e-400c-ab14-e42c01ea0b28",
-      "slug": "slyym-mart-tart-dvbdbnym-hkq6w4",
-      "name": "סליים מארט - טארט דובדבנים",
-      "name_translations": {},
-      "description": "",
-      "short_description": "סליים מארט - טארט דובדבנים, חוויית הסליים הרך החדשה והחדשנית שמאפשרת לילדים ולילדים להכין יצירות משלהם בסגנון אוכל ריאליסטיות במיוחד!\nאפשר לעצב, לשלב ולקשט את תרכובת הסליים ולעצב כך שייראה כמו אוכל אמיתי! אבל אל תתבלבלו – זה לא למאכל!!!\nרכות, כיף חושי, נימתח בקלות,\nלאחר שהכנתם את המאכל שאתם אוהבים –מחצו אותו... והכייף לא יפסיק",
-      "sku": null,
-      "brand": null,
-      "price": 50,
-      "base_price": 50,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1785158095926-bedsmu.webp",
-        "https://parktoys.co.il/assets/product-1785084977651-hq6si.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/slyym-mart-tart-dvbdbnym-hkq6w4",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-08-02T07:21:02.166Z"
-    },
-    {
-      "id": "7eb547e9-8429-4a33-b013-4a0938665040",
-      "slug": "slyym-mart-shkyt-avgt-gbynh-vtvtym-vpaoch",
-      "name": "סליים מארט - שקית עוגת גבינה ותותים",
-      "name_translations": {},
-      "description": "",
-      "short_description": "סליים מארט - שקית עוגת גבינה ותותים, חוויית הסליים הרך החדשה והחדשנית שמאפשרת לילדים ולילדים להכין יצירות משלהם בסגנון אוכל ריאליסטיות במיוחד!\nאפשר לעצב, לשלב ולקשט את תרכובת הסליים ולעצב כך שייראה כמו אוכל אמיתי! אבל אל תתבלבלו – זה לא למאכל!!!\nרכות, כיף חושי, נימתח בקלות,\nלאחר שהכנתם את המאכל שאתם אוהבים –מחצו אותו... והכייף לא יפסיק",
-      "sku": null,
-      "brand": null,
-      "price": 49,
-      "base_price": 49,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1785084828284-rlcgr.webp",
-        "https://parktoys.co.il/assets/product-enhanced-1785084857972-1syar9.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/slyym-mart-shkyt-avgt-gbynh-vtvtym-vpaoch",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-08-02T07:21:51.006Z"
     },
     {
       "id": "bfea75f7-f97e-47e8-ae0c-94335384553f",
@@ -9868,54 +9596,6 @@
       "updated_at": "2026-07-15T15:43:48.157Z"
     },
     {
-      "id": "81d75db4-190b-4ddc-be7e-fcdc8caa3bb6",
-      "slug": "skvvyshy-kp-yd-ankyt-nydv-iqis8d",
-      "name": "סקווישי כף יד ענקית נידו",
-      "name_translations": {},
-      "description": "",
-      "short_description": "סקווישי נעים וכיפי למגע ",
-      "sku": null,
-      "brand": null,
-      "price": 40,
-      "base_price": 40,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-1784129965313-ula2gt.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/skvvyshy-kp-yd-ankyt-nydv-iqis8d",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-15T15:40:11.708Z"
-    },
-    {
-      "id": "62b736d0-188c-4d1d-9298-3a32b68ebf1c",
-      "slug": "skvvyshy-hmbvrgr-nydv-anky-w15ekn",
-      "name": "סקווישי המבורגר נידו ענקי",
-      "name_translations": {},
-      "description": "",
-      "short_description": "המבורגר נידו ענקי נעים וכיפי למגע ",
-      "sku": null,
-      "brand": null,
-      "price": 40,
-      "base_price": 40,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-1784129792962-ahsk1.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/skvvyshy-hmbvrgr-nydv-anky-w15ekn",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-15T15:38:40.131Z"
-    },
-    {
       "id": "a2bfa71b-6bb1-421f-9d23-5dc7ad971df8",
       "slug": "skvvyshy-gbynh-nydv-ankyt-bx0o11",
       "name": "סקווישי גבינה נידו ענקית",
@@ -10366,30 +10046,6 @@
       "updated_at": "2026-07-14T07:36:23.046Z"
     },
     {
-      "id": "b14ccf15-0a3f-42bf-97e9-35830b652cdd",
-      "slug": "dmplyng-ank-ccmlfs",
-      "name": "דמפלינג ענק",
-      "name_translations": {},
-      "description": "",
-      "short_description": "דמפלינג נידו ענק. שימו לב המוצר מגיע ללא הדמפלינג הרגיל, המוצר שם רק כדי להמחיש כמה המוצר ענקי",
-      "sku": null,
-      "brand": null,
-      "price": 150,
-      "base_price": 150,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1783945679053-40sgop.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/dmplyng-ank-ccmlfs",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-13T12:28:40.310Z"
-    },
-    {
       "id": "cdb605dd-2a27-4335-b5af-79887897184a",
       "slug": "chnyvn-palvlym-hvt-vvyls-uu6ict",
       "name": "חניון פעלולים הוט ווילס",
@@ -10412,30 +10068,6 @@
         "צעצועי שלט/מסלולי מכוניות/מכוניות "
       ],
       "updated_at": "2026-07-14T07:37:47.803Z"
-    },
-    {
-      "id": "18c06831-461a-4886-9d21-90817f01dcb6",
-      "slug": "skvvyshy-bnnh-gdvl-tavnnn",
-      "name": "סקווישי בננה גדול",
-      "name_translations": {},
-      "description": "",
-      "short_description": "סקווישי גדול נידו בצרות בננה",
-      "sku": null,
-      "brand": null,
-      "price": 40,
-      "base_price": 40,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1783945281601-bzhd7b.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/skvvyshy-bnnh-gdvl-tavnnn",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-13T12:29:53.126Z"
     },
     {
       "id": "8546bb7a-974c-4177-96f1-ab2974e6c3b3",
@@ -11596,31 +11228,6 @@
       "updated_at": "2026-07-07T07:43:11.005Z"
     },
     {
-      "id": "6af95548-61b8-483f-acc6-a4b4cfc186c3",
-      "slug": "bytsy-skvvyshy-punirunes-chyyt-mchmd-dygytlyt-ayntraktybyt-mbyt-spin-master-f3t9ip",
-      "name": "ביטסי סקווישי Punirunes חיית מחמד דיגיטלית אינטראקטיבית מבית Spin Master",
-      "name_translations": {},
-      "description": "",
-      "short_description": "טפלו וטפחו בהנאה חיות מחמד דיגיטליות שניתן לגעת בהן ובנו עולם משלכם מלא בדמויות חמודות וקסומות! מתאים מגיל 5 ומעלה.הכירו את חיות המחמד הדיגיטליות - ה-Punirunes!\nטפלו וטפחו בהנאה חיות מחמד דיגיטליות שניתן לגעת בהן ובנו עולם משלכם מלא בדמויות חמודות וקסומות!\nהניחו אצבע בתוך הצעצוע Punirunes וגלו כפתור רך המגיב למגע. תצוגת LED צבעונית תראה את תנועותיכם על המסך, ממש כאילו אתם נוגעים בדמות ה-Punirunes! לחצו על הכפתור וצפו כיצד הדמות מגיבה",
-      "sku": null,
-      "brand": null,
-      "price": 119,
-      "base_price": 150,
-      "sale_price": 119,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-1783360807755-gx2cp.webp",
-        "https://parktoys.co.il/assets/product-enhanced-1783360858381-vp7a4e.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/bytsy-skvvyshy-punirunes-chyyt-mchmd-dygytlyt-ayntraktybyt-mbyt-spin-master-f3t9ip",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-07T08:45:50.964Z"
-    },
-    {
       "id": "9ba04cae-32f8-496e-ae9c-db49e7747dc3",
       "slug": "ksdt-btychvt-svnyk-pryym-zrqhym",
       "name": "קסדת בטיחות סוניק פריים",
@@ -11807,54 +11414,6 @@
         "הטרנדים הכי חזקים בישראל "
       ],
       "updated_at": "2026-07-06T11:55:01.794Z"
-    },
-    {
-      "id": "20174176-20fd-4204-ab0b-fa080113903e",
-      "slug": "shlyshyyh-damplyng-avrbyz-gcii1h",
-      "name": "שלישייה דאמפלינג אורביז",
-      "name_translations": {},
-      "description": "",
-      "short_description": "שליישיה דאמפלינג אורביז נעים בטירוף ",
-      "sku": null,
-      "brand": null,
-      "price": 30,
-      "base_price": 30,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1783335127073-s2mwbj.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/shlyshyyh-damplyng-avrbyz-gcii1h",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-06T10:53:02.510Z"
-    },
-    {
-      "id": "177677d9-77f3-4d4c-832d-e01605211d5e",
-      "slug": "shlyshyyh-damplyng-nydv-17bi7o",
-      "name": "שלישייה דאמפלינג נידו ",
-      "name_translations": {},
-      "description": "",
-      "short_description": "שלישייה דאמפלינג נידו מדהימים הטרנד הכי חזק ",
-      "sku": null,
-      "brand": null,
-      "price": 30,
-      "base_price": 30,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1783334721758-f9f8zn.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/shlyshyyh-damplyng-nydv-17bi7o",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-06T10:47:26.397Z"
     },
     {
       "id": "745d2031-c1d3-493a-a286-bde5dc3965fe",
@@ -12072,78 +11631,6 @@
       "updated_at": "2026-07-05T14:44:21.048Z"
     },
     {
-      "id": "bdfc106f-9daa-400b-8929-adfd7c5e5c96",
-      "slug": "brvvz-nydv-ank-i1gdk5",
-      "name": "ברווז נידו ענק",
-      "name_translations": {},
-      "description": "",
-      "short_description": "ברווז נידו ענק נעים כיפי ומרגיע",
-      "sku": null,
-      "brand": null,
-      "price": 39,
-      "base_price": 39,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1782832884506-y2ivoe.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/brvvz-nydv-ank-i1gdk5",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-06-30T15:22:16.373Z"
-    },
-    {
-      "id": "beeff0f0-2817-4011-974e-1cc699764b16",
-      "slug": "skvvyshy-nydv-brvvz-tsbavny-ank-d8hgbl",
-      "name": "סקווישי נידו ברווז צבעוני ענק",
-      "name_translations": {},
-      "description": "",
-      "short_description": "ברווז נידו צבעוני ענק כיפי נעים ומרגיע",
-      "sku": null,
-      "brand": null,
-      "price": 39,
-      "base_price": 39,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-1782832694649-98zsil.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/skvvyshy-nydv-brvvz-tsbavny-ank-d8hgbl",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-05T12:13:00.768Z"
-    },
-    {
-      "id": "53ac5679-3238-4b5b-a272-72cada93faf1",
-      "slug": "skvvyshy-nydv-tyrs-mtdkij",
-      "name": "סקווישי נידו תירס ",
-      "name_translations": {},
-      "description": "",
-      "short_description": "סקווישי נידו תירס נעים כיפי ומרגיע",
-      "sku": null,
-      "brand": null,
-      "price": 25,
-      "base_price": 25,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1782832564335-0hlag.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/skvvyshy-nydv-tyrs-mtdkij",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-06-30T15:17:44.737Z"
-    },
-    {
       "id": "a6a85ade-053c-48f2-92f8-1d647e511c41",
       "slug": "skvvyshy-nydv-lymvn-ank-e32y71",
       "name": "סקווישי נידו לימון ענק",
@@ -12166,30 +11653,6 @@
         "הטרנדים הכי חזקים בישראל "
       ],
       "updated_at": "2026-07-05T12:13:41.722Z"
-    },
-    {
-      "id": "180dfc66-92dc-4d59-99f4-bc1372ff77e3",
-      "slug": "shlt-gyymyng-nydv-gdvl-sc33wu",
-      "name": "שלט גיימינג נידו גדול ",
-      "name_translations": {},
-      "description": "",
-      "short_description": "שלט גיימינג נידו גדול נעים וכיפי למגע",
-      "sku": null,
-      "brand": null,
-      "price": 39,
-      "base_price": 39,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-1782832198066-slr4tm.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/shlt-gyymyng-nydv-gdvl-sc33wu",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-05T12:14:13.420Z"
     },
     {
       "id": "3a36b9a0-047b-422f-989a-947875c37686",
@@ -12287,102 +11750,6 @@
         "הטרנדים הכי חזקים בישראל "
       ],
       "updated_at": "2026-07-05T12:15:24.899Z"
-    },
-    {
-      "id": "fda29abf-e3b9-4242-9efd-c0c3da04670b",
-      "slug": "dvnats-nydv-gdvl-633k1g",
-      "name": "דונאטס נידו גדול",
-      "name_translations": {},
-      "description": "",
-      "short_description": "דונאטס נידו גדול ונעים למגע",
-      "sku": null,
-      "brand": null,
-      "price": 39,
-      "base_price": 39,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1782830847747-sxw5io.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/dvnats-nydv-gdvl-633k1g",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-05T12:15:45.435Z"
-    },
-    {
-      "id": "6652fcf7-89f7-4c71-814a-f515522f9623",
-      "slug": "damplyng-ban-o30yij",
-      "name": "דאמפלינג באן",
-      "name_translations": {},
-      "description": "",
-      "short_description": "דאמפלינג עם 2 באנים נידו ",
-      "sku": null,
-      "brand": null,
-      "price": 30,
-      "base_price": 30,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1782830715172-9ql1i7.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/damplyng-ban-o30yij",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-05T12:17:19.397Z"
-    },
-    {
-      "id": "24505e8e-0b5e-4bd4-9a9f-15dbf910345d",
-      "slug": "plpl-nydv-7w6uze",
-      "name": "פלפל נידו ",
-      "name_translations": {},
-      "description": "",
-      "short_description": "פלפל נידו נעים וכיפי",
-      "sku": null,
-      "brand": null,
-      "price": 15,
-      "base_price": 15,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1782830594143-i2jty.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/plpl-nydv-7w6uze",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-05T12:17:48.045Z"
-    },
-    {
-      "id": "3e281f2e-a2ac-4af8-ae05-7d9d42f7b51f",
-      "slug": "chmah-nydv-hgdvlh-55ouep",
-      "name": "חמאה נידו הגדולה",
-      "name_translations": {},
-      "description": "",
-      "short_description": "חמאה נידו מטורפת נעימה בטירוף",
-      "sku": null,
-      "brand": null,
-      "price": 39,
-      "base_price": 39,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-1782830359778-qq6x2.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chmah-nydv-hgdvlh-55ouep",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-06-30T14:41:37.042Z"
     },
     {
       "id": "8739a86b-cced-45ac-a92e-24f458aa5e7e",
@@ -12679,271 +12046,6 @@
       "updated_at": "2026-06-29T10:38:27.450Z"
     },
     {
-      "id": "92ee4ca1-d8a0-45bf-9b9b-3971e311221b",
-      "slug": "bnnh-nydv-7109qj",
-      "name": "בננה נידו",
-      "name_translations": {},
-      "description": "",
-      "short_description": "בננה נידו כיפית ונעימה",
-      "sku": null,
-      "brand": null,
-      "price": 15,
-      "base_price": 15,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1782727192098-6lq4te.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/bnnh-nydv-7109qj",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-06-29T13:14:28.397Z"
-    },
-    {
-      "id": "c682fe15-45c6-48af-9a7d-b27552b04fbe",
-      "slug": "skvvyshy-chtvl-mtnpch-brash-vfhfdv",
-      "name": "סקווישי חתול מתנפח בראש",
-      "name_translations": {},
-      "description": "",
-      "short_description": "סקווישי חתול מתנפח בראש בלחיצות \nלא ניתן לבחור צבע נבחר אקראי",
-      "sku": null,
-      "brand": null,
-      "price": 20,
-      "base_price": 20,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1782725585774-p1k1r7.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/skvvyshy-chtvl-mtnpch-brash-vfhfdv",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-05T12:19:17.647Z"
-    },
-    {
-      "id": "bbef4527-382e-4363-8797-967f65cdf117",
-      "slug": "nydv-labvbv-mtvrp-c8cgu2",
-      "name": "נידו לאבובו מטורף ",
-      "name_translations": {},
-      "description": "",
-      "short_description": "נידו לאבובו מטורף כיפי ונעים למגע",
-      "sku": null,
-      "brand": null,
-      "price": 20,
-      "base_price": 20,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1782724574505-p9sh6g.webp",
-        "https://parktoys.co.il/assets/product-enhanced-1782724682955-l7izug.webp"
-      ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
-      "url": "https://parktoys.co.il/product/nydv-labvbv-mtvrp-c8cgu2",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-08-18T08:47:20.683Z"
-    },
-    {
-      "id": "cfa983de-ced7-4f79-90b7-ce4e7236efc3",
-      "slug": "tvt-nydv-xb1no2",
-      "name": "תות נידו",
-      "name_translations": {},
-      "description": "",
-      "short_description": "תות נידו נעים וכיפי למגע ",
-      "sku": null,
-      "brand": null,
-      "price": 15,
-      "base_price": 15,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1782721908140-5tifk.webp"
-      ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
-      "url": "https://parktoys.co.il/product/tvt-nydv-xb1no2",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-08-18T08:47:20.683Z"
-    },
-    {
-      "id": "e7d00a1e-a08c-4262-bd74-118a68bc0c25",
-      "slug": "damplyng-skvvshy-pc47m9",
-      "name": "דאמפלינג סקוושי ",
-      "name_translations": {},
-      "description": "",
-      "short_description": "נעים וכיפי למגע",
-      "sku": null,
-      "brand": null,
-      "price": 15,
-      "base_price": 15,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1782721637451-hzvd14.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/damplyng-skvvshy-pc47m9",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-05T12:20:28.532Z"
-    },
-    {
-      "id": "4fb6a01f-515d-4457-818c-6ddb800a2581",
-      "slug": "kapybrh-nydv-ikjwsa",
-      "name": "קאפיברה נידו ",
-      "name_translations": {},
-      "description": "",
-      "short_description": "נעים וכיפי למגע ",
-      "sku": null,
-      "brand": null,
-      "price": 15,
-      "base_price": 15,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1782721008475-dut2u.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kapybrh-nydv-ikjwsa",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-05T12:21:00.428Z"
-    },
-    {
-      "id": "32262cb2-8cbf-4ffc-86de-25fc564992f8",
-      "slug": "nydv-glydh-0zt82m",
-      "name": "נידו גלידה",
-      "name_translations": {},
-      "description": "",
-      "short_description": "נידו גלידה נעים וכיפי למגע ",
-      "sku": null,
-      "brand": null,
-      "price": 15,
-      "base_price": 15,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1782720285981-3c0c07.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/nydv-glydh-0zt82m",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-05T12:21:29.308Z"
-    },
-    {
-      "id": "95537fbe-f2ff-4661-95ec-c63627b587b4",
-      "slug": "nydv-gbynh-zveux9",
-      "name": "נידו גבינה ",
-      "name_translations": {},
-      "description": "",
-      "short_description": "נידו גבינה נעים וכיפי למגע",
-      "sku": null,
-      "brand": null,
-      "price": 15,
-      "base_price": 15,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-1782720026606-xdu8na.webp"
-      ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
-      "url": "https://parktoys.co.il/product/nydv-gbynh-zveux9",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-08-18T08:47:20.683Z"
-    },
-    {
-      "id": "894ce3f7-5e7d-441f-8d07-ecb5611e39e4",
-      "slug": "nydv-htynvk-shl-bmbh-j691jp",
-      "name": "נידו התינוק של במבה",
-      "name_translations": {},
-      "description": "",
-      "short_description": "נידו נעים וכיפי למגע",
-      "sku": null,
-      "brand": null,
-      "price": 15,
-      "base_price": 15,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-1782720473052-steldk.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/nydv-htynvk-shl-bmbh-j691jp",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-08-19T14:28:15.578Z"
-    },
-    {
-      "id": "09955f04-dd39-472c-9795-eb7d263cbb1a",
-      "slug": "brvvz-tsbavny-nydv-gdvl-naztyf",
-      "name": "ברווז צבעוני נידו גדול",
-      "name_translations": {},
-      "description": "",
-      "short_description": "ברווז צבעוני נידו נעים וכיפי למגע",
-      "sku": null,
-      "brand": null,
-      "price": 50,
-      "base_price": 50,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1782718976920-2cyr4.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/brvvz-tsbavny-nydv-gdvl-naztyf",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-05T12:32:25.440Z"
-    },
-    {
-      "id": "538b5131-8121-41cc-8f0b-582349c6fe42",
-      "slug": "brvvz-nydv-ank-agsxes",
-      "name": "ברווז נידו ענק",
-      "name_translations": {},
-      "description": "",
-      "short_description": "ברווז מידו ענק נעים וכיפי למגע",
-      "sku": null,
-      "brand": null,
-      "price": 60,
-      "base_price": 60,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1782718611065-609bxk.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/brvvz-nydv-ank-agsxes",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-07-05T12:32:47.902Z"
-    },
-    {
       "id": "2c356a83-1fad-4ed0-90d7-7292d40696f2",
       "slug": "nydv-bnnh-anky-dw374f",
       "name": "נידו בננה ענקי ",
@@ -13184,54 +12286,6 @@
       "updated_at": "2026-08-18T08:47:20.683Z"
     },
     {
-      "id": "ed625449-5ca5-4e2b-a7ef-bf168e2e8fc3",
-      "slug": "klb-nydv-tsbavny-qvrdy4",
-      "name": "כלב נידו צבעוני ",
-      "name_translations": {},
-      "description": "",
-      "short_description": "כלב נידו צבעוני רך ונעים ",
-      "sku": null,
-      "brand": null,
-      "price": 15,
-      "base_price": 15,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1782488781167-fe04m.webp"
-      ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
-      "url": "https://parktoys.co.il/product/klb-nydv-tsbavny-qvrdy4",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-08-18T08:47:20.683Z"
-    },
-    {
-      "id": "8c8939ef-d6de-41f9-9e16-71e0b1f0740b",
-      "slug": "lb-nydv-tsbavny-48mea4",
-      "name": "לב נידו צבעוני",
-      "name_translations": {},
-      "description": "",
-      "short_description": "לב נידו צבעוני נעיף ורך בטירוף",
-      "sku": null,
-      "brand": null,
-      "price": 15,
-      "base_price": 15,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1782485306751-3huh1s.webp"
-      ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
-      "url": "https://parktoys.co.il/product/lb-nydv-tsbavny-48mea4",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-08-18T08:47:20.683Z"
-    },
-    {
       "id": "8dd5c4b5-9a92-4c2b-a289-abbcecd1574a",
       "slug": "nydv-hlv-kyty-3e8okk",
       "name": "נידו הלו קיטי ",
@@ -13349,30 +12403,6 @@
       "updated_at": "2026-07-05T19:46:49.493Z"
     },
     {
-      "id": "18c3b2c8-b3e3-4c31-9023-c894419e3228",
-      "slug": "byt-hbvbvt-shl-gby-mkvnt-glydh-gabbys-dollhouse-uscay7",
-      "name": "בית הבובות של גבי - מכונת גלידה - Gabby's Dollhouse",
-      "name_translations": {},
-      "description": "",
-      "short_description": "בית הבובות של גבי - מכונת גלידה מבית ספין מאסטרGabby's Dollhouse - Ice Cream Machine הילדים אוהבים גלידה? עם המכונה תוכלו להכין להם, מבלי לצאת מהבית. התכוננו ליום מהנה של הכנת גלידה עם בית הבובות של גבי! להכנה מהירה ופשוטה של גלידה אמיתית בטעמים שונים (בעזרת מבוגר). ניתן להכין את הגלידה ממוצרים שיש בבית. מתאים לגילאי 3+משתתפים: 1+",
-      "sku": null,
-      "brand": null,
-      "price": 89,
-      "base_price": 120,
-      "sale_price": 89,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-1782376918226-0od2iq.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/byt-hbvbvt-shl-gby-mkvnt-glydh-gabbys-dollhouse-uscay7",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-06-25T08:44:26.062Z"
-    },
-    {
       "id": "38d58b35-9097-4410-bc11-8326e41abbd5",
       "slug": "bytsy-hptah-mbyt-dyamnt-dynvzavrym-e12bhs",
       "name": "ביצי הפתעה מבית דיאמנט - דינוזאורים",
@@ -13393,30 +12423,6 @@
       "url": "https://parktoys.co.il/product/bytsy-hptah-mbyt-dyamnt-dynvzavrym-e12bhs",
       "categories": [],
       "updated_at": "2026-06-25T08:40:14.394Z"
-    },
-    {
-      "id": "db18b454-b077-4e95-b0e6-d24f47df3344",
-      "slug": "myny-damplyng-nydv-6jaras",
-      "name": "מיני דאמפלינג נידו",
-      "name_translations": {},
-      "description": "",
-      "short_description": " צעצוע סקוושי בצורת כיסון מיני 5.5 ס\\\"מ, צעצוע רך בצורת לחמנייה מאודה, צעצוע חושי להפגת מתחים, צעצוע בעל עלייה איטית, מתנה לילדים",
-      "sku": null,
-      "brand": null,
-      "price": 15,
-      "base_price": 20,
-      "sale_price": 15,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-1782375539383-qlujoe.webp"
-      ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
-      "url": "https://parktoys.co.il/product/myny-damplyng-nydv-6jaras",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-08-18T08:47:20.683Z"
     },
     {
       "id": "7d93d27d-4e69-4c4e-a4ab-c79666e150a8",
@@ -13534,31 +12540,6 @@
         "הטרנדים הכי חזקים בישראל "
       ],
       "updated_at": "2026-06-30T15:31:08.592Z"
-    },
-    {
-      "id": "19f2b91d-3bc0-4af2-a7b2-1780d1d521f8",
-      "slug": "damplyng-dym-sam-cr3b40",
-      "name": "דאמפלינג דים סאם ",
-      "name_translations": {},
-      "description": "",
-      "short_description": "דאמפלינג דים סאן מגיע 4 יחידות דים סאן גלי ",
-      "sku": null,
-      "brand": null,
-      "price": 25,
-      "base_price": 30,
-      "sale_price": 25,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1782308451847-owh2v4.webp",
-        "https://parktoys.co.il/assets/product-enhanced-1782308485608-7h18ec.webp"
-      ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
-      "url": "https://parktoys.co.il/product/damplyng-dym-sam-cr3b40",
-      "categories": [
-        "הטרנדים הכי חזקים בישראל "
-      ],
-      "updated_at": "2026-08-18T08:47:20.683Z"
     }
   ]
 }
