@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-14T13:20:01.297Z",
+  "generated_at": "2026-10-14T13:45:47.569Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 523,
@@ -1461,13 +1461,13 @@
         "https://parktoys.co.il/assets/product-1787900959016-x8q7dd.webp",
         "https://parktoys.co.il/assets/product-1787900971040-6wwxxi.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/mmvna-mercedes-g63-12v-tsba-shchvr-36c7u9",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-08-28T07:11:43.214Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "316da9f5-091e-4043-b03c-bbf90fefb727",
@@ -1486,13 +1486,13 @@
         "https://parktoys.co.il/assets/product-1787899439828-s0qsvc.webp",
         "https://parktoys.co.il/assets/product-1787899452537-q027ym.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/mkvnyt-chshmlyt-lyldym-dgm-bmw-i4-12-v-mchyr-myvchd-kp0238",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-08-28T06:47:26.060Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "9ecf2dec-de11-4ac1-98ae-31b821229080",
@@ -1512,13 +1512,13 @@
         "https://parktoys.co.il/assets/product-1787899036614-478c3.webp",
         "https://parktoys.co.il/assets/product-1787899051084-fou8ln.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/mmvna-lyldym-bmw-i4-12vdgm-mkvry-kvll-shlt-chkm-tsba-shchvr-0b98ms",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-08-28T06:43:26.706Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "d7642b81-a39c-4ce4-ab28-711cd8f02d0d",
@@ -1536,13 +1536,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-1787898518767-jkurcz.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/rkb-shtch-bagy-24v-zwiaa4",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-08-28T06:29:42.782Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "d9bdaf31-6f83-4429-9471-176d645ddd83",
@@ -1857,13 +1857,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1787038921452-0uczm8.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/1kidi-touch-5-dgm-glvbly-kaqsgv",
       "categories": [
         "מתנות עד 199ש\"ח"
       ],
-      "updated_at": "2026-08-20T13:30:53.932Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "8cff3421-d177-40a7-8b7d-692de0f523e9",
@@ -3150,13 +3150,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1786016256880-by6ak.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/avpnva-police-6v-mpvar-am-apktym-vavr-kchvl-zaqbez",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-08-06T11:40:42.298Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "cbc9309e-306d-4c53-8620-49142d2b9cb7",
@@ -3204,7 +3204,7 @@
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-10-12T14:55:49.429Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "442b54b8-9522-4a99-8505-d5ba7e130c0e",
@@ -3223,13 +3223,13 @@
         "https://parktoys.co.il/assets/product-1786010223421-pc4k4p.webp",
         "https://parktoys.co.il/assets/product-1786010244863-lebm6.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/avpnva-mmvna-6v-anh-valzh-q0dke9",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-08-06T10:34:30.036Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "7b7c320f-1ef9-48e5-a4b2-c9b50fc45855",
@@ -3248,13 +3248,13 @@
         "https://parktoys.co.il/assets/product-1786009605378-vlu9hs.webp",
         "https://parktoys.co.il/assets/product-1786009621779-ynvbl2.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/avpnva-spyydrmn-3-glglym-6v-4bbudb",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-08-06T09:47:33.896Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "5d19cf31-b50b-4646-bea5-d2d634a04812",
@@ -8140,13 +8140,13 @@
         "https://parktoys.co.il/assets/product-enhanced-1784647406332-2ef9m2.webp",
         "https://parktoys.co.il/assets/product-1784647423052-o32ull.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-3-glglym-kicknroll-lmbvrgyny-zcb353",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-08-02T09:58:58.362Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "8725fdeb-ae6c-4f2c-a765-039bf6d33c63",
@@ -8693,13 +8693,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-1784533698282-ufwx9.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/dvrh-rvkdt-vmdbrt-bvbh-ayntraktybyt-wrtipp",
       "categories": [
         "בובות/ברבי"
       ],
-      "updated_at": "2026-07-20T07:49:05.422Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "83241cdf-2a37-4135-9524-4533280ec208",
@@ -10294,11 +10294,11 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1783528130591-q4laj.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/zvg-mkshyry-kshr-am-mtslmvt-vydyav-urwo95",
       "categories": [],
-      "updated_at": "2026-07-08T16:29:30.509Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "5487f42f-ee9b-48c1-8d2a-e52598e8c911",
@@ -10391,11 +10391,11 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1783516183172-js68mm.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/bnkt-kspt-smy-hkbay-9cecdq",
       "categories": [],
-      "updated_at": "2026-07-08T13:11:02.904Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "f4e93042-bda7-47a2-ab8a-15f4487212e9",
@@ -10413,11 +10413,11 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1783516009756-nbz0q.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvpt-chyskvn-bnkt-kspt-svnyk-sonic-8w0fr6",
       "categories": [],
-      "updated_at": "2026-07-08T13:07:50.691Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "2696fc87-4b8b-4a71-b49a-15e494822d4d",
@@ -10479,11 +10479,11 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1783514202498-2xlfxj.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvph-kspt-kvd-alktrvnyt-styts-q5cqw4",
       "categories": [],
-      "updated_at": "2026-07-08T12:39:48.268Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "4018ff8b-c397-41c0-966d-0dbd43be3d6c",
@@ -11099,13 +11099,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1783412245236-q4foa.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-mprts-hhrptkavt-ychydt-hchylvts-mk3nh0",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-07-07T08:19:27.247Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "5bc7f927-39f5-4d72-8330-8110a2756c2f",
@@ -11123,13 +11123,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-1783411290929-bspiz.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/ksdt-yldym-mavtsbt-am-mngnvn-htamh-vptchy-ayvvrvr-lgyl-5-vmalh-krysh-apvr-3lnfhq",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-07-07T08:04:19.415Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "f3ebcf61-b903-49bd-baf1-806dfa9d695d",
@@ -11147,13 +11147,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1783411120522-j6qje7.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/ksdh-lyldym-dgm-unicorn-mbyt-grow-mydh-m-tsba-sgvl-dmffpo",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-07-07T07:59:40.515Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "d1bf50ff-8257-494d-b933-5af39c723cec",
@@ -11171,13 +11171,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1783410842967-sgz60i.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/ksdt-yldym-mavtsbt-am-mngnvn-htamh-vptchy-ayvvrvr-lgyl-3-vmalh-dynvzavr-yrvk-mhx2pf",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-07-07T07:57:36.273Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "e2b77d32-250f-4ccf-83ac-c30c9e788b2b",
@@ -11195,13 +11195,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1783410301386-8eu0y8g.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/ksdh-btychvt-lvl-jnxu5m",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-07-07T07:48:02.421Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "47f89341-79b8-4582-b20d-cec25081136c",
@@ -11313,13 +11313,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1783342060903-1ysrz.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-grow-pro-g10-hfdu33",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-07-06T12:49:05.285Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "7e3c0fda-9c1b-4a67-bfef-a156c3f8045b",
@@ -11337,13 +11337,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1783340438491-o51qm5.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/rvlr-blyyds-chd-krn-so3uc2",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-07-06T12:25:42.330Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "998990a9-a83a-476a-901c-881d29a408b1",
@@ -11431,13 +11431,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-1783334006364-q5hrvm.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-3-glglym-hpvk-bayvr-lol-9ffr8j",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-07-06T10:35:38.443Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "cf6289ef-a570-4607-9423-446e02b1e0a3",
@@ -11843,11 +11843,11 @@
         "https://parktoys.co.il/assets/product-1782748624810-73f5ur.webp",
         "https://parktoys.co.il/assets/product-1782748636548-myd0q8.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/cookeez-makery-pancake-treatz-mchbt-ksvmh-cookeez-makery-pancake-treatz-mchbt-ksvmh-lhknt-bvbt-hptah-rychnyt-sy95aa",
       "categories": [],
-      "updated_at": "2026-06-29T16:00:07.543Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "de1863bf-a426-4b00-8311-e73e6646f77f",
@@ -11866,13 +11866,13 @@
         "https://parktoys.co.il/assets/product-1782748381178-vgir5g.webp",
         "https://parktoys.co.il/assets/product-1782748404189-x2z4ov.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-prvzn-3-glglym-am-blm-rgl-ilfzty",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-06-29T15:53:53.238Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "d9f7edcf-2af4-48d8-b639-dacca9c9fb79",
@@ -11892,11 +11892,11 @@
         "https://parktoys.co.il/assets/product-1782748187736-2xs46h.webp",
         "https://parktoys.co.il/assets/product-1782748198528-yah0zn.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/tnvr-apyyh-shl-kvkyz-cookeez-makery-kfx8e2",
       "categories": [],
-      "updated_at": "2026-06-29T15:53:28.408Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "27967f19-ef8d-41ef-82dd-e81ce12c225b",
@@ -11916,11 +11916,11 @@
         "https://parktoys.co.il/assets/product-1782746932810-hrphkh.webp",
         "https://parktoys.co.il/assets/product-1782746950499-agndqs.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvp-ayntraktyby-am-50-kvlvt-vtgvbvt-little-live-pets-mango-tdy9rj",
       "categories": [],
-      "updated_at": "2026-06-29T15:34:02.598Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "927f67b6-53dc-4566-8922-c4f89a16a94f",
@@ -11939,13 +11939,13 @@
         "https://parktoys.co.il/assets/product-1782738351036-0wcvv.webp",
         "https://parktoys.co.il/assets/product-1782738390307-fl0uvp.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-3-glglym-lyldym-viper-super-ride-i3mlgt",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-06-29T13:13:22.908Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "ea7b973e-cb10-41ec-8f26-3eb993a99adb",
@@ -12065,7 +12065,7 @@
       "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/nydv-bnnh-anky-dw374f",
       "categories": [],
-      "updated_at": "2026-08-18T08:47:20.683Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "40778ac0-423e-4e02-a26f-18ae47b08820",
@@ -12130,13 +12130,13 @@
         "https://parktoys.co.il/assets/product-enhanced-1782654847431-bnocl.webp",
         "https://parktoys.co.il/assets/product-enhanced-1782655141560-mdumla.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-3-glglym-styts-dzfzio",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-06-29T11:23:22.063Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "30a6c562-3d24-43d8-9fdf-16e1b33c88eb",
@@ -12229,13 +12229,13 @@
         "https://parktoys.co.il/assets/product-enhanced-1782634601351-xvrfai.webp",
         "https://parktoys.co.il/assets/product-1782634617689-rcfus1.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/skvtr-lktntnym-little-tikes-qpav6f",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-07-27T09:49:47.748Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "8ef49deb-0d5d-4cb7-995f-e9c029ce7e91",
@@ -12394,13 +12394,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-1782378241524-3rg68f.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/hkdvr-hchkm-kdvrgl-shkt-lmshchk-bbyt-vbchvts-kickerball-89wp96",
       "categories": [
         "מוצרי ספורט"
       ],
-      "updated_at": "2026-07-05T19:46:49.493Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "38d58b35-9097-4410-bc11-8326e41abbd5",
@@ -12418,11 +12418,11 @@
       "images": [
         "https://parktoys.co.il/assets/product-1782376599210-li7vjo.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/bytsy-hptah-mbyt-dyamnt-dynvzavrym-e12bhs",
       "categories": [],
-      "updated_at": "2026-06-25T08:40:14.394Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "7d93d27d-4e69-4c4e-a4ab-c79666e150a8",
@@ -12489,11 +12489,11 @@
       "images": [
         "https://parktoys.co.il/assets/product-1782373312771-bwsra2.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvpst-hhptavt-bnym-diamant-surprise-box-girls-pigvii",
       "categories": [],
-      "updated_at": "2026-06-25T07:48:35.726Z"
+      "updated_at": "2026-10-14T13:45:09.713Z"
     },
     {
       "id": "789c9acf-f345-4d78-9670-56de8706ab4d",
