@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-12T14:56:25.395Z",
+  "generated_at": "2026-10-14T13:20:01.297Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 523,
@@ -531,7 +531,7 @@
     },
     {
       "id": "e598218b-efd1-40ab-b81c-341041422751",
-      "slug": "kdvrsl-chkm-4n7avh",
+      "slug": "kdvrsl-chkm-93no37",
       "name": "כדורסל חכם ",
       "name_translations": {},
       "description": "",
@@ -545,13 +545,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-1790525961331-wnyqiq.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kdvrsl-chkm-4n7avh",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://parktoys.co.il/product/kdvrsl-chkm-93no37",
       "categories": [
         "מוצרי ספורט"
       ],
-      "updated_at": "2026-09-27T16:19:38.123Z"
+      "updated_at": "2026-10-14T13:19:22.021Z"
     },
     {
       "id": "28b33c05-df18-40aa-b3d1-6c02c50a8fb9",
