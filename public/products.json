@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-15T07:36:00.328Z",
+  "generated_at": "2026-10-15T07:38:16.459Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 523,
@@ -2277,7 +2277,7 @@
     },
     {
       "id": "a8e02149-f463-4e9a-a19e-ffaa4a4054f6",
-      "slug": "rkb-hshtch-hchshmly-shl-caterpillar-r0z807",
+      "slug": "rkb-hshtch-hchshmly-shl-caterpillar-m3e8vt",
       "name": " רכב השטח החשמלי של Caterpillar",
       "name_translations": {},
       "description": "",
@@ -2294,11 +2294,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/rkb-hshtch-hchshmly-shl-caterpillar-r0z807",
+      "url": "https://parktoys.co.il/product/rkb-hshtch-hchshmly-shl-caterpillar-m3e8vt",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "ממונעים לילדים "
       ],
-      "updated_at": "2026-08-13T11:49:59.944Z"
+      "updated_at": "2026-10-15T07:37:42.911Z"
     },
     {
       "id": "1cf8a248-f044-485b-b10e-f15c832a13d3",
