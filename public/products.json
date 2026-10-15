@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-15T07:35:15.979Z",
+  "generated_at": "2026-10-15T07:36:00.328Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 523,
@@ -2251,7 +2251,7 @@
     },
     {
       "id": "95e54218-1647-4356-9003-99ed7b5fad05",
-      "slug": "cat-12v-htrktvr-hktn-shmrgysh-kmv-hdbr-n09v60",
+      "slug": "cat-12v-htrktvr-hktn-shmrgysh-kmv-hdbr-6v51uc",
       "name": "CAT 12V – הטרקטור הקטן שמרגיש כמו הדבר ",
       "name_translations": {},
       "description": "",
@@ -2268,11 +2268,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/cat-12v-htrktvr-hktn-shmrgysh-kmv-hdbr-n09v60",
+      "url": "https://parktoys.co.il/product/cat-12v-htrktvr-hktn-shmrgysh-kmv-hdbr-6v51uc",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "ממונעים לילדים "
       ],
-      "updated_at": "2026-08-13T11:55:16.302Z"
+      "updated_at": "2026-10-15T07:35:25.345Z"
     },
     {
       "id": "a8e02149-f463-4e9a-a19e-ffaa4a4054f6",
