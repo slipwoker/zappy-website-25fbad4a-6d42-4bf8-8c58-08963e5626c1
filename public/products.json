@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-15T07:38:16.459Z",
+  "generated_at": "2026-10-15T07:41:36.066Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 523,
@@ -3021,7 +3021,7 @@
     },
     {
       "id": "941c434f-39b4-45ed-a52c-8dd8a95c993f",
-      "slug": "gyp-mmvna-12v-mrtsds-brabvs-mercedes-g63-brabus-rocket-900-5blpvw",
+      "slug": "gyp-mmvna-12v-mrtsds-brabvs-mercedes-g63-brabus-rocket-900-zcy92y",
       "name": "גיפ ממונע 12V מרצדס בראבוס - MERCEDES G63 BRABUS ROCKET 900",
       "name_translations": {},
       "description": "",
@@ -3038,11 +3038,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/gyp-mmvna-12v-mrtsds-brabvs-mercedes-g63-brabus-rocket-900-5blpvw",
+      "url": "https://parktoys.co.il/product/gyp-mmvna-12v-mrtsds-brabvs-mercedes-g63-brabus-rocket-900-zcy92y",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "ממונעים לילדים "
       ],
-      "updated_at": "2026-09-30T13:11:44.085Z"
+      "updated_at": "2026-10-15T07:41:00.064Z"
     },
     {
       "id": "e52ce61b-339f-42b2-a3dc-545ca0d2cddd",
