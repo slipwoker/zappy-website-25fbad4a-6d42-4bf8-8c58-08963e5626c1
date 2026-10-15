@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-15T07:43:20.345Z",
+  "generated_at": "2026-10-15T07:44:05.324Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 523,
@@ -3100,7 +3100,7 @@
     },
     {
       "id": "a7b3390b-8fbd-4987-ab57-40f5634dd6bc",
-      "slug": "avpnva-police-6v-mpvar-am-apktym-vavr-lbn-iv49w1",
+      "slug": "avpnva-police-6v-mpvar-am-apktym-vavr-lbn-eu6to2",
       "name": "אופנוע POLICE 6V מפואר עם אפקטים ואור - לבן",
       "name_translations": {},
       "description": "",
@@ -3116,11 +3116,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/avpnva-police-6v-mpvar-am-apktym-vavr-lbn-iv49w1",
+      "url": "https://parktoys.co.il/product/avpnva-police-6v-mpvar-am-apktym-vavr-lbn-eu6to2",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "ממונעים לילדים "
       ],
-      "updated_at": "2026-08-06T11:43:32.160Z"
+      "updated_at": "2026-10-15T07:43:28.709Z"
     },
     {
       "id": "3bce24da-d937-4604-9096-e7cbab03b14a",
