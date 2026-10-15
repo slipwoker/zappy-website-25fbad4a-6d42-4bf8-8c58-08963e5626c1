@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-15T07:34:01.167Z",
+  "generated_at": "2026-10-15T07:35:15.979Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 523,
@@ -2223,7 +2223,7 @@
     },
     {
       "id": "5fcbb58e-8bd9-442f-9920-c6f395df3348",
-      "slug": "mshayt-chshmlyt-avtsmtyt-lyldym-mbyt-caterpillar-zaugpa",
+      "slug": "mshayt-chshmlyt-avtsmtyt-lyldym-mbyt-caterpillar-t1wspo",
       "name": "משאית חשמלית עוצמתית לילדים מבית Caterpillar",
       "name_translations": {},
       "description": "",
@@ -2242,11 +2242,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mshayt-chshmlyt-avtsmtyt-lyldym-mbyt-caterpillar-zaugpa",
+      "url": "https://parktoys.co.il/product/mshayt-chshmlyt-avtsmtyt-lyldym-mbyt-caterpillar-t1wspo",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "ממונעים לילדים "
       ],
-      "updated_at": "2026-08-13T12:04:36.906Z"
+      "updated_at": "2026-10-15T07:34:42.097Z"
     },
     {
       "id": "95e54218-1647-4356-9003-99ed7b5fad05",
