@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-15T07:46:06.106Z",
+  "generated_at": "2026-10-15T07:47:33.112Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 523,
@@ -1436,14 +1436,14 @@
         "https://parktoys.co.il/assets/product-enhanced-1787901500195-urvg7.webp",
         "https://parktoys.co.il/assets/product-enhanced-1787901528546-y1yka.webp"
       ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
+      "in_stock": true,
+      "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/gyp-ryyng-rvbr-aybvk-lbnh-mmvna-lyldym-am-shlt-vglgly-gvmy-amytyym-12-vvlt-g804a1",
       "categories": [
         "גלגלים",
         "ממונעים לילדים "
       ],
-      "updated_at": "2026-10-15T07:29:12.971Z"
+      "updated_at": "2026-10-15T07:47:11.132Z"
     },
     {
       "id": "1b6f38fe-e6d3-4469-9348-4512e7234bc9",
@@ -1462,14 +1462,14 @@
         "https://parktoys.co.il/assets/product-1787900959016-x8q7dd.webp",
         "https://parktoys.co.il/assets/product-1787900971040-6wwxxi.webp"
       ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
+      "in_stock": true,
+      "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/mmvna-mercedes-g63-12v-tsba-shchvr-8x2gv5",
       "categories": [
         "גלגלים",
         "ממונעים לילדים "
       ],
-      "updated_at": "2026-10-15T07:29:48.298Z"
+      "updated_at": "2026-10-15T07:47:11.132Z"
     },
     {
       "id": "316da9f5-091e-4043-b03c-bbf90fefb727",
@@ -1488,14 +1488,14 @@
         "https://parktoys.co.il/assets/product-1787899439828-s0qsvc.webp",
         "https://parktoys.co.il/assets/product-1787899452537-q027ym.webp"
       ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
+      "in_stock": true,
+      "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/mkvnyt-chshmlyt-lyldym-dgm-bmw-i4-12-v-mchyr-myvchd-q5hd2x",
       "categories": [
         "גלגלים",
         "ממונעים לילדים "
       ],
-      "updated_at": "2026-10-15T07:30:31.817Z"
+      "updated_at": "2026-10-15T07:47:11.132Z"
     },
     {
       "id": "9ecf2dec-de11-4ac1-98ae-31b821229080",
@@ -1515,14 +1515,14 @@
         "https://parktoys.co.il/assets/product-1787899036614-478c3.webp",
         "https://parktoys.co.il/assets/product-1787899051084-fou8ln.webp"
       ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
+      "in_stock": true,
+      "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/mmvna-lyldym-bmw-i4-12vdgm-mkvry-kvll-shlt-chkm-tsba-shchvr-jak2zt",
       "categories": [
         "גלגלים",
         "ממונעים לילדים "
       ],
-      "updated_at": "2026-10-15T07:31:28.681Z"
+      "updated_at": "2026-10-15T07:47:11.132Z"
     },
     {
       "id": "d7642b81-a39c-4ce4-ab28-711cd8f02d0d",
@@ -1540,14 +1540,14 @@
       "images": [
         "https://parktoys.co.il/assets/product-1787898518767-jkurcz.webp"
       ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
+      "in_stock": true,
+      "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/rkb-shtch-bagy-24v-yc7gxy",
       "categories": [
         "גלגלים",
         "ממונעים לילדים "
       ],
-      "updated_at": "2026-10-15T07:33:26.751Z"
+      "updated_at": "2026-10-15T07:47:11.132Z"
     },
     {
       "id": "d9bdaf31-6f83-4429-9471-176d645ddd83",
@@ -3163,13 +3163,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1786016256880-by6ak.webp"
       ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
+      "in_stock": true,
+      "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/avpnva-police-6v-mpvar-am-apktym-vavr-kchvl-zaqbez",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-10-14T13:45:09.713Z"
+      "updated_at": "2026-10-15T07:47:11.132Z"
     },
     {
       "id": "cbc9309e-306d-4c53-8620-49142d2b9cb7",
@@ -3236,14 +3236,14 @@
         "https://parktoys.co.il/assets/product-1786010223421-pc4k4p.webp",
         "https://parktoys.co.il/assets/product-1786010244863-lebm6.webp"
       ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
+      "in_stock": true,
+      "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/avpnva-mmvna-6v-anh-valzh-7rbu53",
       "categories": [
         "גלגלים",
         "ממונעים לילדים "
       ],
-      "updated_at": "2026-10-15T07:45:30.875Z"
+      "updated_at": "2026-10-15T07:47:11.132Z"
     },
     {
       "id": "7b7c320f-1ef9-48e5-a4b2-c9b50fc45855",
@@ -3262,14 +3262,14 @@
         "https://parktoys.co.il/assets/product-1786009605378-vlu9hs.webp",
         "https://parktoys.co.il/assets/product-1786009621779-ynvbl2.webp"
       ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
+      "in_stock": true,
+      "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/avpnva-spyydrmn-3-glglym-6v-63c8bd",
       "categories": [
         "גלגלים",
         "ממונעים לילדים "
       ],
-      "updated_at": "2026-10-15T07:44:12.812Z"
+      "updated_at": "2026-10-15T07:47:11.132Z"
     },
     {
       "id": "5d19cf31-b50b-4646-bea5-d2d634a04812",
