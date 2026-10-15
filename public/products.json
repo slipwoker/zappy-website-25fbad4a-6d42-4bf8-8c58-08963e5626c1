@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-15T07:44:05.324Z",
+  "generated_at": "2026-10-15T07:44:45.589Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 523,
@@ -3246,7 +3246,7 @@
     },
     {
       "id": "7b7c320f-1ef9-48e5-a4b2-c9b50fc45855",
-      "slug": "avpnva-spyydrmn-3-glglym-6v-4bbudb",
+      "slug": "avpnva-spyydrmn-3-glglym-6v-63c8bd",
       "name": "אופנוע ספיידרמן 3 גלגלים 6V",
       "name_translations": {},
       "description": "",
@@ -3263,11 +3263,12 @@
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://parktoys.co.il/product/avpnva-spyydrmn-3-glglym-6v-4bbudb",
+      "url": "https://parktoys.co.il/product/avpnva-spyydrmn-3-glglym-6v-63c8bd",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "ממונעים לילדים "
       ],
-      "updated_at": "2026-10-14T13:45:09.713Z"
+      "updated_at": "2026-10-15T07:44:12.812Z"
     },
     {
       "id": "5d19cf31-b50b-4646-bea5-d2d634a04812",
