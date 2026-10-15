@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-15T07:32:05.330Z",
+  "generated_at": "2026-10-15T07:34:01.167Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 523,
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "d7642b81-a39c-4ce4-ab28-711cd8f02d0d",
-      "slug": "rkb-shtch-bagy-24v-zwiaa4",
+      "slug": "rkb-shtch-bagy-24v-yc7gxy",
       "name": "רכב שטח באגי 24V",
       "name_translations": {},
       "description": "",
@@ -1542,11 +1542,12 @@
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://parktoys.co.il/product/rkb-shtch-bagy-24v-zwiaa4",
+      "url": "https://parktoys.co.il/product/rkb-shtch-bagy-24v-yc7gxy",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "ממונעים לילדים "
       ],
-      "updated_at": "2026-10-14T13:45:09.713Z"
+      "updated_at": "2026-10-15T07:33:26.751Z"
     },
     {
       "id": "d9bdaf31-6f83-4429-9471-176d645ddd83",
