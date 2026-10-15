@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-15T09:36:04.554Z",
+  "generated_at": "2026-10-15T09:38:14.538Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 523,
@@ -11528,9 +11528,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/avznyvt-bvltvt-shl-mkby-tl-abyb-nmwnp0",
       "categories": [
-        "מוצרי ספורט"
+        "מוצרי ספורט",
+        "מולטימדיה"
       ],
-      "updated_at": "2026-07-05T19:25:54.323Z"
+      "updated_at": "2026-10-15T09:37:38.294Z"
     },
     {
       "id": "300c0114-6bb8-455f-83be-ed4321a9d1ad",
@@ -11552,9 +11553,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/avznyvt-blvtvs-shl-mkby-chyph-sov22e",
       "categories": [
-        "מוצרי ספורט"
+        "מוצרי ספורט",
+        "מולטימדיה"
       ],
-      "updated_at": "2026-07-05T19:24:32.621Z"
+      "updated_at": "2026-10-15T09:37:38.081Z"
     },
     {
       "id": "0159adcb-b811-47ff-8b4e-5ce8ee220588",
