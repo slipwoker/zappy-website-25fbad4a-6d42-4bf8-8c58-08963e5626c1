@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-15T07:30:25.288Z",
+  "generated_at": "2026-10-15T07:31:05.333Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 523,
@@ -1473,7 +1473,7 @@
     },
     {
       "id": "316da9f5-091e-4043-b03c-bbf90fefb727",
-      "slug": "mkvnyt-chshmlyt-lyldym-dgm-bmw-i4-12-v-mchyr-myvchd-kp0238",
+      "slug": "mkvnyt-chshmlyt-lyldym-dgm-bmw-i4-12-v-mchyr-myvchd-q5hd2x",
       "name": "מכונית חשמלית לילדים דגם BMW i4 12 V מחיר מיוחד!",
       "name_translations": {},
       "description": "",
@@ -1490,11 +1490,12 @@
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://parktoys.co.il/product/mkvnyt-chshmlyt-lyldym-dgm-bmw-i4-12-v-mchyr-myvchd-kp0238",
+      "url": "https://parktoys.co.il/product/mkvnyt-chshmlyt-lyldym-dgm-bmw-i4-12-v-mchyr-myvchd-q5hd2x",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "ממונעים לילדים "
       ],
-      "updated_at": "2026-10-14T13:45:09.713Z"
+      "updated_at": "2026-10-15T07:30:31.817Z"
     },
     {
       "id": "9ecf2dec-de11-4ac1-98ae-31b821229080",
