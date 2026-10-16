@@ -1,21 +1,21 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-16T09:38:48.525Z",
+  "generated_at": "2026-10-16T09:39:43.238Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 528,
   "products": [
     {
       "id": "fb9cd5c4-6898-4337-8b1d-ca464f2557c0",
-      "slug": "rvblvks-pat-mvgv-marz-aspnym-mpvar-blvks-prvts-yhlvm-blox-fruits-diamond-collector-bundle-dnxm9b",
+      "slug": "rvblvks-pat-mvgv-marz-aspnym-mpvar-blvks-prvts-yhlvm-blox-fruits-diamond-collector-bundle-qu8f4s",
       "name": "רובלוקס פאט מוג'ו מארז אספנים מפואר בלוקס פרוטס יהלום – Blox Fruits Diamond Collector Bundle",
       "name_translations": {},
       "description": "<p class=\"ql-align-right\"><strong>הביאו את עולם הבלוקס פרוטס (Blox Fruits) מהמסך אל המציאות עם מארז האספנים הרשמי והיוקרתי ביותר של PhatMojo!</strong></p><p class=\"ql-align-right\">חובבי רובלוקס? זה המארז שאתם חייבים לעצמכם. מארז ה-Diamond Collector Bundle מגיע בקופסת תצוגה ענקית ומרהיבה המעוצבת בדיוק בצורת פרי היהלום הכחול והאייקוני מתוך המשחק. הקופסה עצמה משמשת גם כפריט תצוגה מושלם לחדר וגם כקופת חיסכון מדליקה!</p><p class=\"ql-align-right\">בתוך מארז ההפתעות מחכים לכם <strong>11 פריטי אספנות בלעדיים</strong> שישדרגו לכם את האוסף ואת חוויית המשחק הדיגיטלית.</p><p class=\"ql-align-right\"></p><p class=\"ql-align-right\">✨ מה מחכה לכם בתוך המארז?</p><ul><li><strong>2 בובות פרווה קטיפתיות ורכות (כ-10 ס&quot;מ):</strong> בובת פרי יהלום בלעדית ובובת פרווה מסתורית והפתעה.</li><li><strong>2 דמויות מיני (Minifigures):</strong> דמויות משחק מפורטות ואיכותיות לאיסוף.</li><li><strong>3 קלפי אספנות למשחק (Trading Cards):</strong> של הפירות האהובים Diamond, Pain ו-Ghost.</li><li><strong>1 פוסטר אספנים חגיגי:</strong> פוסטר צבעוני וגדול לעיצוב החדר.</li><li><strong>2 קודי DLC דיגיטליים לרובלוקס:</strong> הקודים הנחשקים ביותר! קוד Legendary (אגדי) וקוד Premium (פרימיום) למימוש בתוך המשחק לקבלת פריטים ובונוסים נדירים.</li></ul><p class=\"ql-align-right\"></p><p class=\"ql-align-right\">🌟 למה כדאי לכם לקנות את זה?</p><ul><li><strong>מתנה מושלמת לגיימרים:</strong> המתנה האולטימטיבית לכל מעריץ מושבע של Blox Fruits ורובלוקס.</li><li><strong>מוצר מקורי ורשמי:</strong> מיוצר ברישיון רשמי על ידי חברת PhatMojo – הבטחה לאיכות גבוהה ודיוק בפרטים.</li><li><strong>חוויה כפולה:</strong> גם פריטים פיזיים מדהימים לחדר וגם שדרוג דיגיטלי משמעותי לדמות שלכם במשחק.</li></ul><p class=\"ql-align-right\"></p><p class=\"ql-align-right\">📋 מפרט טכני:</p><ul><li><strong>גיל מומלץ:</strong> +6 ומעלה.</li><li><strong>ברקוד (UPC):</strong> 810087217648</li><li><strong>יצרן:</strong> PhatMojo</li></ul><p class=\"ql-align-right\"></p><p></p>",
       "short_description": null,
       "sku": "810087217648",
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 269,
+      "base_price": 269,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -23,9 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/rvblvks-pat-mvgv-marz-aspnym-mpvar-blvks-prvts-yhlvm-blox-fruits-diamond-collector-bundle-dnxm9b",
-      "categories": [],
-      "updated_at": "2026-10-16T09:38:12.051Z"
+      "url": "https://parktoys.co.il/product/rvblvks-pat-mvgv-marz-aspnym-mpvar-blvks-prvts-yhlvm-blox-fruits-diamond-collector-bundle-qu8f4s",
+      "categories": [
+        "צעוצעים לבנים /דמויות/מותגים"
+      ],
+      "updated_at": "2026-10-16T09:39:10.277Z"
     },
     {
       "id": "557ee880-2ff0-42e0-a21a-861b09c09a77",
