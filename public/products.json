@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-16T09:39:43.238Z",
+  "generated_at": "2026-10-16T09:44:24.016Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 528,
+  "count": 529,
   "products": [
+    {
+      "id": "0b9ee488-25e6-4f1d-a6c9-75711adbdf50",
+      "slug": "rvblvks-pat-mvgv-blvkb-prvt-kvlktvr-bndl-gas-blox-fruits-gas-fruit-storage-case-bundle-sdrh-3-xvi90u",
+      "name": "רובלוקס פאט מוג'ו בלוקב פרוט קולקטור בנדל גאס Blox Fruits - Gas Fruit Storage Case Bundle (סדרה 3)",
+      "name_translations": {},
+      "description": "<p class=\"ql-align-right\"><strong>הכניסו את עולם ה-Roblox אל המציאות!</strong></p><p class=\"ql-align-right\">מעריצים מושבעים של משחק הלהיט Blox Fruits? המארז הרשמי של חברת PhatMojo (סדרה 3) הוא פריט החובה הבא שלכם. המארז מגיע בעיצוב אייקוני של ה-&quot;Gas Fruit&quot; וגדוש בהפתעות בלעדיות שישדרגו לכם גם את החדר וגם את חוויית המשחק הדיגיטלית.</p><p class=\"ql-align-right\"></p><p class=\"ql-align-right\">🌟 מה מחכה לכם בתוך המארז?</p><ul><li><strong>קופסת אחסון מעוצבת ורב-שימושית:</strong> קופסה קשיחה ואיכותית בצורת פרי הגז האייקוני, המשמשת גם כפריט תצוגה מרהיב וגם כקופת חיסכון מדליקה למטבעות.</li><li><strong>2 בובות פרווה (Plush) רכות:</strong> בובות אספנים איכותיות ונעימות למגע בגודל של כ-10 ס&quot;מ (4 אינץ&#39;).</li><li><strong>2 מיני-פיגורות בלעדיות:</strong> דמויות משחק קטנות ומפורטות בגודל של כ-4.5 ס&quot;מ (1.75 אינץ&#39;) לתצוגה או למשחק.</li><li><strong>פוסטר מעוצב (סדרה 3):</strong> פוסטר איכותי עם גרפיקה ייחודית מתוך המשחק.</li><li><strong>קוד DLC דיגיטלי לרובלוקס:</strong> השדרוג האולטימטיבי! קוד קופון רשמי וייחודי למימוש בתוך פלטפורמת Roblox, המעניק לכם בונוסים, מטבעות או פרסים בלעדיים בתוך המשחק Blox Fruits (סיכוי לקבלת קוד פיזיקלי או קוד מיתולוגי!).</li></ul><p class=\"ql-align-right\"></p><p class=\"ql-align-right\">💎 למה הילדים (והאספנים) אוהבים את זה?</p><ul><li><strong>חוויית Unboxing מטורפת:</strong> הציפייה והגילוי של הדמויות המסתתרות בפנים.</li><li><strong>הקוד הדיגיטלי הנחשק:</strong> השילוב המושלם בין צעצוע פיזי ליתרון משמעותי בתוך המשחק הווירטואלי.</li><li><strong>איכות ללא פשרות:</strong> מוצר רשמי ומורשה (Licensed Product) המיוצר מחומרים עמידים ובטוחים לשימוש.</li></ul><p class=\"ql-align-right\"></p><p class=\"ql-align-right\">📝 מפרט טכני:</p><ul><li><strong>מותג:</strong> PhatMojo</li><li><strong>ברקוד (UPC):</strong> 810189760295</li><li><strong>מתאים לגילאי:</strong> 6 ומעלה</li><li><strong>מידות המארז:</strong> כ-23 ס&quot;מ גובה</li></ul><p></p>",
+      "short_description": null,
+      "sku": "810189760295",
+      "brand": null,
+      "price": 269,
+      "base_price": 269,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1792143705662-pwya1n.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/rvblvks-pat-mvgv-blvkb-prvt-kvlktvr-bndl-gas-blox-fruits-gas-fruit-storage-case-bundle-sdrh-3-xvi90u",
+      "categories": [
+        "צעוצעים לבנים /דמויות/מותגים"
+      ],
+      "updated_at": "2026-10-16T09:43:50.190Z"
+    },
     {
       "id": "fb9cd5c4-6898-4337-8b1d-ca464f2557c0",
       "slug": "rvblvks-pat-mvgv-marz-aspnym-mpvar-blvks-prvts-yhlvm-blox-fruits-diamond-collector-bundle-qu8f4s",
