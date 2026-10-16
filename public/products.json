@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-16T09:03:01.710Z",
+  "generated_at": "2026-10-16T09:23:27.705Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 526,
+  "count": 527,
   "products": [
+    {
+      "id": "557ee880-2ff0-42e0-a21a-861b09c09a77",
+      "slug": "bvbt-prvvh-10-sm-fruits-action-mbyt-phatmojo-o6t6jn",
+      "name": "בובת פרווה 10 ס''מ Fruits Action מבית PhatMojo",
+      "name_translations": {},
+      "description": "<p class=\"ql-align-right\">✓ מארז Blox Fruits Series 3 Yeti Mystery Mini Bundle מבוסס על משחק Roblox האהוב.</p><p class=\"ql-align-right\">✓ כל קופסת הפתעה מעניקה חוויית פתיחה מסקרנת ומלאת הפתעות.</p><p class=\"ql-align-right\">✓ דמות מיני אחת מתוך 8 דמויות לאיסוף מחכה בכל מארז.</p><p class=\"ql-align-right\">✓ בובת הפרי הרכה בגודל 4 אינץ&#39; מוסיפה למארז פריט חמוד לתצוגה או משחק.</p><p class=\"ql-align-right\">✓ שלוש המדבקות המצורפות מאפשרות לקשט מחברות, מחשבים, קופסאות או פינת גיימינג.</p><p class=\"ql-align-right\">✓ קוד DLC מסוג Uncommon או Premium מעניק אפשרות לפתיחת תגמולים בתוך המשחק.</p><p class=\"ql-align-right\">✓ השילוב בין פריטים פיזיים לבונוס דיגיטלי יוצר חוויית אספנות עשירה יותר.</p><p class=\"ql-align-right\">✓ המארז מתאים למעריצי Blox Fruits, לשחקני Roblox ולאספני פריטי גיימינג.</p><p class=\"ql-align-right\">מידות</p><p class=\"ql-align-right\">10 ס&#39;&#39;מ</p><p></p>",
+      "short_description": "בובת פרווה 10 ס''מ Fruits Action מבית PhatMojo\nהכירו את Blox Fruits Series 3 Yeti Mystery Mini Bundle, מארז הפתעה רשמי שמכניס את מעריצי Blox Fruits לעולם מלא איסוף, צבע והרפתקה. כל קופסת הפתעה מגיעה עם שלל פריטי אספנות, כולל דמות מיני אחת מתוך 8 דמויות לאיסוף, בובת פרי רכה בגודל 4 אינץ', 3 מדבקות וקוד DLC מסוג Uncommon או Premium לפתיחת תגמולים בלעדיים בתוך המשחק. המארז משלב בין פריטי אספנות פיזיים לבין בונוסים דיגיטליים מעולם Roblox, כך שכל פתיחה מרגישה כמו גילוי חדש ומרגש. זהו מארז נהדר לשחקני",
+      "sku": "810189760288",
+      "brand": null,
+      "price": 128,
+      "base_price": 128,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1792142421420-5qt2h8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/bvbt-prvvh-10-sm-fruits-action-mbyt-phatmojo-o6t6jn",
+      "categories": [],
+      "updated_at": "2026-10-16T09:22:54.782Z"
+    },
     {
       "id": "81ef73be-5c1f-45a7-b8cd-0739e90193db",
       "slug": "rvblvks-pat-mvgv-blvk-prvt-avnh-4-bvbh-bhptah-blox-fruits-mystery-plush-4-sdrh-4-m0b67t",
