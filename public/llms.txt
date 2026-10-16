@@ -76,7 +76,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 529** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 530** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### רובלוקס פאט מוג'ו סטיל אה בריינרוט קולקטור באנדל כריש
+https://parktoys.co.il/product/rvblvks-pat-mvgv-styl-ah-bryynrvt-kvlktvr-bandl-krysh-97fnds
+- Price: 269.00 ILS
+- Availability: In stock
+- Category: צעוצעים לבנים /דמויות/מותגים
+- SKU: 810189761353
+- Description: מארז אספנות יוקרתי Steal A Brainrot – חוויית רובלוקס אולטימטיבית! הביאו את הטירוף הממכר של משחק ה-Roblox הלהיט "Steal A Brainrot" היישר מהמסך אל המציאות! מארז האספנות הרשמי מבית PhatMojo הוא המתנה המושלמת לכל מעריץ מושבע של המשחק. המארז מגיע בעיצוב ייחודי של הדמות האייקונית Tralalero Tralala (הכריש בעל 3 הרגליים) ומלא בהפתעות אקסקלוסיביות שאסור לפספס. מה מחכה לכם בתוך המארז? 2 בובות פרווה נדירות: בובות Plush איכותיות ורכות בגודל 5.5 אינץ' של הדמויות האהובות Tralalero Tralala ו-La Vacca Satur
+- Image: https://parktoys.co.il/assets/product-1792144017462-7v3lyi.webp
 
 ### רובלוקס פאט מוג'ו בלוקב פרוט קולקטור בנדל גאס Blox Fruits - Gas Fruit Storage Case Bundle (סדרה 3)
 https://parktoys.co.il/product/rvblvks-pat-mvgv-blvkb-prvt-kvlktvr-bndl-gas-blox-fruits-gas-fruit-storage-case-bundle-sdrh-3-xvi90u
@@ -1632,14 +1641,6 @@ https://parktoys.co.il/product/lgv-kryatvr-mabvrt-chll-31134-lego-tv1tw7
 - Category: לגו-lego
 - Description: הרפתקני חלל יכולים ליהנות מפעולה בין-גלקטית מרגשת עם מערכת המשחקים הזו של מעבורת החלל 3 ב-1 של לגו.הסט כולל צעצוע של מעבורת חלל עם צוהר פתיחה המכיל לוויין על זרוע הניתנת להרחבה. ניתן גם לנתק את הלוויין לכיף נוסף.מתנה מושלמת לאוהבי חלל.ישנן 3
 - Image: https://parktoys.co.il/assets/product-1785487153530-mnosmq.webp
-
-### לגו סיטי ניידת משטרה 60312 - Lego
-https://parktoys.co.il/product/lgv-syty-nyydt-mshtrh-60312-lego-68ivpe
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: ניידת המשטרה עם החישוקים הרחבים, הפגושים המעוצבים והפנסים המגניבים משיגה את כל הנוכלים של לגו סיטי!אין להם סיכוי כשהם עוצרים להתפעל מהמכונית.הדליקו את הפנס, שימו את כובע השוטרים, עלו על המכונית וסעו לעוד מרדפים אחר הנוכלים בעיר! לגילאי 5 ומעלה 94 חלקים סדרה לגו סיטי Lego Cityמידות האריזה 14.1X15.7X4.5 ס"מP
-- Image: https://parktoys.co.il/assets/product-1785486953515-mafjqh.webp
 
 ---
 
