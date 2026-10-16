@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-16T08:49:57.477Z",
+  "generated_at": "2026-10-16T08:56:47.614Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 524,
+  "count": 525,
   "products": [
+    {
+      "id": "bc81536c-480d-4d6e-aa0c-8daf62155d85",
+      "slug": "rvblvks-pat-mvgv-99-lylvt-mynypgr-tjfve3",
+      "name": "רובלוקס פאט מוג'ו 99 לילות מיניפגר",
+      "name_translations": {},
+      "description": "",
+      "short_description": "רובלוקס פאט מוג'ו 99 לילות מיניפגר - פריט דמות מלא אופי למשחק, לאוסף ולעיצוב החדר. מתנה משמחת לחובבי הדמות והעולם שממנה היא מגיעה.\n\n",
+      "sku": "810189761537",
+      "brand": null,
+      "price": 38,
+      "base_price": 38,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1792140930326-z9atf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/rvblvks-pat-mvgv-99-lylvt-mynypgr-tjfve3",
+      "categories": [
+        "צעוצעים לבנים /דמויות/מותגים"
+      ],
+      "updated_at": "2026-10-16T08:56:13.342Z"
+    },
     {
       "id": "57f3e3cb-9cfd-4fbd-ace4-a00fbac92c3d",
       "slug": "rvblvks-pat-mvgv-99-lylvt-bvbt-prvvh-bhptah-4jwysw",
