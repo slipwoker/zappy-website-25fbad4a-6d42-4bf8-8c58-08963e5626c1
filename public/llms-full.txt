@@ -4170,7 +4170,7 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 ## Product Catalog
 
 ### בובת פרווה 10 ס''מ Fruits Action מבית PhatMojo
-URL: https://parktoys.co.il/product/bvbt-prvvh-10-sm-fruits-action-mbyt-phatmojo-o6t6jn
+URL: https://parktoys.co.il/product/bvbt-prvvh-10-sm-fruits-action-mbyt-phatmojo-ocj6gy
 Price: 128.00 ILS
 Availability: In stock
 SKU: 810189760288

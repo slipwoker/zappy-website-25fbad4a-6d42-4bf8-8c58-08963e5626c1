@@ -79,9 +79,10 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 527** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### בובת פרווה 10 ס''מ Fruits Action מבית PhatMojo
-https://parktoys.co.il/product/bvbt-prvvh-10-sm-fruits-action-mbyt-phatmojo-o6t6jn
+https://parktoys.co.il/product/bvbt-prvvh-10-sm-fruits-action-mbyt-phatmojo-ocj6gy
 - Price: 128.00 ILS
 - Availability: In stock
+- Category: צעוצעים לבנים /דמויות/מותגים
 - SKU: 810189760288
 - Description: בובת פרווה 10 ס''מ Fruits Action מבית PhatMojo הכירו את Blox Fruits Series 3 Yeti Mystery Mini Bundle, מארז הפתעה רשמי שמכניס את מעריצי Blox Fruits לעולם מלא איסוף, צבע והרפתקה. כל קופסת הפתעה מגיעה עם שלל פריטי אספנות, כולל דמות מיני אחת מתוך 8 דמויות לאיסוף, בובת פרי רכה בגודל 4 אינץ', 3 מדבקות וקוד DLC מסוג Uncommon או Premium לפתיחת תגמולים בלעדיים בתוך המשחק. המארז משלב בין פריטי אספנות פיזיים לבין בונוסים דיגיטליים מעולם Roblox, כך שכל פתיחה מרגישה כמו גילוי חדש ומרגש. זהו מארז נהדר לשחקני
 - Image: https://parktoys.co.il/assets/product-1792142421420-5qt2h8.webp
