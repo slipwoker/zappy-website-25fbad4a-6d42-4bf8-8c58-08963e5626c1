@@ -79,10 +79,13 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 526** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### רובלוקס פאט מוג'ו בלוק פרוט עונה 4 בובה בהפתעה Blox Fruits Mystery Plush 4 (סדרה 4)
-https://parktoys.co.il/product/rvblvks-pat-mvgv-blvk-prvt-avnh-4-bvbh-bhptah-blox-fruits-mystery-plush-4-sdrh-4-d0lo6h
-- Price: 0.00 ILS
+https://parktoys.co.il/product/rvblvks-pat-mvgv-blvk-prvt-avnh-4-bvbh-bhptah-blox-fruits-mystery-plush-4-sdrh-4-m0b67t
+- Price: 89.00 ILS
 - Availability: In stock
+- Category: צעוצעים לבנים /דמויות/מותגים
+- SKU: 810189761940
 - Description: הכניסו את עולם רובלוקס לחיים האמיתיים! מעריצי הלהיט המטורף Blox Fruits ב-Roblox? זה המוצר המושלם עבורכם. קופסת ההפתעה הרשמית מבית PhatMojo (סדרה 4 החדשה!) מביאה אליכם את פירות הכוח האהובים מהמשחק כבובות פרווה איכותיות, רכות ומעוצבות להפליא בגודל של 4 אינץ' (כ-10 ס"מ). כל קופסה היא תעלומה מוחלטת – איזה פרי תגרילו הפעם? אספו את כל הדמויות, החליפו עם חברים והשלימו את האוסף הרשמי שלכם! הבונוס הגדול: קוד דיגיטלי למשחק (DLC)! כל בובה מגיעה עם קוד גירוד דיגיטלי ייחודי לשימוש בתוך המשחק Blox Fruits
+- Image: https://parktoys.co.il/assets/product-enhanced-1792141302384-27vbkb.webp
 
 ### רובלוקס פאט מוג'ו 99 לילות מיניפגר
 https://parktoys.co.il/product/rvblvks-pat-mvgv-99-lylvt-mynypgr-tjfve3

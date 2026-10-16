@@ -1,29 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-16T09:01:11.999Z",
+  "generated_at": "2026-10-16T09:02:28.545Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 526,
   "products": [
     {
       "id": "81ef73be-5c1f-45a7-b8cd-0739e90193db",
-      "slug": "rvblvks-pat-mvgv-blvk-prvt-avnh-4-bvbh-bhptah-blox-fruits-mystery-plush-4-sdrh-4-d0lo6h",
+      "slug": "rvblvks-pat-mvgv-blvk-prvt-avnh-4-bvbh-bhptah-blox-fruits-mystery-plush-4-sdrh-4-m0b67t",
       "name": "רובלוקס פאט מוג'ו בלוק פרוט עונה 4 בובה בהפתעה Blox Fruits Mystery Plush 4 (סדרה 4)",
       "name_translations": {},
       "description": "",
       "short_description": "הכניסו את עולם רובלוקס לחיים האמיתיים!\n\nמעריצי הלהיט המטורף Blox Fruits ב-Roblox? זה המוצר המושלם עבורכם. קופסת ההפתעה הרשמית מבית PhatMojo (סדרה 4 החדשה!) מביאה אליכם את פירות הכוח האהובים מהמשחק כבובות פרווה איכותיות, רכות ומעוצבות להפליא בגודל של 4 אינץ' (כ-10 ס\"מ).\n\nכל קופסה היא תעלומה מוחלטת – איזה פרי תגרילו הפעם? אספו את כל הדמויות, החליפו עם חברים והשלימו את האוסף הרשמי שלכם!\n\n\nהבונוס הגדול: קוד דיגיטלי למשחק (DLC)!\n\nכל בובה מגיעה עם קוד גירוד דיגיטלי ייחודי לשימוש בתוך המשחק Blox Fruits",
-      "sku": null,
+      "sku": "810189761940",
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 89,
+      "base_price": 89,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1792141302384-27vbkb.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/rvblvks-pat-mvgv-blvk-prvt-avnh-4-bvbh-bhptah-blox-fruits-mystery-plush-4-sdrh-4-d0lo6h",
-      "categories": [],
-      "updated_at": "2026-10-16T09:00:38.884Z"
+      "url": "https://parktoys.co.il/product/rvblvks-pat-mvgv-blvk-prvt-avnh-4-bvbh-bhptah-blox-fruits-mystery-plush-4-sdrh-4-m0b67t",
+      "categories": [
+        "צעוצעים לבנים /דמויות/מותגים"
+      ],
+      "updated_at": "2026-10-16T09:02:27.829Z"
     },
     {
       "id": "bc81536c-480d-4d6e-aa0c-8daf62155d85",
