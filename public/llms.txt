@@ -76,7 +76,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 523** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 524** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### רובלוקס פאט מוג'ו 99 לילות בובת פרווה בהפתעה
+https://parktoys.co.il/product/rvblvks-pat-mvgv-99-lylvt-bvbt-prvvh-bhptah-4jwysw
+- Price: 88.00 ILS
+- Availability: In stock
+- Category: צעוצעים לבנים /דמויות/מותגים
+- SKU: 810189761544
+- Description: בובת פרווה מופתעת רובלוקס 99 לילות ביער (Roblox 99 Nights In The Forest Mystery Plush)! קופסת הפתעה מרגשת המסתירה בתוכה בובת פלאש איכותית ורכה של אחת מתוך 6 דמויות האספנות המוכרות מתוך משחק הרשת המצליח 99 לילות ביער. הבובה עשויה מבדים נעימים למגע ולחיבוק, וכוללת קוד דיגיטלי בלעדי לקבלת פריט וירטואלי ייחודי בתוך המשחק. פתרון נהדר למתנה מושלמת ומפתיעה עבור ילדים ומעריצי רובלוקס, המעודד משחק דמיון יצירתי, הפחתת מתחים וחוויית איסוף סוחפת. מיועד לילדים בגילאי 4 ומעלה.
+- Image: https://parktoys.co.il/assets/product-1792140383456-fydodc.webp
 
 ### מצלמה מדפיסה סוניר 
 https://parktoys.co.il/product/mtslmh-mdpysh-svnyr-ne6g4i
@@ -1626,14 +1635,6 @@ https://parktoys.co.il/product/lgv-nyngh-gv-chgygvt-15-shnh-lrkb-x-1-hnyngh-hmst
 - Category: לגו-lego
 - Description: חגגו את יום השנה ה-15 של סדרת הטלוויזיה ®LEGO® NINJAGO עם רכב ה-2 ב-1 המדהים הזה של X-1 נינג'ה המסתער (71867), גרסה מחודשת של X-1 הנינג'ה המסתער המקורי (70727). רכב צעצוע זה מציע לחובבים בגילאי 14 ומעלה אפשרויות משחק ותצוגה דינמיות ללא סוף.
 - Image: https://parktoys.co.il/assets/product-1785429434821-z4721.webp
-
-### לגו נינג'ה-גו - מכוניתו של ג'יי שמשנה צורה לדרקון 71856 | Lego
-https://parktoys.co.il/product/lgv-nyngh-gv-mkvnytv-shl-gyy-shmshnh-tsvrh-ldrkvn-71856-lego-p12h7q
-- Price: 239.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: בנים ובנות מגיל 8 ומעלה יכולים ליהנות משעות של אקשן מהיר עם ערכת הבנייה LEGO NINJAGO המכונית המשתנה של ג’יי (71856). צעצוע מרוץ נינג’ה זה כולל רכב 2-ב-1 שניתן לשחק ולהציג בשני מצבים: מצב רגיל או מצב דרקון על ידי הפיכת החלק הקדמי, החושף טפרים מוזהבים, ראש דרקון ושוריקנים מסתובבים. ערכת ההרפתקה כוללת משגר קפיצי עם 2 חיצים, שניתן לנתק ולהציב על מבנה צדדי מכוסה צמחייה לקרבות. הערכה כוללת גם 5 מיניפיגור: ג’יי, ניה וקאי בצורת דרקון, וכן מפלצת אדמה ומנהיג נאמן לקרבות טוב נגד רע. הילדים יכולים לבנות בבי
-- Image: https://parktoys.co.il/assets/product-1785429181100-lt6xd.webp
 
 ---
 
