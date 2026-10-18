@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-16T09:48:51.179Z",
+  "generated_at": "2026-10-18T10:44:02.949Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 530,
+  "count": 531,
   "products": [
+    {
+      "id": "8fb0aeca-f8f3-400e-b007-89f6cad676e1",
+      "slug": "chlypt-kdvrgl-brtslvnh-pdry-b6p2hi",
+      "name": "חליפת כדורגל ברצלונה - פדרי ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1792320109101-buqne.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-brtslvnh-pdry-b6p2hi",
+      "categories": [
+        "חליפות כדורגל לילדים"
+      ],
+      "updated_at": "2026-10-18T10:43:31.421Z"
+    },
     {
       "id": "20b57a65-57f5-4448-9572-6c094891ed93",
       "slug": "rvblvks-pat-mvgv-styl-ah-bryynrvt-kvlktvr-bandl-krysh-97fnds",

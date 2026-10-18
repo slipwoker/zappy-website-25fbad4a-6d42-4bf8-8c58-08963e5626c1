@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 530** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 531** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת כדורגל ברצלונה - פדרי 
+https://parktoys.co.il/product/chlypt-kdvrgl-brtslvnh-pdry-b6p2hi
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: חליפות כדורגל לילדים
+- Image: https://parktoys.co.il/assets/product-enhanced-1792320109101-buqne.webp
 
 ### רובלוקס פאט מוג'ו סטיל אה בריינרוט קולקטור באנדל כריש
 https://parktoys.co.il/product/rvblvks-pat-mvgv-styl-ah-bryynrvt-kvlktvr-bandl-krysh-97fnds
@@ -1633,14 +1640,6 @@ https://parktoys.co.il/product/lgv-one-piece-bkth-bkpr-tchnt-hrvch-75636-lego-3i
 - Category: לגו-lego
 - Description: עזרו למאקינו לנהל את החנות העמוסה שלה על חוף הים. שאנקס מסתכל בלוח מודעות המפרסם פרטים של “מבוקשים” על הקיר תוך כדי שטיפת הרצפה. בחוץ, לופי נתקל בפרי השטן גומו-גומו שמוחבא בין קופסאות ליד הסירה. אילו הרפתקאות פיראטים פראיות נוספות מסדרת האנימציה וואן פיס צפויות להתרחש? ההחלטה היא בידיכם!
 - Image: https://parktoys.co.il/assets/product-enhanced-1785487450773-sybj27.webp
-
-### לגו קריאטור מעבורת חלל 31134 - Lego
-https://parktoys.co.il/product/lgv-kryatvr-mabvrt-chll-31134-lego-tv1tw7
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: הרפתקני חלל יכולים ליהנות מפעולה בין-גלקטית מרגשת עם מערכת המשחקים הזו של מעבורת החלל 3 ב-1 של לגו.הסט כולל צעצוע של מעבורת חלל עם צוהר פתיחה המכיל לוויין על זרוע הניתנת להרחבה. ניתן גם לנתק את הלוויין לכיף נוסף.מתנה מושלמת לאוהבי חלל.ישנן 3
-- Image: https://parktoys.co.il/assets/product-1785487153530-mnosmq.webp
 
 ---
 
