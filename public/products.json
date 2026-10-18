@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-18T11:42:04.970Z",
+  "generated_at": "2026-10-18T11:44:25.198Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 531,
@@ -4186,9 +4186,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/avrgnyt-kvpykv-4nryfo",
       "categories": [
-        "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
+        "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה",
+        "כלי נגינה"
       ],
-      "updated_at": "2026-08-03T17:08:09.866Z"
+      "updated_at": "2026-10-18T11:43:48.364Z"
     },
     {
       "id": "df0490c9-161b-4068-a219-ac86e94b7002",
@@ -4210,9 +4211,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/avrgnyt-myky-xnidwj",
       "categories": [
-        "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
+        "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה",
+        "כלי נגינה"
       ],
-      "updated_at": "2026-08-03T16:54:12.522Z"
+      "updated_at": "2026-10-18T11:43:48.583Z"
     },
     {
       "id": "f2102637-0266-4bbf-8dd6-86d6ae5cf296",
@@ -4234,9 +4236,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/gytrh-chshmlyt-mshpcht-spyr-knecmx",
       "categories": [
-        "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה"
+        "מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה",
+        "כלי נגינה"
       ],
-      "updated_at": "2026-08-04T13:01:44.143Z"
+      "updated_at": "2026-10-18T11:43:48.802Z"
     },
     {
       "id": "ba0019dc-972e-4ea1-8060-2f07673a3c61",
