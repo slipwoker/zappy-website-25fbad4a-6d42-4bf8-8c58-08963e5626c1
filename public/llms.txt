@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 536** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 537** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### מצלמה דיגיטלית מדפיסה -צבע סגול 
+https://parktoys.co.il/product/mtslmh-dygytlyt-mdpysh-tsba-sgvl-1yjpv8
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: מולטימדיה
+- Description: הפכו כל רגע לזיכרון מוחשי עם המצלמה הדיגיטלית המדפיסה המתקדמת מבית Zipin (זיפיין)! מצלמה מדליקה המשלבת צילום באיכות גבוהה עם טכנולוגיית הדפסה תרמית מיידית ללא צורך בדיו. המצלמה כוללת זום דיגיטלי, מסך צבעוני, אפשרות לצילום וידאו, נגן מוזיקה MP3 ומספקת שעות של יצירתיות והנאה לילדים.
+- Image: https://parktoys.co.il/assets/product-1792419317907-kgrzsm.webp
 
 ### קורקינט מתקפל באטמן 3 גלגלים גדולים ואורות בגלגלים מבית IPOP
 https://parktoys.co.il/product/kvrkynt-mtkpl-batmn-3-glglym-gdvlym-vavrvt-bglglym-mbyt-ipop-ggbunb
@@ -1634,14 +1642,6 @@ https://parktoys.co.il/product/rkb-hhtslh-shl-zvmh-mprts-hhrptkavt-50c8am
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: צאו למשימות חילוץ מרגשות עם צוות מפרץ ההרפתקאות ברכבי ההצלה שלהם! לכל רכב יש גלגלים ענקיים עם עיצוב וסגנון אותנטיים שנראים ממש כמו הרכבים מהסדרה. הניחו את הדמות במושב הנהג כדי שיוכל לחלץ במהירות! כשמגיע הזמן לפעול, טענו אחד משני הקליעים לתוך משגר הקליעים ולחצו על הכפתור כדי לירות ולהפוך לגיבורי היום! צעצועי מפרץ ההרפתקאות מהווים מתנה נהדרת לילדים חובבי הסדרה, לעידוד משחק מלא דמיון ושיפור היכולות המוטוריות.
 - Image: https://parktoys.co.il/assets/product-enhanced-1785669344614-k93yml.webp
-
-### לגו מיינקראפט קרב בנתר הלבה 21266 | Lego
-https://parktoys.co.il/product/lgv-myynkrapt-krb-bntr-hlbh-21266-lego-k9czo4
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: הקרב בלבה של הנדר (21266) הוא סט לגו מיינקראפט קטן שמספק גרסה לבנייה ולמשחק של המשחק הפופולרי. סט פעילות רב-שימושי זה כולל דמויות משחק פופולריות, תכנים מהנים ופעולה אינסופית, מה שהופך אותו למתנה המושלמת לילדים מגיל 6 ומעלה.
-- Image: https://parktoys.co.il/assets/product-1785621345775-1ikbyk.webp
 
 ---
 
