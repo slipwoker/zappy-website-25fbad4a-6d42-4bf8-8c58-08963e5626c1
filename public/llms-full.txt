@@ -3179,6 +3179,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -4183,6 +4185,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 ---
 
 ## Product Catalog
+
+### מעמד כדורסל מפואר
+URL: https://parktoys.co.il/product/mamd-kdvrsl-mpvar-xujxl6
+Price: 349.00 ILS
+Availability: In stock
+
+---
 
 ### מצלמה דיגיטלית מדפיסה -צבע סגול 
 URL: https://parktoys.co.il/product/mtslmh-dygytlyt-mdpysh-tsba-sgvl-1yjpv8
