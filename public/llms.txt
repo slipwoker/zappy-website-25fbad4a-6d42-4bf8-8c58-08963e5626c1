@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 533** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 534** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קורקינט פעלולים G11 מבית Grow Pro (Copy)
+https://parktoys.co.il/product/kvrkynt-palvlym-g11-mbyt-grow-pro-copy-2dmnmb
+- Price: 999.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Image: https://parktoys.co.il/assets/product-enhanced-1783354571875-nlzn1t.webp
 
 ### בימבה מרצדס שחורה c class
 https://parktoys.co.il/product/bymbh-mrtsds-shchvrh-c-class-2e7bdh
@@ -1635,14 +1642,6 @@ https://parktoys.co.il/product/lgv-spyydy-mrdp-achry-rkby-dynvzavr-spyn-valktrv-
 - Category: לגו-lego
 - Description: פנקו את המעריצים של ספיידי וחבריו המופלאים עם דמות גיבור על צעצוע הניתן להרכבה הזה. הערכה להרכבה ומשחק (11198) מרדף אחרי רכבי דינוזאור ספין ואלקטרו נועדה לפתח ביטחון יצירתי בילדים, לשפר את כישורי פתרון הבעיות ולעורר משחק דמיוני אינסופי אצל ילדים וילדות בגילאי 4 ומעלה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1785610911383-3snaao.webp
-
-### לגו בוטניקה – זר שמשי קטן 10347
-https://parktoys.co.il/product/lgv-bvtnykh-zr-shmshy-ktn-10347-aem5lm
-- Price: 149.00 ILS (sale, was 199.00 ILS)
-- Availability: In stock
-- Category: לגו-lego
-- Description: אפשרו ליצירתיות של ילדים לפרוח עם ערכת הבנייה (10347) של זר שמשי קטנטן מסדרת LEGO Botanicals® לילדים וילדות בגילאי 9 ומעלה. הזר הפורח בגווני פסטל שמשפרים את מצב הרוח ושופע בפרטים אותנטיים ישמש אתכם כפריט עיצוב פרחים בלתי מתכלים אותם תנצרו לעד. מעצבי זרים מתחילים בכל הגילאים יהנו מאוד מפעילות של בניית הזר, העשיר במבחר פרחי האביב של LEGO, כולל כדורי בילי, פרחי פעמוני האביב, קני קליאופטרה, אכילאה אלף העלה, גרברה ורודה, אדמונית וצבעוני, לפני השימוש בגבעולים המתכווננים ליצירת תצוגה פרחונית בהתאמה איש
-- Image: https://parktoys.co.il/assets/product-1785610670118-zbv47c.webp
 
 ---
 

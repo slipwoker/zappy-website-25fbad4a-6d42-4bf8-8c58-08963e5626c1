@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-19T13:16:12.527Z",
+  "generated_at": "2026-10-19T13:17:10.564Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 533,
+  "count": 534,
   "products": [
+    {
+      "id": "10091c97-b475-4d88-8cd5-bf8f00b9962f",
+      "slug": "kvrkynt-palvlym-g11-mbyt-grow-pro-copy-2dmnmb",
+      "name": "קורקינט פעלולים G11 מבית Grow Pro (Copy)",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 999,
+      "base_price": 999,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1783354571875-nlzn1t.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kvrkynt-palvlym-g11-mbyt-grow-pro-copy-2dmnmb",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-10-19T13:16:33.633Z"
+    },
     {
       "id": "85fbce90-1042-4867-a52e-229934de21d9",
       "slug": "bymbh-mrtsds-shchvrh-c-class-2e7bdh",
