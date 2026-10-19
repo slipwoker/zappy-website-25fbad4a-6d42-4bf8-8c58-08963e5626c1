@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-19T13:19:21.675Z",
+  "generated_at": "2026-10-19T13:32:26.532Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 534,
+  "count": 535,
   "products": [
+    {
+      "id": "68df9153-6621-43bd-9620-1f80353bb022",
+      "slug": "kvrkynt-mtkpl-am-3-glglym-lyldym-mbyt-lol-viper-338vdi",
+      "name": "קורקינט מתקפל עם 3 גלגלים לילדים מבית LOL - VIPER",
+      "name_translations": {},
+      "description": "<p class=\"ql-align-right\">• שלושה גלגלים עשויים סיליקון איכותי ובלם אחורי.</p><p class=\"ql-align-right\">• מוט מתכוונן להתאמה אישית.</p><p class=\"ql-align-right\">• קל ונוח לנשיאה ומתאים לשימוש בבית ובחוץ.</p><p class=\"ql-align-right\">• תורם לפיתוח שיווי משקל וכישורים מוטוריים.</p><p class=\"ql-align-right\">מפרט טכני</p><p class=\"ql-align-right\">• משקל נשיאה מקסימלי: 50 ק&quot;ג</p><p class=\"ql-align-right\">על המותג</p><p class=\"ql-align-right\">Viper הוא מותג המתמחה בייצור צעצועי גלגלים איכותיים כמו בימבות, קורקינטים ועוד. המותג שם דגש על שימוש בחומרים עמידים ואיכותיים, כדי להבטיח את עמידות הצעצועים לאורך זמן. בנוסף, כל המוצרים מעוצבים עם תשומת לב מרבית לבטיחות וליציבות, כך שהילדים יכולים ליהנות ממשחקים מהנים ובטוחים.</p><p></p>",
+      "short_description": "קורקינט מתקפל עם 3 גלגלים לילדים מבית Viper\nזה לא סתם קורקינט - זו הזמנה לעולם של הרפתקאות, תנועה וכיף! הקורקינט המעוצב מגיע עם שלושה גלגלי סיליקון יציבים ואיכותיים שמבטיחים נסיעה חלקה ובטוחה בכל משטח בנוסף למוט מתכוונן שמאפשר התאמה אישית לגובה הילד כך שניתן ליהנות ממנו לאורך זמן ולגדול איתו. מעבר להנאה, הקורקינט תורם לפיתוח שיווי המשקל, חיזוק המיומנויות המוטוריות, עידוד עצמאות והגברת הביטחון העצמי. הקורקינט קל במיוחד, מתקפל בקלות לנשיאה ולאחסון ומתאים לשימוש בכל מקום כמו בבית, בחצר או בגינה. עם",
+      "sku": null,
+      "brand": null,
+      "price": 189,
+      "base_price": 189,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1792416590306-zn5ezu.webp",
+        "https://parktoys.co.il/assets/product-1792416687722-y1pd7o.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kvrkynt-mtkpl-am-3-glglym-lyldym-mbyt-lol-viper-338vdi",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-10-19T13:31:49.362Z"
+    },
     {
       "id": "10091c97-b475-4d88-8cd5-bf8f00b9962f",
       "slug": "kvrkynt-palvlym-g11-mbyt-grow-pro-copy-2dmnmb",

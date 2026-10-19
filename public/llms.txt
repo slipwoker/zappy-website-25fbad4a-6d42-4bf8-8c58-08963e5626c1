@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 534** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 535** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קורקינט מתקפל עם 3 גלגלים לילדים מבית LOL - VIPER
+https://parktoys.co.il/product/kvrkynt-mtkpl-am-3-glglym-lyldym-mbyt-lol-viper-338vdi
+- Price: 189.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: קורקינט מתקפל עם 3 גלגלים לילדים מבית Viper זה לא סתם קורקינט - זו הזמנה לעולם של הרפתקאות, תנועה וכיף! הקורקינט המעוצב מגיע עם שלושה גלגלי סיליקון יציבים ואיכותיים שמבטיחים נסיעה חלקה ובטוחה בכל משטח בנוסף למוט מתכוונן שמאפשר התאמה אישית לגובה הילד כך שניתן ליהנות ממנו לאורך זמן ולגדול איתו. מעבר להנאה, הקורקינט תורם לפיתוח שיווי המשקל, חיזוק המיומנויות המוטוריות, עידוד עצמאות והגברת הביטחון העצמי. הקורקינט קל במיוחד, מתקפל בקלות לנשיאה ולאחסון ומתאים לשימוש בכל מקום כמו בבית, בחצר או בגינה. עם
+- Image: https://parktoys.co.il/assets/product-1792416590306-zn5ezu.webp
 
 ### קורקינט פעלולים G11 מבית Grow Pro (Copy)
 https://parktoys.co.il/product/kvrkynt-palvlym-g11-mbyt-grow-pro-copy-2dmnmb
@@ -1634,14 +1642,6 @@ https://parktoys.co.il/product/lgv-marvel-spyydy-al-havpnva-ngd-ryynv-11206-r93n
 - Category: לגו-lego
 - Description: ריינו גנב אבן חן כחולה ומבריקה. קפצו על האופנוע המגניב של ספיידי וצאו לקראת האקשן. זהירות – ריינו מעיף פיצות ממשגר תנור-הפיצות שלו! לכדו את הנבל בתוך רשת עכביש ענקית, חברו אותו לחלק האחורי של האופנוע, ואז סעו במהירות עם אבן החן, רינו הסבוך ברשת ועם כמה פיצות טעימות!
 - Image: https://parktoys.co.il/assets/product-1785621193372-ckw19b.webp
-
-### לגו ספיידי – מרדף אחרי רכבי דינוזאור ספין ואלקטרו 11198
-https://parktoys.co.il/product/lgv-spyydy-mrdp-achry-rkby-dynvzavr-spyn-valktrv-11198-rjc8tg
-- Price: 119.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: פנקו את המעריצים של ספיידי וחבריו המופלאים עם דמות גיבור על צעצוע הניתן להרכבה הזה. הערכה להרכבה ומשחק (11198) מרדף אחרי רכבי דינוזאור ספין ואלקטרו נועדה לפתח ביטחון יצירתי בילדים, לשפר את כישורי פתרון הבעיות ולעורר משחק דמיוני אינסופי אצל ילדים וילדות בגילאי 4 ומעלה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1785610911383-3snaao.webp
 
 ---
 
