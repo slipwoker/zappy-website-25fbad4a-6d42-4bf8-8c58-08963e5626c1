@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-19T13:32:26.532Z",
+  "generated_at": "2026-10-19T13:55:36.837Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 535,
+  "count": 536,
   "products": [
+    {
+      "id": "027f85f5-d377-4cac-9676-0b13b1467cf4",
+      "slug": "kvrkynt-mtkpl-batmn-3-glglym-gdvlym-vavrvt-bglglym-mbyt-ipop-ggbunb",
+      "name": "קורקינט מתקפל באטמן 3 גלגלים גדולים ואורות בגלגלים מבית IPOP",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קורקינט שלוש גלגלים עבים ליציבות מרבית.\nקל ונוח לקיפול ואחסון.\nאורות בגלגלים בזמן נסיעה.\nמדרך בעל יציבות גבוה וידית מתכווננת להתאמת הגובה.\nמבית IPOP\nמומלץ לגילאי 6+",
+      "sku": null,
+      "brand": null,
+      "price": 189,
+      "base_price": 189,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1792418071634-0j273.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kvrkynt-mtkpl-batmn-3-glglym-gdvlym-vavrvt-bglglym-mbyt-ipop-ggbunb",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-10-19T13:54:59.024Z"
+    },
     {
       "id": "68df9153-6621-43bd-9620-1f80353bb022",
       "slug": "kvrkynt-mtkpl-am-3-glglym-lyldym-mbyt-lol-viper-338vdi",

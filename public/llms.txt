@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 535** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 536** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קורקינט מתקפל באטמן 3 גלגלים גדולים ואורות בגלגלים מבית IPOP
+https://parktoys.co.il/product/kvrkynt-mtkpl-batmn-3-glglym-gdvlym-vavrvt-bglglym-mbyt-ipop-ggbunb
+- Price: 189.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: קורקינט שלוש גלגלים עבים ליציבות מרבית. קל ונוח לקיפול ואחסון. אורות בגלגלים בזמן נסיעה. מדרך בעל יציבות גבוה וידית מתכווננת להתאמת הגובה. מבית IPOP מומלץ לגילאי 6+
+- Image: https://parktoys.co.il/assets/product-1792418071634-0j273.webp
 
 ### קורקינט מתקפל עם 3 גלגלים לילדים מבית LOL - VIPER
 https://parktoys.co.il/product/kvrkynt-mtkpl-am-3-glglym-lyldym-mbyt-lol-viper-338vdi
@@ -1634,14 +1642,6 @@ https://parktoys.co.il/product/lgv-myynkrapt-krb-bntr-hlbh-21266-lego-k9czo4
 - Category: לגו-lego
 - Description: הקרב בלבה של הנדר (21266) הוא סט לגו מיינקראפט קטן שמספק גרסה לבנייה ולמשחק של המשחק הפופולרי. סט פעילות רב-שימושי זה כולל דמויות משחק פופולריות, תכנים מהנים ופעולה אינסופית, מה שהופך אותו למתנה המושלמת לילדים מגיל 6 ומעלה.
 - Image: https://parktoys.co.il/assets/product-1785621345775-1ikbyk.webp
-
-### לגו Marvel – ספיידי על האופנוע נגד ריינו (11206)
-https://parktoys.co.il/product/lgv-marvel-spyydy-al-havpnva-ngd-ryynv-11206-r93nht
-- Price: 59.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: ריינו גנב אבן חן כחולה ומבריקה. קפצו על האופנוע המגניב של ספיידי וצאו לקראת האקשן. זהירות – ריינו מעיף פיצות ממשגר תנור-הפיצות שלו! לכדו את הנבל בתוך רשת עכביש ענקית, חברו אותו לחלק האחורי של האופנוע, ואז סעו במהירות עם אבן החן, רינו הסבוך ברשת ועם כמה פיצות טעימות!
-- Image: https://parktoys.co.il/assets/product-1785621193372-ckw19b.webp
 
 ---
 
