@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-19T08:52:13.582Z",
+  "generated_at": "2026-10-19T12:05:01.406Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 533,
@@ -1802,7 +1802,7 @@
     },
     {
       "id": "d9bdaf31-6f83-4429-9471-176d645ddd83",
-      "slug": "bymbh-chshmlyt-lyldym-wikcc9",
+      "slug": "bymbh-chshmlyt-lyldym-y5892o",
       "name": "בימבה חשמלית לילדים",
       "name_translations": {},
       "description": "",
@@ -1816,14 +1816,14 @@
       "images": [
         "https://parktoys.co.il/assets/product-1787843099908-d0yjzb.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/bymbh-chshmlyt-lyldym-wikcc9",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://parktoys.co.il/product/bymbh-chshmlyt-lyldym-y5892o",
       "categories": [
         "גלגלים",
         "ממונעים לילדים "
       ],
-      "updated_at": "2026-10-15T07:28:32.934Z"
+      "updated_at": "2026-10-19T12:04:25.106Z"
     },
     {
       "id": "e734278b-8f8b-4090-ab45-b60e502f6db5",
