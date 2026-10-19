@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-19T13:17:10.564Z",
+  "generated_at": "2026-10-19T13:19:21.675Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 534,
@@ -21,13 +21,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1783354571875-nlzn1t.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-palvlym-g11-mbyt-grow-pro-copy-2dmnmb",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-10-19T13:16:33.633Z"
+      "updated_at": "2026-10-19T13:18:46.805Z"
     },
     {
       "id": "85fbce90-1042-4867-a52e-229934de21d9",
@@ -12296,13 +12296,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1782733553785-gcywcn.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-prymyvm-mtkpl-am-glglym-gdvlym-bvlmy-zazvaym-vmatsvr-yd-kvrkynt-aykvty-lyldym-nvar-ssuk0u",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-06-29T13:14:09.517Z"
+      "updated_at": "2026-10-19T13:18:46.805Z"
     },
     {
       "id": "febe3da7-ad27-4ed5-94b8-9b01dbaa1218",
@@ -12344,13 +12344,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1782729467676-rgtr92.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-3-glglym-hlv-kyty-3sis1z",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-06-29T10:38:27.450Z"
+      "updated_at": "2026-10-19T13:18:46.805Z"
     },
     {
       "id": "2c356a83-1fad-4ed0-90d7-7292d40696f2",

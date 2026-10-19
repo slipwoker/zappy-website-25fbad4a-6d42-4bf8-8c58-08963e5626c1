@@ -81,7 +81,7 @@ Information about WCAG compliance and accessibility features.
 ### קורקינט פעלולים G11 מבית Grow Pro (Copy)
 https://parktoys.co.il/product/kvrkynt-palvlym-g11-mbyt-grow-pro-copy-2dmnmb
 - Price: 999.00 ILS
-- Availability: In stock
+- Availability: Out of stock
 - Category: גלגלים
 - Image: https://parktoys.co.il/assets/product-enhanced-1783354571875-nlzn1t.webp
 
