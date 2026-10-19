@@ -4186,8 +4186,8 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
-### בימבה מרצדס אדומה c class
-URL: https://parktoys.co.il/product/bymbh-mrtsds-advmh-c-class-wqvjnd
+### בימבה מרצדס שחורה c class
+URL: https://parktoys.co.il/product/bymbh-mrtsds-shchvrh-c-class-2e7bdh
 Price: 200.00 ILS
 Availability: In stock
 SKU: 9231360605791

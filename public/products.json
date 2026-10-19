@@ -1,17 +1,17 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-19T08:49:17.797Z",
+  "generated_at": "2026-10-19T08:52:13.582Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 533,
   "products": [
     {
       "id": "85fbce90-1042-4867-a52e-229934de21d9",
-      "slug": "bymbh-mrtsds-advmh-c-class-wqvjnd",
-      "name": "בימבה מרצדס אדומה c class",
+      "slug": "bymbh-mrtsds-shchvrh-c-class-2e7bdh",
+      "name": "בימבה מרצדס שחורה c class",
       "name_translations": {},
       "description": "",
-      "short_description": "בימבה מרצדס C קלאס . בצבע אדום .משמיעה צלילים , תא לאחסון מתחת לכסא . מתאים לגיל 12-36 חודשים .\n\nלא כולל סוללות\nהתמונה להמחשה בלבד, עשויה להציג מוצרי השלמה שאינם מגיעים במוצר הבסיס.",
+      "short_description": "בימבה מרצדס C קלאס . בצבע אדום .משמיעה צלילים , תא לאחסון מתחת לכסא . מתאים לגיל 12-36 חודשים .\n\nלא כולל סוללות\nהתמונה להמחשה בלבד, עשויה להציג מוצרי השלמה שאינם מגיעים במוצר הבסיס. מגיע במבע שחור ולבן",
       "sku": "9231360605791",
       "brand": null,
       "price": 200,
@@ -19,15 +19,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1792399538924-jckd8.webp"
+        "https://parktoys.co.il/assets/product-enhanced-1792399801252-56o2v8.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/bymbh-mrtsds-advmh-c-class-wqvjnd",
+      "url": "https://parktoys.co.il/product/bymbh-mrtsds-shchvrh-c-class-2e7bdh",
       "categories": [
         "גלגלים"
       ],
-      "updated_at": "2026-10-19T08:48:42.963Z"
+      "updated_at": "2026-10-19T08:51:38.913Z"
     },
     {
       "id": "820f8467-26dc-4c84-96d3-83ebb7191397",

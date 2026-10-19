@@ -78,14 +78,14 @@ Information about WCAG compliance and accessibility features.
 
 **Total active products: 533** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
-### בימבה מרצדס אדומה c class
-https://parktoys.co.il/product/bymbh-mrtsds-advmh-c-class-wqvjnd
+### בימבה מרצדס שחורה c class
+https://parktoys.co.il/product/bymbh-mrtsds-shchvrh-c-class-2e7bdh
 - Price: 200.00 ILS
 - Availability: In stock
 - Category: גלגלים
 - SKU: 9231360605791
-- Description: בימבה מרצדס C קלאס . בצבע אדום .משמיעה צלילים , תא לאחסון מתחת לכסא . מתאים לגיל 12-36 חודשים . לא כולל סוללות התמונה להמחשה בלבד, עשויה להציג מוצרי השלמה שאינם מגיעים במוצר הבסיס.
-- Image: https://parktoys.co.il/assets/product-enhanced-1792399538924-jckd8.webp
+- Description: בימבה מרצדס C קלאס . בצבע אדום .משמיעה צלילים , תא לאחסון מתחת לכסא . מתאים לגיל 12-36 חודשים . לא כולל סוללות התמונה להמחשה בלבד, עשויה להציג מוצרי השלמה שאינם מגיעים במוצר הבסיס. מגיע במבע שחור ולבן
+- Image: https://parktoys.co.il/assets/product-enhanced-1792399801252-56o2v8.webp
 
 ### מיני בימבה עם אורות מבית VIPER
 https://parktoys.co.il/product/myny-bymbh-am-avrvt-mbyt-viper-ii65bq
