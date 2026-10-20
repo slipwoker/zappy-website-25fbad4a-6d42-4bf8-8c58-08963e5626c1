@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-20T09:55:12.842Z",
+  "generated_at": "2026-10-20T11:08:53.745Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 539,
@@ -97,9 +97,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-mtkpl-batmn-3-glglym-gdvlym-vavrvt-bglglym-mbyt-ipop-ggbunb",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-10-19T13:54:59.024Z"
+      "updated_at": "2026-10-20T11:08:15.783Z"
     },
     {
       "id": "68df9153-6621-43bd-9620-1f80353bb022",
@@ -122,9 +123,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-mtkpl-am-3-glglym-lyldym-mbyt-lol-viper-338vdi",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-10-19T13:31:49.362Z"
+      "updated_at": "2026-10-20T11:08:15.582Z"
     },
     {
       "id": "10091c97-b475-4d88-8cd5-bf8f00b9962f",
@@ -146,9 +148,10 @@
       "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-palvlym-g11-mbyt-grow-pro-copy-2dmnmb",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-10-19T13:18:46.805Z"
+      "updated_at": "2026-10-20T11:08:15.180Z"
     },
     {
       "id": "85fbce90-1042-4867-a52e-229934de21d9",
@@ -8559,9 +8562,10 @@
       "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-3-glglym-kicknroll-lmbvrgyny-zcb353",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-10-14T13:45:09.713Z"
+      "updated_at": "2026-10-20T11:08:11.926Z"
     },
     {
       "id": "8725fdeb-ae6c-4f2c-a765-039bf6d33c63",
@@ -8632,9 +8636,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-gvld-skvt-palvlym-mktsvay-vyypr-zhb-sr6xmb",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-10-19T13:15:34.689Z"
+      "updated_at": "2026-10-20T11:08:14.979Z"
     },
     {
       "id": "126c0975-5e08-4059-8ae8-1624ab0ed282",
@@ -11409,9 +11414,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/ksdh-byysyk-lbn-grow-mydh-m-gyl-5-10-cqc92i",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-07-07T10:04:51.335Z"
+      "updated_at": "2026-10-20T11:08:12.953Z"
     },
     {
       "id": "17b29c06-5b2d-484e-adb8-2e98ed224059",
@@ -11433,9 +11439,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/ksdh-byysyk-shchvr-grow-mydh-s-gyl-3-6-3uv6tp",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-07-07T09:57:16.883Z"
+      "updated_at": "2026-10-20T11:08:12.549Z"
     },
     {
       "id": "7db856ce-40ac-4536-86b3-a035be6d11fe",
@@ -11457,9 +11464,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/mgyny-brkyym-vmrpkym-spyydrmn-spin-royal-mydh-m-kf2yf2",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-07-07T09:42:11.870Z"
+      "updated_at": "2026-10-20T11:08:13.356Z"
     },
     {
       "id": "79e9aea7-a976-4008-a4e3-18fa2054e888",
@@ -11481,9 +11489,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/mgyny-brkyym-vmrpkym-prvzn-spin-royal-mydh-m-wao111",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-07-07T09:22:02.390Z"
+      "updated_at": "2026-10-20T11:08:13.155Z"
     },
     {
       "id": "2ebdbc19-ae31-451b-92f9-0a1b7bcbed3b",
@@ -11505,9 +11514,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/mgyny-brkyym-vmrpkym-styts-spin-royal-mydh-m-eangry",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-07-07T09:20:19.397Z"
+      "updated_at": "2026-10-20T11:08:12.752Z"
     },
     {
       "id": "00c4a9cf-d7b7-4287-9960-71e4ad0902ff",
@@ -11529,9 +11539,10 @@
       "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-mprts-hhrptkavt-ychydt-hchylvts-mk3nh0",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-10-14T13:45:09.713Z"
+      "updated_at": "2026-10-20T11:08:11.725Z"
     },
     {
       "id": "5bc7f927-39f5-4d72-8330-8110a2756c2f",
@@ -11553,9 +11564,10 @@
       "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/ksdt-yldym-mavtsbt-am-mngnvn-htamh-vptchy-ayvvrvr-lgyl-5-vmalh-krysh-apvr-3lnfhq",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-10-14T13:45:09.713Z"
+      "updated_at": "2026-10-20T11:08:10.712Z"
     },
     {
       "id": "f3ebcf61-b903-49bd-baf1-806dfa9d695d",
@@ -11577,9 +11589,10 @@
       "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/ksdh-lyldym-dgm-unicorn-mbyt-grow-mydh-m-tsba-sgvl-dmffpo",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-10-14T13:45:09.713Z"
+      "updated_at": "2026-10-20T11:08:10.297Z"
     },
     {
       "id": "d1bf50ff-8257-494d-b933-5af39c723cec",
@@ -11601,9 +11614,10 @@
       "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/ksdt-yldym-mavtsbt-am-mngnvn-htamh-vptchy-ayvvrvr-lgyl-3-vmalh-dynvzavr-yrvk-mhx2pf",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-10-14T13:45:09.713Z"
+      "updated_at": "2026-10-20T11:08:10.096Z"
     },
     {
       "id": "e2b77d32-250f-4ccf-83ac-c30c9e788b2b",
@@ -11625,9 +11639,10 @@
       "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/ksdh-btychvt-lvl-jnxu5m",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-10-14T13:45:09.713Z"
+      "updated_at": "2026-10-20T11:08:11.522Z"
     },
     {
       "id": "47f89341-79b8-4582-b20d-cec25081136c",
@@ -11649,9 +11664,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/ksdt-btychvt-byt-hbvbvt-shl-gby-019rp4",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-07-07T07:43:11.005Z"
+      "updated_at": "2026-10-20T11:08:11.119Z"
     },
     {
       "id": "9ba04cae-32f8-496e-ae9c-db49e7747dc3",
@@ -11673,9 +11689,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/ksdt-btychvt-svnyk-pryym-zrqhym",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-07-06T16:39:50.517Z"
+      "updated_at": "2026-10-20T11:08:14.779Z"
     },
     {
       "id": "16c76476-1dc1-41c2-a71e-1b8f8acd2875",
@@ -11719,9 +11736,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-palvlym-g11-mbyt-grow-pro-ryhs1j",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-07-06T16:16:36.719Z"
+      "updated_at": "2026-10-20T11:08:14.577Z"
     },
     {
       "id": "67e865d5-aacd-42ef-9b42-a13bedfd8dbb",
@@ -11743,9 +11761,10 @@
       "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-grow-pro-g10-hfdu33",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-10-14T13:45:09.713Z"
+      "updated_at": "2026-10-20T11:08:12.346Z"
     },
     {
       "id": "7e3c0fda-9c1b-4a67-bfef-a156c3f8045b",
@@ -11861,9 +11880,10 @@
       "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-3-glglym-hpvk-bayvr-lol-9ffr8j",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-10-14T13:45:09.713Z"
+      "updated_at": "2026-10-20T11:08:14.171Z"
     },
     {
       "id": "cf6289ef-a570-4607-9423-446e02b1e0a3",
@@ -11910,9 +11930,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-am-3-glglym-lyldym-mbyt-viper-svprmn-sqil49",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-07-06T09:20:30.534Z"
+      "updated_at": "2026-10-20T11:08:14.376Z"
     },
     {
       "id": "b8e85717-d65f-4f57-895d-3b354a0ac8a0",
@@ -12248,9 +12269,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-myky-mavs-3-glglym-am-blm-rgl-disney-fo9les",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-06-29T16:22:25.453Z"
+      "updated_at": "2026-10-20T11:08:10.918Z"
     },
     {
       "id": "0947a13e-a6ea-4706-b2f8-7420cc1907c1",
@@ -12298,9 +12320,10 @@
       "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-prvzn-3-glglym-am-blm-rgl-ilfzty",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-10-14T13:45:09.713Z"
+      "updated_at": "2026-10-20T11:08:10.508Z"
     },
     {
       "id": "d9f7edcf-2af4-48d8-b639-dacca9c9fb79",
@@ -12371,9 +12394,10 @@
       "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-3-glglym-lyldym-viper-super-ride-i3mlgt",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-10-14T13:45:09.713Z"
+      "updated_at": "2026-10-20T11:08:09.892Z"
     },
     {
       "id": "ea7b973e-cb10-41ec-8f26-3eb993a99adb",
@@ -12397,9 +12421,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-lyldym-3-glglym-am-avrvt-mbyt-viper-b9k1vk",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-06-29T13:13:52.842Z"
+      "updated_at": "2026-10-20T11:08:13.559Z"
     },
     {
       "id": "e7223330-8769-4f22-88c0-e9a71878cd1f",
@@ -12421,9 +12446,10 @@
       "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-prymyvm-mtkpl-am-glglym-gdvlym-bvlmy-zazvaym-vmatsvr-yd-kvrkynt-aykvty-lyldym-nvar-ssuk0u",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-10-19T13:18:46.805Z"
+      "updated_at": "2026-10-20T11:08:15.380Z"
     },
     {
       "id": "febe3da7-ad27-4ed5-94b8-9b01dbaa1218",
@@ -12445,9 +12471,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-3-glglym-svnyk-pryym-b84qes",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-06-29T11:21:01.082Z"
+      "updated_at": "2026-10-20T11:08:13.768Z"
     },
     {
       "id": "baae0fa2-5cfc-4ffd-9e99-61f59c75887e",
@@ -12469,9 +12496,10 @@
       "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-3-glglym-hlv-kyty-3sis1z",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-10-19T13:18:46.805Z"
+      "updated_at": "2026-10-20T11:08:13.971Z"
     },
     {
       "id": "2c356a83-1fad-4ed0-90d7-7292d40696f2",
@@ -12562,9 +12590,10 @@
       "stock_status": "out_of_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-3-glglym-styts-dzfzio",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-10-14T13:45:09.713Z"
+      "updated_at": "2026-10-20T11:08:11.322Z"
     },
     {
       "id": "30a6c562-3d24-43d8-9fdf-16e1b33c88eb",
@@ -12686,9 +12715,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/kvrkynt-palvlym-mktsvay-glgly-sylykvn-110-mm-viper-gojx72",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים"
       ],
-      "updated_at": "2026-06-29T11:35:46.516Z"
+      "updated_at": "2026-10-20T11:08:12.146Z"
     },
     {
       "id": "101a92c7-c309-4782-9aed-c5f96b93ba2a",
