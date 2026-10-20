@@ -25933,6 +25933,183 @@ main,
   grid-template-columns: 1fr;
 }
 }
+
+/* AI-generated section */
+.toypark-category-grid {
+  background: var(--background-color, #ffffff);
+  padding: 70px 20px 80px;
+  direction: rtl;
+  font-family: system-ui, sans-serif;
+}
+
+.toypark-category-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.toypark-category-header {
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.toypark-category-header h2 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: var(--text-color, #4a4a4a);
+  margin: 0 0 12px 0;
+  letter-spacing: -0.5px;
+  position: relative;
+  display: inline-block;
+}
+
+.toypark-category-header h2::after {
+  content: '';
+  display: block;
+  width: 80px;
+  height: 4px;
+  background: linear-gradient(90deg, var(--primary-color, #60A5FA), var(--secondary-color, #FF6B6B), var(--accent-color, #F4C542));
+  border-radius: 2px;
+  margin: 14px auto 0;
+}
+
+.toypark-category-subtitle {
+  font-size: 1.1rem;
+  color: var(--text-secondary-color, #707070);
+  margin: 0;
+}
+
+.toypark-category-grid-wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+}
+
+.toypark-category-card {
+  display: block;
+  text-decoration: none;
+  background: var(--surface-color, #f8f9fa);
+  border-radius: 20px;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  position: relative;
+  border: 3px solid transparent;
+}
+
+.toypark-category-card:hover,
+.toypark-category-card:focus-visible {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 28px rgba(96, 165, 250, 0.25);
+  border-color: var(--primary-color, #60A5FA);
+  outline: none;
+}
+
+.toypark-category-image-wrapper {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: linear-gradient(135deg, rgba(96, 165, 250, 0.15), rgba(255, 107, 107, 0.12));
+}
+
+.toypark-category-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+.toypark-category-card:hover .toypark-category-image {
+  transform: scale(1.06);
+}
+
+.toypark-category-label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 22px;
+  background: #ffffff;
+  border-top: 2px solid rgba(96, 165, 250, 0.15);
+}
+
+.toypark-category-name {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text-color, #4a4a4a);
+  transition: color 0.3s ease;
+}
+
+.toypark-category-card:hover .toypark-category-name {
+  color: var(--primary-color, #60A5FA);
+}
+
+.toypark-category-arrow {
+  font-size: 1.3rem;
+  color: var(--secondary-color, #FF6B6B);
+  transition: transform 0.3s ease;
+  font-weight: 700;
+}
+
+.toypark-category-card:hover .toypark-category-arrow {
+  transform: translateX(-5px);
+}
+
+/* Color accents for cards - alternating playful borders */
+.toypark-category-card:nth-child(3n+1) .toypark-category-label {
+  border-top-color: rgba(96, 165, 250, 0.35);
+}
+
+.toypark-category-card:nth-child(3n+2) .toypark-category-label {
+  border-top-color: rgba(255, 107, 107, 0.35);
+}
+
+.toypark-category-card:nth-child(3n+3) .toypark-category-label {
+  border-top-color: rgba(244, 197, 66, 0.45);
+}
+
+/* Tablet: 2 columns */
+@media (max-width: 992px) {
+  .toypark-category-grid-wrapper {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 22px;
+  }
+  
+  .toypark-category-header h2 {
+    font-size: 2.1rem;
+  }
+}
+
+/* Mobile: 1 column */
+@media (max-width: 600px) {
+  .toypark-category-grid {
+    padding: 50px 16px 60px;
+  }
+  
+  .toypark-category-grid-wrapper {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+  
+  .toypark-category-header {
+    margin-bottom: 32px;
+  }
+  
+  .toypark-category-header h2 {
+    font-size: 1.8rem;
+  }
+  
+  .toypark-category-subtitle {
+    font-size: 1rem;
+  }
+  
+  .toypark-category-name {
+    font-size: 1.05rem;
+  }
+  
+  .toypark-category-label {
+    padding: 14px 18px;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
