@@ -76,7 +76,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 539** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 537** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### בובת פיקאצ'ו אינטראקטיבית
 https://parktoys.co.il/product/bvbt-pykatsv-ayntraktybyt-vrmtl0
@@ -281,12 +281,6 @@ https://parktoys.co.il/product/chlypt-kdvrgl-nbchrt-yshral-svlvmvn-ijeydt
 - Category: מוצרי ספורט
 - Image: https://parktoys.co.il/assets/product-enhanced-1791720254714-5gnl0j.webp
 
-### שליחה מחדש
-https://parktoys.co.il/product/shlychh-mchdsh-zg8i9r
-- Price: 0.10 ILS
-- Availability: In stock
-- Category: מוצרי ספורט
-
 ### חליפת כדורגל מכבי חיפה מלמד 
 https://parktoys.co.il/product/chlypt-kdvrgl-mkby-chyph-mlmd-2vms8k
 - Price: 69.00 ILS (sale, was 99.00 ILS)
@@ -308,12 +302,6 @@ https://parktoys.co.il/product/chlyph-kdvrgl-argtynh-hnpt-gbya-wbat3h
 - Category: מוצרי ספורט
 - Description: חליפת כדורגל איכותית של ארגטינה ממשחק הגמר מניפים גביע
 - Image: https://parktoys.co.il/assets/product-enhanced-1791127409911-wxv3pr.webp
-
-### מוצר טסט
-https://parktoys.co.il/product/mvtsr-tst-1qo3uc
-- Price: 1.00 ILS
-- Availability: In stock
-- Description: מוצר טסט לבדיקה פנימית
 
 ### שולחן כדורגל מכבי תל אביב
 https://parktoys.co.il/product/shvlchn-kdvrgl-mkby-tl-abyb-l8298a
@@ -1642,6 +1630,22 @@ https://parktoys.co.il/product/sl-kdvrsl-lyldym-mtkvvnn-ad-166-sm-kvll-kdvr-vmsh
 - Category: מוצרי ספורט
 - Description: סל כדורסל לילדים עם גובה מתכוונן עד 166 ס"מ כולל כדור ומשאבה בסיס יציב למילוי במים או חול לשימוש בבית, במרפסת, בחצר ובגינה יתרונות: משחק ספורטיבי מהנה המפתח קואורדינציה, דיוק וביטחון עצמי ומעודד פעילות גופנית מגיל צעיר.
 - Image: https://parktoys.co.il/assets/product-1785673360015-weabe.webp
+
+### רכב ההצלה של סקיי מפרץ ההרפתקאות
+https://parktoys.co.il/product/rkb-hhtslh-shl-skyy-mprts-hhrptkavt-dn8ydj
+- Price: 95.00 ILS
+- Availability: In stock
+- Category: צעוצעים לבנים /דמויות/מותגים
+- Description: צאו למשימות חילוץ מרגשות עם צוות מפרץ ההרפתקאות ברכבי ההצלה שלהם! לכל רכב יש גלגלים ענקיים עם עיצוב וסגנון אותנטיים שנראים ממש כמו הרכבים מהסדרה. הניחו את הדמות במושב הנהג כדי שיוכל לחלץ במהירות! כשמגיע הזמן לפעול, דחפו את סנפיר הזנב במשאית של סקיי כדי לצאת ממצב רכב למטוס, ואז טוסו כדי להציל את היום! צעצועי מפרץ ההרפתקאות מהווים מתנה נהדרת לילדים חובבי הסדרה, לעידוד משחק מלא דמיון ושיפור היכולות המוטוריות.
+- Image: https://parktoys.co.il/assets/product-enhanced-1785673467165-tqg51m.webp
+
+### רכב ההצלה של זומה מפרץ ההרפתקאות
+https://parktoys.co.il/product/rkb-hhtslh-shl-zvmh-mprts-hhrptkavt-50c8am
+- Price: 95.00 ILS
+- Availability: In stock
+- Category: צעוצעים לבנים /דמויות/מותגים
+- Description: צאו למשימות חילוץ מרגשות עם צוות מפרץ ההרפתקאות ברכבי ההצלה שלהם! לכל רכב יש גלגלים ענקיים עם עיצוב וסגנון אותנטיים שנראים ממש כמו הרכבים מהסדרה. הניחו את הדמות במושב הנהג כדי שיוכל לחלץ במהירות! כשמגיע הזמן לפעול, טענו אחד משני הקליעים לתוך משגר הקליעים ולחצו על הכפתור כדי לירות ולהפוך לגיבורי היום! צעצועי מפרץ ההרפתקאות מהווים מתנה נהדרת לילדים חובבי הסדרה, לעידוד משחק מלא דמיון ושיפור היכולות המוטוריות.
+- Image: https://parktoys.co.il/assets/product-enhanced-1785669344614-k93yml.webp
 
 ---
 

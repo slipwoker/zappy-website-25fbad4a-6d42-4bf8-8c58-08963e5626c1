@@ -3285,6 +3285,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -4497,13 +4499,6 @@ Availability: In stock
 
 ---
 
-### שליחה מחדש
-URL: https://parktoys.co.il/product/shlychh-mchdsh-zg8i9r
-Price: 0.10 ILS
-Availability: In stock
-
----
-
 ### חליפת כדורגל מכבי חיפה מלמד 
 URL: https://parktoys.co.il/product/chlypt-kdvrgl-mkby-chyph-mlmd-2vms8k
 Price: 69.00 ILS (sale, was 99.00 ILS)
@@ -4522,15 +4517,6 @@ Availability: In stock
 URL: https://parktoys.co.il/product/chlyph-kdvrgl-argtynh-hnpt-gbya-wbat3h
 Price: 69.00 ILS (sale, was 99.00 ILS)
 Availability: In stock
-
----
-
-### מוצר טסט
-URL: https://parktoys.co.il/product/mvtsr-tst-1qo3uc
-Price: 1.00 ILS
-Availability: In stock
-
-מוצר טסט לבדיקה פנימית
 
 ---
 
