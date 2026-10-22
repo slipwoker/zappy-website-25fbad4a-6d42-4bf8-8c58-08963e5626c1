@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-22T08:25:46.837Z",
+  "generated_at": "2026-10-22T08:26:31.863Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 539,
@@ -31,7 +31,7 @@
     },
     {
       "id": "e9fbc6ff-2b98-4886-a15f-6ee854765bcb",
-      "slug": "chlypt-kdvrgl-argtynh-arvkh-msy-5anjhm",
+      "slug": "chlypt-kdvrgl-argtynh-arvkh-msy-dh2vre",
       "name": "חליפת כדורגל ארגטינה ארוכה -מסי",
       "name_translations": {},
       "description": "",
@@ -47,11 +47,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-argtynh-arvkh-msy-5anjhm",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-argtynh-arvkh-msy-dh2vre",
       "categories": [
         "חליפות כדורגל לילדים"
       ],
-      "updated_at": "2026-10-22T08:25:12.800Z"
+      "updated_at": "2026-10-22T08:25:54.764Z"
     },
     {
       "id": "e467d0af-493d-48ee-8cba-a9fd79c681e0",
