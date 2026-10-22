@@ -78,8 +78,8 @@ Information about WCAG compliance and accessibility features.
 
 **Total active products: 540** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
-### חליפת כדורגל ארוכה לאמין יאמל 
-https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-lamyn-yaml-snxwmt
+### חליפת כדורגל ארוכה ספרד- לאמין יאמל 
+https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-r7k6ib
 - Price: 69.00 ILS (sale, was 120.00 ILS)
 - Availability: In stock
 - Category: חליפות כדורגל לילדים
