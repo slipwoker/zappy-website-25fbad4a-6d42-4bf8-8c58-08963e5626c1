@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 543** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 544** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת כדורגל מכבי תל אביבי ארוכה 
+https://parktoys.co.il/product/chlypt-kdvrgl-mkby-tl-abyby-arvkh-i08zkl
+- Price: 69.00 ILS (sale, was 120.00 ILS)
+- Availability: In stock
+- Category: חליפות כדורגל לילדים
+- Description: חליפת כדורגל ארוכה למשחק המכנס מגיע 7/8 כי הוא מותאם למשחק
+- Image: https://parktoys.co.il/assets/product-enhanced-1792659305009-8bzo2g.webp
 
 ### חליפת כדורגלל מכבי חיפה ארוכה
 https://parktoys.co.il/product/chlypt-kdvrgll-mkby-chyph-arvkh-vkpo68
@@ -1638,14 +1646,6 @@ https://parktoys.co.il/product/lgv-kryatvr-kvnsvlt-mshchk-rtrv-31380-lego-x2axug
 - Category: לגו-lego
 - Description: ילדים וחובבי משחקים בגילאי 8 ומעלה יהנו לבנות, לשחק ולהציג את LEGO® Creator 3 ב-1 – קונסולת משחק רטרו (31380) סט זה מאפשר לילדים ליצור 3 דגמי משחק שונים מאותו סט קוביות: קונסולת משחק ניידת עם 2 ג’ויסטיקים נעים, 2 כפתורים נעים ובחירה מתוך 3 קסטות משחק להכניס לתוכה. מחשב שולחני מיניאטורי הכולל מקלדת, מסך, דיסק להכניס ועמדת עכבר. מכונת משחק ארקייד עם פרטים אייקוניים ומזוהים מהקלאסיקות של משחקי הרטרו. כל דגם יכול לשמש גם כקישוט לחדר גיימרים, כאשר לא מתבצע משחק פעיל. באמצעות אפליקציית LEGO Builder, ה…
 - Image: https://parktoys.co.il/assets/product-1785677157560-xrcq4s.webp
-
-### לגו Creator 3in1 – אוגר חמוד עם פרח (31376)
-https://parktoys.co.il/product/lgv-creator-3in1-avgr-chmvd-am-prch-31376-tr38lz
-- Price: 69.90 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: 3 אפשרויות לבניית חיות צעצוע בסט 1 בנו את הצעצוע 3 ב-1 של האוגר החמוד הזה מסדרת LEGO® Creator, ואז השתמשו באותן לבנים כדי לבנות אותו מחדש בצורה של קיפוד או עיט צעצוע. חוויה מהנה של משחק ובנייה חוויה מהנה של משחק ובנייה ילדים בני 7 ומעלה יכולים ליהנות מבנייה שופעת בחוויות של כיף ואז לשחק סיפורים מרגשים עם 3 חיות צעצוע מתכווננות של ®LEGO.
-- Image: https://parktoys.co.il/assets/product-1785676436251-hnup2r.webp
 
 ---
 
