@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 539** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 540** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת כדורגל ארוכה לאמין יאמל 
+https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-lamyn-yaml-snxwmt
+- Price: 69.00 ILS (sale, was 120.00 ILS)
+- Availability: In stock
+- Category: חליפות כדורגל לילדים
+- Description: חליפת כדורגל ארוכה למשחק המכנס מגיע 7/8 כי הוא מותאם למשחק
+- Image: https://parktoys.co.il/assets/product-enhanced-1792657863623-7e3rw.webp
 
 ### חליפת כדורגל פורטוגל ארוכה- רונלאדו 
 https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-oqjc90
@@ -1638,14 +1646,6 @@ https://parktoys.co.il/product/lgv-syty-mtvs-sylvn-ngd-mkvnyt-60489-lego-emb9wj
 - Category: לגו-lego
 - Description: ערכת LEGO City: Jet מול מכונית – Jet vs. Car (60489) ילדים בגילאי 6 ומעלה יכולים להיכנס לעולם מרוצי העל במהירות עם ערכת LEGO City זו הכוללת סופר־קאר ומטוס על־קולי. מה בערכה: סופר־קאר: דלתות נפתחות, מושב מרוץ מפורט, גישה לתא הנהג. מטוס על־קולי: כנפיים מוטות לאחור, סנפירים אנכיים,
 - Image: https://parktoys.co.il/assets/product-1785674697888-39xh8c.webp
-
-### סל כדורסל לילדים מתכוונן עד 166 ס"מ כולל כדור ומשאבה – לבית, לחצר ולגינה
-https://parktoys.co.il/product/sl-kdvrsl-lyldym-mtkvvnn-ad-166-sm-kvll-kdvr-vmshabh-lbyt-lchtsr-vlgynh-ziu4aq
-- Price: 179.00 ILS
-- Availability: In stock
-- Category: מוצרי ספורט
-- Description: סל כדורסל לילדים עם גובה מתכוונן עד 166 ס"מ כולל כדור ומשאבה בסיס יציב למילוי במים או חול לשימוש בבית, במרפסת, בחצר ובגינה יתרונות: משחק ספורטיבי מהנה המפתח קואורדינציה, דיוק וביטחון עצמי ומעודד פעילות גופנית מגיל צעיר.
-- Image: https://parktoys.co.il/assets/product-1785673360015-weabe.webp
 
 ---
 
