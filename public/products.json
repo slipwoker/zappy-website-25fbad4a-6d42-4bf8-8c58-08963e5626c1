@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-22T08:35:27.723Z",
+  "generated_at": "2026-10-22T08:39:57.997Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 540,
+  "count": 541,
   "products": [
+    {
+      "id": "fedca2f9-2a88-4229-98df-d889b3b22859",
+      "slug": "chlypt-kdvrgl-arvkh-brzyl-vynysyvs-m84iy4",
+      "name": "חליפת כדורגל ארוכה ברזיל- ויניסיוס",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חליפת כדורגל ארוכה למשחק המכנס מגיע 7/8 כי הוא מותאם למשחק ",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 119.98,
+      "sale_price": 69,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1792658165958-xsw2lm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-brzyl-vynysyvs-m84iy4",
+      "categories": [
+        "חליפות כדורגל לילדים"
+      ],
+      "updated_at": "2026-10-22T08:39:56.868Z"
+    },
     {
       "id": "b9f4f068-2222-48cd-b019-f22eed7347a0",
       "slug": "chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-r7k6ib",
