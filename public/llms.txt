@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 537** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 538** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת כדורגל ארגטינה - ארוך 
+https://parktoys.co.il/product/chlypt-kdvrgl-argtynh-arvk-b1zpyh
+- Price: 69.00 ILS (sale, was 120.00 ILS)
+- Availability: In stock
+- Category: חליפות כדורגל לילדים
+- Description: חליפת כדורגל ארוכה למשחק המכנס מגיע 7/8 כי הוא מותאם למשחק
+- Image: https://parktoys.co.il/assets/product-enhanced-1792656806241-h9u5k.webp
 
 ### בובת פיקאצ'ו אינטראקטיבית
 https://parktoys.co.il/product/bvbt-pykatsv-ayntraktybyt-vrmtl0
@@ -1638,14 +1646,6 @@ https://parktoys.co.il/product/rkb-hhtslh-shl-skyy-mprts-hhrptkavt-dn8ydj
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: צאו למשימות חילוץ מרגשות עם צוות מפרץ ההרפתקאות ברכבי ההצלה שלהם! לכל רכב יש גלגלים ענקיים עם עיצוב וסגנון אותנטיים שנראים ממש כמו הרכבים מהסדרה. הניחו את הדמות במושב הנהג כדי שיוכל לחלץ במהירות! כשמגיע הזמן לפעול, דחפו את סנפיר הזנב במשאית של סקיי כדי לצאת ממצב רכב למטוס, ואז טוסו כדי להציל את היום! צעצועי מפרץ ההרפתקאות מהווים מתנה נהדרת לילדים חובבי הסדרה, לעידוד משחק מלא דמיון ושיפור היכולות המוטוריות.
 - Image: https://parktoys.co.il/assets/product-enhanced-1785673467165-tqg51m.webp
-
-### רכב ההצלה של זומה מפרץ ההרפתקאות
-https://parktoys.co.il/product/rkb-hhtslh-shl-zvmh-mprts-hhrptkavt-50c8am
-- Price: 95.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: צאו למשימות חילוץ מרגשות עם צוות מפרץ ההרפתקאות ברכבי ההצלה שלהם! לכל רכב יש גלגלים ענקיים עם עיצוב וסגנון אותנטיים שנראים ממש כמו הרכבים מהסדרה. הניחו את הדמות במושב הנהג כדי שיוכל לחלץ במהירות! כשמגיע הזמן לפעול, טענו אחד משני הקליעים לתוך משגר הקליעים ולחצו על הכפתור כדי לירות ולהפוך לגיבורי היום! צעצועי מפרץ ההרפתקאות מהווים מתנה נהדרת לילדים חובבי הסדרה, לעידוד משחק מלא דמיון ושיפור היכולות המוטוריות.
-- Image: https://parktoys.co.il/assets/product-enhanced-1785669344614-k93yml.webp
 
 ---
 
