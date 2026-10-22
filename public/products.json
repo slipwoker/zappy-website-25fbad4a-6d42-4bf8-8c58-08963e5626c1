@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-22T08:46:27.921Z",
+  "generated_at": "2026-10-22T08:53:28.198Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 542,
+  "count": 543,
   "products": [
+    {
+      "id": "da341ca4-8c03-4932-ba5d-623af0122582",
+      "slug": "chlypt-kdvrgll-mkby-chyph-arvkh-vkpo68",
+      "name": "חליפת כדורגלל מכבי חיפה ארוכה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חליפת כדורגל ארוכה למשחק המכנס מגיע 7/8 כי הוא מותאם למשחק ",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 120,
+      "sale_price": 69,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1792659130177-o8rca4.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgll-mkby-chyph-arvkh-vkpo68",
+      "categories": [
+        "חליפות כדורגל לילדים"
+      ],
+      "updated_at": "2026-10-22T08:53:00.708Z"
+    },
     {
       "id": "9c5661ac-f37d-4e7d-b015-89617c7f7c15",
       "slug": "chlypt-kdvrgl-ryal-mdryd-arvkh-ambph-ispwtk",

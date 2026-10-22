@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 542** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 543** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת כדורגלל מכבי חיפה ארוכה
+https://parktoys.co.il/product/chlypt-kdvrgll-mkby-chyph-arvkh-vkpo68
+- Price: 69.00 ILS (sale, was 120.00 ILS)
+- Availability: In stock
+- Category: חליפות כדורגל לילדים
+- Description: חליפת כדורגל ארוכה למשחק המכנס מגיע 7/8 כי הוא מותאם למשחק
+- Image: https://parktoys.co.il/assets/product-enhanced-1792659130177-o8rca4.webp
 
 ### חליפת כדורגל ריאל מדריד ארוכה אמבפה
 https://parktoys.co.il/product/chlypt-kdvrgl-ryal-mdryd-arvkh-ambph-ispwtk
@@ -1638,14 +1646,6 @@ https://parktoys.co.il/product/lgv-creator-3in1-avgr-chmvd-am-prch-31376-tr38lz
 - Category: לגו-lego
 - Description: 3 אפשרויות לבניית חיות צעצוע בסט 1 בנו את הצעצוע 3 ב-1 של האוגר החמוד הזה מסדרת LEGO® Creator, ואז השתמשו באותן לבנים כדי לבנות אותו מחדש בצורה של קיפוד או עיט צעצוע. חוויה מהנה של משחק ובנייה חוויה מהנה של משחק ובנייה ילדים בני 7 ומעלה יכולים ליהנות מבנייה שופעת בחוויות של כיף ואז לשחק סיפורים מרגשים עם 3 חיות צעצוע מתכווננות של ®LEGO.
 - Image: https://parktoys.co.il/assets/product-1785676436251-hnup2r.webp
-
-### לגו גיבורי על ספיידרמן נגד גוסט ריידר על אופנוע 76335
-https://parktoys.co.il/product/lgv-gybvry-al-spyydrmn-ngd-gvst-ryydr-al-avpnva-76335-mgwmfr
-- Price: 69.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: הניעו את מרדף האקשן של גיבורי-על עם צעצוע הבנייה (76335) של ספיידרמן נגד גוסט ריידר על אופנוע לילדים וילדות בגילאי 6 ומעלה. האופנוע המצוייד לקרב מסט הבנייה של LEGO ǀ Marvel® ו-2 מיני-דמויות של ספיידרמן וגוסט ריידר מתדלקים את משחקי הדמיון של ילדים. המיני-דמות של גוסט ריידר מופיעה בצורת שלד עם להבות הבוערות בידיו ובראשו. האופנוע האיקוני שלו כולל 2 צינורות פליטה בוערים ו-2 משגרי בליטות מובנים. חבל רשת של ספיידרמן נצמד לאופנוע ומציע אינסוף אפשרויות למשחקי תפקידים בזמן שהדמויות נלחמות על ומחוץ לכלי ה
-- Image: https://parktoys.co.il/assets/product-1785675280546-h1u2p.webp
 
 ---
 
