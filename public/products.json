@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-22T09:09:34.101Z",
+  "generated_at": "2026-10-23T10:33:35.413Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 544,
@@ -1535,7 +1535,7 @@
     },
     {
       "id": "064c9840-ef63-4877-b664-5b8252b5ed02",
-      "slug": "chlypt-kdvrgl-pvrtvgl-rvnaldv-q3plxj",
+      "slug": "chlypt-kdvrgl-pvrtvgl-rvnaldv-swgyen",
       "name": "חליפת כדורגל פורטוגל רונאלדו ",
       "name_translations": {},
       "description": "",
@@ -1549,14 +1549,14 @@
       "images": [
         "https://parktoys.co.il/assets/product-1789573921952-tpny1p.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-rvnaldv-q3plxj",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-rvnaldv-swgyen",
       "categories": [
         "מוצרי ספורט",
         "חליפות כדורגל לילדים"
       ],
-      "updated_at": "2026-10-11T11:27:24.701Z"
+      "updated_at": "2026-10-23T10:33:31.662Z"
     },
     {
       "id": "855729a4-3850-4ffc-8e59-9a46fcb78327",
@@ -3327,7 +3327,7 @@
     },
     {
       "id": "56af679e-e8c8-4cb2-8fcd-ff8e90f54b58",
-      "slug": "chlypt-kdvrgl-mvndyal-2026-pvrtvgl-rvnaldv-y2j9dq",
+      "slug": "chlypt-kdvrgl-mvndyal-2026-pvrtvgl-rvnaldv-7o85s3",
       "name": "חליפת כדורגל מונדיאל 2026 פורטוגל רונאלדו",
       "name_translations": {},
       "description": "",
@@ -3341,14 +3341,14 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1786434262433-i7zgg.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-pvrtvgl-rvnaldv-y2j9dq",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-pvrtvgl-rvnaldv-7o85s3",
       "categories": [
         "מוצרי ספורט",
         "חליפות כדורגל לילדים"
       ],
-      "updated_at": "2026-10-11T11:27:24.093Z"
+      "updated_at": "2026-10-23T10:32:58.767Z"
     },
     {
       "id": "3f127608-da22-4bab-aa93-cc6c6cc8a760",
