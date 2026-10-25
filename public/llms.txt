@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 545** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 546** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### גרבי כדורגל פורטוגל 
+https://parktoys.co.il/product/grby-kdvrgl-pvrtvgl-5yjggi
+- Price: 29.00 ILS
+- Availability: In stock
+- Category: חליפות כדורגל לילדים
+- Description: מידות 30-38
+- Image: https://parktoys.co.il/assets/product-enhanced-1792937678856-kr54xr.webp
 
 ### גרביי כדורגל ברצלונה 
 https://parktoys.co.il/product/grbyy-kdvrgl-brtslvnh-9ptbfm
@@ -1638,14 +1646,6 @@ https://parktoys.co.il/product/lgv-minecraft-hgn-hchyvvr-21586-i5gj23
 - Category: לגו-lego
 - Description: טוסו להרפתקה עם Mothman ההירואי! השתמשו בגרזן המכושף ובכנפי האליטרה שלכם ורחפו מסביב לביום של הגן החיוור. צאו לקרב נגד שלד וקריפר, כדי להגן על הלב החורק החבוי בתוך העץ הגדול. השחילו את הסיכה הסודית כדי להקפיצו החוצה, אבל היזהרו מהמרשרש העויין שמתגנב מאחוריכם! עם אוצר שאפשר למצוא וצלע חזיר הנצלע על המדורה, אין זמן לבזבז!
 - Image: https://parktoys.co.il/assets/product-enhanced-1785701519041-lkmgz9.webp
-
-###  לגו קריאטור – כלבלב שובב 31382
-https://parktoys.co.il/product/lgv-kryatvr-klblb-shvbb-31382-rxvxej
-- Price: 169.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: סט בנייה 3 ב-1 חיות חמודות: כלבלב שובב (31382) מסדרת LEGO Creator® מאפשר לילדים בגילאי 8 ומעלה לשחק סיפורים שופעים בחוויות כיפיות. צעצוע חיות חמוד זה לילדים וילדות מציע 3 אפשרויות בנייה שונות עם אותו סט של לבנים. ילדים יכולים לבחור האם לבנות כלב צעצוע עם ראש, אוזניים, רגליים, זנב, גבות ופה מתכווננים מאובזר עם קולר, צעצוע עצם וקערת מים. ניתן לבנות את הדגם מחדש בצורת צעצוע סנאי המחזיק בלוט עם ראש וזנב מתכווננים, או בצורת דגם של ברווז עם ראש מתכוונן על שפת בריכה מלאה בצמחים. בסיום המשחק, ניתן להציג…
-- Image: https://parktoys.co.il/assets/product-enhanced-1785677318410-oxvyvo.webp
 
 ---
 
