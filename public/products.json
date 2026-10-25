@@ -1,32 +1,10 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-25T13:02:59.204Z",
+  "generated_at": "2026-10-25T13:07:28.944Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 545,
+  "count": 544,
   "products": [
-    {
-      "id": "669c583e-1e4d-4b1d-bbe8-c035d0d710b1",
-      "slug": "chbylt-3-chlypvt-kdvrgl-arvkvt-kdvr-mvndyal-mtnh-lqd3pz",
-      "name": "חבילת 3 חליפות כדורגל ארוכות + כדור מונדיאל מתנה",
-      "name_translations": {},
-      "description": "מבצע מטורף: 3 חליפות כדורגל ארוכות לבחירתכם רק ב-200 ₪, וכולל כדור מונדיאל במתנה! בחרו את הקבוצות האהובות עליכם והילדים ייצאו למגרש עם החליפות הכי חמות — ועם כדור רשמי למשחק. החבילה כוללת 3 חליפות באורך ארוך + כדור מונדיאל מתנה.",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 200,
-      "base_price": 200,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chbylt-3-chlypvt-kdvrgl-arvkvt-kdvr-mvndyal-mtnh-lqd3pz",
-      "categories": [
-        "חליפות כדורגל ארוכות "
-      ],
-      "updated_at": "2026-10-25T13:02:23.625Z"
-    },
     {
       "id": "ecf83d19-3ded-4369-8038-99de8c310ffb",
       "slug": "chlypt-kdvrgl-mkby-tl-abyby-arvkh-i08zkl",
