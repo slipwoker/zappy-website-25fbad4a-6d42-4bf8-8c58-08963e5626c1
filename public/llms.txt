@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 548** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 549** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### גרבי כדורגל ביתר ירושלים 
+https://parktoys.co.il/product/grby-kdvrgl-bytr-yrvshlym-0wp4wq
+- Price: 29.00 ILS
+- Availability: In stock
+- Category: חליפות כדורגל לילדים
+- Description: מידות 30 -38
+- Image: https://parktoys.co.il/assets/product-enhanced-1792938486226-yz3ou.webp
 
 ### גרבי כדורגל ריאל מדריד 
 https://parktoys.co.il/product/grby-kdvrgl-ryal-mdryd-nqirix
@@ -1638,14 +1646,6 @@ https://parktoys.co.il/product/avpnva-tshvb-lego-technic-42225-ltspyyh-b-p26apb
 - Category: לגו-lego
 - Description: הכירו יחד את ערכת ההרכבה המטריפה האופנוע הצהוב מסדרת LEGO Technic (דגם 42225), שתכניס אתכם ואת הילדים שלכם לנסיעה מהירה בעולם ההנדסה והמכניקה היישר בסלון הבית!
 - Image: https://parktoys.co.il/assets/product-1785702151104-ke6m8x.webp
-
-### מצלמת רטרו 31147 LEGO Creator 3 in 1
-https://parktoys.co.il/product/mtslmt-rtrv-31147-lego-creator-3-in-1-9r1zmf
-- Price: 99.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: ערכת לגו אופנוע וינטג' מסדרת LEGO Creator 3 in 1 הכוללת 261 חלקים לגילאי 8 ומעלה. תהנו ממשחק מלא דמיון עם מצלמת הרטרו מסדרת LEGO Creator 3 in 1 וצרו דגמים שונים מאותם חלקי הלגו.
-- Image: https://parktoys.co.il/assets/product-1785702010772-vgh05j.webp
 
 ---
 
