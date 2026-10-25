@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 550** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 551** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### גרבי כדורגל מיאמי 
+https://parktoys.co.il/product/grby-kdvrgl-myamy-krxl3x
+- Price: 29.00 ILS
+- Availability: In stock
+- Category: חליפות כדורגל לילדים
+- Description: מידות 30 - 38
+- Image: https://parktoys.co.il/assets/product-enhanced-1792938806415-g1z7ic.webp
 
 ### גרבי כדורגל ארגטינה 
 https://parktoys.co.il/product/grby-kdvrgl-argtynh-x3lhao
@@ -1638,14 +1646,6 @@ https://parktoys.co.il/product/lgv-city-mkvnyt-mshtrh-60312-7zqm7j
 - Category: לגו-lego
 - Description: מכונית המשטרה עם החישוקים הרחבים, הפגושים המעוצבים והפנסים המגניבים משיגה את הנוכלים של LEGO® City. אין להם סיכוי כשהם עוצרים להתפעל מהמכונית. הדליקו את הפנס, שימו את כובע השוטרים, עלו על המכונית וסעו לעוד מרדפי-נוכלים בעיר!
 - Image: https://parktoys.co.il/assets/product-enhanced-1785702487136-hz99y.webp
-
-### מכונית מרוץ LEGO Technic 42229 Fast and Furious Mitsubishi Eclipse
-https://parktoys.co.il/product/mkvnyt-mrvts-lego-technic-42229-fast-and-furious-mitsubishi-eclipse-rtsepi
-- Price: 289.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: הביאו את הריגוש של מרוצי רחוב לביתכם עם הסט של הדגם המפורט הזה לגילאי 14 ומעלה. עם הסט (42229) של מכונית Fast and Furious Mitsubishi Eclipse מסדרת LEGO® Technic, מתבגרים יכולים לבנות גרסה משלהם לרכב איקוני מהסרט מהיר ועצבני משנת 2001.
-- Image: https://parktoys.co.il/assets/product-1785702279979-k2bjem.webp
 
 ---
 

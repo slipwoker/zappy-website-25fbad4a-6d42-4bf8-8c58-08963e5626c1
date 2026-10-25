@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-25T14:32:51.753Z",
+  "generated_at": "2026-10-25T14:34:11.780Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 550,
+  "count": 551,
   "products": [
+    {
+      "id": "78b418a6-c23a-492a-a747-b47e9e99ee49",
+      "slug": "grby-kdvrgl-myamy-krxl3x",
+      "name": "גרבי כדורגל מיאמי ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מידות 30 - 38",
+      "sku": null,
+      "brand": null,
+      "price": 29,
+      "base_price": 29,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1792938806415-g1z7ic.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/grby-kdvrgl-myamy-krxl3x",
+      "categories": [
+        "חליפות כדורגל לילדים"
+      ],
+      "updated_at": "2026-10-25T14:33:38.036Z"
+    },
     {
       "id": "eaf7bf72-a24f-456e-83af-f063a7cd946c",
       "slug": "grby-kdvrgl-argtynh-x3lhao",
