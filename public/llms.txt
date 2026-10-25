@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 547** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 548** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### גרבי כדורגל ריאל מדריד 
+https://parktoys.co.il/product/grby-kdvrgl-ryal-mdryd-nqirix
+- Price: 29.00 ILS
+- Availability: In stock
+- Category: חליפות כדורגל לילדים
+- Description: מידות 30-38
+- Image: https://parktoys.co.il/assets/product-enhanced-1792938278658-pkt95.webp
 
 ### גרביי כדורגל מכבי תל אביב 
 https://parktoys.co.il/product/grbyy-kdvrgl-mkby-tl-abyb-prwc1c
@@ -1638,14 +1646,6 @@ https://parktoys.co.il/product/mtslmt-rtrv-31147-lego-creator-3-in-1-9r1zmf
 - Category: לגו-lego
 - Description: ערכת לגו אופנוע וינטג' מסדרת LEGO Creator 3 in 1 הכוללת 261 חלקים לגילאי 8 ומעלה. תהנו ממשחק מלא דמיון עם מצלמת הרטרו מסדרת LEGO Creator 3 in 1 וצרו דגמים שונים מאותם חלקי הלגו.
 - Image: https://parktoys.co.il/assets/product-1785702010772-vgh05j.webp
-
-### מסע לפורטל הקצה התחתון לגו 21584 LEGO Minecraft
-https://parktoys.co.il/product/msa-lpvrtl-hktsh-htchtvn-lgv-21584-lego-minecraft-i23ksy
-- Price: 99.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: היכנסו לפורטל התחתון ולפורטל הסוף כדי לחקור ביומים חדשים, להשתתף בקרב לצד גיבור מגניב, להיאבק נגד אנדרמן ולפגוש הוגלין תינוק. אתם לגמרי מצוידים להרפתקאות שופעות אקשן של Minecraft® כשאתם חמושים בקשת קסומה ובשיקוי מרפא! באיזה מהפורטלים תבחרו להיכנס קודם?
-- Image: https://parktoys.co.il/assets/product-1785701641009-l7m2r.webp
 
 ---
 

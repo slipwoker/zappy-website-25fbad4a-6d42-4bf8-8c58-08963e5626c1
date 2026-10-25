@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-25T14:18:21.347Z",
+  "generated_at": "2026-10-25T14:26:34.037Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 547,
+  "count": 548,
   "products": [
+    {
+      "id": "5bf80b90-74ab-4cbd-b477-a1c24999971a",
+      "slug": "grby-kdvrgl-ryal-mdryd-nqirix",
+      "name": "גרבי כדורגל ריאל מדריד ",
+      "name_translations": {},
+      "description": "<p>מידות 30-38</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 29,
+      "base_price": 29,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1792938278658-pkt95.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/grby-kdvrgl-ryal-mdryd-nqirix",
+      "categories": [
+        "חליפות כדורגל לילדים"
+      ],
+      "updated_at": "2026-10-25T14:25:56.894Z"
+    },
     {
       "id": "eb44a5fc-2ec3-4fe4-b5aa-05c4546de403",
       "slug": "grbyy-kdvrgl-mkby-tl-abyb-prwc1c",
