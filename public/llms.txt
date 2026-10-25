@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 549** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 550** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### גרבי כדורגל ארגטינה 
+https://parktoys.co.il/product/grby-kdvrgl-argtynh-x3lhao
+- Price: 29.00 ILS
+- Availability: In stock
+- Category: חליפות כדורגל לילדים
+- Description: מידות 30 -36
+- Image: https://parktoys.co.il/assets/product-enhanced-1792938707814-h3a2to.webp
 
 ### גרבי כדורגל ביתר ירושלים 
 https://parktoys.co.il/product/grby-kdvrgl-bytr-yrvshlym-0wp4wq
@@ -1638,14 +1646,6 @@ https://parktoys.co.il/product/mkvnyt-mrvts-lego-technic-42229-fast-and-furious-
 - Category: לגו-lego
 - Description: הביאו את הריגוש של מרוצי רחוב לביתכם עם הסט של הדגם המפורט הזה לגילאי 14 ומעלה. עם הסט (42229) של מכונית Fast and Furious Mitsubishi Eclipse מסדרת LEGO® Technic, מתבגרים יכולים לבנות גרסה משלהם לרכב איקוני מהסרט מהיר ועצבני משנת 2001.
 - Image: https://parktoys.co.il/assets/product-1785702279979-k2bjem.webp
-
-### אופנוע צהוב LEGO Technic 42225 לצפייה ב
-https://parktoys.co.il/product/avpnva-tshvb-lego-technic-42225-ltspyyh-b-p26apb
-- Price: 69.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: הכירו יחד את ערכת ההרכבה המטריפה האופנוע הצהוב מסדרת LEGO Technic (דגם 42225), שתכניס אתכם ואת הילדים שלכם לנסיעה מהירה בעולם ההנדסה והמכניקה היישר בסלון הבית!
-- Image: https://parktoys.co.il/assets/product-1785702151104-ke6m8x.webp
 
 ---
 
