@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-25T13:09:19.530Z",
+  "generated_at": "2026-10-25T13:13:49.330Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 544,
@@ -1874,9 +1874,10 @@
       "stock_status": "in_stock",
       "url": "https://parktoys.co.il/product/avpnva-spyydrmn-6v-am-glgly-azr-z8ub5r",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "ממונעים לילדים "
       ],
-      "updated_at": "2026-10-15T07:27:03.262Z"
+      "updated_at": "2026-10-25T13:13:16.238Z"
     },
     {
       "id": "fe16b52e-00b5-421d-bf70-238377a3113e",
