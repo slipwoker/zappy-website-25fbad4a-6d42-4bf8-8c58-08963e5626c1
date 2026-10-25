@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 546** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 547** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### גרביי כדורגל מכבי תל אביב 
+https://parktoys.co.il/product/grbyy-kdvrgl-mkby-tl-abyb-prwc1c
+- Price: 29.00 ILS
+- Availability: In stock
+- Category: חליפות כדורגל לילדים
+- Description: מידות 30-38
+- Image: https://parktoys.co.il/assets/product-enhanced-1792937815588-nvvy7n.webp
 
 ### גרבי כדורגל פורטוגל 
 https://parktoys.co.il/product/grby-kdvrgl-pvrtvgl-5yjggi
@@ -1638,14 +1646,6 @@ https://parktoys.co.il/product/msa-lpvrtl-hktsh-htchtvn-lgv-21584-lego-minecraft
 - Category: לגו-lego
 - Description: היכנסו לפורטל התחתון ולפורטל הסוף כדי לחקור ביומים חדשים, להשתתף בקרב לצד גיבור מגניב, להיאבק נגד אנדרמן ולפגוש הוגלין תינוק. אתם לגמרי מצוידים להרפתקאות שופעות אקשן של Minecraft® כשאתם חמושים בקשת קסומה ובשיקוי מרפא! באיזה מהפורטלים תבחרו להיכנס קודם?
 - Image: https://parktoys.co.il/assets/product-1785701641009-l7m2r.webp
-
-### לגו Minecraft® - הגן החיוור (21586)
-https://parktoys.co.il/product/lgv-minecraft-hgn-hchyvvr-21586-i5gj23
-- Price: 119.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: טוסו להרפתקה עם Mothman ההירואי! השתמשו בגרזן המכושף ובכנפי האליטרה שלכם ורחפו מסביב לביום של הגן החיוור. צאו לקרב נגד שלד וקריפר, כדי להגן על הלב החורק החבוי בתוך העץ הגדול. השחילו את הסיכה הסודית כדי להקפיצו החוצה, אבל היזהרו מהמרשרש העויין שמתגנב מאחוריכם! עם אוצר שאפשר למצוא וצלע חזיר הנצלע על המדורה, אין זמן לבזבז!
-- Image: https://parktoys.co.il/assets/product-enhanced-1785701519041-lkmgz9.webp
 
 ---
 
