@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 544** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 545** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חבילת 3 חליפות כדורגל ארוכות + כדור מונדיאל מתנה
+https://parktoys.co.il/product/chbylt-3-chlypvt-kdvrgl-arvkvt-kdvr-mvndyal-mtnh-lqd3pz
+- Price: 200.00 ILS
+- Availability: In stock
+- Category: חליפות כדורגל ארוכות 
+- Description: מבצע מטורף: 3 חליפות כדורגל ארוכות לבחירתכם רק ב-200 ₪, וכולל כדור מונדיאל במתנה! בחרו את הקבוצות האהובות עליכם והילדים ייצאו למגרש עם החליפות הכי חמות — ועם כדור רשמי למשחק. החבילה כוללת 3 חליפות באורך ארוך + כדור מונדיאל מתנה.
 
 ### חליפת כדורגל מכבי תל אביבי ארוכה 
 https://parktoys.co.il/product/chlypt-kdvrgl-mkby-tl-abyby-arvkh-i08zkl
@@ -1638,14 +1645,6 @@ https://parktoys.co.il/product/lgv-kryatvr-klblb-shvbb-31382-rxvxej
 - Category: לגו-lego
 - Description: סט בנייה 3 ב-1 חיות חמודות: כלבלב שובב (31382) מסדרת LEGO Creator® מאפשר לילדים בגילאי 8 ומעלה לשחק סיפורים שופעים בחוויות כיפיות. צעצוע חיות חמוד זה לילדים וילדות מציע 3 אפשרויות בנייה שונות עם אותו סט של לבנים. ילדים יכולים לבחור האם לבנות כלב צעצוע עם ראש, אוזניים, רגליים, זנב, גבות ופה מתכווננים מאובזר עם קולר, צעצוע עצם וקערת מים. ניתן לבנות את הדגם מחדש בצורת צעצוע סנאי המחזיק בלוט עם ראש וזנב מתכווננים, או בצורת דגם של ברווז עם ראש מתכוונן על שפת בריכה מלאה בצמחים. בסיום המשחק, ניתן להציג…
 - Image: https://parktoys.co.il/assets/product-enhanced-1785677318410-oxvyvo.webp
-
-### לגו קריאטור קונסולת משחק רטרו 31380| Lego
-https://parktoys.co.il/product/lgv-kryatvr-kvnsvlt-mshchk-rtrv-31380-lego-x2axug
-- Price: 119.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: ילדים וחובבי משחקים בגילאי 8 ומעלה יהנו לבנות, לשחק ולהציג את LEGO® Creator 3 ב-1 – קונסולת משחק רטרו (31380) סט זה מאפשר לילדים ליצור 3 דגמי משחק שונים מאותו סט קוביות: קונסולת משחק ניידת עם 2 ג’ויסטיקים נעים, 2 כפתורים נעים ובחירה מתוך 3 קסטות משחק להכניס לתוכה. מחשב שולחני מיניאטורי הכולל מקלדת, מסך, דיסק להכניס ועמדת עכבר. מכונת משחק ארקייד עם פרטים אייקוניים ומזוהים מהקלאסיקות של משחקי הרטרו. כל דגם יכול לשמש גם כקישוט לחדר גיימרים, כאשר לא מתבצע משחק פעיל. באמצעות אפליקציית LEGO Builder, ה…
-- Image: https://parktoys.co.il/assets/product-1785677157560-xrcq4s.webp
 
 ---
 
