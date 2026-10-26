@@ -1,10 +1,36 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-26T11:39:50.888Z",
+  "generated_at": "2026-10-26T11:54:31.198Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 551,
+  "count": 552,
   "products": [
+    {
+      "id": "b3d1eae5-45b6-4599-a180-9a2b8c811028",
+      "slug": "avpnva-mshtrh-ank-spyydrmn-12-vvlt-am-pnsym-vblvtvt-f1afqu",
+      "name": "אופנוע משטרה ענק ספיידרמן 12 וולט עם פנסים ובלוטות",
+      "name_translations": {},
+      "description": "<p>משקל הפריט</p><p>17.5 קילוגרם</p><p>מידות הפריט אורך x רוחב x גובה</p><p>122 אורך x 53 רוחב x 74 גובה סנטימטרים</p><p>מידות הפריט</p><p>122 x 53 x 74 סנטימטרים</p>",
+      "short_description": "אודות פריט זה מנועי מברשות כפולים של 380 וואט למומנט חזק ומהירות קבועה סוללה נטענת 12V 7 AH עם מטען מהיר עיצוב שלושה גלגלים חזק מבטיח איזון ובטיחות לגילאי שנתיים ומעלה פנס LED ופנס אחורי לנסיעות לילה קרירות כידון קל לאחיזה עם ידיות מחוספסות להיגוי בטוח",
+      "sku": null,
+      "brand": null,
+      "price": 899,
+      "base_price": 899,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1793015284071-0vr36n.webp",
+        "https://parktoys.co.il/assets/product-1793015302782-gqflx.webp",
+        "https://parktoys.co.il/assets/product-1793015321089-id34c.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/avpnva-mshtrh-ank-spyydrmn-12-vvlt-am-pnsym-vblvtvt-f1afqu",
+      "categories": [
+        "ממונעים לילדים "
+      ],
+      "updated_at": "2026-10-26T11:53:55.089Z"
+    },
     {
       "id": "78b418a6-c23a-492a-a747-b47e9e99ee49",
       "slug": "grby-kdvrgl-myamy-krxl3x",
