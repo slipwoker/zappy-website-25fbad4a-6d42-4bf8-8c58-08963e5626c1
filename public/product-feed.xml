@@ -4,12 +4,28 @@
     <title>פארק הצעצועים</title>
     <link>https://parktoys.co.il</link>
     <description>Product feed for פארק הצעצועים</description>
-    <lastBuildDate>Mon, 26 Oct 2026 10:42:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:44:09 GMT</lastBuildDate>
     <item>
-      <g:id>4bf752fa-bd3b-40f7-9528-cf82181fc063</g:id>
-      <g:title>3 חליפות כדורגל ארוכות</g:title>
+      <g:id>35eec97c-1956-44f1-bc4d-b3524666d9d4</g:id>
+      <g:title>3 חליפות כדורגל ארוכות - מכבי חיפה</g:title>
       <g:description>3 חליפות כדורגל ארוכות במבצע</g:description>
       <g:link>https://parktoys.co.il/product/3-chlypvt-kdvrgl-arvkvt-bsp385</g:link>
+      <g:item_group_id>4bf752fa-bd3b-40f7-9528-cf82181fc063</g:item_group_id>
+      <g:image_link>https://parktoys.co.il/assets/product-1793011232696-3k8gk6.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>399.00 ILS</g:price>
+      <g:sale_price>200.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות כדורגל ארוכות </g:product_type>
+    </item>
+    <item>
+      <g:id>98253988-cf4d-49e3-9d9b-a0c1402e7a77</g:id>
+      <g:title>3 חליפות כדורגל ארוכות - מכבי תל אביב</g:title>
+      <g:description>3 חליפות כדורגל ארוכות במבצע</g:description>
+      <g:link>https://parktoys.co.il/product/3-chlypvt-kdvrgl-arvkvt-bsp385</g:link>
+      <g:item_group_id>4bf752fa-bd3b-40f7-9528-cf82181fc063</g:item_group_id>
       <g:image_link>https://parktoys.co.il/assets/product-1793011232696-3k8gk6.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>399.00 ILS</g:price>
