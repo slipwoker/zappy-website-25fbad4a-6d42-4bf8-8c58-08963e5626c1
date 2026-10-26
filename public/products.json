@@ -1,34 +1,10 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-26T10:52:06.015Z",
+  "generated_at": "2026-10-26T10:55:44.914Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 552,
+  "count": 551,
   "products": [
-    {
-      "id": "4bf752fa-bd3b-40f7-9528-cf82181fc063",
-      "slug": "3-chlypvt-kdvrgl-arvkvt-bsp385",
-      "name": "3 חליפות כדורגל ארוכות",
-      "name_translations": {},
-      "description": "<p>3 חליפות כדורגל ארוכות במבצע</p>",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 200,
-      "base_price": 399,
-      "sale_price": 200,
-      "currency": "ILS",
-      "images": [
-        "https://parktoys.co.il/assets/product-1793011232696-3k8gk6.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/3-chlypvt-kdvrgl-arvkvt-bsp385",
-      "categories": [
-        "חליפות כדורגל ארוכות "
-      ],
-      "updated_at": "2026-10-26T10:51:27.184Z"
-    },
     {
       "id": "78b418a6-c23a-492a-a747-b47e9e99ee49",
       "slug": "grby-kdvrgl-myamy-krxl3x",
