@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-26T11:38:10.838Z",
+  "generated_at": "2026-10-26T11:39:36.968Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 551,
@@ -325,28 +325,28 @@
     },
     {
       "id": "e9fbc6ff-2b98-4886-a15f-6ee854765bcb",
-      "slug": "chlypt-kdvrgl-argtynh-arvkh-msy-dh2vre",
+      "slug": "chlypt-kdvrgl-argtynh-arvkh-msy-jk1xag",
       "name": "חליפת כדורגל ארגטינה ארוכה -מסי",
       "name_translations": {},
       "description": "",
       "short_description": "חליפת כדורגל ארוכה למשחק המכנס מגיע 7/8 כי הוא מותאם למשחק ",
       "sku": null,
       "brand": null,
-      "price": 69,
+      "price": 99,
       "base_price": 120,
-      "sale_price": 69,
+      "sale_price": 99,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1792656806241-h9u5k.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-argtynh-arvkh-msy-dh2vre",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-argtynh-arvkh-msy-jk1xag",
       "categories": [
         "חליפות כדורגל לילדים",
         "חליפות כדורגל ארוכות "
       ],
-      "updated_at": "2026-10-25T12:44:57.534Z"
+      "updated_at": "2026-10-26T11:38:46.989Z"
     },
     {
       "id": "e467d0af-493d-48ee-8cba-a9fd79c681e0",
@@ -1735,15 +1735,15 @@
     },
     {
       "id": "855729a4-3850-4ffc-8e59-9a46fcb78327",
-      "slug": "kdvrgl-mvndyal-7kloic",
+      "slug": "kdvrgl-mvndyal-ac7gjm",
       "name": "כדורגל מונדיאל ",
       "name_translations": {},
       "description": "",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 15,
-      "base_price": 15,
+      "price": 50,
+      "base_price": 50,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1751,11 +1751,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kdvrgl-mvndyal-7kloic",
+      "url": "https://parktoys.co.il/product/kdvrgl-mvndyal-ac7gjm",
       "categories": [
         "מוצרי ספורט"
       ],
-      "updated_at": "2026-09-23T08:15:39.629Z"
+      "updated_at": "2026-10-26T11:39:15.378Z"
     },
     {
       "id": "85d34143-602a-4f8a-a87e-e273ac399595",
