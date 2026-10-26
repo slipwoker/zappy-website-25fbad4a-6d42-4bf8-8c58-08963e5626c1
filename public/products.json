@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-26T11:37:05.591Z",
+  "generated_at": "2026-10-26T11:38:10.838Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 551,
@@ -300,28 +300,28 @@
     },
     {
       "id": "ad0e2a36-90dd-478f-82a7-566ff529ef55",
-      "slug": "chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-oqjc90",
+      "slug": "chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-jsslc2",
       "name": "חליפת כדורגל פורטוגל ארוכה- רונלאדו ",
       "name_translations": {},
       "description": "",
       "short_description": "חליפת כדורגל ארוכה למשחק המכנס מגיע 7/8 כי הוא מותאם למשחק ",
       "sku": null,
       "brand": null,
-      "price": 69,
+      "price": 99,
       "base_price": 120,
-      "sale_price": 69,
+      "sale_price": 99,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1792657417993-ge1bzn.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-oqjc90",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-jsslc2",
       "categories": [
         "חליפות כדורגל לילדים",
         "חליפות כדורגל ארוכות "
       ],
-      "updated_at": "2026-10-25T12:44:57.213Z"
+      "updated_at": "2026-10-26T11:37:34.116Z"
     },
     {
       "id": "e9fbc6ff-2b98-4886-a15f-6ee854765bcb",
