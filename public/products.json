@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-26T11:54:32.245Z",
+  "generated_at": "2026-10-26T12:04:52.138Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 552,
+  "count": 553,
   "products": [
+    {
+      "id": "4bfd10b7-c485-45c8-a6e3-d6bfa4237811",
+      "slug": "krtyng-mtkpl-mmvna-lyldym-12v-am-shlt-rchvk-avrvt-vtslylym-i89qaw",
+      "name": "קרטינג מתקפל ממונע לילדים 12V עם שלט רחוק, אורות וצלילים",
+      "name_translations": {},
+      "description": "<p><strong>מכונית קרטינג GO KART ממונעת לילדים</strong></p><p><strong>תכונות ופעולה</strong></p><p>מכונית קרטינג GO KART ממונעת לילדים</p><p>המכונית ניתנת לקיפול ופתיחה בקלות</p><p>נוסעת קדימה ואחורה, שליטה מההגה</p><p>מפעילה אורות צבעוניים בחזית ומשמיעה מנגינות ואפקטים קוליים</p><p><strong>שלט רחוק ואבטחה</strong></p><p>כולל שלט רחוק המאפשר שליטה בנסיעה קדימה / אחורה ונעילה (לא מכוון את ההגה) - מאפשר להורה לעצור מרחוק במקרה חרום</p><p><strong>חומרים ומבנה</strong></p><p>עשוי: פלסטיק, PP ידידותי לסביבה, ABS</p><p>שלדה: פלדת פחמן גבוהה</p><p><strong>נתוני משקל וסוללה</strong></p><p>משקל נטו: 5.9 ק&quot;ג</p><p>סוללה: 12V, מספיקה ל-30 דקות נסיעה רציפה (תלוי במשקל הילד ותנאי הדרך)</p><p>מטען: כלול, זמן טעינת סוללה כ-8 שעות</p><p>גודל במצב פתוח: 78×54×48.5 ס&quot;מ</p><p>כושר נשיאה: 50 ק&quot;ג</p><p><strong>גלגלים וגיל</strong></p><p>גלגלי גומי מוקצף מונעים החלקה וללא תקרים</p><p>מתאים לילדים מגיל שנתיים עד 4 שנים</p><p><strong>הרכבה</strong></p><p>נדרשת הרכבה ראשונית ע&quot;י מבוגר</p>",
+      "short_description": "כונות ופעולה\nמכונית קרטינג GO KART ממונעת לילדים\nהמכונית ניתנת לקיפול ופתיחה בקלות\nנוסעת קדימה ואחורה, שליטה מההגה\nמפעילה אורות צבעוניים בחזית ומשמיעה מנגינות ואפקטים קוליים",
+      "sku": null,
+      "brand": null,
+      "price": 499,
+      "base_price": 499,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1793016212436-0urw0p.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/krtyng-mtkpl-mmvna-lyldym-12v-am-shlt-rchvk-avrvt-vtslylym-i89qaw",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-10-26T12:04:16.248Z"
+    },
     {
       "id": "b3d1eae5-45b6-4599-a180-9a2b8c811028",
       "slug": "avpnva-mshtrh-ank-spyydrmn-12-vvlt-am-pnsym-vblvtvt-f1afqu",

@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 552** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 553** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קרטינג מתקפל ממונע לילדים 12V עם שלט רחוק, אורות וצלילים
+https://parktoys.co.il/product/krtyng-mtkpl-mmvna-lyldym-12v-am-shlt-rchvk-avrvt-vtslylym-i89qaw
+- Price: 499.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: כונות ופעולה מכונית קרטינג GO KART ממונעת לילדים המכונית ניתנת לקיפול ופתיחה בקלות נוסעת קדימה ואחורה, שליטה מההגה מפעילה אורות צבעוניים בחזית ומשמיעה מנגינות ואפקטים קוליים
+- Image: https://parktoys.co.il/assets/product-enhanced-1793016212436-0urw0p.webp
 
 ### אופנוע משטרה ענק ספיידרמן 12 וולט עם פנסים ובלוטות
 https://parktoys.co.il/product/avpnva-mshtrh-ank-spyydrmn-12-vvlt-am-pnsym-vblvtvt-f1afqu
@@ -1638,14 +1646,6 @@ https://parktoys.co.il/product/hkv-at-hchprprt-4wa4s0
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: קחו פטיש, קחו מקל ובואו לשחק עם חפרפרות בראץ ישראל! משחק זריזות דובר עברית עם אורות וצלילים ועשרות משפטים מצחיקים
 - Image: https://parktoys.co.il/assets/product-enhanced-1785755818276-jgf5mq.webp
-
-### משאית המבורגרים 60404 LEGO City
-https://parktoys.co.il/product/mshayt-hmbvrgrym-60404-lego-city-zqeox0
-- Price: 99.00 ILS
-- Availability: In stock
-- Category: לגו-lego
-- Description: ערכת לגו משאית המבורגרים מסדרת City בעלת 194 חלקים המתאימה לגיל 5 ומעלה. צרו סיפורים המבוססים על מגוון רחב של נושאים מרגשים ומרתקים מתרחישי החיים האמיתיים באמצעות משחק מעורר דמיון.
-- Image: https://parktoys.co.il/assets/product-1785702603212-rg0zy9.webp
 
 ---
 
