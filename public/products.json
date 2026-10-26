@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-26T11:34:10.634Z",
+  "generated_at": "2026-10-26T11:34:55.785Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 551,
@@ -225,28 +225,28 @@
     },
     {
       "id": "9c5661ac-f37d-4e7d-b015-89617c7f7c15",
-      "slug": "chlypt-kdvrgl-ryal-mdryd-arvkh-ambph-ispwtk",
+      "slug": "chlypt-kdvrgl-ryal-mdryd-arvkh-ambph-4htop1",
       "name": "חליפת כדורגל ריאל מדריד ארוכה אמבפה",
       "name_translations": {},
       "description": "",
       "short_description": "חליפת כדורגל ארוכה למשחק המכנס מגיע 7/8 כי הוא מותאם למשחק ",
       "sku": null,
       "brand": null,
-      "price": 69,
+      "price": 99,
       "base_price": 120,
-      "sale_price": 69,
+      "sale_price": 99,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1792658730912-cnltq3.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-ryal-mdryd-arvkh-ambph-ispwtk",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-ryal-mdryd-arvkh-ambph-4htop1",
       "categories": [
         "חליפות כדורגל לילדים",
         "חליפות כדורגל ארוכות "
       ],
-      "updated_at": "2026-10-25T12:44:57.106Z"
+      "updated_at": "2026-10-26T11:34:20.316Z"
     },
     {
       "id": "fedca2f9-2a88-4229-98df-d889b3b22859",
