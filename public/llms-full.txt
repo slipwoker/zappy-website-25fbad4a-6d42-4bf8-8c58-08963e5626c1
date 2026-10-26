@@ -3285,6 +3285,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -4289,6 +4291,15 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 ---
 
 ## Product Catalog
+
+### 3 חליפות כדורגל ארוכות
+URL: https://parktoys.co.il/product/3-chlypvt-kdvrgl-arvkvt-bsp385
+Price: 200.00 ILS (sale, was 399.00 ILS)
+Availability: In stock
+
+3 חליפות כדורגל ארוכות במבצע
+
+---
 
 ### גרבי כדורגל מיאמי 
 URL: https://parktoys.co.il/product/grby-kdvrgl-myamy-krxl3x
