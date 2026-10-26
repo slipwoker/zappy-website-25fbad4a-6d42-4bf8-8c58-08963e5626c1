@@ -3285,6 +3285,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -5345,9 +5347,9 @@ Availability: In stock
 ---
 
 ### חליפת כדורגל מונדיאל 2026 פורטוגל רונאלדו
-URL: https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-pvrtvgl-rvnaldv-7o85s3
+URL: https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-pvrtvgl-rvnaldv-rg938v
 Price: 69.00 ILS (sale, was 99.00 ILS)
-Availability: Out of stock
+Availability: In stock
 
 ---
 
