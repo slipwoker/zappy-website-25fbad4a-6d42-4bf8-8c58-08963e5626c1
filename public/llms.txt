@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 554** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### חליפת כדורגל ארוכה צרפת אמבפה
-https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-tsrpt-ambph-ferwt7
+https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-tsrpt-ambph-sq25ak
 - Price: 99.00 ILS (sale, was 120.00 ILS)
 - Availability: In stock
 - Category: חליפות כדורגל ארוכות 

@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-27T15:03:35.763Z",
+  "generated_at": "2026-10-27T15:05:30.708Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 554,
   "products": [
     {
       "id": "7f0e3652-9b7b-4e87-b631-8ce2118e4ddd",
-      "slug": "chlypt-kdvrgl-arvkh-tsrpt-ambph-ferwt7",
+      "slug": "chlypt-kdvrgl-arvkh-tsrpt-ambph-sq25ak",
       "name": "חליפת כדורגל ארוכה צרפת אמבפה",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-tsrpt-ambph-ferwt7",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-tsrpt-ambph-sq25ak",
       "categories": [
         "חליפות כדורגל ארוכות "
       ],
-      "updated_at": "2026-10-27T15:03:03.076Z"
+      "updated_at": "2026-10-27T15:04:56.963Z"
     },
     {
       "id": "4bfd10b7-c485-45c8-a6e3-d6bfa4237811",
