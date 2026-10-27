@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-27T13:16:02.343Z",
+  "generated_at": "2026-10-27T13:17:01.480Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 553,
@@ -325,11 +325,11 @@
     },
     {
       "id": "b9f4f068-2222-48cd-b019-f22eed7347a0",
-      "slug": "chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-3kzx1r",
+      "slug": "chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-yra5x7",
       "name": "חליפת כדורגל ארוכה ספרד- לאמין יאמל ",
       "name_translations": {},
       "description": "",
-      "short_description": "חליפת כדורגל ארוכה למשחק המכנס מגיע 7/8 כי הוא מותאם למשחק ",
+      "short_description": null,
       "sku": null,
       "brand": null,
       "price": 99,
@@ -341,20 +341,20 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-3kzx1r",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-yra5x7",
       "categories": [
         "חליפות כדורגל לילדים",
         "חליפות כדורגל ארוכות "
       ],
-      "updated_at": "2026-10-26T11:36:31.488Z"
+      "updated_at": "2026-10-27T13:16:26.513Z"
     },
     {
       "id": "ad0e2a36-90dd-478f-82a7-566ff529ef55",
-      "slug": "chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-jsslc2",
+      "slug": "chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-gozezm",
       "name": "חליפת כדורגל פורטוגל ארוכה- רונלאדו ",
       "name_translations": {},
       "description": "",
-      "short_description": "חליפת כדורגל ארוכה למשחק המכנס מגיע 7/8 כי הוא מותאם למשחק ",
+      "short_description": null,
       "sku": null,
       "brand": null,
       "price": 99,
@@ -366,12 +366,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-jsslc2",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-gozezm",
       "categories": [
         "חליפות כדורגל לילדים",
         "חליפות כדורגל ארוכות "
       ],
-      "updated_at": "2026-10-26T11:37:34.116Z"
+      "updated_at": "2026-10-27T13:17:00.914Z"
     },
     {
       "id": "e9fbc6ff-2b98-4886-a15f-6ee854765bcb",
