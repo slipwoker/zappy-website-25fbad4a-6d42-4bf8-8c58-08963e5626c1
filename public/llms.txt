@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 553** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 554** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת כדורגל ארוכה צרפת אמבפה
+https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-tsrpt-ambph-ferwt7
+- Price: 99.00 ILS (sale, was 120.00 ILS)
+- Availability: In stock
+- Category: חליפות כדורגל ארוכות 
+- Image: https://parktoys.co.il/assets/product-enhanced-1793113169897-pvpjz.webp
 
 ### קרטינג מתקפל ממונע לילדים 12V עם שלט רחוק, אורות וצלילים
 https://parktoys.co.il/product/krtyng-mtkpl-mmvna-lyldym-12v-am-shlt-rchvk-avrvt-vtslylym-i89qaw
@@ -1631,14 +1638,6 @@ https://parktoys.co.il/product/mykrvpvn-yvbl-hmbvlbl-zt0waq
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: שרים ונהנים עם יובל המבולבל! מצב שירים - 12 שירים של יובל מצב קריוקי - 10 מנגינות של שירי יובל עשרות משפטים ובדיחות!
 - Image: https://parktoys.co.il/assets/product-enhanced-1785763278664-7i6ung.webp
-
-### הכו את החפרפרת!
-https://parktoys.co.il/product/hkv-at-hchprprt-4wa4s0
-- Price: 79.90 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: קחו פטיש, קחו מקל ובואו לשחק עם חפרפרות בראץ ישראל! משחק זריזות דובר עברית עם אורות וצלילים ועשרות משפטים מצחיקים
-- Image: https://parktoys.co.il/assets/product-enhanced-1785755818276-jgf5mq.webp
 
 ---
 
