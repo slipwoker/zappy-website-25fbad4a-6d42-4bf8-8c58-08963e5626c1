@@ -3285,8 +3285,6 @@ Description: מוצרים - פארק הצעצועים
 
 
 
-טוען מוצרים...
-
 
 
 
@@ -4397,14 +4395,14 @@ Availability: In stock
 ---
 
 ### חליפת כדורגל פורטוגל ארוכה- רונלאדו 
-URL: https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-gozezm
+URL: https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-xfor6d
 Price: 99.00 ILS (sale, was 120.00 ILS)
 Availability: In stock
 
 ---
 
 ### חליפת כדורגל ארגטינה ארוכה -מסי
-URL: https://parktoys.co.il/product/chlypt-kdvrgl-argtynh-arvkh-msy-jk1xag
+URL: https://parktoys.co.il/product/chlypt-kdvrgl-argtynh-arvkh-msy-5g6tsu
 Price: 99.00 ILS (sale, was 120.00 ILS)
 Availability: In stock
 

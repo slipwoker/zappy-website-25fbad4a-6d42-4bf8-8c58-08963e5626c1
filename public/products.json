@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-27T13:17:36.679Z",
+  "generated_at": "2026-10-27T13:23:25.678Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 553,
@@ -350,7 +350,7 @@
     },
     {
       "id": "ad0e2a36-90dd-478f-82a7-566ff529ef55",
-      "slug": "chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-gozezm",
+      "slug": "chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-xfor6d",
       "name": "חליפת כדורגל פורטוגל ארוכה- רונלאדו ",
       "name_translations": {},
       "description": "",
@@ -366,20 +366,20 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-gozezm",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-xfor6d",
       "categories": [
         "חליפות כדורגל לילדים",
         "חליפות כדורגל ארוכות "
       ],
-      "updated_at": "2026-10-27T13:17:00.914Z"
+      "updated_at": "2026-10-27T13:22:37.647Z"
     },
     {
       "id": "e9fbc6ff-2b98-4886-a15f-6ee854765bcb",
-      "slug": "chlypt-kdvrgl-argtynh-arvkh-msy-jk1xag",
+      "slug": "chlypt-kdvrgl-argtynh-arvkh-msy-5g6tsu",
       "name": "חליפת כדורגל ארגטינה ארוכה -מסי",
       "name_translations": {},
       "description": "",
-      "short_description": "חליפת כדורגל ארוכה למשחק המכנס מגיע 7/8 כי הוא מותאם למשחק ",
+      "short_description": null,
       "sku": null,
       "brand": null,
       "price": 99,
@@ -391,12 +391,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-argtynh-arvkh-msy-jk1xag",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-argtynh-arvkh-msy-5g6tsu",
       "categories": [
         "חליפות כדורגל לילדים",
         "חליפות כדורגל ארוכות "
       ],
-      "updated_at": "2026-10-26T11:38:46.989Z"
+      "updated_at": "2026-10-27T13:23:02.793Z"
     },
     {
       "id": "e467d0af-493d-48ee-8cba-a9fd79c681e0",
