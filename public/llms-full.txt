@@ -3285,6 +3285,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -4360,14 +4362,14 @@ Availability: In stock
 ---
 
 ### חליפת כדורגל מכבי תל אביבי ארוכה 
-URL: https://parktoys.co.il/product/chlypt-kdvrgl-mkby-tl-abyby-arvkh-k4q84w
+URL: https://parktoys.co.il/product/chlypt-kdvrgl-mkby-tl-abyby-arvkh-2t9n9e
 Price: 99.00 ILS (sale, was 120.00 ILS)
 Availability: In stock
 
 ---
 
 ### חליפת כדורגלל מכבי חיפה ארוכה
-URL: https://parktoys.co.il/product/chlypt-kdvrgll-mkby-chyph-arvkh-l5gfe0
+URL: https://parktoys.co.il/product/chlypt-kdvrgll-mkby-chyph-arvkh-qt18mo
 Price: 99.00 ILS (sale, was 120.00 ILS)
 Availability: In stock
 
