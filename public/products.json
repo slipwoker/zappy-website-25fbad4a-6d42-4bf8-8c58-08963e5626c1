@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T14:49:06.932Z",
+  "generated_at": "2026-10-28T14:50:52.908Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 554,
@@ -3527,53 +3527,53 @@
     },
     {
       "id": "3e39cd0e-6eba-475e-8dd4-9c4abfa16d74",
-      "slug": "chlypt-kdvrgl-mvndyal-2026-brzyl-nyymar-3d0esv",
+      "slug": "chlypt-kdvrgl-mvndyal-2026-brzyl-nyymar-mqtjhs",
       "name": "חליפת כדורגל מונדיאל 2026 ברזיל ניימאר",
       "name_translations": {},
       "description": "",
       "short_description": "חליפת כדורגל מונדיאל 2026 ברזיל ניימאר\nחליפת כדורגל איכותית לילדים ונוער.\n\nהסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים.\n\n(חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו)\n\nמידות: 4,6,8,10,12,14,16,18",
       "sku": null,
       "brand": null,
-      "price": 69,
-      "base_price": 99,
-      "sale_price": 69,
+      "price": 99,
+      "base_price": 120,
+      "sale_price": 99,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1786435439557-wx202f.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-brzyl-nyymar-3d0esv",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-brzyl-nyymar-mqtjhs",
       "categories": [
         "מוצרי ספורט",
         "חליפות כדורגל לילדים"
       ],
-      "updated_at": "2026-10-11T11:27:25.102Z"
+      "updated_at": "2026-10-28T14:50:16.844Z"
     },
     {
       "id": "44fbe410-9f3c-43c0-8662-beea8b36ae5d",
-      "slug": "chlypt-kdvrgl-mvndyal-2026-argntynh-msy-4832sz",
+      "slug": "chlypt-kdvrgl-mvndyal-2026-argntynh-msy-inec66",
       "name": "חליפת כדורגל מונדיאל 2026 ארגנטינה מסי",
       "name_translations": {},
       "description": "",
       "short_description": "חליפת כדורגל מונדיאל 2026 ארגנטינה מסי\nחליפת כדורגל איכותית לילדים ונוער.\n\nהסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים.\n\n(חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו)\n\nמידות: 4,6,8,10,12,14,16,18",
       "sku": null,
       "brand": null,
-      "price": 69,
-      "base_price": 99,
-      "sale_price": 69,
+      "price": 99,
+      "base_price": 120,
+      "sale_price": 99,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1786434812906-44gsb6.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-argntynh-msy-4832sz",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-argntynh-msy-inec66",
       "categories": [
         "מוצרי ספורט",
         "חליפות כדורגל לילדים"
       ],
-      "updated_at": "2026-10-18T12:38:16.358Z"
+      "updated_at": "2026-10-28T14:50:51.640Z"
     },
     {
       "id": "56af679e-e8c8-4cb2-8fcd-ff8e90f54b58",
