@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T14:25:10.874Z",
+  "generated_at": "2026-10-28T14:26:20.948Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 554,
@@ -942,27 +942,27 @@
     },
     {
       "id": "2b91a88f-f282-44a5-b337-293311528a1c",
-      "slug": "ryal-mdryd-ambph-kchvl-b3fsml",
+      "slug": "ryal-mdryd-ambph-kchvl-w2tb7r",
       "name": "ריאל מדריד אמבפה כחול",
       "name_translations": {},
       "description": "",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 69,
-      "base_price": 69,
-      "sale_price": null,
+      "price": 99,
+      "base_price": 120,
+      "sale_price": 99,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1791723010938-gmye2p.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/ryal-mdryd-ambph-kchvl-b3fsml",
+      "url": "https://parktoys.co.il/product/ryal-mdryd-ambph-kchvl-w2tb7r",
       "categories": [
         "חליפות כדורגל לילדים"
       ],
-      "updated_at": "2026-10-11T12:51:27.684Z"
+      "updated_at": "2026-10-28T14:25:45.881Z"
     },
     {
       "id": "7ff7137b-60df-452e-be7c-89863a0f8858",
