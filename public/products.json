@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T14:39:57.350Z",
+  "generated_at": "2026-10-28T14:40:55.406Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 554,
@@ -3352,7 +3352,7 @@
     },
     {
       "id": "ac43c5f5-9c97-4387-bcf2-880e56f5a10c",
-      "slug": "chlypt-kdvrgl-hpval-ta-tvryal-01rggh",
+      "slug": "chlypt-kdvrgl-hpval-ta-tvryal-2plozo",
       "name": "חליפת כדורגל הפועל ת\"א טוריאל",
       "name_translations": {},
       "description": "",
@@ -3368,12 +3368,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-hpval-ta-tvryal-01rggh",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-hpval-ta-tvryal-2plozo",
       "categories": [
         "מוצרי ספורט",
         "חליפות כדורגל לילדים"
       ],
-      "updated_at": "2026-10-28T14:39:18.828Z"
+      "updated_at": "2026-10-28T14:40:20.071Z"
     },
     {
       "id": "c80d393a-e3b3-492d-aaf8-ea7151b90b34",
