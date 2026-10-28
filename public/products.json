@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T14:28:14.720Z",
+  "generated_at": "2026-10-28T14:28:49.564Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 554,
@@ -1039,28 +1039,28 @@
     },
     {
       "id": "52b81ac5-e1dc-4841-ae94-1c8427edca63",
-      "slug": "chlypt-kdvrgl-mkby-chyph-mlmd-2vms8k",
+      "slug": "chlypt-kdvrgl-mkby-chyph-mlmd-aiwlcj",
       "name": "חליפת כדורגל מכבי חיפה מלמד ",
       "name_translations": {},
       "description": "",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 69,
-      "base_price": 99,
-      "sale_price": 69,
+      "price": 99,
+      "base_price": 120,
+      "sale_price": 99,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1791132125071-1ln7l9.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mkby-chyph-mlmd-2vms8k",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mkby-chyph-mlmd-aiwlcj",
       "categories": [
         "מוצרי ספורט",
         "חליפות כדורגל לילדים"
       ],
-      "updated_at": "2026-10-11T11:27:22.684Z"
+      "updated_at": "2026-10-28T14:28:16.010Z"
     },
     {
       "id": "d5df7ba0-70c1-4194-bfe7-a7d6576e68e6",
