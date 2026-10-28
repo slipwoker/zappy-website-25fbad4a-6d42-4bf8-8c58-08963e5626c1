@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T14:46:41.019Z",
+  "generated_at": "2026-10-28T14:47:36.694Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 554,
@@ -3427,28 +3427,28 @@
     },
     {
       "id": "16c97f4a-44be-4535-833a-4f433f5fe208",
-      "slug": "chlypt-kdvrgl-lyldym-ayyaks-10-avskr-glvk-nbwfzg",
+      "slug": "chlypt-kdvrgl-lyldym-ayyaks-10-avskr-glvk-cx2031",
       "name": "חליפת כדורגל לילדים אייאקס #10 אוסקר גלוך",
       "name_translations": {},
       "description": "",
       "short_description": "חליפת כדורגל לילדים אייאקס #10 אוסקר גלוך\nחליפת כדורגל איכותית לילדים ונוער.\n\nהסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים.\n\n(חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו)\n\nמידות:\n\n,6,8,10,12,14,16,18",
       "sku": null,
       "brand": null,
-      "price": 69,
-      "base_price": 99,
-      "sale_price": 69,
+      "price": 99,
+      "base_price": 120,
+      "sale_price": 99,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-1786439884549-vu077.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-lyldym-ayyaks-10-avskr-glvk-nbwfzg",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-lyldym-ayyaks-10-avskr-glvk-cx2031",
       "categories": [
         "מוצרי ספורט",
         "חליפות כדורגל לילדים"
       ],
-      "updated_at": "2026-10-11T11:27:23.088Z"
+      "updated_at": "2026-10-28T14:47:03.530Z"
     },
     {
       "id": "96d50175-9bdf-40a7-9055-6debb7a75a2e",
