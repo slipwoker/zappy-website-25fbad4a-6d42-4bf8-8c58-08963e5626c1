@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T14:47:36.694Z",
+  "generated_at": "2026-10-28T14:48:31.706Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 554,
@@ -3452,53 +3452,53 @@
     },
     {
       "id": "96d50175-9bdf-40a7-9055-6debb7a75a2e",
-      "slug": "chlypt-kdvrgl-lyldym-mdryd-10-ambph-av2uco",
+      "slug": "chlypt-kdvrgl-lyldym-mdryd-10-ambph-qqz6q0",
       "name": "חליפת כדורגל לילדים מדריד #10 אמבפה",
       "name_translations": {},
       "description": "",
       "short_description": "חליפת כדורגל לילדים מדריד #10 אמבפה\nחליפת כדורגל איכותית לילדים ונוער.\n\nהסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים.\n\n(חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו)\n\nמידות:\n\n4,6,8,10,12,14,16,18",
       "sku": null,
       "brand": null,
-      "price": 69,
-      "base_price": 99,
-      "sale_price": 69,
+      "price": 99,
+      "base_price": 120,
+      "sale_price": 99,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-1786439035873-v9wx9q.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-lyldym-mdryd-10-ambph-av2uco",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-lyldym-mdryd-10-ambph-qqz6q0",
       "categories": [
         "מוצרי ספורט",
         "חליפות כדורגל לילדים"
       ],
-      "updated_at": "2026-10-11T11:27:22.883Z"
+      "updated_at": "2026-10-28T14:47:55.719Z"
     },
     {
       "id": "a097cf2a-ba1e-4666-8de6-8adcbdd0c5fa",
-      "slug": "chlypt-kdvrgl-mvndyal-2026-sprd-lamyn-ymal-tatjan",
+      "slug": "chlypt-kdvrgl-mvndyal-2026-sprd-lamyn-ymal-4eu0nu",
       "name": " חליפת כדורגל מונדיאל 2026 ספרד לאמין ימאל",
       "name_translations": {},
       "description": "",
       "short_description": "חליפת כדורגל מונדיאל 2026 ספרד לאמין ימאל\nחליפת כדורגל איכותית לילדים ונוער.\n\nהסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים.\n\n(חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו)\n\nמידות: 4,6,8,10,12,14,16,18",
       "sku": null,
       "brand": null,
-      "price": 69,
-      "base_price": 99,
-      "sale_price": 69,
+      "price": 99,
+      "base_price": 120,
+      "sale_price": 99,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-1786438461203-2namrj.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-sprd-lamyn-ymal-tatjan",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-sprd-lamyn-ymal-4eu0nu",
       "categories": [
         "מוצרי ספורט",
         "חליפות כדורגל לילדים"
       ],
-      "updated_at": "2026-10-11T11:27:23.892Z"
+      "updated_at": "2026-10-28T14:48:29.994Z"
     },
     {
       "id": "918e8659-5bd7-4e69-bf3e-f84abd45045c",
