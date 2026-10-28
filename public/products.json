@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T14:24:19.691Z",
+  "generated_at": "2026-10-28T14:25:10.874Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 554,
@@ -918,7 +918,7 @@
     },
     {
       "id": "fb415787-d85f-446b-8173-7b17fef95c66",
-      "slug": "chlypt-kdvrgl-pryz-sn-zrmn-dmblh-s104c1",
+      "slug": "chlypt-kdvrgl-pryz-sn-zrmn-dmblh-x4jpk2",
       "name": "חליפת כדורגל פריז סן זרמן דמבלה",
       "name_translations": {},
       "description": "",
@@ -934,11 +934,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-pryz-sn-zrmn-dmblh-s104c1",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-pryz-sn-zrmn-dmblh-x4jpk2",
       "categories": [
         "חליפות כדורגל לילדים"
       ],
-      "updated_at": "2026-10-28T14:23:42.548Z"
+      "updated_at": "2026-10-28T14:24:35.919Z"
     },
     {
       "id": "2b91a88f-f282-44a5-b337-293311528a1c",
