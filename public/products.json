@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T14:29:55.253Z",
+  "generated_at": "2026-10-28T14:30:40.720Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 554,
@@ -1089,28 +1089,28 @@
     },
     {
       "id": "4f39b983-3e94-41ed-8e15-fdbad434b3e8",
-      "slug": "chlyph-kdvrgl-argtynh-hnpt-gbya-wbat3h",
+      "slug": "chlyph-kdvrgl-argtynh-hnpt-gbya-4qs44m",
       "name": "חליפה כדורגל ארגטינה הנפת גביע ",
       "name_translations": {},
       "description": "",
       "short_description": "חליפת כדורגל איכותית של ארגטינה ממשחק הגמר מניפים גביע ",
       "sku": null,
       "brand": null,
-      "price": 69,
-      "base_price": 99,
-      "sale_price": 69,
+      "price": 99,
+      "base_price": 120,
+      "sale_price": 99,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1791127409911-wxv3pr.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlyph-kdvrgl-argtynh-hnpt-gbya-wbat3h",
+      "url": "https://parktoys.co.il/product/chlyph-kdvrgl-argtynh-hnpt-gbya-4qs44m",
       "categories": [
         "מוצרי ספורט",
         "חליפות כדורגל לילדים"
       ],
-      "updated_at": "2026-10-11T11:27:23.289Z"
+      "updated_at": "2026-10-28T14:30:05.523Z"
     },
     {
       "id": "40c8a287-ecb1-4673-8200-6d82084862d2",
