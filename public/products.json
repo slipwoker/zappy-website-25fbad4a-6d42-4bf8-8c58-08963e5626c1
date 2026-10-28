@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T14:51:28.464Z",
+  "generated_at": "2026-10-28T14:52:38.083Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 554,
@@ -3577,28 +3577,28 @@
     },
     {
       "id": "56af679e-e8c8-4cb2-8fcd-ff8e90f54b58",
-      "slug": "chlypt-kdvrgl-mvndyal-2026-pvrtvgl-rvnaldv-rg938v",
+      "slug": "chlypt-kdvrgl-mvndyal-2026-pvrtvgl-rvnaldv-9tnn19",
       "name": "חליפת כדורגל מונדיאל 2026 פורטוגל רונאלדו",
       "name_translations": {},
       "description": "",
       "short_description": "חליפת כדורגל מונדיאל 2026 פורטוגל רונאלדו\nחליפת כדורגל איכותית לילדים ונוער.\n\nהסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים.\n\n(חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו)\n\nמידות: 4,6,8,10,12,14,16,1",
       "sku": null,
       "brand": null,
-      "price": 69,
-      "base_price": 99,
-      "sale_price": 69,
+      "price": 99,
+      "base_price": 120,
+      "sale_price": 99,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1786434262433-i7zgg.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-pvrtvgl-rvnaldv-rg938v",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-pvrtvgl-rvnaldv-9tnn19",
       "categories": [
         "מוצרי ספורט",
         "חליפות כדורגל לילדים"
       ],
-      "updated_at": "2026-10-26T10:05:13.964Z"
+      "updated_at": "2026-10-28T14:52:04.100Z"
     },
     {
       "id": "3f127608-da22-4bab-aa93-cc6c6cc8a760",
