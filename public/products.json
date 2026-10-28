@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-28T14:52:38.083Z",
+  "generated_at": "2026-10-28T14:57:28.527Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 554,
@@ -3502,28 +3502,28 @@
     },
     {
       "id": "918e8659-5bd7-4e69-bf3e-f84abd45045c",
-      "slug": "chlypt-kdvrgl-mvndyal-2026-tsrpt-ambph-6nuorn",
+      "slug": "chlypt-kdvrgl-mvndyal-2026-tsrpt-ambph-yymcdx",
       "name": "חליפת כדורגל מונדיאל 2026 צרפת אמבפה",
       "name_translations": {},
       "description": "",
       "short_description": "חליפת כדורגל איכותית לילדים ונוער.\n\nהסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים.\n\n(חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו)\n\nמידות: 4,6,8,10,12,14,16,18",
       "sku": null,
       "brand": null,
-      "price": 69,
-      "base_price": 99,
-      "sale_price": 69,
+      "price": 99,
+      "base_price": 120,
+      "sale_price": 99,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-1786437744420-7es2ak.webp"
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-tsrpt-ambph-6nuorn",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mvndyal-2026-tsrpt-ambph-yymcdx",
       "categories": [
         "מוצרי ספורט",
         "חליפות כדורגל לילדים"
       ],
-      "updated_at": "2026-10-11T11:27:24.903Z"
+      "updated_at": "2026-10-28T14:56:54.536Z"
     },
     {
       "id": "3e39cd0e-6eba-475e-8dd4-9c4abfa16d74",
