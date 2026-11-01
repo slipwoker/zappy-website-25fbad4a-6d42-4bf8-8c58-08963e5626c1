@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-01T15:47:53.503Z",
+  "generated_at": "2026-11-01T15:49:13.604Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 554,
@@ -3327,11 +3327,11 @@
     },
     {
       "id": "375366c1-fb6e-489d-91fb-f0de93542c9a",
-      "slug": "chlypt-kdvrgl-mkby-tl-abyb-dvydh-b5gyfa",
-      "name": "חליפת כדורגל מכבי תל אביב דוידה ",
+      "slug": "chlypt-kdvrgl-tl-abyb-dvydh-bm9dic",
+      "name": "חליפת כדורגל  תל אביב דוידה ",
       "name_translations": {},
       "description": "",
-      "short_description": "חליפת כדורגל מכבי תל אביב דוידה\nחליפת כדורגל איכותית לילדים ונוער.\n\nהסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים.\n\n(חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו)\n\nמידות: 4,6,8,10,12,14,18\n\n ",
+      "short_description": "חליפת כדורגל  דוידה\nחליפת כדורגל איכותית לילדים ונוער.\n\nהסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים.\n\n(חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו)\n\nמידות: 4,6,8,10,12,14,18\n\n ",
       "sku": null,
       "brand": null,
       "price": 99,
@@ -3343,12 +3343,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mkby-tl-abyb-dvydh-b5gyfa",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-tl-abyb-dvydh-bm9dic",
       "categories": [
         "מוצרי ספורט",
         "חליפות כדורגל קצרות לילדים"
       ],
-      "updated_at": "2026-10-28T14:30:52.918Z"
+      "updated_at": "2026-11-01T15:48:57.722Z"
     },
     {
       "id": "ac43c5f5-9c97-4387-bcf2-880e56f5a10c",
