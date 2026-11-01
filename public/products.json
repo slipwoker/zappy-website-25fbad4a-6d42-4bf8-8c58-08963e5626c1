@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-01T12:14:44.897Z",
+  "generated_at": "2026-11-01T12:21:17.329Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 554,
@@ -55,7 +55,7 @@
     },
     {
       "id": "b3d1eae5-45b6-4599-a180-9a2b8c811028",
-      "slug": "avpnva-mshtrh-ank-spyydrmn-12-vvlt-am-pnsym-vblvtvt-f1afqu",
+      "slug": "avpnva-mshtrh-ank-spyydrmn-12-vvlt-am-pnsym-vblvtvt-p26np2",
       "name": "אופנוע משטרה ענק ספיידרמן 12 וולט עם פנסים ובלוטות",
       "name_translations": {},
       "description": "<p>משקל הפריט</p><p>17.5 קילוגרם</p><p>מידות הפריט אורך x רוחב x גובה</p><p>122 אורך x 53 רוחב x 74 גובה סנטימטרים</p><p>מידות הפריט</p><p>122 x 53 x 74 סנטימטרים</p>",
@@ -63,8 +63,8 @@
       "sku": null,
       "brand": null,
       "price": 899,
-      "base_price": 899,
-      "sale_price": null,
+      "base_price": 1100,
+      "sale_price": 899,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-1793015284071-0vr36n.webp",
@@ -73,11 +73,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/avpnva-mshtrh-ank-spyydrmn-12-vvlt-am-pnsym-vblvtvt-f1afqu",
+      "url": "https://parktoys.co.il/product/avpnva-mshtrh-ank-spyydrmn-12-vvlt-am-pnsym-vblvtvt-p26np2",
       "categories": [
         "ממונעים לילדים "
       ],
-      "updated_at": "2026-10-26T11:53:55.089Z"
+      "updated_at": "2026-11-01T12:20:42.964Z"
     },
     {
       "id": "78b418a6-c23a-492a-a747-b47e9e99ee49",

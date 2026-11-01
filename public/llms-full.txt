@@ -3285,6 +3285,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -4307,8 +4309,8 @@ Availability: In stock
 ---
 
 ### אופנוע משטרה ענק ספיידרמן 12 וולט עם פנסים ובלוטות
-URL: https://parktoys.co.il/product/avpnva-mshtrh-ank-spyydrmn-12-vvlt-am-pnsym-vblvtvt-f1afqu
-Price: 899.00 ILS
+URL: https://parktoys.co.il/product/avpnva-mshtrh-ank-spyydrmn-12-vvlt-am-pnsym-vblvtvt-p26np2
+Price: 899.00 ILS (sale, was 1100.00 ILS)
 Availability: In stock
 
 משקל הפריט 17.5 קילוגרם מידות הפריט אורך x רוחב x גובה 122 אורך x 53 רוחב x 74 גובה סנטימטרים מידות הפריט 122 x 53 x 74 סנטימטרים
