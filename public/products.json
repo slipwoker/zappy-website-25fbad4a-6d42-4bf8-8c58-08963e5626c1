@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-01T15:41:18.692Z",
+  "generated_at": "2026-11-01T15:42:13.459Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 554,
@@ -274,8 +274,8 @@
     },
     {
       "id": "da341ca4-8c03-4932-ba5d-623af0122582",
-      "slug": "chlypt-kdvrgll-mkby-chyph-arvkh-qt18mo",
-      "name": "חליפת כדורגלל מכבי חיפה ארוכה",
+      "slug": "chlypt-kdvrgl-chyph-arvkh-gn9c6d",
+      "name": "חליפת כדורגל חיפה ארוכה",
       "name_translations": {},
       "description": "",
       "short_description": null,
@@ -290,12 +290,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgll-mkby-chyph-arvkh-qt18mo",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-chyph-arvkh-gn9c6d",
       "categories": [
         "חליפות כדורגל קצרות לילדים",
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-10-27T13:07:29.003Z"
+      "updated_at": "2026-11-01T15:41:38.796Z"
     },
     {
       "id": "9c5661ac-f37d-4e7d-b015-89617c7f7c15",
