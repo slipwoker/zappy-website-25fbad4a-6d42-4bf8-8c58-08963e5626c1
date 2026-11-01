@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-01T15:49:33.265Z",
+  "generated_at": "2026-11-01T15:50:18.598Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 554,
@@ -3352,11 +3352,11 @@
     },
     {
       "id": "ac43c5f5-9c97-4387-bcf2-880e56f5a10c",
-      "slug": "chlypt-kdvrgl-hpval-ta-tvryal-2plozo",
-      "name": "חליפת כדורגל הפועל ת\"א טוריאל",
+      "slug": "chlypt-kdvrgl-ta-tvryal-wpz31p",
+      "name": "חליפת כדורגל ת\"א טוריאל",
       "name_translations": {},
       "description": "",
-      "short_description": "חליפת כדורגל הפועל ת\"א טוריאלחליפת כדורגל איכותית לילדים ונוער.\n\nהסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים.\n\n(חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו)\n\nמידות: 4,6,8,10,12,14,18\n\n ",
+      "short_description": "חליפת כדורגל טוריאלחליפת כדורגל איכותית לילדים ונוער.\n\nהסט כולל חולצה נוחה וספורטיבית + מכנסים קצרים.\n\n(חליפת כדורגל זו אינה מוצר מקורי או רשמי של מועדון ספורט כלשהו)\n\nמידות: 4,6,8,10,12,14,18\n\n ",
       "sku": null,
       "brand": null,
       "price": 99,
@@ -3368,12 +3368,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-hpval-ta-tvryal-2plozo",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-ta-tvryal-wpz31p",
       "categories": [
         "מוצרי ספורט",
         "חליפות כדורגל קצרות לילדים"
       ],
-      "updated_at": "2026-10-28T14:40:20.071Z"
+      "updated_at": "2026-11-01T15:49:46.803Z"
     },
     {
       "id": "c80d393a-e3b3-492d-aaf8-ea7151b90b34",
