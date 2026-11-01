@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-01T15:44:43.591Z",
+  "generated_at": "2026-11-01T15:47:14.077Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 554,
@@ -990,8 +990,8 @@
     },
     {
       "id": "d24237b2-9da4-42a7-bead-de9e790edb3c",
-      "slug": "mntsstr-syty-hland-gnz6vb",
-      "name": "מנצסטר סיטי הלאנד",
+      "slug": "mntsstr-hland-14epa0",
+      "name": "מנצסטר הלאנד",
       "name_translations": {},
       "description": "",
       "short_description": null,
@@ -1006,11 +1006,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/mntsstr-syty-hland-gnz6vb",
+      "url": "https://parktoys.co.il/product/mntsstr-hland-14epa0",
       "categories": [
         "חליפות כדורגל קצרות לילדים"
       ],
-      "updated_at": "2026-10-28T14:26:51.191Z"
+      "updated_at": "2026-11-01T15:46:41.209Z"
     },
     {
       "id": "e3dd167d-4d2d-4a44-a2c7-18abf8ef91d9",
