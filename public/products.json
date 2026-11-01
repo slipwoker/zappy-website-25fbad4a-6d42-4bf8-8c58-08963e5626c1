@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-01T12:21:17.329Z",
+  "generated_at": "2026-11-01T12:22:22.507Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 554,
@@ -3026,16 +3026,16 @@
     },
     {
       "id": "95e54218-1647-4356-9003-99ed7b5fad05",
-      "slug": "cat-12v-htrktvr-hktn-shmrgysh-kmv-hdbr-6v51uc",
+      "slug": "cat-12v-htrktvr-hktn-shmrgysh-kmv-hdbr-s205gt",
       "name": "CAT 12V – הטרקטור הקטן שמרגיש כמו הדבר ",
       "name_translations": {},
       "description": "",
       "short_description": "*CAT 12V – הטרקטור הקטן שמרגיש כמו הדבר האמיתי!* 🚜\n\n\nהגיע הזמן לעלות על הטרקטור ולהתחיל לעבוד!\n\nטרקטור CAT החשמלי מעניק לילדים חוויית נהיגה מרגשת בעיצוב הקשוח והאייקוני של Caterpillar. גלגלים גדולים במראה שטח, תנוחת ישיבה גבוהה והגה בסגנון טרקטור אמיתי – כל מה שצריך כדי להרגיש כמו מפעיל כלי עבודה אמיתי.\n\nעם מערכת 12V, שני מנועים, נסיעה קדימה ואחורה ושתי מהירויות – כל סיבוב בחצר הופך להרפתקה חדשה.\n\nגם ההורים נשארים בשליטה באמצעות שלט הורים 2.4GHz, ולנוחות ובטיחות נוספת הטרקטור מצויד בחגורת בטיחו",
       "sku": null,
       "brand": null,
-      "price": 899,
+      "price": 699,
       "base_price": 899,
-      "sale_price": null,
+      "sale_price": 699,
       "currency": "ILS",
       "images": [
         "https://parktoys.co.il/assets/product-1786621978834-q6szi5.webp",
@@ -3043,12 +3043,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/cat-12v-htrktvr-hktn-shmrgysh-kmv-hdbr-6v51uc",
+      "url": "https://parktoys.co.il/product/cat-12v-htrktvr-hktn-shmrgysh-kmv-hdbr-s205gt",
       "categories": [
         "גלגלים",
         "ממונעים לילדים "
       ],
-      "updated_at": "2026-10-15T07:35:25.345Z"
+      "updated_at": "2026-11-01T12:21:46.627Z"
     },
     {
       "id": "a8e02149-f463-4e9a-a19e-ffaa4a4054f6",
