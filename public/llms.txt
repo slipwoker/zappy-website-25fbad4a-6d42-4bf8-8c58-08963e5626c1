@@ -82,7 +82,7 @@ Information about WCAG compliance and accessibility features.
 https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-tsrpt-ambph-sq25ak
 - Price: 99.00 ILS (sale, was 120.00 ILS)
 - Availability: In stock
-- Category: חליפות כדורגל ארוכות 
+- Category: חליפות כדורגל ארוכות לילדים
 - Image: https://parktoys.co.il/assets/product-enhanced-1793113169897-pvpjz.webp
 
 ### קרטינג מתקפל ממונע לילדים 12V עם שלט רחוק, אורות וצלילים
@@ -105,7 +105,7 @@ https://parktoys.co.il/product/avpnva-mshtrh-ank-spyydrmn-12-vvlt-am-pnsym-vblvt
 https://parktoys.co.il/product/grby-kdvrgl-myamy-krxl3x
 - Price: 29.00 ILS
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Description: מידות 30 - 38
 - Image: https://parktoys.co.il/assets/product-enhanced-1792938806415-g1z7ic.webp
 
@@ -113,7 +113,7 @@ https://parktoys.co.il/product/grby-kdvrgl-myamy-krxl3x
 https://parktoys.co.il/product/grby-kdvrgl-argtynh-x3lhao
 - Price: 29.00 ILS
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Description: מידות 30 -36
 - Image: https://parktoys.co.il/assets/product-enhanced-1792938707814-h3a2to.webp
 
@@ -121,7 +121,7 @@ https://parktoys.co.il/product/grby-kdvrgl-argtynh-x3lhao
 https://parktoys.co.il/product/grby-kdvrgl-bytr-yrvshlym-0wp4wq
 - Price: 29.00 ILS
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Description: מידות 30 -38
 - Image: https://parktoys.co.il/assets/product-enhanced-1792938486226-yz3ou.webp
 
@@ -129,7 +129,7 @@ https://parktoys.co.il/product/grby-kdvrgl-bytr-yrvshlym-0wp4wq
 https://parktoys.co.il/product/grby-kdvrgl-ryal-mdryd-nqirix
 - Price: 29.00 ILS
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Description: מידות 30-38
 - Image: https://parktoys.co.il/assets/product-enhanced-1792938278658-pkt95.webp
 
@@ -137,7 +137,7 @@ https://parktoys.co.il/product/grby-kdvrgl-ryal-mdryd-nqirix
 https://parktoys.co.il/product/grbyy-kdvrgl-mkby-tl-abyb-prwc1c
 - Price: 29.00 ILS
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Description: מידות 30-38
 - Image: https://parktoys.co.il/assets/product-enhanced-1792937815588-nvvy7n.webp
 
@@ -145,7 +145,7 @@ https://parktoys.co.il/product/grbyy-kdvrgl-mkby-tl-abyb-prwc1c
 https://parktoys.co.il/product/grby-kdvrgl-pvrtvgl-5yjggi
 - Price: 29.00 ILS
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Description: מידות 30-38
 - Image: https://parktoys.co.il/assets/product-enhanced-1792937678856-kr54xr.webp
 
@@ -153,7 +153,7 @@ https://parktoys.co.il/product/grby-kdvrgl-pvrtvgl-5yjggi
 https://parktoys.co.il/product/grbyy-kdvrgl-brtslvnh-9ptbfm
 - Price: 29.00 ILS
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Description: מידות 30-38
 - Image: https://parktoys.co.il/assets/product-enhanced-1792937554892-7653qc.webp
 
@@ -161,49 +161,49 @@ https://parktoys.co.il/product/grbyy-kdvrgl-brtslvnh-9ptbfm
 https://parktoys.co.il/product/chlypt-kdvrgl-mkby-tl-abyby-arvkh-2t9n9e
 - Price: 99.00 ILS (sale, was 120.00 ILS)
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Image: https://parktoys.co.il/assets/product-enhanced-1792659305009-8bzo2g.webp
 
 ### חליפת כדורגלל מכבי חיפה ארוכה
 https://parktoys.co.il/product/chlypt-kdvrgll-mkby-chyph-arvkh-qt18mo
 - Price: 99.00 ILS (sale, was 120.00 ILS)
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Image: https://parktoys.co.il/assets/product-enhanced-1792659130177-o8rca4.webp
 
 ### חליפת כדורגל ריאל מדריד ארוכה אמבפה
 https://parktoys.co.il/product/chlypt-kdvrgl-ryal-mdryd-arvkh-ambph-0syyb1
 - Price: 99.00 ILS (sale, was 120.00 ILS)
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Image: https://parktoys.co.il/assets/product-enhanced-1792658730912-cnltq3.webp
 
 ### חליפת כדורגל ארוכה ברזיל- ויניסיוס
 https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-brzyl-vynysyvs-xo9ep4
 - Price: 99.04 ILS (sale, was 119.98 ILS)
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Image: https://parktoys.co.il/assets/product-enhanced-1792658165958-xsw2lm.webp
 
 ### חליפת כדורגל ארוכה ספרד- לאמין יאמל 
 https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-yra5x7
 - Price: 99.00 ILS (sale, was 120.00 ILS)
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Image: https://parktoys.co.il/assets/product-enhanced-1792657863623-7e3rw.webp
 
 ### חליפת כדורגל פורטוגל ארוכה- רונלאדו 
 https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-xfor6d
 - Price: 99.00 ILS (sale, was 120.00 ILS)
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Image: https://parktoys.co.il/assets/product-enhanced-1792657417993-ge1bzn.webp
 
 ### חליפת כדורגל ארגטינה ארוכה -מסי
 https://parktoys.co.il/product/chlypt-kdvrgl-argtynh-arvkh-msy-5g6tsu
 - Price: 99.00 ILS (sale, was 120.00 ILS)
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Image: https://parktoys.co.il/assets/product-enhanced-1792656806241-h9u5k.webp
 
 ### בובת פיקאצ'ו אינטראקטיבית
@@ -276,7 +276,7 @@ https://parktoys.co.il/product/myny-bymbh-am-avrvt-mbyt-viper-ii65bq
 https://parktoys.co.il/product/chlypt-kdvrgl-brtslvnh-pdry-tt6n5y
 - Price: 99.00 ILS (sale, was 120.00 ILS)
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Image: https://parktoys.co.il/assets/product-enhanced-1792320109101-buqne.webp
 
 ### רובלוקס פאט מוג'ו סטיל אה בריינרוט קולקטור באנדל כריש
@@ -378,14 +378,14 @@ https://parktoys.co.il/product/mtslmh-mdpysh-spyydrmn-u4hrkd
 https://parktoys.co.il/product/chlypt-kdvrgl-pryz-sn-zrmn-dmblh-x4jpk2
 - Price: 99.00 ILS (sale, was 120.00 ILS)
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Image: https://parktoys.co.il/assets/product-enhanced-1791723141469-3yh8ln.webp
 
 ### ריאל מדריד אמבפה כחול
 https://parktoys.co.il/product/ryal-mdryd-ambph-kchvl-w2tb7r
 - Price: 99.00 ILS (sale, was 120.00 ILS)
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Image: https://parktoys.co.il/assets/product-enhanced-1791723010938-gmye2p.webp
 
 ### כדור כדורגל לבחירה
@@ -399,7 +399,7 @@ https://parktoys.co.il/product/kdvr-kdvrgl-lbchyrh-40rwtt
 https://parktoys.co.il/product/mntsstr-syty-hland-gnz6vb
 - Price: 99.00 ILS (sale, was 120.00 ILS)
 - Availability: In stock
-- Category: חליפות כדורגל לילדים
+- Category: חליפות כדורגל קצרות לילדים
 - Image: https://parktoys.co.il/assets/product-enhanced-1791721097842-b9wogh.webp
 
 ### חליפת כדורגל נבחרת ישראל סולומון 
