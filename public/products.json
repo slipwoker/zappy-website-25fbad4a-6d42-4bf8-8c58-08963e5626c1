@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-02T15:30:37.231Z",
+  "generated_at": "2026-11-03T12:27:05.960Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 554,
+  "count": 555,
   "products": [
+    {
+      "id": "04c99d9b-c7db-49a5-ae81-7aeded104240",
+      "slug": "vyypr-havpnyym-hrashvnvt-shly-2-b-1-hl6sws",
+      "name": "וייפר – האופניים הראשונות שלי 2 ב-1",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מסגרת מתכת חזקה ואיכותית הרכבה ללא צורך בכלים נוספים, ללימוד רכיבה התפתחותית לגילאי 2-5 בעל גלגלי EAV (גומי דחוס קשיח).\nהאופניים מגיעות מפורקות ונדרש הרכבה פשוטה הכוללת דף הוראות מצורף.\n",
+      "sku": null,
+      "brand": null,
+      "price": 289,
+      "base_price": 289,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1793708749202-ikrpob.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/vyypr-havpnyym-hrashvnvt-shly-2-b-1-hl6sws",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-11-03T12:26:32.617Z"
+    },
     {
       "id": "7f0e3652-9b7b-4e87-b631-8ce2118e4ddd",
       "slug": "chlypt-kdvrgl-arvkh-tsrpt-ambph-sq25ak",

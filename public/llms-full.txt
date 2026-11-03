@@ -3310,6 +3310,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -4314,6 +4316,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 ---
 
 ## Product Catalog
+
+### וייפר – האופניים הראשונות שלי 2 ב-1
+URL: https://parktoys.co.il/product/vyypr-havpnyym-hrashvnvt-shly-2-b-1-hl6sws
+Price: 289.00 ILS
+Availability: In stock
+
+---
 
 ### חליפת כדורגל ארוכה צרפת אמבפה
 URL: https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-tsrpt-ambph-sq25ak

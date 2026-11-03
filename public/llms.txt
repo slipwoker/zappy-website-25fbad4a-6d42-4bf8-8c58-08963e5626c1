@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 554** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 555** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### וייפר – האופניים הראשונות שלי 2 ב-1
+https://parktoys.co.il/product/vyypr-havpnyym-hrashvnvt-shly-2-b-1-hl6sws
+- Price: 289.00 ILS
+- Availability: In stock
+- Category: גלגלים
+- Description: מסגרת מתכת חזקה ואיכותית הרכבה ללא צורך בכלים נוספים, ללימוד רכיבה התפתחותית לגילאי 2-5 בעל גלגלי EAV (גומי דחוס קשיח). האופניים מגיעות מפורקות ונדרש הרכבה פשוטה הכוללת דף הוראות מצורף.
+- Image: https://parktoys.co.il/assets/product-enhanced-1793708749202-ikrpob.webp
 
 ### חליפת כדורגל ארוכה צרפת אמבפה
 https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-tsrpt-ambph-sq25ak
@@ -1630,14 +1638,6 @@ https://parktoys.co.il/product/prpr-myvn-tsvrvt-lymvdy-3ym9df
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: משחק התפתחותי שמעודד למידה, חשיבה ויכולת מוטורית אצל פעוטות! הפרפר משלב פעילויות לימודיות והפעלות קוליות מהנות, עם מנגנון מיון צורות אינטראקטיבי ותכנים בעברית. מאפיינים עיקריים: זיהוי והתאמת צורות הכרת בעלי חיים הכרת צבעים מוסיקה קלאסית משוב קולי בהתאמת הצורות 5 צורות ללחיצה 5 שירים 2 עוצמות קול מתאים לילדים מגיל 12 חודשים ומעלה סוללות: מופעל על ידי 3 סוללות AAA
 - Image: https://parktoys.co.il/assets/product-enhanced-1785764150448-9whhwg.webp
-
-### מיקרופון יובל המבולבל
-https://parktoys.co.il/product/mykrvpvn-yvbl-hmbvlbl-zt0waq
-- Price: 79.90 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: שרים ונהנים עם יובל המבולבל! מצב שירים - 12 שירים של יובל מצב קריוקי - 10 מנגינות של שירי יובל עשרות משפטים ובדיחות!
-- Image: https://parktoys.co.il/assets/product-enhanced-1785763278664-7i6ung.webp
 
 ---
 
