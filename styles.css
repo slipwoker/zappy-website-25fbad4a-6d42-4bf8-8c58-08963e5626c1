@@ -26169,6 +26169,54 @@ main,
 .home-section-0-section .product-card img {
   height: 160px;
 }
+
+.home-section-0-section .product-card-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.home-section-0-section .product-card .product-price {
+  margin: 6px 0 10px;
+  text-align: right;
+}
+
+.home-section-0-section .product-card .price-current {
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: var(--secondary);
+}
+
+.home-section-0-section .product-card .price-old {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  text-decoration: line-through;
+  margin-inline-start: 6px;
+}
+
+.home-section-0-section .product-card .product-buy-btn {
+  display: inline-block;
+  background: var(--primary);
+  color: #fff;
+  padding: 10px 18px;
+  border-radius: 100px;
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-decoration: none;
+  transition: transform 0.2s ease;
+}
+
+.home-section-0-section .product-card .product-buy-btn:hover {
+  transform: scale(1.03);
+}
+
+.home-section-0-section .product-card img {
+  transition: opacity 0.2s ease;
+}
+
+.home-section-0-section .product-card a.product-card-link:hover img {
+  opacity: 0.85;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
