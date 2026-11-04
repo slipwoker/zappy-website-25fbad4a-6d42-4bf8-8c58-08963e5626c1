@@ -3140,6 +3140,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -4143,8 +4145,8 @@ Availability: In stock
 
 ---
 
-### גרבי כדורגל ביתר ירושלים 
-URL: https://parktoys.co.il/product/grby-kdvrgl-bytr-yrvshlym-0wp4wq
+### גרבי כדורגל  ירושלים 
+URL: https://parktoys.co.il/product/grby-kdvrgl-yrvshlym-vkt7g7
 Price: 29.00 ILS
 Availability: In stock
 
@@ -4159,8 +4161,8 @@ Availability: In stock
 
 ---
 
-### גרביי כדורגל מכבי תל אביב 
-URL: https://parktoys.co.il/product/grbyy-kdvrgl-mkby-tl-abyb-prwc1c
+### גרביי כדורגל  תל אביב 
+URL: https://parktoys.co.il/product/grbyy-kdvrgl-tl-abyb-41rzg3
 Price: 29.00 ILS
 Availability: In stock
 

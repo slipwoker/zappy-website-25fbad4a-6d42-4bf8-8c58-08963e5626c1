@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-04T14:59:22.997Z",
+  "generated_at": "2026-11-04T20:59:13.810Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 555,
@@ -153,8 +153,8 @@
     },
     {
       "id": "6fe42bf5-a193-4344-a72f-6648522b033e",
-      "slug": "grby-kdvrgl-bytr-yrvshlym-0wp4wq",
-      "name": "גרבי כדורגל ביתר ירושלים ",
+      "slug": "grby-kdvrgl-yrvshlym-vkt7g7",
+      "name": "גרבי כדורגל  ירושלים ",
       "name_translations": {},
       "description": "",
       "short_description": "מידות 30 -38",
@@ -169,11 +169,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/grby-kdvrgl-bytr-yrvshlym-0wp4wq",
+      "url": "https://parktoys.co.il/product/grby-kdvrgl-yrvshlym-vkt7g7",
       "categories": [
         "חליפות כדורגל קצרות לילדים"
       ],
-      "updated_at": "2026-10-25T14:28:20.407Z"
+      "updated_at": "2026-11-04T20:58:38.948Z"
     },
     {
       "id": "5bf80b90-74ab-4cbd-b477-a1c24999971a",
@@ -201,8 +201,8 @@
     },
     {
       "id": "eb44a5fc-2ec3-4fe4-b5aa-05c4546de403",
-      "slug": "grbyy-kdvrgl-mkby-tl-abyb-prwc1c",
-      "name": "גרביי כדורגל מכבי תל אביב ",
+      "slug": "grbyy-kdvrgl-tl-abyb-41rzg3",
+      "name": "גרביי כדורגל  תל אביב ",
       "name_translations": {},
       "description": "",
       "short_description": "מידות 30-38",
@@ -217,11 +217,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/grbyy-kdvrgl-mkby-tl-abyb-prwc1c",
+      "url": "https://parktoys.co.il/product/grbyy-kdvrgl-tl-abyb-41rzg3",
       "categories": [
         "חליפות כדורגל קצרות לילדים"
       ],
-      "updated_at": "2026-10-25T14:17:45.215Z"
+      "updated_at": "2026-11-04T20:59:10.463Z"
     },
     {
       "id": "c6c70ddb-8071-443e-9dd5-b779c82796d8",
