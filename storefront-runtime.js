@@ -14898,6 +14898,66 @@ async function loadRelatedProducts(currentProduct, t) {
 })();
 /* ZAPPY_CUSTOM_JS_END:9040cb95c0a3 */
 
+/* ZAPPY_CUSTOM_JS_START:541f10ac619d */
+(function () {
+  function __zappyCustomInit() {
+    try {
+(function () {
+  function setupCarouselArrows() {
+    var showcases = document.querySelectorAll('.zappy-category-showcase');
+    if (!showcases.length) return;
+    showcases.forEach(function (section) {
+      if (section.querySelector('.zc-arrow')) return; // already set up
+      var strip = section.querySelector('.cat-product-strip');
+      if (!strip) return;
+      var title = section.querySelector('.zappy-category-showcase__title');
+      if (!title) return;
+
+      // position section relative
+      section.style.position = 'relative';
+
+      function makeBtn(dir, label) {
+        var btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'zc-arrow zc-arrow--' + dir;
+        btn.setAttribute('aria-label', label);
+        btn.innerHTML = dir === 'prev'
+          ? '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>'
+          : '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>';
+        return btn;
+      }
+
+      var prev = makeBtn('prev', 'הקודם');
+      var next = makeBtn('next', 'הבא');
+
+      prev.addEventListener('click', function () { strip.scrollBy({ left: -440, behavior: 'smooth' }); });
+      next.addEventListener('click', function () { strip.scrollBy({ left: 440, behavior: 'smooth' }); });
+
+      section.appendChild(prev);
+      section.appendChild(next);
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', setupCarouselArrows);
+  } else {
+    setupCarouselArrows();
+  }
+  // re-run after dynamic product strips load
+  window.addEventListener('load', setupCarouselArrows);
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:541f10ac619d */
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
