@@ -26406,6 +26406,12 @@ html body .zappy-category-showcase .cat-product-strip { -webkit-overflow-scrolli
 /* zappy-self-heal */
 html body .zappy-category-showcase .cat-product-strip--8 { -webkit-overflow-scrolling: touch !important; }
 
+
+@keyframes zappySaleShine {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
