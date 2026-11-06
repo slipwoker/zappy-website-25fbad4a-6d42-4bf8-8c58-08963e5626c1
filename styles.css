@@ -26566,6 +26566,60 @@ html body .zappy-category-showcase .cat-product-strip--8 { -webkit-overflow-scro
 .nav-menu > .nav-item > a:not(.nav-cta-btn):not(.cta-button) {
   color: var(--primary, var(--primary-color, var(--primary, #60A5FA))) !important;
 }
+
+.navbar .nav-menu li.zappy-nav-all-categories > .zappy-nav-cats-title {
+  display: block;
+  font-weight: 800;
+  font-size: 1.05rem;
+  color: var(--text-dark, var(--text-color, var(--text, var(--text-dark, #4a4a4a))));
+  padding: 12px 16px 8px;
+  margin-top: 8px;
+}
+
+.navbar .nav-menu .zappy-nav-cats-list {
+  list-style: none;
+  margin: 0;
+  padding: 0 16px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.navbar .nav-menu .zappy-nav-cats-list li {
+  margin: 0;
+}
+
+.navbar .nav-menu .zappy-nav-cats-list a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  background: #f1f3f5;
+  border: 1px solid #e2e5e9;
+  border-radius: 12px;
+  padding: 11px 14px;
+  color: var(--text-dark, var(--text-color, var(--text, var(--text-dark, #4a4a4a))));
+  font-weight: 600;
+  font-size: 0.92rem;
+  text-decoration: none;
+  direction: rtl;
+}
+
+.navbar .nav-menu .zappy-nav-cats-list a .cat-arrow {
+  color: var(--primary, var(--primary-color, var(--primary, #60A5FA)));
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.navbar .nav-menu .zappy-nav-cats-list a:hover, .navbar .nav-menu .zappy-nav-cats-list a:active {
+  background: #e7f0fd;
+}
+
+@media (min-width: 769px) {
+.navbar .nav-menu li.zappy-nav-all-categories {
+  display: none !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
