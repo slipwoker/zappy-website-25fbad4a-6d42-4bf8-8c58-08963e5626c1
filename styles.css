@@ -26456,6 +26456,37 @@ html body .zappy-category-showcase .cat-product-strip--8 { -webkit-overflow-scro
   grid-template-columns: 1fr !important;
 }
 }
+
+@media (max-width: 768px) {
+.navbar .zappy-products-dropdown .sub-menu,
+  .navbar .zappy-products-dropdown > .sub-menu,
+  .navbar #zappy-nav-category-links {
+  display: block !important;
+  position: static !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  max-height: none !important;
+  overflow: visible !important;
+  pointer-events: auto !important;
+  transform: none !important;
+  width: 100% !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 0.5rem 0 !important;
+}
+
+.navbar #zappy-nav-category-links li {
+  display: block !important;
+  border-bottom: 1px solid rgba(128,128,128,0.15) !important;
+}
+
+.navbar #zappy-nav-category-links li a {
+  display: block !important;
+  font-size: 15px !important;
+  padding: 12px 24px !important;
+  color: var(--nav-text, var(--text-dark)) !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
