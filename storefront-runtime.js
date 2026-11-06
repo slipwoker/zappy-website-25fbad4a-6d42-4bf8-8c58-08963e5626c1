@@ -15094,6 +15094,49 @@ async function loadRelatedProducts(currentProduct, t) {
 })();
 /* ZAPPY_CUSTOM_JS_END:326b79cf68c7 */
 
+/* ZAPPY_CUSTOM_JS_START:188d0109a975 */
+(function () {
+  function __zappyCustomInit() {
+    try {
+(function () {
+  // Clean up any previously injected category lists to avoid duplicates
+  document.querySelectorAll('.zappy-mobile-cats, .zappy-mobile-categories').forEach(function (el) {
+    el.remove();
+  });
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:188d0109a975 */
+
+/* ZAPPY_CUSTOM_JS_START:75875702bb32 */
+(function () {
+  function __zappyCustomInit() {
+    try {
+(function () {
+  document.querySelectorAll('.zappy-mobile-cats, .zappy-mobile-categories').forEach(function (el) {
+    el.remove();
+  });
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:75875702bb32 */
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
