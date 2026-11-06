@@ -14958,6 +14958,142 @@ async function loadRelatedProducts(currentProduct, t) {
 })();
 /* ZAPPY_CUSTOM_JS_END:541f10ac619d */
 
+/* ZAPPY_CUSTOM_JS_START:5b439a667949 */
+(function () {
+  function __zappyCustomInit() {
+    try {
+(function(){
+  function injectCategoriesIntoMobileMenu() {
+    var navMenu = document.getElementById('navMenu');
+    if (!navMenu) return;
+    // Avoid duplicate injection
+    if (navMenu.querySelector('.zappy-mobile-categories-list')) return;
+
+    // Find the source category list from the "כל הקטגוריות" section
+    var source = document.querySelector('#all-categories-top .all-categories-grid');
+    if (!source) return;
+
+    // Build a container for mobile category chips
+    var wrap = document.createElement('li');
+    wrap.className = 'zappy-mobile-categories-list';
+    wrap.style.cssText = 'display:block;width:100%;padding:0;margin:0;list-style:none;';
+
+    var title = document.createElement('div');
+    title.textContent = 'כל הקטגוריות';
+    title.style.cssText = 'font-weight:700;font-size:1rem;margin:0 0 10px 0;color:var(--nav-text, var(--text-dark));padding:0 0.5rem;';
+    wrap.appendChild(title);
+
+    var list = document.createElement('ul');
+    list.style.cssText = 'display:flex;flex-direction:column;gap:8px;list-style:none;margin:0;padding:0;';
+
+    // Clone each category chip (with arrow) from the source grid
+    var items = source.querySelectorAll('.cat-chip');
+    items.forEach(function(chip){
+      var clone = chip.cloneNode(true);
+      clone.style.cssText = 'display:flex;align-items:center;justify-content:space-between;background:#f3f4f6;border-radius:10px;padding:12px 16px;text-decoration:none;color:var(--text-dark,#4a4a4a);font-weight:600;font-size:0.95rem;width:100%;box-sizing:border-box;';
+      var li = document.createElement('li');
+      li.style.cssText = 'display:block;margin:0;padding:0;';
+      li.appendChild(clone);
+      list.appendChild(li);
+    });
+
+    wrap.appendChild(list);
+
+    // Insert as the last item of the mobile menu
+    navMenu.appendChild(wrap);
+  }
+
+  function init(){
+    injectCategoriesIntoMobileMenu();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:5b439a667949 */
+
+/* ZAPPY_CUSTOM_JS_START:326b79cf68c7 */
+(function () {
+  function __zappyCustomInit() {
+    try {
+(function () {
+  function injectCategories() {
+    var navMenu = document.getElementById('navMenu') || document.querySelector('.nav-menu');
+    var source = document.getElementById('all-categories-top');
+    if (!navMenu || !source) return;
+
+    // Remove any previous injection
+    var prev = navMenu.querySelector('.zappy-mobile-categories');
+    if (prev) prev.remove();
+
+    var chips = source.querySelectorAll('.cat-chip, .cat-list-item');
+    if (!chips.length) return;
+
+    var wrapper = document.createElement('div');
+    wrapper.className = 'zappy-mobile-categories';
+
+    var heading = document.createElement('div');
+    heading.className = 'zappy-mobile-categories-title';
+    heading.textContent = 'כל הקטגוריות';
+    wrapper.appendChild(heading);
+
+    var list = document.createElement('div');
+    list.className = 'zappy-mobile-categories-list';
+
+    chips.forEach(function (chip) {
+      var a = document.createElement('a');
+      a.className = 'zappy-mobile-cat-item';
+      a.href = chip.getAttribute('href');
+      // text + arrow
+      var arrow = document.createElement('span');
+      arrow.className = 'zappy-mobile-cat-arrow';
+      arrow.textContent = '→';
+      var label = document.createElement('span');
+      label.className = 'zappy-mobile-cat-label';
+      label.textContent = (chip.textContent || '').replace('→', '').replace('←', '').trim();
+      a.appendChild(arrow);
+      a.appendChild(label);
+      list.appendChild(a);
+    });
+
+    wrapper.appendChild(list);
+    navMenu.appendChild(wrapper);
+  }
+
+  function run() {
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', injectCategories);
+    } else {
+      injectCategories();
+    }
+  }
+  run();
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:326b79cf68c7 */
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){

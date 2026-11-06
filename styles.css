@@ -1497,15 +1497,16 @@ html:not([dir="rtl"]):not([lang="he"]):not([lang="ar"]) .dropdown-menu {
   }
 
   .nav-menu a {
-    display: block;
-    padding: 18px 24px;
-    width: 100%;
-    font-weight: 600;
-    font-size: 1.25rem;
-    letter-spacing: 0.01em;
-    text-align: center;
-    transition: color 0.2s ease, opacity 0.2s ease;
-  }
+  display: block;
+  padding: 18px 24px;
+  width: 100%;
+  font-weight: 600;
+  font-size: 1.25rem;
+  letter-spacing: 0.01em;
+  text-align: center;
+  transition: color 0.2s ease, opacity 0.2s ease;
+  visibility: hidden !important;
+}
 
   .nav-menu a:hover,
   .nav-menu a:focus-visible {
@@ -26486,6 +26487,84 @@ html body .zappy-category-showcase .cat-product-strip--8 { -webkit-overflow-scro
   padding: 12px 24px !important;
   color: var(--nav-text, var(--text-dark)) !important;
 }
+}
+
+@media (max-width: 768px) {
+.navbar #navMenu.active .sub-menu,
+  .navbar #navMenu.open .sub-menu,
+  .navbar #navMenu.active #zappy-nav-category-links,
+  .navbar #navMenu.open #zappy-nav-category-links,
+  .navbar #navMenu .zappy-products-dropdown .sub-menu {
+  display: block !important;
+  position: static !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  max-height: none !important;
+  overflow: visible !important;
+  pointer-events: auto !important;
+  transform: none !important;
+  width: 100% !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 0.5rem 0 !important;
+}
+
+.navbar #navMenu.active #zappy-nav-category-links li,
+  .navbar #navMenu.open #zappy-nav-category-links li {
+  display: block !important;
+  visibility: visible !important;
+  border-bottom: 1px solid rgba(128,128,128,0.15) !important;
+}
+
+.navbar #navMenu.active #zappy-nav-category-links li a,
+  .navbar #navMenu.open #zappy-nav-category-links li a {
+  display: block !important;
+  visibility: visible !important;
+  font-size: 15px !important;
+  padding: 12px 24px !important;
+  color: var(--nav-text, var(--text-dark)) !important;
+}
+}
+
+.nav-menu .zappy-mobile-cats {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+  margin-top: 8px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border-light, #898b8d);
+}
+
+.nav-menu .zappy-mobile-cat-item {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  width: 100%;
+  background: #f1f3f5;
+  border: 1px solid #e2e5e9;
+  border-radius: 12px;
+  padding: 12px 16px;
+  color: var(--primary, var(--primary-color, var(--primary, #60A5FA))) !important;
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-decoration: none;
+  text-align: right;
+  direction: rtl;
+}
+
+.nav-menu .zappy-mobile-cat-item:hover,
+.nav-menu .zappy-mobile-cat-item:active {
+  background: #e7f0fd;
+}
+
+.nav-menu > li > a:not(.nav-cta-btn):not(.cta-button) {
+  color: var(--primary, var(--primary-color, var(--primary, #60A5FA))) !important;
+}
+
+.nav-menu > .nav-item > a:not(.nav-cta-btn):not(.cta-button) {
+  color: var(--primary, var(--primary-color, var(--primary, #60A5FA))) !important;
 }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
