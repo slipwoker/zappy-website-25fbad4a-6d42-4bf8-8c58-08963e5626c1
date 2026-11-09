@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-08T17:29:08.743Z",
+  "generated_at": "2026-11-09T12:51:24.568Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 555,
@@ -129,7 +129,7 @@
     },
     {
       "id": "eaf7bf72-a24f-456e-83af-f063a7cd946c",
-      "slug": "grby-kdvrgl-argtynh-x3lhao",
+      "slug": "grby-kdvrgl-argtynh-e2c6b5",
       "name": "גרבי כדורגל ארגטינה ",
       "name_translations": {},
       "description": "",
@@ -143,13 +143,13 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1792938707814-h3a2to.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/grby-kdvrgl-argtynh-x3lhao",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://parktoys.co.il/product/grby-kdvrgl-argtynh-e2c6b5",
       "categories": [
         "חליפות כדורגל קצרות לילדים"
       ],
-      "updated_at": "2026-10-25T14:32:17.602Z"
+      "updated_at": "2026-11-09T12:50:46.562Z"
     },
     {
       "id": "6fe42bf5-a193-4344-a72f-6648522b033e",
