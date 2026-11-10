@@ -3347,6 +3347,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -4404,7 +4406,7 @@ Availability: In stock
 ---
 
 ### חליפת כדורגל ארוכה צרפת אמבפה
-URL: https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-tsrpt-ambph-sq25ak
+URL: https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-tsrpt-ambph-22j4fq
 Price: 99.00 ILS (sale, was 120.00 ILS)
 Availability: In stock
 
