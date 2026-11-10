@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-10T15:36:33.740Z",
+  "generated_at": "2026-11-10T15:37:28.159Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 559,
@@ -467,11 +467,11 @@
     },
     {
       "id": "b9f4f068-2222-48cd-b019-f22eed7347a0",
-      "slug": "chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-yra5x7",
+      "slug": "chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-umklkl",
       "name": "חליפת כדורגל ארוכה ספרד- לאמין יאמל ",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "חליפת כדורגל ארוכה למשחק. שימו לב המכנס הוא מכנס 7/8 ומומלץ לקחת מידה גדולה מאחר ומדובר במידות קטנות",
       "sku": null,
       "brand": null,
       "price": 99,
@@ -483,12 +483,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-yra5x7",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-umklkl",
       "categories": [
         "חליפות כדורגל קצרות לילדים",
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-10-27T13:16:26.513Z"
+      "updated_at": "2026-11-10T15:36:54.553Z"
     },
     {
       "id": "ad0e2a36-90dd-478f-82a7-566ff529ef55",
