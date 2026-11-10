@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 555** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 556** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת חורף ירושלים
+https://parktoys.co.il/product/chlypt-chvrp-yrvshlym-v3nqc8
+- Price: 99.00 ILS (sale, was 149.00 ILS)
+- Availability: In stock
+- Category: חליפות כדורגל ארוכות לילדים
+- Image: https://parktoys.co.il/assets/product-enhanced-1794318831963-rijpri.webp
 
 ### וייפר – האופניים הראשונות שלי 2 ב-1
 https://parktoys.co.il/product/vyypr-havpnyym-hrashvnvt-shly-2-b-1-hl6sws
@@ -1630,14 +1637,6 @@ https://parktoys.co.il/product/palvlvn-baly-chyym-dvbr-abryt-gbtptt
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: משחקים, מתפתחים ולומדים עם חווית משחק של אור וקול ומשחק שאלות אינטראקטיבי. נושאי הלימוד: • בעלי חיים • מספרים • אותיות • צבעים • צורות משחקים ומתפתחים: פיתוח הראיה – באמצעות מגוון נורות צבעוניות פיתוח השמיעה – באמצעות מגוון מנגינות וקריינות פיתוח המוטוריקה – באמצעות מגוון לחצנים המפעילים נורות וקולות פיתוח החשיבה – באמצעות מערכת שאלות ותשובות אינטראקטיבית
 - Image: https://parktoys.co.il/assets/product-enhanced-1785852536450-3k6ngo.webp
-
-### פרפר מיון צורות לימודי
-https://parktoys.co.il/product/prpr-myvn-tsvrvt-lymvdy-3ym9df
-- Price: 79.90 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: משחק התפתחותי שמעודד למידה, חשיבה ויכולת מוטורית אצל פעוטות! הפרפר משלב פעילויות לימודיות והפעלות קוליות מהנות, עם מנגנון מיון צורות אינטראקטיבי ותכנים בעברית. מאפיינים עיקריים: זיהוי והתאמת צורות הכרת בעלי חיים הכרת צבעים מוסיקה קלאסית משוב קולי בהתאמת הצורות 5 צורות ללחיצה 5 שירים 2 עוצמות קול מתאים לילדים מגיל 12 חודשים ומעלה סוללות: מופעל על ידי 3 סוללות AAA
-- Image: https://parktoys.co.il/assets/product-enhanced-1785764150448-9whhwg.webp
 
 ---
 

@@ -4,7 +4,21 @@
     <title>פארק הצעצועים</title>
     <link>https://parktoys.co.il</link>
     <description>Product feed for פארק הצעצועים</description>
-    <lastBuildDate>Mon, 09 Nov 2026 12:51:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 13:55:10 GMT</lastBuildDate>
+    <item>
+      <g:id>47c3eb57-f9ae-4c86-b582-97864afa8ae6</g:id>
+      <g:title>חליפת חורף ירושלים</g:title>
+      <g:description>חליפת חורף ירושלים</g:description>
+      <g:link>https://parktoys.co.il/product/chlypt-chvrp-yrvshlym-v3nqc8</g:link>
+      <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794318831963-rijpri.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.00 ILS</g:price>
+      <g:sale_price>99.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות כדורגל ארוכות לילדים</g:product_type>
+    </item>
     <item>
       <g:id>151ed5b2-a593-44e4-927a-a9e326dba14f</g:id>
       <g:title>וייפר – האופניים הראשונות שלי 2 ב-1 - Green</g:title>
@@ -54,7 +68,7 @@
       <g:link>https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-tsrpt-ambph-sq25ak</g:link>
       <g:item_group_id>7f0e3652-9b7b-4e87-b631-8ce2118e4ddd</g:item_group_id>
       <g:image_link>https://parktoys.co.il/assets/product-enhanced-1793113169897-pvpjz.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>120.00 ILS</g:price>
       <g:sale_price>99.00 ILS</g:sale_price>
       <g:condition>new</g:condition>
@@ -69,7 +83,7 @@
       <g:link>https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-tsrpt-ambph-sq25ak</g:link>
       <g:item_group_id>7f0e3652-9b7b-4e87-b631-8ce2118e4ddd</g:item_group_id>
       <g:image_link>https://parktoys.co.il/assets/product-enhanced-1793113169897-pvpjz.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>120.00 ILS</g:price>
       <g:sale_price>99.00 ILS</g:sale_price>
       <g:condition>new</g:condition>
