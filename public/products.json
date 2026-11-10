@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-10T15:31:10.360Z",
+  "generated_at": "2026-11-10T15:36:33.740Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 559,
@@ -442,11 +442,11 @@
     },
     {
       "id": "fedca2f9-2a88-4229-98df-d889b3b22859",
-      "slug": "chlypt-kdvrgl-arvkh-brzyl-vynysyvs-xo9ep4",
+      "slug": "chlypt-kdvrgl-arvkh-brzyl-vynysyvs-nnm5ch",
       "name": "חליפת כדורגל ארוכה ברזיל- ויניסיוס",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "חליפת כדורגל ארוכה למשחק. שימו לב המכנס הוא מכנס 7/8 ומומלץ לקחת מידה גדולה מאחר ומדובר במידות קטנות",
       "sku": null,
       "brand": null,
       "price": 99.04,
@@ -458,12 +458,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-brzyl-vynysyvs-xo9ep4",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-brzyl-vynysyvs-nnm5ch",
       "categories": [
         "חליפות כדורגל קצרות לילדים",
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-10-27T13:15:59.026Z"
+      "updated_at": "2026-11-10T15:35:58.342Z"
     },
     {
       "id": "b9f4f068-2222-48cd-b019-f22eed7347a0",
