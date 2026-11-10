@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-10T13:55:10.914Z",
+  "generated_at": "2026-11-10T13:59:29.034Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 556,
+  "count": 557,
   "products": [
+    {
+      "id": "2f85b02c-e1c3-4c57-980d-fb203cef9cc6",
+      "slug": "chlypt-chvrp-chyph-igbtvy",
+      "name": "חליפת חורף חיפה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 149,
+      "sale_price": 99,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1794319110894-vfxlbh.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chlypt-chvrp-chyph-igbtvy",
+      "categories": [],
+      "updated_at": "2026-11-10T13:58:56.401Z"
+    },
     {
       "id": "47c3eb57-f9ae-4c86-b582-97864afa8ae6",
       "slug": "chlypt-chvrp-yrvshlym-v3nqc8",
