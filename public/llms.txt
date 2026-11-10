@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 557** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 558** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת חורף תל אביב 
+https://parktoys.co.il/product/chlypt-chvrp-tl-abyb-uj1ar0
+- Price: 99.00 ILS (sale, was 149.00 ILS)
+- Availability: In stock
+- Category: חליפות כדורגל ארוכות לילדים
+- Image: https://parktoys.co.il/assets/product-enhanced-1794319250702-u3ufh8.webp
 
 ### חליפת חורף חיפה
 https://parktoys.co.il/product/chlypt-chvrp-chyph-igbtvy
@@ -1627,14 +1634,6 @@ https://parktoys.co.il/product/gytrh-chshmlyt-mshpcht-spyr-knecmx
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: גיטרה חשמלית משפ' ספיר שרים ומנגנים את הלהיטים: אש רעידת אדמה הכל טוב הממלכה קיץ כולל מיקרופון קריוקי מגוון אפקטים קוליים 2 מצבים: שירים קריוקי גיל 3
 - Image: https://parktoys.co.il/assets/product-enhanced-1785773774077-5x32vd.webp
-
-### מיקרופון קריוקי רועיקי
-https://parktoys.co.il/product/mykrvpvn-kryvky-rvayky-1zhleb
-- Price: 90.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: מיקרופון קריוקי של רועיקי מצחיקי, מאמן הילדים של ישראל הכולל 4 לחצנים: שירי רועיקי, משפטי העצמה, שירי אימון ובדיחות.
-- Image: https://parktoys.co.il/assets/product-enhanced-1785772995890-874ibj.webp
 
 ---
 
