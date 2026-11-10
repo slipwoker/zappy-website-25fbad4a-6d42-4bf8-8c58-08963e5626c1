@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-10T15:37:28.159Z",
+  "generated_at": "2026-11-10T15:45:18.734Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 559,
@@ -417,11 +417,11 @@
     },
     {
       "id": "9c5661ac-f37d-4e7d-b015-89617c7f7c15",
-      "slug": "chlypt-kdvrgl-mdryd-arvkh-ambph-nqh28f",
+      "slug": "chlypt-kdvrgl-mdryd-arvkh-ambph-fvs6s7",
       "name": "חליפת כדורגל מדריד ארוכה אמבפה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "חליפת כדורגל ארוכה למשחק. שימו לב המכנס הוא מכנס 7/8 ומומלץ לקחת מידה גדולה מאחר ומדובר במידות קטנות",
       "sku": null,
       "brand": null,
       "price": 99,
@@ -433,12 +433,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mdryd-arvkh-ambph-nqh28f",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mdryd-arvkh-ambph-fvs6s7",
       "categories": [
         "חליפות כדורגל קצרות לילדים",
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-11-01T15:42:22.752Z"
+      "updated_at": "2026-11-10T15:45:10.570Z"
     },
     {
       "id": "fedca2f9-2a88-4229-98df-d889b3b22859",
@@ -517,11 +517,11 @@
     },
     {
       "id": "e9fbc6ff-2b98-4886-a15f-6ee854765bcb",
-      "slug": "chlypt-kdvrgl-argtynh-arvkh-msy-5g6tsu",
+      "slug": "chlypt-kdvrgl-argtynh-arvkh-msy-4ztepr",
       "name": "חליפת כדורגל ארגטינה ארוכה -מסי",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "חליפת כדורגל ארוכה למשחק. שימו לב המכנס הוא מכנס 7/8 ומומלץ לקחת מידה גדולה מאחר ומדובר במידות קטנות",
       "sku": null,
       "brand": null,
       "price": 99,
@@ -533,12 +533,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-argtynh-arvkh-msy-5g6tsu",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-argtynh-arvkh-msy-4ztepr",
       "categories": [
         "חליפות כדורגל קצרות לילדים",
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-10-27T13:23:02.793Z"
+      "updated_at": "2026-11-10T15:44:46.731Z"
     },
     {
       "id": "e467d0af-493d-48ee-8cba-a9fd79c681e0",
