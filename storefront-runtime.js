@@ -15137,6 +15137,39 @@ async function loadRelatedProducts(currentProduct, t) {
 })();
 /* ZAPPY_CUSTOM_JS_END:75875702bb32 */
 
+/* ZAPPY_CUSTOM_JS_START:1e92877c03af */
+(function () {
+  function __zappyCustomInit() {
+    try {
+(function(){
+  var toggle = document.getElementById('allCatsToggle');
+  var list = document.getElementById('allCatsList');
+  if(!toggle || !list) return;
+  toggle.addEventListener('click', function(){
+    var isOpen = list.classList.contains('open');
+    if(isOpen){
+      list.classList.remove('open');
+      toggle.setAttribute('aria-expanded','false');
+      toggle.querySelector('.all-cats-label').textContent = 'הצגת כל הקטגוריות';
+    } else {
+      list.classList.add('open');
+      toggle.setAttribute('aria-expanded','true');
+      toggle.querySelector('.all-cats-label').textContent = 'סגירת הקטגוריות';
+    }
+  });
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:1e92877c03af */
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
