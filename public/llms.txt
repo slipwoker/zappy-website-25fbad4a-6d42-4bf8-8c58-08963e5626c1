@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 559** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 560** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חולצה כדורגל סיטי האלנד 
+https://parktoys.co.il/product/chvltsh-kdvrgl-syty-halnd-9upias
+- Price: 39.00 ILS (sale, was 79.00 ILS)
+- Availability: In stock
+- Category: חליפות כדורגל ארוכות לילדים
+- Description: חולצה בלבד
+- Image: https://parktoys.co.il/assets/product-enhanced-1794408166608-4tg5.webp
 
 ### חליפת חורף ישראל
 https://parktoys.co.il/product/chlypt-chvrp-yshral-omyin0
@@ -1632,14 +1640,6 @@ https://parktoys.co.il/product/avrgnyt-kvpykv-4nryfo
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: אורגנית קופיקו דוברת עברית! שרים ונהנים עם קופיקו וחברים! מנגנים ונהנים בחוויה של שירים עם קופיקו ועוד הפתעות.. אורגנית עם מצב הקלטה והשמעה ומצב נגינה תו אחרי תו- 10 מנגינות, בנוסף קיימת אופציה לשליטה בעוצמת הקול.
 - Image: https://parktoys.co.il/assets/product-enhanced-1785776851705-5o2bjm.webp
-
-### אורגנית מיקי
-https://parktoys.co.il/product/avrgnyt-myky-xnidwj
-- Price: 140.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: לנגן ולשיר עם מיקי כוכבת הילדים - עכשיו כולם יכולים עם האורגנית! הילדים יוכלו להקליט שירים ולהשמיע אותם. כולל מצבי האזנה ונגינה. 10 שירים של מיקי. תפריטים בעברית. שירים: מיקי, כפתורים, מה נשמיקי , פונץ', שיר מסע, אני גיבורה, בא לי, שיר הדמיון, לדבר עם חיות, תודה. מנגינות: בא לי, כפתורים, מיקי, פוחדים, פונץ'
-- Image: https://parktoys.co.il/assets/product-enhanced-1785776033433-3l7dva.webp
 
 ---
 
