@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-11T11:17:42.794Z",
+  "generated_at": "2026-11-11T11:24:43.285Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 559,
@@ -31,7 +31,7 @@
     },
     {
       "id": "4864dc52-f3aa-4a3f-8fa7-c0fc598087ad",
-      "slug": "chlypt-chvrp-tl-abyb-uj1ar0",
+      "slug": "chlypt-chvrp-tl-abyb-aaozdj",
       "name": "חליפת חורף תל אביב ",
       "name_translations": {},
       "description": "",
@@ -47,11 +47,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-chvrp-tl-abyb-uj1ar0",
+      "url": "https://parktoys.co.il/product/chlypt-chvrp-tl-abyb-aaozdj",
       "categories": [
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-11-10T14:01:19.368Z"
+      "updated_at": "2026-11-11T11:24:08.673Z"
     },
     {
       "id": "2f85b02c-e1c3-4c57-980d-fb203cef9cc6",
