@@ -3347,6 +3347,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -5377,8 +5379,8 @@ Availability: In stock
 
 ---
 
-### כדורגל ביתר ירושלים
-URL: https://parktoys.co.il/product/kdvrgl-bytr-yrvshlym-gjves5
+### כדורגל  ירושלים
+URL: https://parktoys.co.il/product/kdvrgl-yrvshlym-j541ax
 Price: 50.00 ILS
 Availability: In stock
 

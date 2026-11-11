@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-11T19:58:49.010Z",
+  "generated_at": "2026-11-11T21:26:31.280Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 563,
@@ -3317,8 +3317,8 @@
     },
     {
       "id": "91dd619b-6744-4f11-ae27-4eb9d10f7347",
-      "slug": "kdvrgl-bytr-yrvshlym-gjves5",
-      "name": "כדורגל ביתר ירושלים",
+      "slug": "kdvrgl-yrvshlym-j541ax",
+      "name": "כדורגל  ירושלים",
       "name_translations": {},
       "description": "",
       "short_description": "כדור איכותי במידה 5.\nכדור במשקל 420 גרם עם פמינית אנטי פנצ’ר.",
@@ -3333,12 +3333,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kdvrgl-bytr-yrvshlym-gjves5",
+      "url": "https://parktoys.co.il/product/kdvrgl-yrvshlym-j541ax",
       "categories": [
         "מוצרי ספורט",
         "מתנות עד 99ש\"ח"
       ],
-      "updated_at": "2026-08-20T13:37:33.682Z"
+      "updated_at": "2026-11-11T21:25:56.815Z"
     },
     {
       "id": "5ad8a4d3-b8f9-40c1-8ed6-8f02b64b2c75",
