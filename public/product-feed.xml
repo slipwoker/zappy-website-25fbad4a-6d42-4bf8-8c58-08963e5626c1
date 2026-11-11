@@ -4,7 +4,7 @@
     <title>פארק הצעצועים</title>
     <link>https://parktoys.co.il</link>
     <description>Product feed for פארק הצעצועים</description>
-    <lastBuildDate>Wed, 11 Nov 2026 11:24:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 11:40:27 GMT</lastBuildDate>
     <item>
       <g:id>9cfc383e-9c28-4328-b887-b75d13c97709</g:id>
       <g:title>חליפת חורף ישראל - 6</g:title>
@@ -96,10 +96,56 @@
       <g:product_type>חליפות כדורגל ארוכות לילדים</g:product_type>
     </item>
     <item>
-      <g:id>4864dc52-f3aa-4a3f-8fa7-c0fc598087ad</g:id>
-      <g:title>חליפת חורף תל אביב </g:title>
+      <g:id>52491c86-78c1-4246-8580-2f9f23468a22</g:id>
+      <g:title>חליפת חורף תל אביב  - 8</g:title>
       <g:description>חליפת חורף תל אביב</g:description>
       <g:link>https://parktoys.co.il/product/chlypt-chvrp-tl-abyb-aaozdj</g:link>
+      <g:item_group_id>4864dc52-f3aa-4a3f-8fa7-c0fc598087ad</g:item_group_id>
+      <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794319250702-u3ufh8.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.00 ILS</g:price>
+      <g:sale_price>99.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות כדורגל ארוכות לילדים</g:product_type>
+    </item>
+    <item>
+      <g:id>988f6697-f350-4860-bf74-cf9bd47fa17d</g:id>
+      <g:title>חליפת חורף תל אביב  - 10</g:title>
+      <g:description>חליפת חורף תל אביב</g:description>
+      <g:link>https://parktoys.co.il/product/chlypt-chvrp-tl-abyb-aaozdj</g:link>
+      <g:item_group_id>4864dc52-f3aa-4a3f-8fa7-c0fc598087ad</g:item_group_id>
+      <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794319250702-u3ufh8.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.00 ILS</g:price>
+      <g:sale_price>99.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות כדורגל ארוכות לילדים</g:product_type>
+    </item>
+    <item>
+      <g:id>0d851b21-7dd4-49e1-bf3c-c06d33537872</g:id>
+      <g:title>חליפת חורף תל אביב  - 12</g:title>
+      <g:description>חליפת חורף תל אביב</g:description>
+      <g:link>https://parktoys.co.il/product/chlypt-chvrp-tl-abyb-aaozdj</g:link>
+      <g:item_group_id>4864dc52-f3aa-4a3f-8fa7-c0fc598087ad</g:item_group_id>
+      <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794319250702-u3ufh8.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.00 ILS</g:price>
+      <g:sale_price>99.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות כדורגל ארוכות לילדים</g:product_type>
+    </item>
+    <item>
+      <g:id>ea439664-0f98-4da4-b204-95dc52332a54</g:id>
+      <g:title>חליפת חורף תל אביב  - 14</g:title>
+      <g:description>חליפת חורף תל אביב</g:description>
+      <g:link>https://parktoys.co.il/product/chlypt-chvrp-tl-abyb-aaozdj</g:link>
+      <g:item_group_id>4864dc52-f3aa-4a3f-8fa7-c0fc598087ad</g:item_group_id>
       <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794319250702-u3ufh8.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>149.00 ILS</g:price>
