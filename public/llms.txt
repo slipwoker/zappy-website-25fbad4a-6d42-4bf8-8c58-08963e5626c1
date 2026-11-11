@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 560** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 561** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת כדורגל ארוכה מדריד אפור 
+https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-mdryd-apvr-a1tfc1
+- Price: 99.00 ILS (sale, was 120.00 ILS)
+- Availability: In stock
+- Category: חליפות כדורגל ארוכות לילדים
+- Description: חליפת כדורגל ארוכה מדריד אפור המכנס מגיע 7/8 מותאם למשחק מידות קטנות ממולץ לקחת מידה יותר
+- Image: https://parktoys.co.il/assets/product-enhanced-1794408948473-tiwjmn.webp
 
 ### חולצה כדורגל סיטי האלנד 
 https://parktoys.co.il/product/chvltsh-kdvrgl-syty-halnd-9upias
@@ -1632,14 +1640,6 @@ https://parktoys.co.il/product/mshtch-paylvt-mym-agvl-kvtr-65-sm-spark-toys-k6st
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: משטח פעילות מים רך ומלא חיים שמעניק לתינוק חוויה רב-חושית מהנה. בתוך המשטח שוחות חיות צבעוניות המעודדות את התינוק להניע את גופו, לחזק את שרירי הצוואר והכתפיים ולפתח קואורדינציה בזמן שכיבה על הבטן. המשטח מספק סביבה בטוחה ומגרה המקדמת התפתחות פיזית וקוגניטיבית, ומאפשר חקירה עצמאית דרך מגע, ראייה ותנועה. קל למילוי באוויר ובמים, מתקפל בנוחות ומתאים לשימוש בבית או בנסיעות. • כולל 6 חיות צפות צבעוניות • מחזק את חגורת הכתפיים ושרירי הצוואר • מעודד זחילה וסקרנות • מסייע בקשר עין-יד ובפיתוח קואורדינצ
 - Image: https://parktoys.co.il/assets/product-1785833245589-o97zu9.webp
-
-### אורגנית קופיקו 
-https://parktoys.co.il/product/avrgnyt-kvpykv-4nryfo
-- Price: 150.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: אורגנית קופיקו דוברת עברית! שרים ונהנים עם קופיקו וחברים! מנגנים ונהנים בחוויה של שירים עם קופיקו ועוד הפתעות.. אורגנית עם מצב הקלטה והשמעה ומצב נגינה תו אחרי תו- 10 מנגינות, בנוסף קיימת אופציה לשליטה בעוצמת הקול.
-- Image: https://parktoys.co.il/assets/product-enhanced-1785776851705-5o2bjm.webp
 
 ---
 
