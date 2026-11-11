@@ -79,8 +79,8 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 563** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### חליפת חורף ברזיל 
-https://parktoys.co.il/product/chlypt-chvrp-brzyl-s1bq4t
-- Price: 99.00 ILS (sale, was 149.00 ILS)
+https://parktoys.co.il/product/chlypt-chvrp-brzyl-m8yzfp
+- Price: 120.00 ILS (sale, was 149.00 ILS)
 - Availability: In stock
 - Category: חליפות כדורגל ארוכות לילדים
 - Image: https://parktoys.co.il/assets/product-enhanced-1794413108080-slazl.webp
