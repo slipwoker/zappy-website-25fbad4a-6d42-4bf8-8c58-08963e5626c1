@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 562** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 563** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת חורף ברזיל 
+https://parktoys.co.il/product/chlypt-chvrp-brzyl-s1bq4t
+- Price: 99.00 ILS (sale, was 149.00 ILS)
+- Availability: In stock
+- Category: חליפות כדורגל ארוכות לילדים
+- Image: https://parktoys.co.il/assets/product-enhanced-1794413108080-slazl.webp
 
 ### חליפת חורף ארגטינה 
 https://parktoys.co.il/product/chlypt-chvrp-argtynh-f3hgkp
@@ -1631,14 +1638,6 @@ https://parktoys.co.il/product/mnvrt-lylh-mkrn-kvkbym-jq1mck
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: העניקו לפעוט שלכם חוויה מוזיקלית ואורקולית מרגיעה עם מקרן הכוכבים מבית Spark Toys. המנורה תוכננה במיוחד כדי ליצור סביבה עוטפת, רגועה ושקטה שמסייעת להרגעת התינוק לקראת שנת לילה. למה כדאי לבחור במנורה הזו? - תוכן דובר עברית: המכשיר כולל שירי ערש ומוזיקה מרגיעה, ביניהם היצירה המוכרת "דובי לילה טוב". - אווירה קסומה: המנורה מקרינה כוכבים על קירות החדר ומשלבת תאורה בצבעים משתנים ליצירת מראה מרגיע.
 - Image: https://parktoys.co.il/assets/product-enhanced-1785848451257-5apy5q.webp
-
-### מנורת לילה מוזיקלית
-https://parktoys.co.il/product/mnvrt-lylh-mvzyklyt-5ujkeq
-- Price: 79.90 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: העניקו לתינוקכם חוויה מוזיקלית ואורקולית מושלמת להרגעה ולהירדמות נעימה. המנורה משלבת צלילים ועיצוב מיוחד ליצירת סביבת שינה שלווה ועוטפת עבור הפעוט. למה כדאי לקנות אותו? המנורה מציעה פתרון הוליסטי להירדמות, המשלב גירוי מוזיקלי וחושי בשפה העברית יחד עם תאורה רכה. הייחודיות שלה טמונה בשילוב של תוכן מוכר ומרגיע עם אפשרות אישית, מה שהופך אותה למלווה מושלמת לטקס השינה של תינוקכם.
-- Image: https://parktoys.co.il/assets/product-enhanced-1785848057903-zgt1z.webp
 
 ---
 
