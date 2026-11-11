@@ -4,7 +4,7 @@
     <title>פארק הצעצועים</title>
     <link>https://parktoys.co.il</link>
     <description>Product feed for פארק הצעצועים</description>
-    <lastBuildDate>Wed, 11 Nov 2026 11:48:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 11:49:57 GMT</lastBuildDate>
     <item>
       <g:id>9cfc383e-9c28-4328-b887-b75d13c97709</g:id>
       <g:title>חליפת חורף ישראל - 6</g:title>
@@ -156,10 +156,81 @@
       <g:product_type>חליפות כדורגל ארוכות לילדים</g:product_type>
     </item>
     <item>
-      <g:id>2f85b02c-e1c3-4c57-980d-fb203cef9cc6</g:id>
-      <g:title>חליפת חורף חיפה</g:title>
+      <g:id>f33d3163-8844-4856-999a-13ca5bae0b72</g:id>
+      <g:title>חליפת חורף חיפה - 4</g:title>
       <g:description>חליפת חורף חיפה</g:description>
       <g:link>https://parktoys.co.il/product/chlypt-chvrp-chyph-igbtvy</g:link>
+      <g:item_group_id>2f85b02c-e1c3-4c57-980d-fb203cef9cc6</g:item_group_id>
+      <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794319110894-vfxlbh.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.00 ILS</g:price>
+      <g:sale_price>99.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>39565eb7-b385-4c65-9c05-e66f496e2cd0</g:id>
+      <g:title>חליפת חורף חיפה - 8</g:title>
+      <g:description>חליפת חורף חיפה</g:description>
+      <g:link>https://parktoys.co.il/product/chlypt-chvrp-chyph-igbtvy</g:link>
+      <g:item_group_id>2f85b02c-e1c3-4c57-980d-fb203cef9cc6</g:item_group_id>
+      <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794319110894-vfxlbh.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.00 ILS</g:price>
+      <g:sale_price>99.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>e65df7c6-58c8-4b60-91d6-494333469ec5</g:id>
+      <g:title>חליפת חורף חיפה - 10</g:title>
+      <g:description>חליפת חורף חיפה</g:description>
+      <g:link>https://parktoys.co.il/product/chlypt-chvrp-chyph-igbtvy</g:link>
+      <g:item_group_id>2f85b02c-e1c3-4c57-980d-fb203cef9cc6</g:item_group_id>
+      <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794319110894-vfxlbh.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.00 ILS</g:price>
+      <g:sale_price>99.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>b05a5106-e4c0-4b5b-a6c4-ca3c69064433</g:id>
+      <g:title>חליפת חורף חיפה - 12</g:title>
+      <g:description>חליפת חורף חיפה</g:description>
+      <g:link>https://parktoys.co.il/product/chlypt-chvrp-chyph-igbtvy</g:link>
+      <g:item_group_id>2f85b02c-e1c3-4c57-980d-fb203cef9cc6</g:item_group_id>
+      <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794319110894-vfxlbh.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.00 ILS</g:price>
+      <g:sale_price>99.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>02f78239-16f6-44fc-b5e5-b940f3d8d39e</g:id>
+      <g:title>חליפת חורף חיפה - 14</g:title>
+      <g:description>חליפת חורף חיפה</g:description>
+      <g:link>https://parktoys.co.il/product/chlypt-chvrp-chyph-igbtvy</g:link>
+      <g:item_group_id>2f85b02c-e1c3-4c57-980d-fb203cef9cc6</g:item_group_id>
+      <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794319110894-vfxlbh.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.00 ILS</g:price>
+      <g:sale_price>99.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>5f5b89b2-e2e0-40fe-a3fc-0208fede1ee1</g:id>
+      <g:title>חליפת חורף חיפה - 18</g:title>
+      <g:description>חליפת חורף חיפה</g:description>
+      <g:link>https://parktoys.co.il/product/chlypt-chvrp-chyph-igbtvy</g:link>
+      <g:item_group_id>2f85b02c-e1c3-4c57-980d-fb203cef9cc6</g:item_group_id>
       <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794319110894-vfxlbh.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>149.00 ILS</g:price>
