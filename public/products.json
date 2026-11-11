@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-11T15:17:49.634Z",
+  "generated_at": "2026-11-11T15:52:50.423Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 561,
+  "count": 562,
   "products": [
+    {
+      "id": "2c2e6904-1b9a-4d21-bca4-288feb42882b",
+      "slug": "chlypt-chvrp-argtynh-f3hgkp",
+      "name": "חליפת חורף ארגטינה ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 149,
+      "sale_price": 99,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1794412277993-evlp2d.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chlypt-chvrp-argtynh-f3hgkp",
+      "categories": [
+        "חליפות כדורגל ארוכות לילדים"
+      ],
+      "updated_at": "2026-11-11T15:52:13.979Z"
+    },
     {
       "id": "a0a274ba-7854-441e-ba20-436e1d5e01f7",
       "slug": "chlypt-kdvrgl-arvkh-mdryd-apvr-a1tfc1",
