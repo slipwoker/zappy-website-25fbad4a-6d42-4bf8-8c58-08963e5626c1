@@ -15170,6 +15170,85 @@ async function loadRelatedProducts(currentProduct, t) {
 })();
 /* ZAPPY_CUSTOM_JS_END:1e92877c03af */
 
+/* ZAPPY_CUSTOM_JS_START:f15977d0ea90 */
+(function () {
+  function __zappyCustomInit() {
+    try {
+(function () {
+  var badgeStyle = {
+    position: 'absolute',
+    top: '8px',
+    right: '8px',
+    zIndex: '10',
+    background: '#FF6B6B',
+    color: '#FFFFFF',
+    fontWeight: '700',
+    fontSize: '0.72rem',
+    lineHeight: '1',
+    padding: '6px 10px',
+    borderRadius: '999px',
+    boxShadow: '0 2px 6px rgba(0,0,0,0.18)',
+    pointerEvents: 'none'
+  };
+
+  function markSaleBadges() {
+    var cards = document.querySelectorAll('.product-card, [class*="product-card"], [data-zappy-product], [data-zappy-category-products] a[href^="/product/"], a[href^="/product/"]');
+    cards.forEach(function (node) {
+      var card = node.closest('.product-card') || node.closest('[data-zappy-product]') || node;
+      if (card.nodeType !== 1) return;
+      if (card.__zappySaleBadgeAdded) return;
+      card.__zappySaleBadgeAdded = true;
+
+      var hasSale = card.querySelector('.price-old, [class*="price-old"], [class*="old-price"], [class*="compare-price"], s, del, [data-sale-price], [data-compare-price], [data-price-old]');
+      if (!hasSale) return;
+
+      if (getComputedStyle(card).position === 'static') {
+        card.style.position = 'relative';
+      }
+
+      var badge = document.createElement('span');
+      badge.textContent = 'משתתף במבצע';
+      badge.setAttribute('dir', 'rtl');
+      for (var p in badgeStyle) {
+        badge.style.setProperty(p, badgeStyle[p]);
+      }
+
+      card.insertBefore(badge, card.firstChild);
+    });
+  }
+
+  function init() {
+    markSaleBadges();
+    if (window.__zappySaleObserver) return;
+    var observer = new MutationObserver(markSaleBadges);
+    observer.observe(document.body, { childList: true, subtree: true });
+    window.__zappySaleObserver = observer;
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+
+  window.addEventListener('load', function () {
+    [500, 1500, 3000, 6000].forEach(function (ms) {
+      setTimeout(markSaleBadges, ms);
+    });
+  });
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:f15977d0ea90 */
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
