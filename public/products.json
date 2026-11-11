@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-10T18:04:00.274Z",
+  "generated_at": "2026-11-11T07:22:40.291Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 559,
@@ -3420,7 +3420,7 @@
     },
     {
       "id": "bf541b0c-f186-46fc-a14a-2aba5dd6acd5",
-      "slug": "chlypt-kdvrsl-pvrtlnd-dny-abdyh-i14xsf",
+      "slug": "chlypt-kdvrsl-pvrtlnd-dny-abdyh-nubb18",
       "name": "חליפת כדורסל פורטלנד דני אבדיה ",
       "name_translations": {},
       "description": "",
@@ -3434,14 +3434,14 @@
       "images": [
         "https://parktoys.co.il/assets/product-enhanced-1786446973939-bd4p8.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrsl-pvrtlnd-dny-abdyh-i14xsf",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrsl-pvrtlnd-dny-abdyh-nubb18",
       "categories": [
         "מוצרי ספורט",
         "מתנות עד 99ש\"ח"
       ],
-      "updated_at": "2026-10-18T14:56:10.305Z"
+      "updated_at": "2026-11-11T07:22:06.078Z"
     },
     {
       "id": "375366c1-fb6e-489d-91fb-f0de93542c9a",
