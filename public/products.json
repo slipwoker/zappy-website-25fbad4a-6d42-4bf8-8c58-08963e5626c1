@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-12T17:35:30.960Z",
+  "generated_at": "2026-11-12T17:36:16.196Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 563,
@@ -221,7 +221,7 @@
     },
     {
       "id": "7f0e3652-9b7b-4e87-b631-8ce2118e4ddd",
-      "slug": "chlypt-kdvrgl-arvkh-tsrpt-ambph-22j4fq",
+      "slug": "chlypt-kdvrgl-arvkh-tsrpt-ambph-ql7jlq",
       "name": "חליפת כדורגל ארוכה צרפת אמבפה",
       "name_translations": {},
       "description": "",
@@ -237,11 +237,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-tsrpt-ambph-22j4fq",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-tsrpt-ambph-ql7jlq",
       "categories": [
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-11-10T15:25:02.147Z"
+      "updated_at": "2026-11-12T17:36:05.313Z"
     },
     {
       "id": "4bfd10b7-c485-45c8-a6e3-d6bfa4237811",
@@ -463,7 +463,7 @@
     },
     {
       "id": "ecf83d19-3ded-4369-8038-99de8c310ffb",
-      "slug": "chlypt-kdvrgl-tl-abyb-arvkh-b5igid",
+      "slug": "chlypt-kdvrgl-tl-abyb-arvkh-59g08y",
       "name": "חליפת כדורגל תל אביב  ארוכה ",
       "name_translations": {},
       "description": "",
@@ -479,12 +479,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-tl-abyb-arvkh-b5igid",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-tl-abyb-arvkh-59g08y",
       "categories": [
         "חליפות כדורגל קצרות לילדים",
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-11-10T15:30:11.383Z"
+      "updated_at": "2026-11-12T17:35:40.273Z"
     },
     {
       "id": "da341ca4-8c03-4932-ba5d-623af0122582",
