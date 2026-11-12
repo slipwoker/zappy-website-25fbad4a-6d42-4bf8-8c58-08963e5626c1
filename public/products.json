@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-12T17:41:37.356Z",
+  "generated_at": "2026-11-12T17:42:42.495Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 563,
@@ -173,7 +173,7 @@
     },
     {
       "id": "47c3eb57-f9ae-4c86-b582-97864afa8ae6",
-      "slug": "chlypt-chvrp-yrvshlym-qrn12w",
+      "slug": "chlypt-chvrp-yrvshlym-eqmyfw",
       "name": "חליפת חורף ירושלים",
       "name_translations": {},
       "description": "",
@@ -189,11 +189,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-chvrp-yrvshlym-qrn12w",
+      "url": "https://parktoys.co.il/product/chlypt-chvrp-yrvshlym-eqmyfw",
       "categories": [
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-11-11T16:37:59.171Z"
+      "updated_at": "2026-11-12T17:42:07.516Z"
     },
     {
       "id": "04c99d9b-c7db-49a5-ae81-7aeded104240",
