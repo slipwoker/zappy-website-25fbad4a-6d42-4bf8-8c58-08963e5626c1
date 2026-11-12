@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-11T21:26:31.280Z",
+  "generated_at": "2026-11-12T17:35:02.684Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 563,
@@ -538,7 +538,7 @@
     },
     {
       "id": "fedca2f9-2a88-4229-98df-d889b3b22859",
-      "slug": "chlypt-kdvrgl-arvkh-brzyl-vynysyvs-nnm5ch",
+      "slug": "chlypt-kdvrgl-arvkh-brzyl-vynysyvs-s27qf8",
       "name": "חליפת כדורגל ארוכה ברזיל- ויניסיוס",
       "name_translations": {},
       "description": "",
@@ -554,16 +554,16 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-brzyl-vynysyvs-nnm5ch",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-brzyl-vynysyvs-s27qf8",
       "categories": [
         "חליפות כדורגל קצרות לילדים",
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-11-10T15:35:58.342Z"
+      "updated_at": "2026-11-12T17:33:58.991Z"
     },
     {
       "id": "b9f4f068-2222-48cd-b019-f22eed7347a0",
-      "slug": "chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-umklkl",
+      "slug": "chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-dpryzs",
       "name": "חליפת כדורגל ארוכה ספרד- לאמין יאמל ",
       "name_translations": {},
       "description": "",
@@ -579,16 +579,16 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-umklkl",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-dpryzs",
       "categories": [
         "חליפות כדורגל קצרות לילדים",
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-11-10T15:36:54.553Z"
+      "updated_at": "2026-11-12T17:34:26.343Z"
     },
     {
       "id": "ad0e2a36-90dd-478f-82a7-566ff529ef55",
-      "slug": "chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-xfor6d",
+      "slug": "chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-xecgpw",
       "name": "חליפת כדורגל פורטוגל ארוכה- רונלאדו ",
       "name_translations": {},
       "description": "",
@@ -604,16 +604,16 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-xfor6d",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-pvrtvgl-arvkh-rvnladv-xecgpw",
       "categories": [
         "חליפות כדורגל קצרות לילדים",
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-10-27T13:22:37.647Z"
+      "updated_at": "2026-11-12T17:33:30.604Z"
     },
     {
       "id": "e9fbc6ff-2b98-4886-a15f-6ee854765bcb",
-      "slug": "chlypt-kdvrgl-argtynh-arvkh-msy-4ztepr",
+      "slug": "chlypt-kdvrgl-argtynh-arvkh-msy-b6mqb1",
       "name": "חליפת כדורגל ארגטינה ארוכה -מסי",
       "name_translations": {},
       "description": "",
@@ -629,12 +629,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-argtynh-arvkh-msy-4ztepr",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-argtynh-arvkh-msy-b6mqb1",
       "categories": [
         "חליפות כדורגל קצרות לילדים",
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-11-10T15:44:46.731Z"
+      "updated_at": "2026-11-12T17:34:57.738Z"
     },
     {
       "id": "e467d0af-493d-48ee-8cba-a9fd79c681e0",
