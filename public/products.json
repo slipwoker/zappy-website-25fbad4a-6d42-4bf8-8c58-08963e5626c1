@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-12T17:37:01.022Z",
+  "generated_at": "2026-11-12T17:39:58.267Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 563,
   "products": [
     {
       "id": "c62234b6-02da-4ab3-bb42-2c7103929db1",
-      "slug": "chlypt-chvrp-brzyl-m8yzfp",
+      "slug": "chlypt-chvrp-brzyl-mnhhba",
       "name": "חליפת חורף ברזיל ",
       "name_translations": {},
       "description": "",
@@ -23,15 +23,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-chvrp-brzyl-m8yzfp",
+      "url": "https://parktoys.co.il/product/chlypt-chvrp-brzyl-mnhhba",
       "categories": [
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-11-11T16:29:50.384Z"
+      "updated_at": "2026-11-12T17:39:32.856Z"
     },
     {
       "id": "2c2e6904-1b9a-4d21-bca4-288feb42882b",
-      "slug": "chlypt-chvrp-argtynh-9a458w",
+      "slug": "chlypt-chvrp-argtynh-ofq99u",
       "name": "חליפת חורף ארגטינה ",
       "name_translations": {},
       "description": "",
@@ -47,11 +47,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-chvrp-argtynh-9a458w",
+      "url": "https://parktoys.co.il/product/chlypt-chvrp-argtynh-ofq99u",
       "categories": [
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-11-11T16:30:34.164Z"
+      "updated_at": "2026-11-12T17:39:51.568Z"
     },
     {
       "id": "a0a274ba-7854-441e-ba20-436e1d5e01f7",
@@ -513,7 +513,7 @@
     },
     {
       "id": "9c5661ac-f37d-4e7d-b015-89617c7f7c15",
-      "slug": "chlypt-kdvrgl-mdryd-arvkh-ambph-fvs6s7",
+      "slug": "chlypt-kdvrgl-mdryd-arvkh-ambph-7lf00x",
       "name": "חליפת כדורגל מדריד ארוכה אמבפה",
       "name_translations": {},
       "description": "",
@@ -529,12 +529,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mdryd-arvkh-ambph-fvs6s7",
+      "url": "https://parktoys.co.il/product/chlypt-kdvrgl-mdryd-arvkh-ambph-7lf00x",
       "categories": [
         "חליפות כדורגל קצרות לילדים",
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-11-10T15:45:10.570Z"
+      "updated_at": "2026-11-12T17:37:56.343Z"
     },
     {
       "id": "fedca2f9-2a88-4229-98df-d889b3b22859",

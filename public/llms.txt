@@ -79,14 +79,14 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 563** (showing first 200; full catalog at https://parktoys.co.il/products.json)
 
 ### חליפת חורף ברזיל 
-https://parktoys.co.il/product/chlypt-chvrp-brzyl-m8yzfp
+https://parktoys.co.il/product/chlypt-chvrp-brzyl-mnhhba
 - Price: 120.00 ILS (sale, was 149.00 ILS)
 - Availability: In stock
 - Category: חליפות כדורגל ארוכות לילדים
 - Image: https://parktoys.co.il/assets/product-enhanced-1794413108080-slazl.webp
 
 ### חליפת חורף ארגטינה 
-https://parktoys.co.il/product/chlypt-chvrp-argtynh-9a458w
+https://parktoys.co.il/product/chlypt-chvrp-argtynh-ofq99u
 - Price: 120.00 ILS (sale, was 149.00 ILS)
 - Availability: In stock
 - Category: חליפות כדורגל ארוכות לילדים
@@ -240,7 +240,7 @@ https://parktoys.co.il/product/chlypt-kdvrgl-chyph-arvkh-c3a3nq
 - Image: https://parktoys.co.il/assets/product-enhanced-1792659130177-o8rca4.webp
 
 ### חליפת כדורגל מדריד ארוכה אמבפה
-https://parktoys.co.il/product/chlypt-kdvrgl-mdryd-arvkh-ambph-fvs6s7
+https://parktoys.co.il/product/chlypt-kdvrgl-mdryd-arvkh-ambph-7lf00x
 - Price: 99.00 ILS (sale, was 120.00 ILS)
 - Availability: In stock
 - Category: חליפות כדורגל קצרות לילדים
