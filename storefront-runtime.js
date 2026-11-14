@@ -15249,6 +15249,56 @@ async function loadRelatedProducts(currentProduct, t) {
 })();
 /* ZAPPY_CUSTOM_JS_END:f15977d0ea90 */
 
+/* ZAPPY_CUSTOM_JS_START:ad0419e9b250 */
+(function () {
+  function __zappyCustomInit() {
+    try {
+(function() {
+  if (!window.__zappyCartPromoNoteInjected) {
+    window.__zappyCartPromoNoteInjected = true;
+  }
+  function addPromoNote() {
+    if (document.getElementById('zappy-cart-promo-note')) return;
+    var cartItems = document.getElementById('cart-items');
+    var cartSection = document.querySelector('.cart-section');
+    if (!cartSection && !cartItems) return;
+    var note = document.createElement('div');
+    note.id = 'zappy-cart-promo-note';
+    note.setAttribute('dir', 'rtl');
+    note.style.cssText = 'margin-top:16px;padding:14px 16px;background:linear-gradient(135deg,#FFF7E6 0%,#FFE9B8 100%);border:1px solid #F5C542;border-radius:12px;text-align:right;font-size:0.95rem;line-height:1.6;color:#4a4a4a;';
+    note.innerHTML = '⚽ <strong>מתנה לחג!</strong> לקוח שלקח את מבצע 3 חליפות הכדורגל — מקבל <strong>כדור מונדיאל במתנה</strong>, ללא תוספת תשלום.';
+    if (cartItems) {
+      cartItems.parentNode.insertBefore(note, cartItems.nextSibling);
+    } else if (cartSection) {
+      var summary = cartSection.querySelector('.cart-summary');
+      if (summary) {
+        cartSection.insertBefore(note, summary);
+      } else {
+        cartSection.appendChild(note);
+      }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', addPromoNote);
+  } else {
+    addPromoNote();
+  }
+  // Re-apply in case cart runtime re-renders later
+  window.setTimeout(addPromoNote, 500);
+  window.setTimeout(addPromoNote, 1500);
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:ad0419e9b250 */
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
