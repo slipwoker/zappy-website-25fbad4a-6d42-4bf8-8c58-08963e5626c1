@@ -15299,41 +15299,11 @@ async function loadRelatedProducts(currentProduct, t) {
 })();
 /* ZAPPY_CUSTOM_JS_END:ad0419e9b250 */
 
-/* ZAPPY_CUSTOM_JS_START:db83480da999 */
+/* ZAPPY_CUSTOM_JS_START:3471217a3411 */
 (function () {
   function __zappyCustomInit() {
     try {
-(function() {
-  function addPromoNote() {
-    // Remove any existing duplicates
-    var existing = document.querySelectorAll('#zappy-cart-promo-note');
-    existing.forEach(function(el) { el.remove(); });
-
-    var cartItems = document.getElementById('cart-items');
-    var cartSection = document.getElementById('cart-section') || document.querySelector('.cart-section');
-    if (!cartSection) return;
-
-    var note = document.createElement('div');
-    note.id = 'zappy-cart-promo-note';
-    note.setAttribute('dir', 'rtl');
-    note.style.cssText = 'margin-top:16px;padding:14px 16px;background:linear-gradient(135deg,#FFF7E6 0%,#FFE9B8 100%);border:1px solid #F5C542;border-radius:12px;text-align:right;font-size:0.95rem;line-height:1.6;color:#4a4a4a;';
-    note.innerHTML = '⚽ <strong>מתנה לחג!</strong> לקוח שלקח את מבצע 3 חליפות הכדורגל — מקבל <strong>כדור מונדיאל במתנה</strong>, ללא תוספת תשלום.';
-
-    var summary = cartSection.querySelector('.cart-summary');
-    if (summary) {
-      cartSection.insertBefore(note, summary);
-    } else if (cartItems) {
-      cartItems.parentNode.insertBefore(note, cartItems.nextSibling);
-    } else {
-      cartSection.appendChild(note);
-    }
-  }
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', addPromoNote);
-  } else {
-    addPromoNote();
-  }
-})();
+// Removed duplicate cart promo note injection — the note is already baked into the cart page HTML.
     } catch (e) {
       if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
     }
@@ -15344,7 +15314,7 @@ async function loadRelatedProducts(currentProduct, t) {
     __zappyCustomInit();
   }
 })();
-/* ZAPPY_CUSTOM_JS_END:db83480da999 */
+/* ZAPPY_CUSTOM_JS_END:3471217a3411 */
 
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
