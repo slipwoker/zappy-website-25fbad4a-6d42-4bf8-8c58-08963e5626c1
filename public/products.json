@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-14T21:44:39.822Z",
+  "generated_at": "2026-11-15T14:43:51.812Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 563,
@@ -13285,7 +13285,7 @@
     },
     {
       "id": "8ef49deb-0d5d-4cb7-995f-e9c029ce7e91",
-      "slug": "kvrkynt-palvlym-mktsvay-glgly-sylykvn-110-mm-viper-gojx72",
+      "slug": "kvrkynt-palvlym-mktsvay-glgly-sylykvn-110-mm-viper-q0eue7",
       "name": "קורקינט פעלולים מקצועי גלגלי סיליקון 110 מ''מ VIPER ",
       "name_translations": {},
       "description": "",
@@ -13300,14 +13300,14 @@
         "https://parktoys.co.il/assets/product-enhanced-1782488310022-a9cgti.webp",
         "https://parktoys.co.il/assets/product-enhanced-1782488553243-3kmcj.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kvrkynt-palvlym-mktsvay-glgly-sylykvn-110-mm-viper-gojx72",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://parktoys.co.il/product/kvrkynt-palvlym-mktsvay-glgly-sylykvn-110-mm-viper-q0eue7",
       "categories": [
         "גלגלים",
         "קורקינטים"
       ],
-      "updated_at": "2026-10-20T11:08:12.146Z"
+      "updated_at": "2026-11-15T14:43:17.134Z"
     },
     {
       "id": "101a92c7-c309-4782-9aed-c5f96b93ba2a",
