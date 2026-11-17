@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-17T17:24:37.592Z",
+  "generated_at": "2026-11-17T17:25:22.544Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 565,
@@ -32,7 +32,7 @@
     },
     {
       "id": "c1bae565-9ee5-4f7c-8677-1cb7a588dc3c",
-      "slug": "kvrkynt-palvlym-mktsvay-vyypr-ksvp-tl1yyb",
+      "slug": "kvrkynt-palvlym-mktsvay-vyypr-ksvp-slt1yh",
       "name": "קורקינט פעלולים מקצועי וייפר כסוף",
       "name_translations": {},
       "description": "",
@@ -48,11 +48,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kvrkynt-palvlym-mktsvay-vyypr-ksvp-tl1yyb",
+      "url": "https://parktoys.co.il/product/kvrkynt-palvlym-mktsvay-vyypr-ksvp-slt1yh",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים פעלולים מקצועיים"
       ],
-      "updated_at": "2026-11-17T13:54:20.665Z"
+      "updated_at": "2026-11-17T17:24:48.851Z"
     },
     {
       "id": "c62234b6-02da-4ab3-bb42-2c7103929db1",
