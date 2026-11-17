@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 564** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 565** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קורקינט פעלולים מקצועי- כחול
+https://parktoys.co.il/product/kvrkynt-palvlym-mktsvay-kchvl-jngy1z
+- Price: 399.00 ILS (sale, was 599.00 ILS)
+- Availability: In stock
+- Category: גלגלים
+- Description: קורקינט פעלולים מקצועי מבית Viper עם שלדת אלומיניום קלה ועמידה, גלגלי 110 מ”מ איכותיים ומערכת היגוי מדויקת. מיועד לרוכבים מגיל 14 ומעלה, לרכיבה עירונית ולביצוע פעלולים עם שליטה מלאה וסטייל יוקרתי.
+- Image: https://parktoys.co.il/assets/product-1794923680950-8vpq7s.webp
 
 ### קורקינט פעלולים מקצועי וייפר כסוף
 https://parktoys.co.il/product/kvrkynt-palvlym-mktsvay-vyypr-ksvp-tl1yyb
@@ -1630,14 +1638,6 @@ https://parktoys.co.il/product/108-mylym-vshyrym-1yxaj3
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: ספר אינטראקטיבי 108 מילים ושירים דובר עברית מבית ספארק טויס. בואו ליהנות מספר חוויתי מדבר, מנגן ושר במגוון נושאים שקטנטנים אוהבים לגלות. בעליי חיים, כלי נגינה, כלי תחבורה, פרות וירקות, משחקים, צבעים, צורות, מספרים, עונות ובית. ספר אינטראקטיבי עשיר בתכנים הכולל 108 מילים ושירים לימודיים שונים ב-12 נושאי לימוד. כ- 500 קטעי קול. מגילאי 6 חודשים ומעלה.
 - Image: https://parktoys.co.il/assets/product-enhanced-1785851194494-uzdbst.webp
-
-### הסרטן השובב
-https://parktoys.co.il/product/hsrtn-hshvbb-d3vwkn
-- Price: 80.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: משחק ספורטיבי ומהנה לכל המשפחה! הסרטן רץ במהירות ומתחמק ממכשולים - נסו לתפוס אותו! מגיע עם אורות וצלילים. המשחק כולל סוללה נטענת מובנית ומחבר טעינה. חיישני מרחק להתחמקות ממכשולים.
-- Image: https://parktoys.co.il/assets/product-enhanced-1785850532545-82g5lb.webp
 
 ---
 
