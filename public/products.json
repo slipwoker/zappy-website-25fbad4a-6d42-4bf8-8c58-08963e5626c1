@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-16T11:53:25.509Z",
+  "generated_at": "2026-11-17T13:54:57.165Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 563,
+  "count": 564,
   "products": [
+    {
+      "id": "c1bae565-9ee5-4f7c-8677-1cb7a588dc3c",
+      "slug": "kvrkynt-palvlym-mktsvay-vyypr-ksvp-tl1yyb",
+      "name": "קורקינט פעלולים מקצועי וייפר כסוף",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קורקינט פעלולים מקצועי מבית Viper עם שלדת אלומיניום קלה ועמידה, גלגלי 110 מ”מ איכותיים ומערכת היגוי מדויקת. מיועד לרוכבים מגיל 14 ומעלה, לרכיבה עירונית ולביצוע פעלולים עם שליטה מלאה וסטייל יוקרתי.",
+      "sku": null,
+      "brand": null,
+      "price": 399,
+      "base_price": 599,
+      "sale_price": 399,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-1794923467265-chdjui.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kvrkynt-palvlym-mktsvay-vyypr-ksvp-tl1yyb",
+      "categories": [
+        "גלגלים"
+      ],
+      "updated_at": "2026-11-17T13:54:20.665Z"
+    },
     {
       "id": "c62234b6-02da-4ab3-bb42-2c7103929db1",
       "slug": "chlypt-chvrp-brzyl-mnhhba",
