@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-17T17:23:54.559Z",
+  "generated_at": "2026-11-17T17:24:37.592Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 565,
   "products": [
     {
       "id": "c0998401-ec6b-4487-97fc-e92326fcb3a2",
-      "slug": "kvrkynt-palvlym-mktsvay-kchvl-jngy1z",
+      "slug": "kvrkynt-palvlym-mktsvay-kchvl-lpuk0j",
       "name": "קורקינט פעלולים מקצועי- כחול",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kvrkynt-palvlym-mktsvay-kchvl-jngy1z",
+      "url": "https://parktoys.co.il/product/kvrkynt-palvlym-mktsvay-kchvl-lpuk0j",
       "categories": [
-        "גלגלים"
+        "גלגלים",
+        "קורקינטים פעלולים מקצועיים"
       ],
-      "updated_at": "2026-11-17T13:56:07.780Z"
+      "updated_at": "2026-11-17T17:24:03.706Z"
     },
     {
       "id": "c1bae565-9ee5-4f7c-8677-1cb7a588dc3c",
