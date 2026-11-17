@@ -3356,8 +3356,6 @@ Description: מוצרים - פארק הצעצועים
 
 
 
-טוען מוצרים...
-
 
 
 
@@ -7172,8 +7170,8 @@ Availability: In stock
 ---
 
 ###  קורקינט גולד סקוט פעלולים מקצועי וייפר זהב
-URL: https://parktoys.co.il/product/kvrkynt-gvld-skvt-palvlym-mktsvay-vyypr-zhb-sr6xmb
-Price: 399.00 ILS (sale, was 499.00 ILS)
+URL: https://parktoys.co.il/product/kvrkynt-gvld-skvt-palvlym-mktsvay-vyypr-zhb-7hcx4p
+Price: 399.00 ILS (sale, was 599.00 ILS)
 Availability: In stock
 
 ---
