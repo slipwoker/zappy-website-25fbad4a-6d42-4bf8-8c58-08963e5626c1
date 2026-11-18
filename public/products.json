@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-18T14:34:53.931Z",
+  "generated_at": "2026-11-18T14:37:19.033Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 571,
+  "count": 572,
   "products": [
+    {
+      "id": "d018d9d7-3fce-4670-a842-f01420ab37a6",
+      "slug": "chlypt-pvtr-mdryd-9c8ee0",
+      "name": "חליפת פוטר מדריד",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 150,
+      "base_price": 120,
+      "sale_price": 150,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1795012555448-kyukf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chlypt-pvtr-mdryd-9c8ee0",
+      "categories": [
+        "חליפות כדורגל ארוכות לילדים"
+      ],
+      "updated_at": "2026-11-18T14:36:54.584Z"
+    },
     {
       "id": "a65f1a15-4471-4527-ae58-7b6764caf880",
       "slug": "chlypt-pvtr-brtslvnh-1uuyy3",
