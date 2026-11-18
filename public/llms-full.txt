@@ -3356,6 +3356,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -4484,7 +4486,7 @@ Availability: In stock
 ---
 
 ### חליפת חורף חיפה
-URL: https://parktoys.co.il/product/chlypt-chvrp-chyph-el2wzq
+URL: https://parktoys.co.il/product/chlypt-chvrp-chyph-255jcg
 Price: 120.00 ILS (sale, was 149.00 ILS)
 Availability: In stock
 
