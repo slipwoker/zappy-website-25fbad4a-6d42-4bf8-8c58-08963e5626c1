@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 569** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 570** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קפוצון ברצלונה
+https://parktoys.co.il/product/kpvtsvn-brtslvnh-ez4tcl
+- Price: 70.00 ILS (sale, was 100.00 ILS)
+- Availability: In stock
+- Category: חליפות כדורגל ארוכות לילדים
+- Image: https://parktoys.co.il/assets/product-enhanced-1795012130553-cw0uj.webp
 
 ### חליפת פוטר מסי מיאמי
 https://parktoys.co.il/product/chlypt-pvtr-msy-myamy-mz681n
@@ -1626,14 +1633,6 @@ https://parktoys.co.il/product/msybt-kryvky-myky-qfffb9
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: ערכת קריוקי מדהימה של מיקי כוכבת הילדים ! כוללת 9 להיטים ומגוון משפטים של מיקי . כולל הקלטה עם שינוי קולות וכדור אורות מרהיב הקליטו את עצמכם והשמיעו עם אפשריות לאפקטים מצחיקים של שינוי קול . אז בואו נתחיל במסיבה של מיקי !
 - Image: https://parktoys.co.il/assets/product-enhanced-1785861067291-vz425m.webp
-
-### סופר חץ וקשת של ספיידרמן 
-https://parktoys.co.il/product/svpr-chts-vksht-shl-spyydrmn-ht81ha
-- Price: 70.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: חץ וקשת ממותגת ספיידר מן
-- Image: https://parktoys.co.il/assets/product-enhanced-1785859743433-r6jtqi.webp
 
 ---
 
