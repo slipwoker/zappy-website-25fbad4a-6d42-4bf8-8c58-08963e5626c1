@@ -3356,8 +3356,6 @@ Description: מוצרים - פארק הצעצועים
 
 
 
-טוען מוצרים...
-
 
 
 
@@ -4379,6 +4377,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 ---
 
 ## Product Catalog
+
+### קפוצון מדריד
+URL: https://parktoys.co.il/product/kpvtsvn-mdryd-a3c3qd
+Price: 70.00 ILS (sale, was 100.00 ILS)
+Availability: In stock
+
+---
 
 ### חליפת פוטר מדריד
 URL: https://parktoys.co.il/product/chlypt-pvtr-mdryd-9c8ee0

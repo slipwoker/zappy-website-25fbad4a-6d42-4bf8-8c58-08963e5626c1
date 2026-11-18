@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-18T14:42:33.827Z",
+  "generated_at": "2026-11-18T15:09:01.904Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 572,
+  "count": 573,
   "products": [
+    {
+      "id": "2bfa270c-4fc3-4080-a895-d931717946e2",
+      "slug": "kpvtsvn-mdryd-a3c3qd",
+      "name": "קפוצון מדריד",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 70,
+      "base_price": 100,
+      "sale_price": 70,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1795014463994-wwduk7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kpvtsvn-mdryd-a3c3qd",
+      "categories": [
+        "חליפות כדורגל ארוכות לילדים"
+      ],
+      "updated_at": "2026-11-18T15:08:33.859Z"
+    },
     {
       "id": "d018d9d7-3fce-4670-a842-f01420ab37a6",
       "slug": "chlypt-pvtr-mdryd-9c8ee0",
