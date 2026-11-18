@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 566** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 567** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת פוטר ירושלים 
+https://parktoys.co.il/product/chlypt-pvtr-yrvshlym-3vn2rh
+- Price: 120.00 ILS (sale, was 150.00 ILS)
+- Availability: In stock
+- Category: חליפות כדורגל ארוכות לילדים
+- Image: https://parktoys.co.il/assets/product-enhanced-1795008894570-2qsbv.webp
 
 ### חליפת פוטר תל אביב צהוב
 https://parktoys.co.il/product/chlypt-pvtr-tl-abyb-tshvb-pa11qv
@@ -1629,14 +1636,6 @@ https://parktoys.co.il/product/htlpvn-hchkm-shly-4xmo2s
 - Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
 - Description: הטלפון החכם שלי- דו לשוני! מעלל 200 משפטים ושירים. מאחורי כל לחצן מסתתר עולם שלם של מילים ומשפטים בעברית ובאנגלית, אפקים קוליים, שירים ומנגינות עליזות. מקישים, מקשיבים ולומדים מגוון נושאים: *צבעים, *כלי תחבורה, *בעלי חיים, *מספרים, *צורות ועוד.
 - Image: https://parktoys.co.il/assets/product-enhanced-1785853460281-a4z6wd.webp
-
-### לומדים אנגלית
-https://parktoys.co.il/product/lvmdym-anglyt-vppp25
-- Price: 70.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: משחק לימודי להרחבת אוצר מילים באנגלית! 224 מילים באנגלית ובעברית, 112 כרטיסיות דו-צדדיות ו-12 נושאים מגוונים. כולל שליטה בעוצמת הקול
-- Image: https://parktoys.co.il/assets/product-enhanced-1785852733090-jsz5o.webp
 
 ---
 

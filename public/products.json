@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-18T13:34:36.400Z",
+  "generated_at": "2026-11-18T13:36:12.114Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 566,
+  "count": 567,
   "products": [
+    {
+      "id": "631e1e0b-4d9e-403b-b4e1-5384369e74d1",
+      "slug": "chlypt-pvtr-yrvshlym-3vn2rh",
+      "name": "חליפת פוטר ירושלים ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 120,
+      "base_price": 150,
+      "sale_price": 120,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1795008894570-2qsbv.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chlypt-pvtr-yrvshlym-3vn2rh",
+      "categories": [
+        "חליפות כדורגל ארוכות לילדים"
+      ],
+      "updated_at": "2026-11-18T13:35:43.207Z"
+    },
     {
       "id": "4b4946d1-50f9-44be-97a5-387c38f3afc6",
       "slug": "chlypt-pvtr-tl-abyb-tshvb-pa11qv",
