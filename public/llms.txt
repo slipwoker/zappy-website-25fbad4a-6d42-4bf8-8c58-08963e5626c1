@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 567** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 568** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### קפוצון ירושלים 
+https://parktoys.co.il/product/kpvtsvn-yrvshlym-fmgaf8
+- Price: 70.00 ILS (sale, was 100.00 ILS)
+- Availability: In stock
+- Category: חליפות כדורגל ארוכות לילדים
+- Image: https://parktoys.co.il/assets/product-enhanced-1795009055690-obqxmb.webp
 
 ### חליפת פוטר ירושלים 
 https://parktoys.co.il/product/chlypt-pvtr-yrvshlym-3vn2rh
@@ -1628,14 +1635,6 @@ https://parktoys.co.il/product/chts-vksht-ayyrvn-mn-6dhvmc
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: חץ וקשת איירון מן
 - Image: https://parktoys.co.il/assets/product-enhanced-1785859221413-ssl3yl.webp
-
-### הטלפון החכם שלי
-https://parktoys.co.il/product/htlpvn-hchkm-shly-4xmo2s
-- Price: 80.00 ILS
-- Availability: In stock
-- Category: צעצועי שלט/מסלולי מכוניות/מכוניות 
-- Description: הטלפון החכם שלי- דו לשוני! מעלל 200 משפטים ושירים. מאחורי כל לחצן מסתתר עולם שלם של מילים ומשפטים בעברית ובאנגלית, אפקים קוליים, שירים ומנגינות עליזות. מקישים, מקשיבים ולומדים מגוון נושאים: *צבעים, *כלי תחבורה, *בעלי חיים, *מספרים, *צורות ועוד.
-- Image: https://parktoys.co.il/assets/product-enhanced-1785853460281-a4z6wd.webp
 
 ---
 
