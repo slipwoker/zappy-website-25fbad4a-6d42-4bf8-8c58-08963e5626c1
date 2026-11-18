@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 570** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 571** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת פוטר ברצלונה 
+https://parktoys.co.il/product/chlypt-pvtr-brtslvnh-1uuyy3
+- Price: 120.00 ILS (sale, was 150.00 ILS)
+- Availability: In stock
+- Category: חליפות כדורגל ארוכות לילדים
+- Image: https://parktoys.co.il/assets/product-enhanced-1795012387377-qiap9.webp
 
 ### קפוצון ברצלונה
 https://parktoys.co.il/product/kpvtsvn-brtslvnh-ez4tcl
@@ -1625,14 +1632,6 @@ https://parktoys.co.il/product/hgh-hhptavt-3n4f7l
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: הגה ההפתעות הגה אינטראקטיבי דובר עברית!! תכנים והפעלות הגה מעוצב ואיכותי, עשיר בתכנים ובהפעלות! מגוון משפטים משעשעים וצלילים של מכונית! משחקים, מתפתחים ולומדים להכיר בעלי חיים, צורות, צבעים, פירות וכלי תחבורה. שירים ונושאים 5 שירים קלאסיים 6 נושאי לימוד 2 עוצמות קול 5 שירים בעברית אורות וצלילים
 - Image: https://parktoys.co.il/assets/product-enhanced-1785861397170-v635db.webp
-
-### מסיבת קריוקי מיקי
-https://parktoys.co.il/product/msybt-kryvky-myky-qfffb9
-- Price: 140.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: ערכת קריוקי מדהימה של מיקי כוכבת הילדים ! כוללת 9 להיטים ומגוון משפטים של מיקי . כולל הקלטה עם שינוי קולות וכדור אורות מרהיב הקליטו את עצמכם והשמיעו עם אפשריות לאפקטים מצחיקים של שינוי קול . אז בואו נתחיל במסיבה של מיקי !
-- Image: https://parktoys.co.il/assets/product-enhanced-1785861067291-vz425m.webp
 
 ---
 
