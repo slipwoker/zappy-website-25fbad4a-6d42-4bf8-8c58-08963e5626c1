@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 565** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 566** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת פוטר תל אביב צהוב
+https://parktoys.co.il/product/chlypt-pvtr-tl-abyb-tshvb-pa11qv
+- Price: 120.00 ILS (sale, was 150.00 ILS)
+- Availability: In stock
+- Category: חליפות כדורגל ארוכות לילדים
+- Image: https://parktoys.co.il/assets/product-enhanced-1795008750249-jetl4i.webp
 
 ### קורקינט פעלולים מקצועי- כחול
 https://parktoys.co.il/product/kvrkynt-palvlym-mktsvay-kchvl-lpuk0j
@@ -1630,14 +1637,6 @@ https://parktoys.co.il/product/lvmdym-anglyt-vppp25
 - Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
 - Description: משחק לימודי להרחבת אוצר מילים באנגלית! 224 מילים באנגלית ובעברית, 112 כרטיסיות דו-צדדיות ו-12 נושאים מגוונים. כולל שליטה בעוצמת הקול
 - Image: https://parktoys.co.il/assets/product-enhanced-1785852733090-jsz5o.webp
-
-### 108 מילים ושירים
-https://parktoys.co.il/product/108-mylym-vshyrym-1yxaj3
-- Price: 130.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: ספר אינטראקטיבי 108 מילים ושירים דובר עברית מבית ספארק טויס. בואו ליהנות מספר חוויתי מדבר, מנגן ושר במגוון נושאים שקטנטנים אוהבים לגלות. בעליי חיים, כלי נגינה, כלי תחבורה, פרות וירקות, משחקים, צבעים, צורות, מספרים, עונות ובית. ספר אינטראקטיבי עשיר בתכנים הכולל 108 מילים ושירים לימודיים שונים ב-12 נושאי לימוד. כ- 500 קטעי קול. מגילאי 6 חודשים ומעלה.
-- Image: https://parktoys.co.il/assets/product-enhanced-1785851194494-uzdbst.webp
 
 ---
 
