@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 568** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 569** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפת פוטר מסי מיאמי
+https://parktoys.co.il/product/chlypt-pvtr-msy-myamy-mz681n
+- Price: 120.00 ILS (sale, was 150.00 ILS)
+- Availability: In stock
+- Category: חליפות כדורגל ארוכות לילדים
+- Image: https://parktoys.co.il/assets/product-enhanced-1795010829811-n8ygp.webp
 
 ### קפוצון ירושלים 
 https://parktoys.co.il/product/kpvtsvn-yrvshlym-fmgaf8
@@ -1627,14 +1634,6 @@ https://parktoys.co.il/product/svpr-chts-vksht-shl-spyydrmn-ht81ha
 - Category: צעוצעים לבנים /דמויות/מותגים
 - Description: חץ וקשת ממותגת ספיידר מן
 - Image: https://parktoys.co.il/assets/product-enhanced-1785859743433-r6jtqi.webp
-
-### חץ וקשת איירון מן
-https://parktoys.co.il/product/chts-vksht-ayyrvn-mn-6dhvmc
-- Price: 70.00 ILS
-- Availability: In stock
-- Category: צעוצעים לבנים /דמויות/מותגים
-- Description: חץ וקשת איירון מן
-- Image: https://parktoys.co.il/assets/product-enhanced-1785859221413-ssl3yl.webp
 
 ---
 

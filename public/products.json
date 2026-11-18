@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-18T13:40:53.095Z",
+  "generated_at": "2026-11-18T14:08:20.167Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 568,
+  "count": 569,
   "products": [
+    {
+      "id": "49136f89-038c-43d7-b88a-88f6f6067396",
+      "slug": "chlypt-pvtr-msy-myamy-mz681n",
+      "name": "חליפת פוטר מסי מיאמי",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 120,
+      "base_price": 150,
+      "sale_price": 120,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1795010829811-n8ygp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/chlypt-pvtr-msy-myamy-mz681n",
+      "categories": [
+        "חליפות כדורגל ארוכות לילדים"
+      ],
+      "updated_at": "2026-11-18T14:07:51.860Z"
+    },
     {
       "id": "8f6513b8-ac03-47ae-97f9-df58225f7814",
       "slug": "kpvtsvn-yrvshlym-fmgaf8",
