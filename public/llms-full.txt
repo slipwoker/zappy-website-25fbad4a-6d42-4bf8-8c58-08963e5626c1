@@ -3356,6 +3356,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -4518,8 +4520,8 @@ Availability: In stock
 
 ---
 
-### קרטינג מתקפל ממונע לילדים 12V עם שלט רחוק, אורות וצלילים
-URL: https://parktoys.co.il/product/krtyng-mtkpl-mmvna-lyldym-12v-am-shlt-rchvk-avrvt-vtslylym-i89qaw
+### קרטינג מתקפל ממונע לילדים 12V עם שלט רחוק, אורות וצלילים - צבע אדום במלאי
+URL: https://parktoys.co.il/product/krtyng-mtkpl-mmvna-lyldym-12v-am-shlt-rchvk-avrvt-vtslylym-tsba-advm-bmlay-gn0bhm
 Price: 499.00 ILS
 Availability: In stock
 
