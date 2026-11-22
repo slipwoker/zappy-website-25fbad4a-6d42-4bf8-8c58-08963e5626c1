@@ -4,7 +4,7 @@
     <title>פארק הצעצועים</title>
     <link>https://parktoys.co.il</link>
     <description>Product feed for פארק הצעצועים</description>
-    <lastBuildDate>Fri, 20 Nov 2026 11:32:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 11:02:06 GMT</lastBuildDate>
     <item>
       <g:id>0cdfe261-c7ef-414f-bd16-a1bf5f122050</g:id>
       <g:title>קפוצון מדריד - 4</g:title>
@@ -718,28 +718,13 @@
       <g:product_type>חליפות כדורגל ארוכות לילדים</g:product_type>
     </item>
     <item>
-      <g:id>833ae2a3-3a1a-42b2-a9ae-215c22228262</g:id>
-      <g:title>חליפת חורף ארגטינה  - 8</g:title>
-      <g:description>חליפת חורף ארגטינה</g:description>
-      <g:link>https://parktoys.co.il/product/chlypt-chvrp-argtynh-ofq99u</g:link>
-      <g:item_group_id>2c2e6904-1b9a-4d21-bca4-288feb42882b</g:item_group_id>
-      <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794412277993-evlp2d.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>149.00 ILS</g:price>
-      <g:sale_price>120.00 ILS</g:sale_price>
-      <g:condition>new</g:condition>
-      <g:brand>פארק הצעצועים</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>חליפות כדורגל ארוכות לילדים</g:product_type>
-    </item>
-    <item>
       <g:id>2d02d44d-93d4-45fa-ae13-d69ecda2c70d</g:id>
       <g:title>חליפת חורף ארגטינה  - 10</g:title>
       <g:description>חליפת חורף ארגטינה</g:description>
       <g:link>https://parktoys.co.il/product/chlypt-chvrp-argtynh-ofq99u</g:link>
       <g:item_group_id>2c2e6904-1b9a-4d21-bca4-288feb42882b</g:item_group_id>
       <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794412277993-evlp2d.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>149.00 ILS</g:price>
       <g:sale_price>120.00 ILS</g:sale_price>
       <g:condition>new</g:condition>
@@ -799,7 +784,22 @@
       <g:link>https://parktoys.co.il/product/chlypt-chvrp-argtynh-ofq99u</g:link>
       <g:item_group_id>2c2e6904-1b9a-4d21-bca4-288feb42882b</g:item_group_id>
       <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794412277993-evlp2d.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>149.00 ILS</g:price>
+      <g:sale_price>120.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות כדורגל ארוכות לילדים</g:product_type>
+    </item>
+    <item>
+      <g:id>833ae2a3-3a1a-42b2-a9ae-215c22228262</g:id>
+      <g:title>חליפת חורף ארגטינה  - 8</g:title>
+      <g:description>חליפת חורף ארגטינה</g:description>
+      <g:link>https://parktoys.co.il/product/chlypt-chvrp-argtynh-ofq99u</g:link>
+      <g:item_group_id>2c2e6904-1b9a-4d21-bca4-288feb42882b</g:item_group_id>
+      <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794412277993-evlp2d.webp</g:image_link>
+      <g:availability>out_of_stock</g:availability>
       <g:price>149.00 ILS</g:price>
       <g:sale_price>120.00 ILS</g:sale_price>
       <g:condition>new</g:condition>
@@ -2100,7 +2100,7 @@
       <g:link>https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-dpryzs</g:link>
       <g:item_group_id>b9f4f068-2222-48cd-b019-f22eed7347a0</g:item_group_id>
       <g:image_link>https://parktoys.co.il/assets/product-enhanced-1792657863623-7e3rw.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>120.00 ILS</g:price>
       <g:sale_price>99.00 ILS</g:sale_price>
       <g:condition>new</g:condition>
@@ -2115,7 +2115,7 @@
       <g:link>https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-dpryzs</g:link>
       <g:item_group_id>b9f4f068-2222-48cd-b019-f22eed7347a0</g:item_group_id>
       <g:image_link>https://parktoys.co.il/assets/product-enhanced-1792657863623-7e3rw.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>120.00 ILS</g:price>
       <g:sale_price>99.00 ILS</g:sale_price>
       <g:condition>new</g:condition>
@@ -2130,7 +2130,7 @@
       <g:link>https://parktoys.co.il/product/chlypt-kdvrgl-arvkh-sprd-lamyn-yaml-dpryzs</g:link>
       <g:item_group_id>b9f4f068-2222-48cd-b019-f22eed7347a0</g:item_group_id>
       <g:image_link>https://parktoys.co.il/assets/product-enhanced-1792657863623-7e3rw.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>120.00 ILS</g:price>
       <g:sale_price>99.00 ILS</g:sale_price>
       <g:condition>new</g:condition>
@@ -2340,7 +2340,7 @@
       <g:link>https://parktoys.co.il/product/chlypt-kdvrgl-argtynh-arvkh-msy-b6mqb1</g:link>
       <g:item_group_id>e9fbc6ff-2b98-4886-a15f-6ee854765bcb</g:item_group_id>
       <g:image_link>https://parktoys.co.il/assets/product-enhanced-1792656806241-h9u5k.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>120.00 ILS</g:price>
       <g:sale_price>99.00 ILS</g:sale_price>
       <g:condition>new</g:condition>
