@@ -26955,6 +26955,36 @@ html body .zappy-category-showcase .cat-product-strip--8 { -webkit-overflow-scro
   content: none !important;
 }
 }
+
+@media (max-width: 768px) {
+.navbar .nav-menu li.zappy-nav-all-categories > .zappy-nav-cats-title {
+  pointer-events: none !important;
+  cursor: default !important;
+}
+}
+
+@media (max-width: 768px) {
+.navbar .nav-menu.active .zappy-nav-all-categories .zappy-nav-cats-list,
+  .navbar .nav-menu.open .zappy-nav-all-categories .zappy-nav-cats-list {
+  display: grid !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  max-height: none !important;
+  position: static !important;
+  min-width: 0 !important;
+  width: 100% !important;
+  grid-template-columns: 1fr !important;
+  overflow: visible !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 0 !important;
+}
+
+.navbar .nav-menu.active .zappy-nav-all-categories .zappy-nav-cats-list li,
+  .navbar .nav-menu.open .zappy-nav-all-categories .zappy-nav-cats-list li {
+  display: block !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
