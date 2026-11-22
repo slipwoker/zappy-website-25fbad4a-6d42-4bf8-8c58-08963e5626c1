@@ -26935,12 +26935,14 @@ html body .zappy-category-showcase .cat-product-strip--8 { -webkit-overflow-scro
 
 @media (max-width: 768px) {
 #navMenu .zappy-nav-all-categories .zappy-nav-cats-list {
-  display: flex !important;
-  visibility: visible !important;
-  opacity: 1 !important;
-  max-height: none !important;
-  position: static !important;
-  width: 100% !important;
+  display: flex;
+  visibility: visible;
+  opacity: 1;
+  max-height: none;
+  position: static;
+  width: 100%;
+  grid-template-columns: 1fr;
+  min-width: 0;
 }
 
 #navMenu .zappy-nav-all-categories .zappy-nav-cats-list li {
