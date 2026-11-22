@@ -26998,6 +26998,48 @@ html body .zappy-category-showcase .cat-product-strip--8 { -webkit-overflow-scro
   visibility: visible !important;
 }
 }
+
+@media (max-width: 768px) {
+#navMenu .zappy-nav-all-categories .zappy-nav-cats-list {
+  position: static !important;
+  display: grid !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  min-width: 0 !important;
+  width: 100% !important;
+  max-height: none !important;
+  grid-template-columns: repeat(2, 1fr) !important;
+  gap: 6px !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 8px 12px !important;
+  background: transparent !important;
+}
+
+#navMenu .zappy-nav-all-categories .zappy-nav-cats-list li {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+#navMenu .zappy-nav-all-categories .zappy-nav-cats-title {
+  pointer-events: none !important;
+  cursor: default !important;
+}
+}
+
+@media (max-width: 768px) {
+#navMenu .zappy-nav-all-categories .zappy-nav-cats-list,
+  #navMenu .zappy-nav-all-categories .zappy-nav-cats-list li {
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+#navMenu .zappy-nav-all-categories .zappy-nav-cats-list li a {
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
