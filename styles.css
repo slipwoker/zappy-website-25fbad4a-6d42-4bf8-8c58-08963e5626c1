@@ -27040,6 +27040,13 @@ html body .zappy-category-showcase .cat-product-strip--8 { -webkit-overflow-scro
   opacity: 1 !important;
 }
 }
+
+@media (max-width: 768px) {
+#navMenu .zappy-nav-all-categories .zappy-nav-cats-list.zappy-nav-cats-list {
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
