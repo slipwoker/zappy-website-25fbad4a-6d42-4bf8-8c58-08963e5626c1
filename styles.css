@@ -26989,6 +26989,15 @@ html body .zappy-category-showcase .cat-product-strip--8 { -webkit-overflow-scro
   display: block !important;
 }
 }
+
+@media (max-width: 768px) {
+#navMenu .zappy-nav-all-categories .zappy-nav-cats-list,
+  #navMenu .zappy-nav-all-categories .zappy-nav-cats-list li,
+  #navMenu .zappy-nav-all-categories .zappy-nav-cats-list li a,
+  #navMenu .zappy-nav-all-categories .zappy-nav-cats-list li a span {
+  visibility: visible !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
