@@ -26932,6 +26932,29 @@ html body .zappy-category-showcase .cat-product-strip--8 { -webkit-overflow-scro
   width: 100% !important;
 }
 }
+
+@media (max-width: 768px) {
+#navMenu .zappy-nav-all-categories .zappy-nav-cats-list {
+  display: flex !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  max-height: none !important;
+  position: static !important;
+  width: 100% !important;
+}
+
+#navMenu .zappy-nav-all-categories .zappy-nav-cats-list li {
+  display: block !important;
+}
+
+#navMenu .zappy-nav-cats-title {
+  pointer-events: none !important;
+}
+
+#navMenu .zappy-nav-cats-title::after {
+  content: none !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
