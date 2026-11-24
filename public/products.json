@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-24T11:41:33.640Z",
+  "generated_at": "2026-11-24T11:42:13.455Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 576,
@@ -151,7 +151,7 @@
     },
     {
       "id": "2ce38a1a-c692-415c-ad39-75fe7afb3d4b",
-      "slug": "kpvtsvn-brtslvnh-ez4tcl",
+      "slug": "kpvtsvn-brtslvnh-m87ovk",
       "name": "קפוצון ברצלונה",
       "name_translations": {},
       "description": "",
@@ -167,11 +167,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kpvtsvn-brtslvnh-ez4tcl",
+      "url": "https://parktoys.co.il/product/kpvtsvn-brtslvnh-m87ovk",
       "categories": [
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-11-18T14:31:01.577Z"
+      "updated_at": "2026-11-24T11:41:40.709Z"
     },
     {
       "id": "49136f89-038c-43d7-b88a-88f6f6067396",
