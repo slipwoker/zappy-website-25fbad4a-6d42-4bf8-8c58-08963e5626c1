@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-24T11:42:13.455Z",
+  "generated_at": "2026-11-24T11:43:08.526Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 576,
@@ -199,7 +199,7 @@
     },
     {
       "id": "8f6513b8-ac03-47ae-97f9-df58225f7814",
-      "slug": "kpvtsvn-yrvshlym-fmgaf8",
+      "slug": "kpvtsvn-yrvshlym-x8z3yr",
       "name": "קפוצון ירושלים ",
       "name_translations": {},
       "description": "",
@@ -215,11 +215,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kpvtsvn-yrvshlym-fmgaf8",
+      "url": "https://parktoys.co.il/product/kpvtsvn-yrvshlym-x8z3yr",
       "categories": [
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-11-18T13:38:24.077Z"
+      "updated_at": "2026-11-24T11:42:32.983Z"
     },
     {
       "id": "631e1e0b-4d9e-403b-b4e1-5384369e74d1",
