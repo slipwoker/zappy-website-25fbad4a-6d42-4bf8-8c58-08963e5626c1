@@ -3356,6 +3356,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -4377,6 +4379,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 ---
 
 ## Product Catalog
+
+### קפוצון חיפה 
+URL: https://parktoys.co.il/product/kpvtsvn-chyph-o1sb08
+Price: 70.00 ILS (sale, was 100.00 ILS)
+Availability: In stock
+
+---
 
 ### קורקינט 2 גלגלים וייפר לגילאי 6+
 URL: https://parktoys.co.il/product/kvrkynt-2-glglym-vyypr-lgylay-6-gvrctd
