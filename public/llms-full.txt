@@ -3368,6 +3368,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -4393,6 +4395,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 ---
 
 ## Product Catalog
+
+### קפוצון מיאמי
+URL: https://parktoys.co.il/product/kpvtsvn-myamy-1l8rja
+Price: 70.00 ILS (sale, was 100.00 ILS)
+Availability: In stock
+
+---
 
 ### חליפה פוטר חיפה
 URL: https://parktoys.co.il/product/chlyph-pvtr-chyph-lw7f6y

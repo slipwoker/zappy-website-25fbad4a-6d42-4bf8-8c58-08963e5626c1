@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-24T11:43:06.650Z",
+  "generated_at": "2026-11-24T11:55:24.273Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 576,
+  "count": 577,
   "products": [
+    {
+      "id": "7280d08a-476b-43d6-9337-4d458d38a05f",
+      "slug": "kpvtsvn-myamy-1l8rja",
+      "name": "קפוצון מיאמי",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 70,
+      "base_price": 100,
+      "sale_price": 70,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1795521205741-3tym2h.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/kpvtsvn-myamy-1l8rja",
+      "categories": [
+        "חליפות כדורגל ארוכות לילדים"
+      ],
+      "updated_at": "2026-11-24T11:54:51.547Z"
+    },
     {
       "id": "554d5491-12b9-4a11-acaa-58fd855db8e2",
       "slug": "chlyph-pvtr-chyph-lw7f6y",
