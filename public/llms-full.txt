@@ -4396,6 +4396,13 @@ Description: פארק הצעצועים - תודה שפניתם אלינו
 
 ## Product Catalog
 
+### סליים מארט עגלת קניות
+URL: https://parktoys.co.il/product/slyym-mart-aglt-knyvt-10i2vk
+Price: 200.00 ILS
+Availability: In stock
+
+---
+
 ### קפוצון מיאמי
 URL: https://parktoys.co.il/product/kpvtsvn-myamy-1l8rja
 Price: 70.00 ILS (sale, was 100.00 ILS)

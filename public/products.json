@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-24T11:55:52.161Z",
+  "generated_at": "2026-11-24T12:14:19.914Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
-  "count": 577,
+  "count": 578,
   "products": [
+    {
+      "id": "5b3b780a-b1eb-40ca-83ce-f4ef8fb932b2",
+      "slug": "slyym-mart-aglt-knyvt-10i2vk",
+      "name": "סליים מארט עגלת קניות",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סליים מרט גרנדה עגלת קניות Slime Mart Shopping Cart S1 Playset מבית ZURU היא ערכת סליים גדולה, צבעונית ומלאת דמיון, שהופכת את זמן הסליים להרפתקת קניות מתוקה ומצחיקה 🛒✨. העגלה הצהובה המתגלגלת מלאה בסליים, תוספות, תבניות ואביזרי קינוחים, ומאפשרת לילדים ליצור מנות דמיוניות במראה מציאותי, לקשט, להגיש, למעוך וליצור מחדש. לא למאכל!!",
+      "sku": null,
+      "brand": null,
+      "price": 200,
+      "base_price": 200,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://parktoys.co.il/assets/product-enhanced-1795522393396-mdu0bl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://parktoys.co.il/product/slyym-mart-aglt-knyvt-10i2vk",
+      "categories": [
+        "הטרנדים הכי חזקים בישראל ",
+        "מתנות עד 199ש\"ח"
+      ],
+      "updated_at": "2026-11-24T12:13:42.377Z"
+    },
     {
       "id": "7280d08a-476b-43d6-9337-4d458d38a05f",
       "slug": "kpvtsvn-myamy-1l8rja",

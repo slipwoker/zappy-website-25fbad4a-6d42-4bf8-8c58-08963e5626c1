@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 577** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 578** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### סליים מארט עגלת קניות
+https://parktoys.co.il/product/slyym-mart-aglt-knyvt-10i2vk
+- Price: 200.00 ILS
+- Availability: In stock
+- Category: הטרנדים הכי חזקים בישראל 
+- Description: סליים מרט גרנדה עגלת קניות Slime Mart Shopping Cart S1 Playset מבית ZURU היא ערכת סליים גדולה, צבעונית ומלאת דמיון, שהופכת את זמן הסליים להרפתקת קניות מתוקה ומצחיקה 🛒✨. העגלה הצהובה המתגלגלת מלאה בסליים, תוספות, תבניות ואביזרי קינוחים, ומאפשרת לילדים ליצור מנות דמיוניות במראה מציאותי, לקשט, להגיש, למעוך וליצור מחדש. לא למאכל!!
+- Image: https://parktoys.co.il/assets/product-enhanced-1795522393396-mdu0bl.webp
 
 ### קפוצון מיאמי
 https://parktoys.co.il/product/kpvtsvn-myamy-1l8rja
@@ -1620,14 +1628,6 @@ https://parktoys.co.il/product/mzvvdt-mtbch-myny-mavs-rizkh9
 - Category: בובות/ברבי
 - Description: מזוודה מטבח של מיני מאוס כולל מבחר כלי מטבח ואוכל
 - Image: https://parktoys.co.il/assets/product-enhanced-1785927508480-m2wnz.webp
-
-### מזוודה יופי מיני מאוס
-https://parktoys.co.il/product/mzvvdh-yvpy-myny-mavs-idxool
-- Price: 59.00 ILS (sale, was 79.00 ILS)
-- Availability: In stock
-- Category: בובות/ברבי
-- Description: ערכת יופי לילדות במזוודת איפור של מיני מאוס, הדמות האהובה מבית הסדרה של מיקי מאוס והמותג דיסני! מזוודת איפור שכל הילדות אוהבות!
-- Image: https://parktoys.co.il/assets/product-enhanced-1785927127515-azvcfj.webp
 
 ---
 
