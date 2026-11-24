@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 575** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+**Total active products: 576** (showing first 200; full catalog at https://parktoys.co.il/products.json)
+
+### חליפה פוטר חיפה
+https://parktoys.co.il/product/chlyph-pvtr-chyph-lw7f6y
+- Price: 100.00 ILS (sale, was 120.00 ILS)
+- Availability: In stock
+- Category: חליפות כדורגל ארוכות לילדים
+- Image: https://parktoys.co.il/assets/product-enhanced-1795519856113-kcolsm.webp
 
 ### קפוצון חיפה 
 https://parktoys.co.il/product/kpvtsvn-chyph-o1sb08
@@ -1622,14 +1629,6 @@ https://parktoys.co.il/product/mzvvdh-rvpa-prvzn-4pitkq
 - Category: בובות/ברבי
 - Description: מזוודה רופא פרוזן מזוודת רופא לילדים כוללת 10 אביזרים של רופא גודל המזוודה 25/20 ס"מ
 - Image: https://parktoys.co.il/assets/product-enhanced-1785921856307-filb3n.webp
-
-### בובת לולי - לילה טוב לולי 
-https://parktoys.co.il/product/bvbt-lvly-lylh-tvb-lvly-5yt5hp
-- Price: 90.00 ILS
-- Availability: In stock
-- Category: מוצרי תינוקות/מוצרי כוכבי ילדים/כלי נגינה
-- Description: בובת לולי - לילה טוב לולי Spark Toys בובת לולי ששרה שירי לילה ומנגינות עם תצוגת לד 4 צבעים מה שמאפשר חוויה מרגיעה של אורות וצלילים. בנוסף, לבובה מחובר מתלה לחיבור מהיר.
-- Image: https://parktoys.co.il/assets/product-enhanced-1785862572750-0xsop8.webp
 
 ---
 
