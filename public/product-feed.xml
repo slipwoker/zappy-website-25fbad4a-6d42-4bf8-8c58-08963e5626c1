@@ -4,7 +4,7 @@
     <title>פארק הצעצועים</title>
     <link>https://parktoys.co.il</link>
     <description>Product feed for פארק הצעצועים</description>
-    <lastBuildDate>Mon, 23 Nov 2026 12:46:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:59:11 GMT</lastBuildDate>
     <item>
       <g:id>f4453fce-545b-488d-a8d7-da10422d1bd5</g:id>
       <g:title>קורקינט 2 גלגלים וייפר לגילאי 6+</g:title>
@@ -130,7 +130,7 @@
       <g:link>https://parktoys.co.il/product/chlypt-pvtr-mdryd-9c8ee0</g:link>
       <g:item_group_id>d018d9d7-3fce-4670-a842-f01420ab37a6</g:item_group_id>
       <g:image_link>https://parktoys.co.il/assets/product-enhanced-1795012555448-kyukf.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>120.00 ILS</g:price>
       <g:condition>new</g:condition>
       <g:brand>פארק הצעצועים</g:brand>
@@ -379,7 +379,7 @@
       <g:link>https://parktoys.co.il/product/chlypt-pvtr-msy-myamy-mz681n</g:link>
       <g:item_group_id>49136f89-038c-43d7-b88a-88f6f6067396</g:item_group_id>
       <g:image_link>https://parktoys.co.il/assets/product-enhanced-1795010829811-n8ygp.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>150.00 ILS</g:price>
       <g:sale_price>120.00 ILS</g:sale_price>
       <g:condition>new</g:condition>
@@ -737,7 +737,7 @@
       <g:link>https://parktoys.co.il/product/chlypt-chvrp-argtynh-ofq99u</g:link>
       <g:item_group_id>2c2e6904-1b9a-4d21-bca4-288feb42882b</g:item_group_id>
       <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794412277993-evlp2d.webp</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>149.00 ILS</g:price>
       <g:sale_price>120.00 ILS</g:sale_price>
       <g:condition>new</g:condition>
@@ -752,7 +752,7 @@
       <g:link>https://parktoys.co.il/product/chlypt-chvrp-argtynh-ofq99u</g:link>
       <g:item_group_id>2c2e6904-1b9a-4d21-bca4-288feb42882b</g:item_group_id>
       <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794412277993-evlp2d.webp</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>149.00 ILS</g:price>
       <g:sale_price>120.00 ILS</g:sale_price>
       <g:condition>new</g:condition>
@@ -812,7 +812,7 @@
       <g:link>https://parktoys.co.il/product/chlypt-chvrp-argtynh-ofq99u</g:link>
       <g:item_group_id>2c2e6904-1b9a-4d21-bca4-288feb42882b</g:item_group_id>
       <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794412277993-evlp2d.webp</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>149.00 ILS</g:price>
       <g:sale_price>120.00 ILS</g:sale_price>
       <g:condition>new</g:condition>
@@ -1286,36 +1286,6 @@
       <g:product_type>חליפות כדורגל ארוכות לילדים</g:product_type>
     </item>
     <item>
-      <g:id>5abb7756-e7b3-4ac0-8b7a-0e25b6cb478b</g:id>
-      <g:title>חליפת חורף ירושלים - 6</g:title>
-      <g:description>חליפת חורף ירושלים</g:description>
-      <g:link>https://parktoys.co.il/product/chlypt-chvrp-yrvshlym-eqmyfw</g:link>
-      <g:item_group_id>47c3eb57-f9ae-4c86-b582-97864afa8ae6</g:item_group_id>
-      <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794318831963-rijpri.webp</g:image_link>
-      <g:availability>out_of_stock</g:availability>
-      <g:price>149.00 ILS</g:price>
-      <g:sale_price>120.00 ILS</g:sale_price>
-      <g:condition>new</g:condition>
-      <g:brand>פארק הצעצועים</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>חליפות כדורגל ארוכות לילדים</g:product_type>
-    </item>
-    <item>
-      <g:id>9bd57626-5758-4982-835b-0a8b96eac3e5</g:id>
-      <g:title>חליפת חורף ירושלים - 8</g:title>
-      <g:description>חליפת חורף ירושלים</g:description>
-      <g:link>https://parktoys.co.il/product/chlypt-chvrp-yrvshlym-eqmyfw</g:link>
-      <g:item_group_id>47c3eb57-f9ae-4c86-b582-97864afa8ae6</g:item_group_id>
-      <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794318831963-rijpri.webp</g:image_link>
-      <g:availability>out_of_stock</g:availability>
-      <g:price>149.00 ILS</g:price>
-      <g:sale_price>120.00 ILS</g:sale_price>
-      <g:condition>new</g:condition>
-      <g:brand>פארק הצעצועים</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>חליפות כדורגל ארוכות לילדים</g:product_type>
-    </item>
-    <item>
       <g:id>8f91fe60-cc83-452c-ac9e-3eefe0250346</g:id>
       <g:title>חליפת חורף ירושלים - 10</g:title>
       <g:description>חליפת חורף ירושלים</g:description>
@@ -1338,6 +1308,66 @@
       <g:item_group_id>47c3eb57-f9ae-4c86-b582-97864afa8ae6</g:item_group_id>
       <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794318831963-rijpri.webp</g:image_link>
       <g:availability>out_of_stock</g:availability>
+      <g:price>149.00 ILS</g:price>
+      <g:sale_price>120.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות כדורגל ארוכות לילדים</g:product_type>
+    </item>
+    <item>
+      <g:id>5abb7756-e7b3-4ac0-8b7a-0e25b6cb478b</g:id>
+      <g:title>חליפת חורף ירושלים - 6</g:title>
+      <g:description>חליפת חורף ירושלים</g:description>
+      <g:link>https://parktoys.co.il/product/chlypt-chvrp-yrvshlym-eqmyfw</g:link>
+      <g:item_group_id>47c3eb57-f9ae-4c86-b582-97864afa8ae6</g:item_group_id>
+      <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794318831963-rijpri.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.00 ILS</g:price>
+      <g:sale_price>120.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות כדורגל ארוכות לילדים</g:product_type>
+    </item>
+    <item>
+      <g:id>9bd57626-5758-4982-835b-0a8b96eac3e5</g:id>
+      <g:title>חליפת חורף ירושלים - 8</g:title>
+      <g:description>חליפת חורף ירושלים</g:description>
+      <g:link>https://parktoys.co.il/product/chlypt-chvrp-yrvshlym-eqmyfw</g:link>
+      <g:item_group_id>47c3eb57-f9ae-4c86-b582-97864afa8ae6</g:item_group_id>
+      <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794318831963-rijpri.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.00 ILS</g:price>
+      <g:sale_price>120.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות כדורגל ארוכות לילדים</g:product_type>
+    </item>
+    <item>
+      <g:id>7637ad36-eb1d-4bbe-b523-df0dd1a19533</g:id>
+      <g:title>חליפת חורף ירושלים - 4</g:title>
+      <g:description>חליפת חורף ירושלים</g:description>
+      <g:link>https://parktoys.co.il/product/chlypt-chvrp-yrvshlym-eqmyfw</g:link>
+      <g:item_group_id>47c3eb57-f9ae-4c86-b582-97864afa8ae6</g:item_group_id>
+      <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794318831963-rijpri.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.00 ILS</g:price>
+      <g:sale_price>120.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פארק הצעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות כדורגל ארוכות לילדים</g:product_type>
+    </item>
+    <item>
+      <g:id>5b9b23d6-9ee4-466a-9369-1e510a16c2ce</g:id>
+      <g:title>חליפת חורף ירושלים - 12</g:title>
+      <g:description>חליפת חורף ירושלים</g:description>
+      <g:link>https://parktoys.co.il/product/chlypt-chvrp-yrvshlym-eqmyfw</g:link>
+      <g:item_group_id>47c3eb57-f9ae-4c86-b582-97864afa8ae6</g:item_group_id>
+      <g:image_link>https://parktoys.co.il/assets/product-enhanced-1794318831963-rijpri.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
       <g:price>149.00 ILS</g:price>
       <g:sale_price>120.00 ILS</g:sale_price>
       <g:condition>new</g:condition>
