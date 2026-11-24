@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-24T11:39:58.783Z",
+  "generated_at": "2026-11-24T11:40:58.553Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 576,
@@ -31,7 +31,7 @@
     },
     {
       "id": "1ad953af-8b65-49cb-a175-59a0944be01d",
-      "slug": "kpvtsvn-chyph-o1sb08",
+      "slug": "kpvtsvn-chyph-007d6f",
       "name": "קפוצון חיפה ",
       "name_translations": {},
       "description": "",
@@ -47,11 +47,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kpvtsvn-chyph-o1sb08",
+      "url": "https://parktoys.co.il/product/kpvtsvn-chyph-007d6f",
       "categories": [
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-11-24T11:28:51.235Z"
+      "updated_at": "2026-11-24T11:40:22.174Z"
     },
     {
       "id": "f4453fce-545b-488d-a8d7-da10422d1bd5",
