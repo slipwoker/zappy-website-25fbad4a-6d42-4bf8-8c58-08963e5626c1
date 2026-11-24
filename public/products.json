@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-24T11:40:58.553Z",
+  "generated_at": "2026-11-24T11:41:33.640Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 576,
@@ -79,7 +79,7 @@
     },
     {
       "id": "2bfa270c-4fc3-4080-a895-d931717946e2",
-      "slug": "kpvtsvn-mdryd-a3c3qd",
+      "slug": "kpvtsvn-mdryd-4islsd",
       "name": "קפוצון מדריד",
       "name_translations": {},
       "description": "",
@@ -95,11 +95,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/kpvtsvn-mdryd-a3c3qd",
+      "url": "https://parktoys.co.il/product/kpvtsvn-mdryd-4islsd",
       "categories": [
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-11-18T15:08:33.859Z"
+      "updated_at": "2026-11-24T11:41:01.236Z"
     },
     {
       "id": "d018d9d7-3fce-4670-a842-f01420ab37a6",
