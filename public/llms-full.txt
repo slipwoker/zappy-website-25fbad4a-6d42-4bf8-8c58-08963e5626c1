@@ -3368,6 +3368,8 @@ Description: מוצרים - פארק הצעצועים
 
 
 
+טוען מוצרים...
+
 
 
 
@@ -5565,9 +5567,9 @@ Availability: In stock
 ---
 
 ### חליפת כדורסל פורטלנד דני אבדיה 
-URL: https://parktoys.co.il/product/chlypt-kdvrsl-pvrtlnd-dny-abdyh-nubb18
-Price: 69.00 ILS (sale, was 99.00 ILS)
-Availability: Out of stock
+URL: https://parktoys.co.il/product/chlypt-kdvrsl-pvrtlnd-dny-abdyh-zzj8u9
+Price: 99.00 ILS
+Availability: In stock
 
 ---
 
