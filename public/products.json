@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-25T14:00:01.571Z",
+  "generated_at": "2026-11-26T08:38:00.746Z",
   "base_url": "https://parktoys.co.il",
   "currency": "ILS",
   "count": 578,
@@ -370,7 +370,7 @@
     },
     {
       "id": "c62234b6-02da-4ab3-bb42-2c7103929db1",
-      "slug": "chlypt-chvrp-brzyl-mnhhba",
+      "slug": "chlypt-chvrp-brzyl-35zydx",
       "name": "חליפת חורף ברזיל ",
       "name_translations": {},
       "description": "",
@@ -382,15 +382,15 @@
       "sale_price": 120,
       "currency": "ILS",
       "images": [
-        "https://parktoys.co.il/assets/product-enhanced-1794413108080-slazl.webp"
+        "https://parktoys.co.il/assets/product-enhanced-1795682229083-61vrx5.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://parktoys.co.il/product/chlypt-chvrp-brzyl-mnhhba",
+      "url": "https://parktoys.co.il/product/chlypt-chvrp-brzyl-35zydx",
       "categories": [
         "חליפות כדורגל ארוכות לילדים"
       ],
-      "updated_at": "2026-11-12T17:39:32.856Z"
+      "updated_at": "2026-11-26T08:37:24.183Z"
     },
     {
       "id": "2c2e6904-1b9a-4d21-bca4-288feb42882b",
